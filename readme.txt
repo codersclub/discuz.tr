@@ -1,7 +1,7 @@
 TURKISH Language Pack
-for Discuz! X2.5 (c) 2001-2099 Comsenz Inc.
+for Discuz! ML3.4 (c) 2001-2099 Codersclub.org
 
-MultiLingual version by Valery Votintsev, codersclub.org
+MultiLingual version by Valery Votintsev, https://codersclub.org/discuzx/
 
 Turkish by www.discuz.eu
 

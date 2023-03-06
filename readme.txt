@@ -1,9 +1,10 @@
-TURKISH Language Pack
-for Discuz! ML3.4 (c) 2001-2099 Codersclub.org
+TURKISH Language Pack for Discuz! ML3.4
 
-MultiLingual version by Valery Votintsev, https://codersclub.org/discuzx/
+Discuz!ML is a MultiLingual version of Discuz!X
+(c) 2001-2099 by Valery Votintsev, Codersclub.org
+https://codersclub.org/discuzx/
 
-Turkish by www.discuz.eu
+Turkish translation by www.discuz.eu
 
 Code		= 'tr';
 English title	= 'Turkish';

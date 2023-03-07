@@ -1,11 +1,11 @@
-﻿<?php
+<?php
 
 /**
  *      [Discuz!] (C)2001-2099 Comsenz Inc.
  *      This is NOT a freeware, use is subject to license terms
  *
- *      $Id: lang_admincp.php 36362 2017-02-04 02:02:03Z nemohou $
- *	Modified by Valery Votintsev, codersclub.org
+ *      $Id: lang_admincp.php by Valery Votintsev, codersclub.org
+ *	Translated to Turkish by ulright
  */
 
 if(!defined('IN_DISCUZ')) {
@@ -637,18 +637,10 @@ $lang = array
 	'makehtml_createarticle'	=> 'Makale oluştur',
 	'makehtml_createtopic'		=> 'Konu oluştur',
 	'makehtml_clear'		=> 'Temiz HTML',
-	'makehtml_tips_all'		=> '<li>Belirtilen başlangıç saatinden sonra yayınlanan makaleler için HTML dosyaları oluşturun</li>
-					<li>Belirtilen başlangıç saatinden sonra makaleler yayınlayan kanallar için HTML dosyaları oluşturun</li>
-					<li>Portal ana sayfası için HTML dosyaları oluşturun</li>',
-	'makehtml_tips_index'		=> '<li>Portalın ana sayfasının HTML dosyasını oluşturun, dosya adı ayarlarda ayrı olarak belirtilebilir, varsayılan dizindir</li>
-					<li>Sunucu tarafında varsayılan erişim dosyasını ayarlarken, oluşturulan statik dosya adı index.php\'den önce yerleştirilmelidir, örneğin: DirectoryIndex index.html index.php</li>
-					<li>Statik dosya erişimi kullanılırken, index.php olmadan bazı orijinal dinamik erişimler geçersiz olacaktır, örneğin: http ://www.discuz.net/?1</li>',
-	'makehtml_tips_category'	=> '<li>Belirtilen kanal ana sayfasının HTML dosyasını oluştur</li>
-					<li>Belirtilen başlangıç zamanından sonra makaleler yayınlayan kanal ana sayfasının HTML dosyasını oluştur</li>
-					<li>Erişim için statik dosyalar kullanırken, orijinal olanlardan bazılarında index.php dosyasına dinamik erişim geçersiz olacaktır.</li>',
-	'makehtml_tips_article'		=> '<li>Belirtilen başlangıç saatinden sonra yayınlanan makalelerin HTML dosyalarını oluşturun</li>
-					<li>Belirtilen kanal altındaki tüm makalelerin HTML dosyalarını oluşturun</li>
-					<li>Belirtilen başlangıç saatinden sonra yayınlanan makalelerin HTML dosyalarını oluşturun</li>',
+	'makehtml_tips_all'		=> '<li>Belirtilen başlangıç saatinden sonra yayınlanan makaleler için HTML dosyaları oluşturun</li><li>Belirtilen başlangıç saatinden sonra makaleler yayınlayan kanallar için HTML dosyaları oluşturun</li><li>Portal ana sayfası için HTML dosyaları oluşturun</li>',
+	'makehtml_tips_index'		=> '<li>Portalın ana sayfasının HTML dosyasını oluşturun, dosya adı ayarlarda ayrı olarak belirtilebilir, varsayılan dizindir</li><li>Sunucu tarafında varsayılan erişim dosyasını ayarlarken, oluşturulan statik dosya adı index.php\'den önce yerleştirilmelidir, örneğin: DirectoryIndex index.html index.php</li><li>Statik dosya erişimi kullanılırken, index.php olmadan bazı orijinal dinamik erişimler geçersiz olacaktır, örneğin: http ://www.discuz.net/?1</li>',
+	'makehtml_tips_category'	=> '<li>Belirtilen kanal ana sayfasının HTML dosyasını oluştur</li><li>Belirtilen başlangıç zamanından sonra makaleler yayınlayan kanal ana sayfasının HTML dosyasını oluştur</li><li>Erişim için statik dosyalar kullanırken, orijinal olanlardan bazılarında index.php dosyasına dinamik erişim geçersiz olacaktır.</li>',
+	'makehtml_tips_article'		=> '<li>Belirtilen başlangıç saatinden sonra yayınlanan makalelerin HTML dosyalarını oluşturun</li><li>Belirtilen kanal altındaki tüm makalelerin HTML dosyalarını oluşturun</li><li>Belirtilen başlangıç saatinden sonra yayınlanan makalelerin HTML dosyalarını oluşturun</li>',
 	'makehtml_tips_topic'		=> '<li>Belirtilen başlangıç saatinden sonra yayınlanan konuların HTML dosyalarını oluşturun</li>',
 	'makehtml_recreate'		=> 'Yeniden Oluştur',
 	'makehtml_allfilecomplete'	=> 'Tüm dosya üretimi tamamlandı',
@@ -681,11 +673,8 @@ $lang = array
 	'report_detail'			=> 'Rapor ayrıntıları',
 	'report_optuser'		=> 'işleyici',
 	'report_opttime'		=> 'Kullanıcı ile ilgilen',
-	'report_receive_tips'		=> '<li>Aşağıda listelenen arka planda ve tüm yönetim ayrıcalıkları Süper Moderatör yöneticisinde rapor edilir.</li>
-					<li>Seçilen tüm kullanıcıların yeni raporları olduğunda bilgilendirilecektir.</li>
-					<li>Yeni gönderiler bildirildiğinde aynı zamanda uygun bildirim moderatörünü gönderecektir.</li>',
-	'report_tips'			=> '<li>Raporun gerçek durumuna göre raportöre puan ekleyebilir veya puan çıkarabilirsiniz, <a href="'.ADMINSCRIPT.'?action=setting&operation=credits" target="_blank">Ödül ve cezaları bildirmek için kullanıcılar tarafından kullanılan puanları ayarlayın</a></li>
-					<li>Birden fazla ihbar olması durumunda ilk ihbarcıyı ödüllendirin ve cezalandırın.</li>',
+	'report_receive_tips'		=> '<li>Aşağıda listelenen arka planda ve tüm yönetim ayrıcalıkları Süper Moderatör yöneticisinde rapor edilir.</li><li>Seçilen tüm kullanıcıların yeni raporları olduğunda bilgilendirilecektir.</li><li>Yeni gönderiler bildirildiğinde aynı zamanda uygun bildirim moderatörünü gönderecektir.</li>',
+	'report_tips'			=> '<li>Raporun gerçek durumuna göre raportöre puan ekleyebilir veya puan çıkarabilirsiniz, <a href="'.ADMINSCRIPT.'?action=setting&operation=credits" target="_blank">Ödül ve cezaları bildirmek için kullanıcılar tarafından kullanılan puanları ayarlayın</a></li><li>Birden fazla ihbar olması durumunda ilk ihbarcıyı ödüllendirin ve cezalandırın.</li>',
 	'report_need_founder'		=> 'Bunu sadece kurucular yönetebilir',
 	'switch_url'			=> 'URL girin',
 	'switch_upload'			=> 'Dosya yükle',
@@ -696,8 +685,7 @@ $lang = array
 	'home'					=> 'Ana Sayfa',
 	'home_welcome'				=> '{bbname} Admin KP',
 	'home_security_tips'			=> 'Güvenlik uyarısı',
-	'home_security_founder'			=> '<li>Çeşitli ekip pozisyonları oluşturabilir ve bunları web sitesi yönetim ekibinizin üyelerine atayarak web sitesinin farklı işlerini yönetmelerine olanak tanıyabilirsiniz</li>
-						<li><strong>Webmaster Yardımcısı</strong>" münhasır yetki, yalnızca "kurucu (web yöneticisi)" nden sonra ikinci</li>',
+	'home_security_founder'			=> '<li>Çeşitli ekip pozisyonları oluşturabilir ve bunları web sitesi yönetim ekibinizin üyelerine atayarak web sitesinin farklı işlerini yönetmelerine olanak tanıyabilirsiniz</li><li><strong>Webmaster Yardımcısı</strong>" münhasır yetki, yalnızca "kurucu (web yöneticisi)" nden sonra ikinci</li>',
 	'home_security_nofounder'		=> '<li><u>Site kurucusunu</u> ayarlamadınız, yönetici kullanıcı grubundaki tüm kullanıcılar yönetim merkezinde oturum açabilir. Yönetim ekibi üyelerinin yetki kapsamını etkin bir şekilde kontrol etmek için lütfen kurucuyu eklemek üzere config/config_global.php dosyasını değiştirin',
 	'home_security_checkip'			=> '<li><u>yönetici IP doğrulamasını</u> kapattınız. Bu kontrolün yalnızca yönetici arka planda oturum açamadığı zaman kapatılması önerilir. Bu işlevi etkinleştirmek için config/config_global.php içindeki ilgili ayarları değiştirin',
 	'home_security_tpledit'			=> '<li><u>Çevrimiçi Şablon Düzenleme</u> özelliğini etkinleştirdiniz. Yalnızca kesinlikle gerekli olduğunda etkinleştirmeniz önerilir. Bu işlevi devre dışı bırakmak için lütfen config/config_global.php dosyasını değiştirin',
@@ -1064,7 +1052,7 @@ $lang = array
 	'setting_styles_viewthread_author_onleft_yes'	=> 'Avatarı üstte göster',
 	'setting_styles_viewthread_author_onleft_no'	=> 'Gönderinin içinde avatarı göster',
 	'setting_styles_viewthread_customauthorinfo'	=> 'Görüntülenecek kullanıcı bilgisi konumunu ayarlayın',
-	'setting_styles_viewthread_userinfo_uid'	=> 'UID',
+	'setting_styles_viewthread_userinfo_uid'		=> 'UID',
 	'setting_styles_viewthread_userinfo_posts'	=> 'Gönderiler',
 	'setting_styles_viewthread_userinfo_threads'	=> 'İş Parçacığı',
 	'setting_styles_viewthread_userinfo_doings'	=> 'işler',
@@ -1100,9 +1088,9 @@ $lang = array
 	'setting_styles_viewthread_show_signature'		=> 'imza göster',
 	'setting_styles_viewthread_show_signature_comment'	=> '',
 	'setting_styles_viewthread_show_face'		=> 'avatarı göster',
-	'setting_styles_viewthread_show_face_comment'	=> '',
+	'setting_styles_viewthread_show_face_comment'		=> '',
 	'setting_styles_viewthread_show_images'		=> 'Resimleri bir gönderide göster',
-	'setting_styles_viewthread_show_images_comment'	=> '',
+	'setting_styles_viewthread_show_images_comment'		=> '',
 	'setting_styles_viewthread_showexif'		=> 'Ekli resimler için EXIF bilgilerini göster',
 	'setting_styles_viewthread_showexif_comment'	=> 'Ekli resimler için EXIF bilgilerinin dinamik yakınlaştırma efektinde görüntülenip görüntülenmeyeceğini ayarlayın',
 	'setting_styles_viewthread_showexif_disabled'	=> 'Sunucunuz EXIF kitaplığını desteklemiyor, bu özelliği açamıyor',
@@ -1203,13 +1191,13 @@ $lang = array
 	'setting_home_base_showallfriendnum_comment'	=> 'Bu sınırdan daha fazla arkadaş yayını göstermeyin. Bir sayıda ff bu sınırı aştığında, Tüm Arkadaşlar Yayınları için bir bağlantı gösterin.<br>Bu parametre, blog ve albümde aynı etkiyi gösterir.',
 	'setting_home_base_feedhiddenicon'		=> 'Evde beslemeleri katlama',
 	'setting_home_base_feedhiddenicon_comment'	=> 'Katlanacak besleme türlerini girin (simge), birden çok türü ayırmak için virgül kullanın.<br>	
-Collapsing of certain feeds may decrease the page noise.<br>					
-Feed types of access methods:<br>					
-For view friends feeds at the time, click the small icon in front of each dynamic (e.g. <img src="static/image/feed/blog.gif" align="absmiddle">),<br>					
-A browser url would be similar to the following link:<br>					
-http://xxx.com/home.php?mod=space&uid=&do=feed&view=we&appid=3&<b>icon=blog</b>,<br>					
-Where <b>icon=blog</b> says that it is a feed of blog type.<br>					
-For MYOP applications used icons with up to 7 digits. You can use the English word <b>myop</b> to express the dynamic type of all MYOP applications.',				
+							Collapsing of certain feeds may decrease the page noise.<br>
+							Feed types of access methods:<br>
+							For view friends feeds at the time, click the small icon in front of each dynamic (e.g. <img src="static/image/feed/blog.gif" align="absmiddle">),<br>
+							A browser url would be similar to the following link:<br>
+							http://xxx.com/home.php?mod=space&uid=&do=feed&view=we&appid=3&<b>icon=blog</b>,<br>
+							Where <b>icon=blog</b> says that it is a feed of blog type.<br>
+							For MYOP applications used icons with up to 7 digits. You can use the English word <b>myop</b> to express the dynamic type of all MYOP applications.',
 	'setting_home_base_feedhotnum'			=> 'Evde gösterilen sıcak besleme sayısı',
 	'setting_home_base_feedhotnum_comment'		=> 'Varsayılan 3\'tür. Önerilen etkin noktayı göstermeyi devre dışı bırakmak için 0\'a ayarlayın. Maksimum 10\'u aşmayın.<br>Sistem otomatik olarak 10 etkin nokta alacak ve ilki her zaman görüntülenecek, ancak kalan etkin noktalar rastgele görüntülenecektir.',
 	'setting_home_base_newspacenum'			=> 'Evdeki yeni üye sayısı',
@@ -1357,19 +1345,13 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'setting_domain'				=> 'Etki alanı ayarları',
 	'setting_domain_base'				=> 'Temel ayarlar',
-	'setting_domain_base_tips'			=> '<li>Ayrılmış alt alan adı hiçbir ayarda kullanılamaz veya nesne alan adı olarak kullanılamaz.</li>
-							<li>If a personal space or a group turned to go to the subdomain root domain settings <strong>set</strong> root <strong>Gruplar, Space</strong> the root domain name</li>',
+	'setting_domain_base_tips'			=> '<li>Ayrılmış alt alan adı hiçbir ayarda kullanılamaz veya nesne alan adı olarak kullanılamaz.</li><li>If a personal space or a group turned to go to the subdomain root domain settings <strong>set</strong> root <strong>Gruplar, Space</strong> the root domain name</li>',
 	'setting_domain_app'				=> 'Uygulama alanı',
 	'setting_domain_app_domain'			=> 'İhtisas',
-	'setting_domain_app_tips'			=> '<li>Birbirine bağlı alan adları aynı olamaz ve alan adlarının "<strong>http://</strong>" eklenmesi veya "<strong>/</strong>" ile bitmesi gerekmez. , örneğin: portal.comsenz. com</li>	
-							<li>Bir alan adını keyfi olarak açarsanız, varsayılan alan adını yapılandırmanız gerekir, aksi takdirde birden fazla giriş sorununa neden olur</li>					
-							<li>Birden fazla alan adı etkinleştirildiğinde, çerez kapsamını ayarlamak için lütfen config/config_global.php dosyasındaki cookiedomain değerini değiştirin</li>',				
+	'setting_domain_app_tips'			=> '<li>Birbirine bağlı alan adları aynı olamaz ve alan adlarının "<strong>http://</strong>" eklenmesi veya "<strong>/</strong>" ile bitmesi gerekmez. , örneğin: portal.comsenz. com</li><li>Bir alan adını keyfi olarak açarsanız, varsayılan alan adını yapılandırmanız gerekir, aksi takdirde birden fazla giriş sorununa neden olur</li><li>Birden fazla alan adı etkinleştirildiğinde, çerez kapsamını ayarlamak için lütfen config/config_global.php dosyasındaki cookiedomain değerini değiştirin</li>',				
 	'setting_domain_app_mobile_tips'		=> 'Bir telefonla erişirken alan adını yapılandırın. Mobil olmayan tarayıcı otomatik olarak varsayılan alan adına yönlendirilecek',
 	'setting_domain_root'				=> 'Kök etki alanı ayarları',
-	'setting_domain_root_tips'			=> '<li><strong>Gruplar, Space, Forum, Thread, Category</strong>, kök alan adına göre bir alt alan adına ayarlanabilir. Örnek: Bir kullanıcı uygulamasının XXX.comsenz.com olarak ayarlanması gerekiyorsa kök etki alanını şu şekilde girin: comsenz.com</li>	
-							<li><strong>Gruplar, Alan</strong>\'ı alt alan adına ayarlamayı bitirdikten sonra, kullanıcıların alt alan adını bağlamak için uygun yeri uygulayabilmeleri için ilgili alt alan anahtarlamasını da açmaları gerekir. Kullanıcı grupları da alt alan adının uzunluğu ile sınırlıdır.</li>					
-							<li>Alt alan adında bir <strong>Kanal</strong> etkinleştirilmişse ve bir dizine bağlıysa, bağlama ile ilgili işlem için ortamı kendiniz yapılandırın.</li>					
-							<li>Diğer durumlarda, kök etki alanının alt etki alanlarına değiştirilmesi önerilmez.</li>',				
+	'setting_domain_root_tips'			=> '<li><strong>Gruplar, Space, Forum, Thread, Category</strong>, kök alan adına göre bir alt alan adına ayarlanabilir. Örnek: Bir kullanıcı uygulamasının XXX.comsenz.com olarak ayarlanması gerekiyorsa kök etki alanını şu şekilde girin: comsenz.com</li><li><strong>Gruplar, Alan</strong>\'ı alt alan adına ayarlamayı bitirdikten sonra, kullanıcıların alt alan adını bağlamak için uygun yeri uygulayabilmeleri için ilgili alt alan anahtarlamasını da açmaları gerekir. Kullanıcı grupları da alt alan adının uzunluğu ile sınırlıdır.</li><li>Alt alan adında bir <strong>Kanal</strong> etkinleştirilmişse ve bir dizine bağlıysa, bağlama ile ilgili işlem için ortamı kendiniz yapılandırın.</li><li>Diğer durumlarda, kök etki alanının alt etki alanlarına değiştirilmesi önerilmez.</li>',				
 	'setting_domain_allow_space'			=> 'Alt alan adlarında Boşluğa İzin Ver',
 	'setting_domain_allow_space_comment'		=> 'Bu AÇIK ise, kök etki alanı adını ayarlamanız gerekir. Bir kullanıcı grubu veya uygulama alan adı uzunluğu sınırlıdır!',
 	'setting_domain_allow_group'			=> 'Alt alan adında grupları etkinleştir',
@@ -1387,10 +1369,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_profile_time_zone'			=> 'Saat dilimi',
 	'setting_profile_tips'				=> '<li>Kullanıcı gruplarının en azından bir kısmı etkinleştirilmelidir. Etkinleştirilmemişse, varsayılanın tümü etkindir</li>',
 					
-	'setting_threadprofile_tpl_tpls'	=> '<li>{<b>tag</b>} Parametresiz bir ETİKET kullanın.</li>	
-						<li>{<b>tag</b>=<b>parameter</b>} Parametrelerle birlikte bir ETİKET kullanın. Birden fazla parametreyi virgülle ayırın  &quot;,&quot;.</li>					
-						<li>{<b>tag</b>}HTML{<b>*</b>}HTML{/<b>tag</b>} Çağıran içerik için bir değer olduğunda {*} öğesinden önce ve sonra HTML içeriğini görüntüleme</li>					
-						<li>&quot;<b>plugin:Plugin_ID</b>&quot; this format of a <b>tag</b> is used to display the info from a plugin. Plug-in developers must read carefully the &laquo;<a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technical Documentation</a>&raquo; before designing a new user defined tag.</li>',				
+	'setting_threadprofile_tpl_tpls'	=> '<li>{<b>tag</b>} Parametresiz bir ETİKET kullanın.</li><li>{<b>tag</b>=<b>parameter</b>} Parametrelerle birlikte bir ETİKET kullanın. Birden fazla parametreyi virgülle ayırın  &quot;,&quot;.</li><li>{<b>tag</b>}HTML{<b>*</b>}HTML{/<b>tag</b>} Çağıran içerik için bir değer olduğunda {*} öğesinden önce ve sonra HTML içeriğini görüntüleme</li><li>&quot;<b>plugin:Plugin_ID</b>&quot; this format of a <b>tag</b> is used to display the info from a plugin. Plug-in developers must read carefully the &laquo;<a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technical Documentation</a>&raquo; before designing a new user defined tag.</li>',				
 					
 	'setting_numbercard'			=> 'Kullanıcı öznitelikleri kartvizit',
 	'setting_numbercard_row'		=> 'İlk {i} sıralar',
@@ -1409,18 +1388,16 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_numbercard_type_friends'	=> 'Arkadaşlar',
 					
 	'district'				=> 'bölgeler',
-	'district_tips'				=> '<li>Kendi bölgesel verilerinizi ekleyebilir/düzenleyebilirsiniz</li>	
-						<li>Ekleme, düzenleme veya silme işleminden sonra, geçerlilik kazanması için "Gönder" düğmesini tıklamanız gerekir</li>',
+	'district_tips'				=> '<li>Kendi bölgesel verilerinizi ekleyebilir/düzenleyebilirsiniz</li><li>Ekleme, düzenleme veya silme işleminden sonra, geçerlilik kazanması için "Gönder" düğmesini tıklamanız gerekir</li>',
 	'district_choose'			=> 'bir bölge seçin',
-//bug	'district_birthcity'			=> '<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \\'birthcity\
-//bug	'district_residecity'			=> '<input type="checkbox" name="residecitychkall" onclick="checkAll(\\'prefix\', this.form, \\'residecity\
+	'district_birthcity'			=> '<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">Birth City',//'<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">出生地',
+	'district_residecity'			=> '<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">Living City',//'<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">居住地',
 					
 	'misc_focus'				=> 'Sıcak Konular',
 	'misc_focus_handadd'			=> 'manuel olarak ekle',
 	'misc_focus_threadadd'			=> 'Konu ekle',
 	'misc_focus_autoadd'			=> 'otomatik ekle',
-	'misc_focus_tips'			=> '<li>Sayfanın sağ alt köşesinde "web yöneticisinin önerdiği" kayan bir pencere görüntülenecektir.</li>	
-						<li>Belirtilen bazı konuları manuel olarak ekleyebilir veya moderatörler tarafından önerilen bazı konuları seçebilirsiniz. Her seferinde biri rastgele görüntülenen en fazla 10 giriş.</li>',
+	'misc_focus_tips'			=> '<li>Sayfanın sağ alt köşesinde "web yöneticisinin önerdiği" kayan bir pencere görüntülenecektir.</li><li>Belirtilen bazı konuları manuel olarak ekleyebilir veya moderatörler tarafından önerilen bazı konuları seçebilirsiniz. Her seferinde biri rastgele görüntülenen en fazla 10 giriş.</li>',
 	'misc_focus_add_tips'			=> '<li>Konu URL\'sini girin. Başlık ve içerik otomatik olarak alınır.</li>',
 	'misc_focus_threadurl'			=> 'Konu URL\'si',
 	'misc_focus_get_threadcontent'		=> 'Konu içeriğini al',
@@ -1442,7 +1419,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_focus_invalidurl'			=> 'Geçersiz konu URL\'si, lütfen tekrar girin!',
 	'misc_focus_nothread'			=> 'Belirtilen konu mevcut değil, lütfen tekrar girin!',
 	'misc_focus_area_title'			=> 'Web yöneticisi tarafından önerilen blok başlığı',
-//bug	'misc_focus_area_title_comment		=> 'Varsayılan, &quot;Webmaster tarafından tavsiye edilir&quot; şeklindedir, istediğinizi ayarlayabilirsiniz',
+	'misc_focus_area_title_comment'		=> 'Varsayılan, &quot;Webmaster tarafından tavsiye edilir&quot; şeklindedir, istediğinizi ayarlayabilirsiniz',
 	'misc_focus_area_cookie'		=> 'Süreyi (saat) ayarladıktan sonra tekrar açılır',
 	'misc_focus_area_cookie_comment'	=> '0 ise açılan sayfayı yenileyin. Sayfayı 1 saat sonra görünecek şekilde yenilemek için 1 olarak ayarlayın. Varsayılan 1\'dir, açılmasını istediğiniz zamanı ayarlayabilirsiniz.',
 					
@@ -1465,14 +1442,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_seo_closedetail'	=> 'Ayrıntılı ayarları gizle',
 	'setting_seo_portal'		=> 'Portal sayfası',
 	'setting_seo_global_tips'	=> '<li>Değişken "{}" parantezleri içine dahil edilmelidir. Bir uygulama bu değişkeni desteklemiyorsa, değişken ön planda görüntülenmez (ayırıcı değişkenlerin arkasında gösterilmez). Sistem varsayılan ayarlarını kullanmak için boş bırakın. SEO özel el yazısı desteği.<br>İşte SEO değişkenleri:<br></li>',
-	'setting_seo_portal_tips'	=> '<li>Site adı <font class="highlight">{bbname}</font> (Uygulama: Tüm Konumlar)</li>	
-					<li>Geçerli Kanal Adı&nbsp;<font class="highlight">{curcat}</font> (uygulama kapsamı: ana sayfa hariç)</li>
-					<li>Birinci seviye kanalın adı&nbsp;<font class="highlight">{firstcat}</font> (uygulama kapsamı: ana sayfa hariç)</li>
-					<li>İkincil kanal adı&nbsp;<font class="highlight">{secondcat}</font> (uygulama aralığı: ana sayfa hariç)</li>
-					<li>Makale başlığı&nbsp;<font class="highlight">{subject}</font> (uygulama kapsamı: makale içerik sayfası)</li>
-					<li>Makalenin özeti&nbsp;<font class="highlight">{summary}</font> (uygulama kapsamı: Makale içerik sayfası)</li>
-					<li>Makale yazarı&nbsp;<font class="highlight">{user}</font> (uygulama kapsamı: makale içerik sayfası)</li>
-					<li>Sayfa sayısı&nbsp; <font class="highlight">{page}</font> (uygulama kapsamı: makale listesi sayfası, makale içerik sayfası)</li>',
+	'setting_seo_portal_tips'	=> '<li>Site adı <font class="highlight">{bbname}</font> (Uygulama: Tüm Konumlar)</li><li>Geçerli Kanal Adı&nbsp;<font class="highlight">{curcat}</font> (uygulama kapsamı: ana sayfa hariç)</li><li>Birinci seviye kanalın adı&nbsp;<font class="highlight">{firstcat}</font> (uygulama kapsamı: ana sayfa hariç)</li><li>İkincil kanal adı&nbsp;<font class="highlight">{secondcat}</font> (uygulama aralığı: ana sayfa hariç)</li><li>Makale başlığı&nbsp;<font class="highlight">{subject}</font> (uygulama kapsamı: makale içerik sayfası)</li><li>Makalenin özeti&nbsp;<font class="highlight">{summary}</font> (uygulama kapsamı: Makale içerik sayfası)</li><li>Makale yazarı&nbsp;<font class="highlight">{user}</font> (uygulama kapsamı: makale içerik sayfası)</li><li>Sayfa sayısı&nbsp;<font class="highlight">{page}</font> (uygulama kapsamı: makale listesi sayfası, makale içerik sayfası)</li>',
 	'setting_seo_articlelist'	=> 'makale listesi',
 	'setting_seo_article'		=> 'Makale içeriği',
 	'setting_seo_forum'		=> 'Forum Ana Sayfası',
@@ -1484,6 +1454,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					<li>Konu Özeti&nbsp;<font class="highlight">{summary}</font> (Uygulama kapsamı: içerik yayınlama sayfası)</li>
 					<li>Tema etiketleri&nbsp;<font class="highlight">{tags}</font> (Uygulama kapsamı: içerik gönderme sayfası)</li>
 					<li>min Sayfa sayısı&nbsp;<font class="highlight">{page}</font> (uygulama kapsamı: konu listesi sayfası, içerik yayınlama sayfası)</li>',
+
 	'setting_seo_threadlist'	=> 'Konu Listesi',
 	'setting_seo_viewthread'	=> 'Konuyu Görüntüle',
 	'setting_seo_home'		=> 'ana sayfa',
@@ -1494,6 +1465,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					<li>Günlük etiketi&nbsp;<font class="highlight">{tags}</font> (uygulama kapsamı: günlük içeriği sayfası)</li>
 					<li>Albüm adı&nbsp;<font class="highlight">{album}</font> (uygulama kapsamı: albüm içeriği sayfası) )</li>
 					<li>Albüm açıklaması&nbsp;<font class="highlight">{depict}</font> (uygulama aralığı: albüm içerik sayfası)</li>',
+
 	'setting_seo_blog'		=> 'blog içeriği',
 	'setting_seo_album'		=> 'Albüm içeriği',
 	'setting_seo_group'		=> 'Grup Ana Sayfası/Kategori',
@@ -1506,6 +1478,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					<li>Tema özeti&nbsp;<font class="highlight">{summary}</font>(Uygulama aralığı: Grup gönderi sayfası)</li>
 					<li>Tema etiketleri&nbsp;<font class="highlight">{tags}</font> (uygulama aralığı: grup gönderi içeriği sayfası)</li>
 					<li>Sayfa sayısı&nbsp;<font class="highlight">{page}</font> (uygulama kapsamı: konu listesi sayfası, içerik yayınlama sayfası)</li>',
+
 	'setting_seo_grouppage'		=> 'Tek grup sayfası',
 	'setting_seo_viewthread_group'	=> 'Grup ileti dizisi içeriği',
 	'setting_seo_seotitle'		=> 'Meta Başlık',
@@ -1599,9 +1572,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_cachethread_coefficient_forum_comment'	=> 'Bu, önceki önbellek katsayısı değerinin üzerine yazacaktır. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
 					
 	'setting_memory'		=> 'Bellek optimizasyonu',
-	'setting_memory_tips'		=> '<li>Bellek optimizasyon programı, performansı büyük ölçüde artıracak ve sunucu yüklemesini azaltacaktır. Bellek optimizasyonu özelliği, sunucunun uygun PHP uzantısını desteklemesini gerektirir.</li>	
-					<li>Şu anda desteklenen bellek optimizasyonu arayüzleri arasında Memcache, eAccelerator yer alır , ve Alternatif PHP Önbellek (APC), Xcache, Redis, YAC, APCu, optimizasyon sistemi arayüzü mevcut sunucu ortamına göre sırayla seçecektir</li>
-					<li>Bellek arayüzünün ana ayarları config_global\'de bulunmaktadır. .php, config_global.php düzenleyebilirsiniz Gelişmiş ayarlar yapın</li>',
+	'setting_memory_tips'		=> '<li>Bellek optimizasyon programı, performansı büyük ölçüde artıracak ve sunucu yüklemesini azaltacaktır. Bellek optimizasyonu özelliği, sunucunun uygun PHP uzantısını desteklemesini gerektirir.</li><li>Şu anda desteklenen bellek optimizasyonu arayüzleri arasında Memcache, eAccelerator yer alır , ve Alternatif PHP Önbellek (APC), Xcache, Redis, YAC, APCu, optimizasyon sistemi arayüzü mevcut sunucu ortamına göre sırayla seçecektir</li><li>Bellek arayüzünün ana ayarları config_global\'de bulunmaktadır. .php, config_global.php düzenleyebilirsiniz Gelişmiş ayarlar yapın</li>',
 	'setting_memory_status'		=> 'Bellek optimizasyonunun mevcut durumu',
 	'setting_memory_php_enable'	=> 'desteklenen',
 	'setting_memory_php_disable'	=> 'Desteklenmiyor',
@@ -1639,7 +1610,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'setting_memorydata'				=> 'Önbellek yönetimi',
 	'setting_memorydata_rm_cache_key'		=> 'Önbelleği Sil ANAHTAR',
-//bug	'setting_memory_data_forumindex_comment'	=> '<span class="vtop tips2">Kullanıcı grubu kimliği veya \\'for_robot\\'</span>',
+	'setting_memory_data_forumindex_comment'	=> '<span class="vtop tips2">Kullanıcı grubu kimliği veya \'for_robot\'</span>',
 	'setting_memory_data_diyblock_comment'		=> '<span class="vtop tips2">BID\'yi Engelle</span>',
 	'setting_memory_data_diyblockoutput_comment'	=> '<span class="vtop tips2">BID\'yi Engelle</span>',
 	'setting_memory_data_common_member_comment'	=> '<span class="vtop tips2">Kullanıcı UID\'si</span>',
@@ -1668,9 +1639,9 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_serveropti_csspath_custom'	=> 'özel URL',
 	'setting_serveropti_searchctrl'		=> 'Arama süresi sınırı (saniye)',
 	'setting_serveropti_searchctrl_comment'	=> 'İki arama arasındaki minimum aralığı ayarlayın. Daha kısa sürede arama yapmaya çalışmak devre dışı bırakılacaktır. Limitsiz olarak 0\'a ayarlayın.',
-	'setting_serveropti_maxspm'		=> '<span class="spectitle">Dakika başına maksimum arama sayısı</span>',
-	'setting_serveropti_maxspm_comment'	=> '1 dakika içinde maksimum arama sayısını ayarlayın. Limitsiz olarak 0 ayarlayın. Not: Sunucu yüklemesi ağırsa, 5\'i veya 5 - 20 aralığını ayarlamanızı öneririz. Daha sık yapılan tüm aramalar kilitlenecektir.',
-	'setting_serveropti_maxsearchresults'	=> 'Maksimum arama sonuçları',
+	'setting_serveropti_maxspm'			=> '<span class="spectitle">Dakika başına maksimum arama sayısı</span>',
+	'setting_serveropti_maxspm_comment'		=> '1 dakika içinde maksimum arama sayısını ayarlayın. Limitsiz olarak 0 ayarlayın. Not: Sunucu yüklemesi ağırsa, 5\'i veya 5 - 20 aralığını ayarlamanızı öneririz. Daha sık yapılan tüm aramalar kilitlenecektir.',
+	'setting_serveropti_maxsearchresults'		=> 'Maksimum arama sonuçları',
 	'setting_serveropti_maxsearchresults_comment'	=> 'Maksimum arama sonucu sayısını ayarlayın. 500\'den bir değer kullanılması ve 1500\'den fazla olmaması önerilir.',
 	'setting_serveropti_gzipcompress'		=> 'Gzip Sayfa sıkıştırma',
 	'setting_serveropti_gzipcompress_comment'	=> 'Gzip sayfası içerik sıkıştırmasını kullanarak aktarım hızını artırabilirsiniz. Bu özelliği kullanmak için PHP 4.0.4 veya üzeri bir sürüme ve Zlib kitaplığı desteğine ihtiyacınız var',
@@ -1960,7 +1931,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_permissions_dupkarmarate_comment'	=> 'Kullanıcıların aynı gönderiyi birkaç kez derecelendirmesine izin vermek için "Evet"i seçin, varsayılan değer "hayır"dır.',
 	'setting_permissions_editperdel'		=> 'Kullanıcıların silinmek üzere işaretlenen yayınları düzenlemesine izin ver',
 	'setting_permissions_editperdel_comment'	=> '"Evet"i seçin, kullanıcıların silinmek üzere işaretlenen gönderiyi düzenlemesine izin verir, varsayılan değer "Hayır"dır',
-	'setting_permissions_hideexpiration'		=> 'Gönderi [gizle] etiketi için maksimum etkili süre',
+	'setting_permissions_hideexpiration'		=> 'Gönderi [hide] etiketi için maksimum etkili süre',
 	'setting_permissions_hideexpiration_comment'	=> 'Gönderim tarihinden itibaren, gizleme etiketinin otomatik olarak sona erdiği gün sayısı. Kısıtlamamak için ayarlayın veya boş bırakın',
 	'setting_permissions_reportpost'		=> 'Kötüye kullanım raporlarını etkinleştir',
 	'setting_permissions_minpostsize'		=> 'Minimum gönderi boyutu (karakter)',
@@ -2141,15 +2112,9 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_sec'			=> 'Anti-spam ayarları',
 	'setting_seccheck'		=> 'Kimlik Doğrulama Ayarları',
 	'setting_accountguard'		=> 'Hesap koruması',
-	'setting_sec_code_tips'		=> '<li>Doğrulama kodu olarak bir resim kullanılıyorsa, resim yalnızca şu 24 karakteri içermelidir: "2346789BCEFGHJKMPQRTVWXY" ve şeffaf arka plana ve ilk indekslenmiş renk olarak siyaha sahip GIF formatında bir resim olmalıdır. Görüntü boyutu kısıtlı değildir ancak önerilen genişlik, metin doğrulama kodu genişliğinin 1/4\'ünden fazla olmamalıdır. Yükseklik, doğrulama kodunun yüksekliğinden daha büyük olmamalıdır. Yeni resimler tamamlandıktan sonra, static/image/seccode/gif/ dizini altında herhangi bir adla yeni bir dizin oluşturun ve bu alt dizine 24 yeni GIF resmi yükleyin.</li>	
-					<li>Resmi doğrulama olarak kullanın kod arka planı, hazırlanan JPG görüntüsünü static/image/seccode/background/ dizinine yükleyin, site içindeki görüntüyü doğrulama kodunun arka planı olarak rastgele kullansın</li>
-					<li>Doğrulama kodu olarak TTF yazı tiplerini kullanın text, put İndirilen TTF İngilizce yazı tipi dosyası static/image/seccode/font/en/ dizinine yüklenir ve site, içindeki yazı tipi dosyasını doğrulama kodunun metni olarak rastgele kullanır</li>
-					<li>Önce Çince görüntü doğrulama kodunu kullanarak, tam Çince karakterleri içeren TTF Çince yazı tipi dosyasını static/image/seccode/font/ch/ dizinine yüklemeniz gerekir ve site, içindeki yazı tipi dosyasını metin olarak rastgele kullanır. doğrulama kodu</li>
-					<li>Sistem doğrulama kodu kaynak/ class/seccode/ dizininde, eklenti doğrulama kodu ise source/plugin/plugin dizini/seccode/ dizininde bulunur.</li>',
-	'setting_sec_qaa_tips'		=> '<li>Doğrulama soruları kısa ve net olmalıdır ve normal kişiler bu soruları doğru şekilde yanıtlayabilir. Lütfen tahminde bulunmayı önlemek için doğrulama sınavı sorularını ve cevaplarını sık sık güncelleyin!</li>
-					<li>Sistem doğrulama soruları ve yanıtları source/class/secqaa/ dizininde, eklenti doğrulama soruları ve yanıtları ise source/plugin/plugin dizini/secqaa/ dizininde bulunur.</li>
-					<li>Eklenti geliştiricileri <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Belgelendirme</a>"yi dikkatle okumalıdır.</li>',
-	
+	'setting_sec_code_tips'		=> '<li>Doğrulama kodu olarak bir resim kullanılıyorsa, resim yalnızca şu 24 karakteri içermelidir: "2346789BCEFGHJKMPQRTVWXY" ve şeffaf arka plana ve ilk indekslenmiş renk olarak siyaha sahip GIF formatında bir resim olmalıdır. Görüntü boyutu kısıtlı değildir ancak önerilen genişlik, metin doğrulama kodu genişliğinin 1/4\'ünden fazla olmamalıdır. Yükseklik, doğrulama kodunun yüksekliğinden daha büyük olmamalıdır. Yeni resimler tamamlandıktan sonra, static/image/seccode/gif/ dizini altında herhangi bir adla yeni bir dizin oluşturun ve bu alt dizine 24 yeni GIF resmi yükleyin.</li><li>Resmi doğrulama olarak kullanın kod arka planı, hazırlanan JPG görüntüsünü static/image/seccode/background/ dizinine yükleyin, site içindeki görüntüyü doğrulama kodunun arka planı olarak rastgele kullansın</li><li>Doğrulama kodu olarak TTF yazı tiplerini kullanın text, put İndirilen TTF İngilizce yazı tipi dosyası static/image/seccode/font/en/ dizinine yüklenir ve site, içindeki yazı tipi dosyasını doğrulama kodunun metni olarak rastgele kullanır</li><li>Önce Çince görüntü doğrulama kodunu kullanarak, tam Çince karakterleri içeren TTF Çince yazı tipi dosyasını static/image/seccode/font/ch/ dizinine yüklemeniz gerekir ve site, içindeki yazı tipi dosyasını metin olarak rastgele kullanır. doğrulama kodu</li><li>Sistem doğrulama kodu kaynak/ class/seccode/ dizininde, eklenti doğrulama kodu ise source/plugin/plugin dizini/seccode/ dizininde bulunur.</li>',
+	'setting_sec_qaa_tips'		=> '<li>Doğrulama soruları kısa ve net olmalıdır ve normal kişiler bu soruları doğru şekilde yanıtlayabilir. Lütfen tahminde bulunmayı önlemek için doğrulama sınavı sorularını ve cevaplarını sık sık güncelleyin!</li><li>Sistem doğrulama soruları ve yanıtları source/class/secqaa/ dizininde, eklenti doğrulama soruları ve yanıtları ise source/plugin/plugin dizini/secqaa/ dizininde bulunur.</li><li>Eklenti geliştiricileri <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Belgelendirme</a>"yi dikkatle okumalıdır.</li>',
+
 	'setting_sec_seclevel'		=> 'Güvenlik kimlik doğrulama şeması',
 	'setting_sec_seclevel_comment'	=> 'Genellikle, gelişmiş kimlik doğrulama şemasını kullanmanızı öneririz. Sitenin kullanıcı doğrulaması için kaynak harcayamayacağına karar verdiyseniz, normal bir kimlik doğrulama şeması kullanabilirsiniz.',
 	'setting_sec_seclevel_lower'	=> 'Normal kimlik doğrulama şeması',
@@ -2188,8 +2153,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_sec_seccode_type_image'	=> 'İngilizce resim',
 	'setting_sec_seccode_type_chnfont'	=> 'Çince resim',
 	'setting_sec_seccode_type_wav'		=> 'Ses',
-	'setting_sec_seccode_type_flash'	=> 'Flash',
-	'setting_sec_seccode_type_bitmap'	=> 'bitmap',
+	'setting_sec_seccode_type_flash'		=> 'Flash',//'Flash 验证码',
+	'setting_sec_seccode_type_bitmap'		=> 'Bitmap',//'位图验证码',
 	'setting_sec_seccode_animator'		=> 'Animasyonlu GIF',
 	'setting_sec_seccode_animator_comment'	=> 'Doğrulama kodunu kullanmak için "Evet"i seçin, animasyonlu GIF olarak görünecektir, "Hayır"ı seçin, statik bir çalıştırma modu kullanın',
 	'setting_sec_seccode_animator_disabled'	=> 'Sunucunuz GIF dosyalarının yazılmasını desteklemiyor, bu özelliği kullanamazsınız',
@@ -2299,7 +2264,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_datetime_timeoffset'		=> 'Varsayılan zaman farkı',
 	'setting_datetime_timeoffset_comment'	=> 'Yerel saat farkınızı GMT\'den (Saat dilimi) ayarlayın. Örneğin, Çin\'de Yaz Saati için -7,5 girebilirsiniz.',
 	'setting_datetime_timezone'	=> array(
-			'' => 'Select the public Time Zone',				
+			''	=> 'Select the public Time Zone',				
 			'-12'	=> '(GMT -12:00) Eniwetok Adası, Kwajalein Atolü',
 			'-11'	=> '(GMT -11:00) Midway Adası, Samoa',
 			'-10'	=> '(GMT -10:00) Hawaii',
@@ -2384,15 +2349,15 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_attach_basic_swfupload'	=> 'Yükleme için Flash kullanın',
 	'setting_attach_basic_multi'		=> 'toplu yükleme',
 	'setting_attach_basic_simple'		=> 'Genel yükleme',
-	'setting_attach_basic_allowattachurl'	=> 'Medya oynatıcı için ek URL\'yi etkinleştir',
-	'setting_attach_basic_allowattachurl_comment'	=> 'Ekin URL adresini açtıktan sonra, yüklenen ekin adresine herhangi bir gönderide "attach://aid.ext" <b>(Ek ücretlendirmesini ve okuma izni kararını desteklemez)</b> tarafından başvurulabilir, ve medya eklerini destekler Doğrudan oynatma için, bu ayarın kullanıcı gruplarının <a href="\'.ADMINSCRIPT.\'?action=usergroups">usergroup</a> - gönderiyle ilgili multimedya kodlarını kullanmasına izin vermesi ve yerel yapılandırmayı sağlaması gerekir config_global.php dosyası Sadece dosya okuma modu 1 veya 4 olduğunda etkili olabilir',
+	'setting_attach_basic_allowattachurl'		=> 'Medya oynatıcı için ek URL\'yi etkinleştir',
+	'setting_attach_basic_allowattachurl_comment'	=> 'Ekin URL adresini açtıktan sonra, yüklenen ekin adresine herhangi bir gönderide "attach://aid.ext" <b>(Ek ücretlendirmesini ve okuma izni kararını desteklemez)</b> tarafından başvurulabilir, ve medya eklerini destekler Doğrudan oynatma için, bu ayarın kullanıcı gruplarının <a href="'.ADMINSCRIPT.'?action=usergroups">usergroup</a> - gönderiyle ilgili multimedya kodlarını kullanmasına izin vermesi ve yerel yapılandırmayı sağlaması gerekir config_global.php dosyası Sadece dosya okuma modu 1 veya 4 olduğunda etkili olabilir',
 	'setting_attach_basic_swfupload_comment'	=> 'Flash kullanarak yüklemek için toplu yükleme mekanizması, çalışma zamanında yükleme ilerlemesini gösteren birden fazla ek yüklemek için kullanılabilir.',
 					
 	'setting_attach_forumattach'		=> 'Forum ekleri',
 	'setting_attach_image_preview'		=> 'Ön izleme',
 	'setting_attach_image_preview_comment'	=> 'Önizleme için ayarları kaydetmeye gerek yok',
-//bug	'setting_attach_image_thumb_preview_btn'	=> '<input type="button" class="btn" onclick="var oldaction = $(\\'cpform\\').action;var eskiişlem = $(\\'cpform\\').operation.value;$(\\'cpform \\').operation.value = \\'imagepreview\\';$(\\'cpform\\').action=\\'\'.ADMINSCRIPT.\'?action=checktools&operation=imagepreview&previewthumb=yes&frame=no\\';$(\\'cpform \\').target=\\'_blank\\';$(\\'cpform\\').submit();$(\\'cpform\\').action=eski eylem;$(\\'cpform\\').operation.value =eskiişlem;$(\\'cpform\\').target=\\'\\';yanlış döndür;" value="Küçük resim efektini önizleyin" style="vertical-align: orta">',
-//bug	'setting_attach_remote_preview_btn'	=> '<input type="button" class="btn" onclick="var oldaction = $(\\'cpform\\').action;var eskiişlem = $(\\'cpform\\').operation.value;$(\\'cpform \\').operation.value = \\'ftpcheck\\';$(\\'cpform\\').action=\\'\'.ADMINSCRIPT.\'?action=checktools&operation=ftpcheck&frame=no\\';this.form.target=\ \'ftpcheckiframe\\';this.form.submit();$(\\'cpform\\').action=eskiaction;$(\\'cpform\\').operation.value=eskiişlem;$(\\'cpform\\'). hedef=\\'\\';yanlış döndür;" value="Uzak Eklentiyi Test Et" style="vertical-align: middle"><iframe name="ftpcheckiframe" style="display: none"></iframe>',
+	'setting_attach_image_thumb_preview_btn'	=> '<input type="button" class="btn" onclick="var oldaction = $(\'cpform\').action;var oldoperation = $(\'cpform\').operation.value;$(\'cpform\').operation.value = \'imagepreview\';$(\'cpform\').action=\''.ADMINSCRIPT.'?action=checktools&operation=imagepreview&previewthumb=yes&frame=no\';$(\'cpform\').target=\'_blank\';$(\'cpform\').submit();$(\'cpform\').action=oldaction;$(\'cpform\').operation.value=oldoperation;$(\'cpform\').target=\'\';return false;" value="Küçük resim efektini önizleyin" style="vertical-align: middle">',
+	'setting_attach_remote_preview_btn'	=> '<input type="button" class="btn" onclick="var oldaction = $(\'cpform\').action;var oldoperation = $(\'cpform\').operation.value;$(\'cpform\').operation.value = \'ftpcheck\';$(\'cpform\').action=\''.ADMINSCRIPT.'?action=checktools&operation=ftpcheck&frame=no\';this.form.target=\'ftpcheckiframe\';this.form.submit();$(\'cpform\').action=oldaction;$(\'cpform\').operation.value=oldoperation;$(\'cpform\').target=\'\';return false;" value="Uzak Eklentiyi Test Et" style="vertical-align: middle"><iframe name="ftpcheckiframe" style="display: none"></iframe>',
 	'setting_attach_image_lib'		=> 'Görüntü işleme kitaplığı',
 	'setting_attach_image_lib_comment'	=> 'Lütfen Discuz\'u seçin! Küçük resimler ve filigranlar için görüntü işleme kitaplığı. GD, en kapsamlı işleme kitaplığıdır ancak daha fazla sistem kaynağı kullanır. ImageMagick hızlıdır, daha az sistem kaynağı kullanır, ancak güvenliği nispeten zayıftır ve sunucunun ImageMagick uzantılarını yüklemesini gerektirir. Sunucunuzun bu programı yükleme koşulları varsa, indirmek için lütfen <a href="http://www.imagemagick.org" target="_blank">http://www.imagemagick.org</a> adresine gidin.',
 	'setting_attach_image_watermarktype_GD'	=> 'GD',
@@ -2566,7 +2531,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'settings_sphinx_sphinxport'		=> 'Sfenks ana bağlantı noktası',
 	'settings_sphinx_sphinxport_comment'	=> 'Sfenks ana bilgisayar bağlantı noktasını girin: yani ana bilgisayar adı kullanılıyorsa 3312. Soket adresi kullanılıyorsa boş bırakın.',
 	'settings_sphinx_sphinxsubindex'	=> 'Dizin adı başlığı',
-	'settings_sphinx_sphinxsubindex_comment'	=> 'Sfenks konfigürasyon adının başlığını ve ana dizin adı artışının başlığını girin. Örneğin, "threads, threads_ minute".<br />Not: İndeks sembolleri virgül "," ile ayrılmalıdır. Dizin, sphinx yapılandırma dosyasına uygun olarak tamamlanmalıdır.',
+	'settings_sphinx_sphinxsubindex_comment'	=> 'Sfenks konfigürasyon adının başlığını ve ana dizin adı artışının başlığını girin. Örneğin, "threads, threads_minute".<br />Not: İndeks sembolleri virgül "," ile ayrılmalıdır. Dizin, sphinx yapılandırma dosyasına uygun olarak tamamlanmalıdır.',
 	'settings_sphinx_sphinxmsgindex'		=> 'Tam metin dizin adı',
 	'settings_sphinx_sphinxmsgindex_comment'	=> 'Sfenks konfigürasyon adının başlığını ve ana dizin adı artışının başlığını girin. Örneğin, "posts, posts_mintue".<br />Not: İndeks sembolleri virgül "," ile ayrılmalıdır. Dizin, sphinx yapılandırma dosyasına uygun olarak tamamlanmalıdır.',
 	'settings_sphinx_sphinxmaxquerytime'		=> 'Maksimum arama sorgusu süresi',
@@ -2659,9 +2624,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usertag_count'		=> 'Şu anda {tagcount} kullanıcı etiketi var',
 	'usertag_golist'	=> 'Listeye dön',
 	'usertag_add'		=> 'Toplu Ekle',
-	'usertag_add_tips'	=> '<li>Buraya birden çok kullanıcı etiketi ekleyebilirsiniz</li>	
-		<li>Yalnızca etiket doldurulduğunda ve kullanıcı listesi boş olduğunda, kullanıcı etiketlerini toplu olarak eklemek mümkündür</li>
-		<li> Hem etikette hem de kullanıcı listesinde Enter varsa, belirtilen kullanıcıları toplu olarak etiketlemek gerektiğini belirtir</li>',
+	'usertag_add_tips'	=> '<li>Buraya birden çok kullanıcı etiketi ekleyebilirsiniz</li><li>Yalnızca etiket doldurulduğunda ve kullanıcı listesi boş olduğunda, kullanıcı etiketlerini toplu olarak eklemek mümkündür</li><li> Hem etikette hem de kullanıcı listesinde Enter varsa, belirtilen kullanıcıları toplu olarak etiketlemek gerektiğini belirtir</li>',
 	'usertag_add_tags'	=> 'Etiketler',
 	'usertag_add_tags_comment'	=> 'Birden çok etiket girebilir, birden çok etiketi boşluk veya virgülle ayırabilirsiniz.',
 	'usertag_add_usernames'		=> 'Kullanıcı listesi',
@@ -2673,9 +2636,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_mobile_status'		=> 'Mobil Genel Ayarlar',
 	'setting_mobile_index'		=> 'Ana Sayfa Önerilen Ayarlar',
 	'setting_mobile_forums'		=> 'Forum Ayarları',
-	'setting_mobile_status_tips'	=> '<li>Mobil sayfaları görüntülemenin kolay yolu. Bu özellik yalnızca Forum içinde kullanılır.</li>	
-		<li>Bu cep telefonu işlev sayfası, erişim için yalnızca WAP2.0 (XHTML modu) üzerindeki mobil tarayıcıları destekler.</li>
-		<li>Cep telefonu tarama resminin genişliği, küçük resimler için 200 pikselden azdır.</li>',
+	'setting_mobile_status_tips'	=> '<li>Mobil sayfaları görüntülemenin kolay yolu. Bu özellik yalnızca Forum içinde kullanılır.</li><li>Bu cep telefonu işlev sayfası, erişim için yalnızca WAP2.0 (XHTML modu) üzerindeki mobil tarayıcıları destekler.</li><li>Cep telefonu tarama resminin genişliği, küçük resimler için 200 pikselden azdır.</li>',
 	'setting_mobile_allowmobile'	=> 'Mobil Etkinleştir',
 	'setting_mobile_allowmobile_comment'	=> 'Bu işlev açıksa, Cep telefonu kullanıcıları standart foruma erişti, Otomatik olarak mobil sürüm arayüzüne yönlendirilecek.<br />Lütfen cep telefonuyla erişim için alan yapılandırmasını girin: <a href="?action=domain&operation= app">Global -> Etki Alanı ayarları -> Uygulama Etki Alanı</a><br />Navigasyon ayarlarının en altında şuraya gidin: <a href="?action=nav&operation=footernav">Arayüz -> Gezinme ayarları - > Alt gezinme</a>',
 	'setting_mobile_allowmnew'		=> 'Yerelleştirilmiş mikro topluluk ön ucunu etkinleştirin',
@@ -2712,10 +2673,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'unwind'				=> 'Genişletmek',
 					
 	'setting_antitheft'		=> 'Kapma önleme ayarları',
-	'setting_antitheft_tips'	=> '<li>Gizlenme önleme işlevi, normal kullanıcıların içeriğe göz atmasını etkilemez.</li>	
-		<li>Bu sitedeki konuların, makalelerin ve logların hukuka aykırı olarak toplanmasını engelleyebilir.</li>
-		<li><font style="color:red">IP aynı anda kara/beyaz listede bulunduğunda, beyaz liste önceliklidir.</font></li>
-		<li>Toplama önleme işlevi etkinleştirildikten sonra, gönderi listesi sayfasındaki gönderi önizleme işlevi kullanılamaz.</li>',
+	'setting_antitheft_tips'	=> '<li>Gizlenme önleme işlevi, normal kullanıcıların içeriğe göz atmasını etkilemez.</li><li>Bu sitedeki konuların, makalelerin ve logların hukuka aykırı olarak toplanmasını engelleyebilir.</li><li><font style="color:red">IP aynı anda kara/beyaz listede bulunduğunda, beyaz liste önceliklidir.</font></li><li>Toplama önleme işlevi etkinleştirildikten sonra, gönderi listesi sayfasındaki gönderi önizleme işlevi kullanılamaz.</li>',
 	'setting_antitheft_status'	=> 'Kapma önleme genel ayarları',
 	'setting_antitheft_allow'	=> 'Kapma önleme işlevinin açılıp açılmayacağı',
 	'setting_antitheft_black'	=> 'Kara listeye girmeyi önleyici filtreleme IP\'si',
@@ -2731,7 +2689,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'setting_antitheft_disable'		=> 'Kapma önleyici içerik işlevini devre dışı bırakın',
 	'setting_antitheft_disable_thread'	=> 'İplik',
 	'setting_antitheft_disable_article'	=> 'Madde',
-	'setting_antitheft_disable_blog'	=> 'Blog',
+	'setting_antitheft_disable_blog'	=> 'Blog',//'日志',
 	'setting_antitheft_choose_ip'		=> 'Lütfen işlenecek IP adresini seçin',
 	'setting_antitheft_add_white'		=> 'Beyaz Listeye başarıyla eklendi, Erişim günlüğü silindi',
 	'setting_antitheft_add_black'		=> 'Başarıyla Kara Listeye eklendi, Erişim günlüğü silindi',
@@ -2966,7 +2924,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'forums_edit_posts_imgcode'		=> '[img] Kodunun kullanılmasına izin ver',
 	'forums_edit_posts_imgcode_comment'	=> '[img] kodu, kullanıcıların diğer sitelerden resim göndermesini sağlar',
 	'forums_edit_posts_mediacode'		=> 'Multimedya kodunun kullanılmasına izin ver',
-	'forums_edit_posts_mediacode_comment'	=> 'Kullanıcıların gönderilerine multimedya içeriği eklemek için [ses], [video], [flaş] multimedya kodunu kullanmalarına izin verin.',
+	'forums_edit_posts_mediacode_comment'	=> 'Kullanıcıların gönderilerine multimedya içeriği eklemek için [audio], [video], [flash] multimedya kodunu kullanmalarına izin verin.',
 	'forums_edit_posts_smilies'		=> 'Gülümsemelerin kullanılmasına izin ver',
 	'forums_edit_posts_smilies_comment'	=> 'Bu özellik, ":)" gibi metinsel gülümseme ifadelerinin gülümseme görüntülerine dönüştürülmesini sağlar.',
 	'forums_edit_posts_jammer'		=> 'İçerik bozucuyu etkinleştir',
@@ -3016,9 +2974,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'forums_edit_posts_noforumrecommend_comment'	=> 'Önerilen Yanıtlar işlevini kapatmak, sunucu kaynaklarından bir miktar tasarruf sağlayabilir. Spam türü forumlar için Önerilen Yanıtlar işlevini devre dışı bırakmanız önerilir.',
 					
 	'forums_edit_attachtype'		=> 'Ekleme türü',
-	'forums_edit_attachtype_tips'		=> '<li>Bu özellik, bu forumdaki belirli bir ek türünün maksimum boyutunu sınırlayabilir. Burada ayarlanan değer, bir kullanıcı grubunun izin verilen maksimum boyutundan küçük olduğunda, Belirtilen türün ek boyutu sınırı bu sınıra ayarlanacaktır.</li>	
-		<li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li>
-		<li>Bu ayar boş bırakılırsa, genel "ek türü boyutu" ayarı kullanılacaktır.</li>',
+	'forums_edit_attachtype_tips'		=> '<li>Bu özellik, bu forumdaki belirli bir ek türünün maksimum boyutunu sınırlayabilir. Burada ayarlanan değer, bir kullanıcı grubunun izin verilen maksimum boyutundan küçük olduğunda, Belirtilen türün ek boyutu sınırı bu sınıra ayarlanacaktır.</li><li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li><li>Bu ayar boş bırakılırsa, genel "ek türü boyutu" ayarı kullanılacaktır.</li>',
 
 	'forums_edit_credits'			=> 'Kredi stratejisi',
 	'forums_edit_credits_policy'		=> 'Uzatılmış krediler değişim stratejisi',
@@ -3027,9 +2983,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'forums_edit_threadtypes'		=> 'Konu türleri',
 	'forums_edit_threadtypes_comment'	=> 'Forumda kullanılan ve birçok durumda kullanılacak olan konu kategorilerini etkinleştirebilirsiniz. Önerilen kategoriler yalnızca "düz panel" yaklaşımı kullanıldığında önemlidir. Daha fazla kategori için "Açılır" yaklaşımı kullanıldı.',
 	'forums_edit_threadtypes_config'	=> 'İş parçacığı türleri yapılandırılır',
-	'forums_edit_threadtypes_tips'		=> '<ul><li>"İplik kategorileri", konuların alt bölümlere göre sınıflandırılması içindir. Yeni bir ileti dizisi oluşturulduğunda, bu kategorilere göre sınıflandırılabilir. Kullanıcılar ileti dizilerine kategoriye göre göz atabilir.</li>	
-		<li>"Konu sınıflandırması" tüm forum tarafından paylaşılır, mevcut forumu "düzenleme forumu"nda konuları belirli türlere göre sınıflandıracak şekilde ayarlayabilirsiniz.</li>
-		<li>Bazı konu kategorilerinin adını değiştirirseniz, silerseniz veya görüntülenme sırasını değiştirirseniz, lütfen bu kategoriyle ilişkili bölümü (hiçbir değişiklik yapmadan) düzenleyin ve gönderin, böylece konu kategorileri güncellenebilir.</li></ul>',
+	'forums_edit_threadtypes_tips'		=> '<ul><li>"İplik kategorileri", konuların alt bölümlere göre sınıflandırılması içindir. Yeni bir ileti dizisi oluşturulduğunda, bu kategorilere göre sınıflandırılabilir. Kullanıcılar ileti dizilerine kategoriye göre göz atabilir.</li><li>"Konu sınıflandırması" tüm forum tarafından paylaşılır, mevcut forumu "düzenleme forumu"nda konuları belirli türlere göre sınıflandıracak şekilde ayarlayabilirsiniz.</li><li>Bazı konu kategorilerinin adını değiştirirseniz, silerseniz veya görüntülenme sırasını değiştirirseniz, lütfen bu kategoriyle ilişkili bölümü (hiçbir değişiklik yapmadan) düzenleyin ve gönderin, böylece konu kategorileri güncellenebilir.</li></ul>',
 	'forums_edit_threadtypes_name'		=> 'Kategori adı',
 	'forums_edit_threadtypes_note'		=> 'Kategori tanımı',
 	'forums_edit_threadtypes_showtype'	=> 'Ekran tipi',
@@ -3056,8 +3010,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'forums_edit_threadtypes_nonexistence'		=> 'Konu kategorileri mevcut değil, lütfen ekleyin',
 					
 	'forums_edit_threadsorts'		=> 'forum kategorileri',
-	'forums_edit_threadsorts_tips'		=> '<ul><li>Resmi kullanımdan sonra eklenen alanları değiştirmemeye çalışın ve veri kaybını önlemek için proje alanlarını değiştirmeyin</li>	
-		<li>Numara, seçme, radyo alanı türleri dışında form aramayı açın , diğer alan türleri sistem için önemlidir Büyük performans etkisi</li></ul>',
+	'forums_edit_threadsorts_tips'		=> '<ul><li>Resmi kullanımdan sonra eklenen alanları değiştirmemeye çalışın ve veri kaybını önlemek için proje alanlarını değiştirmeyin</li><li>Numara, seçme, radyo alanı türleri dışında form aramayı açın , diğer alan türleri sistem için önemlidir Büyük performans etkisi</li></ul>',
 	'forums_edit_threadsorts_status'		=> 'Forum kategorilerini etkinleştir',
 	'forums_edit_threadsorts_defaultorderfield'	=> '<span class="spectitle">Konu varsayılan sıralama alanı</span>',
 	'forums_edit_threadsorts_defaultorderfield_comment'	=> 'Varsayılan sıralama ölçütü için bir alan listesi ayarlayın. Varsayılan, "Son gönderi zamanı"dır. Varsayılan ayarlara yapılan herhangi bir ekleme, sunucu yüklemesini artıracaktır.',
@@ -3120,8 +3073,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'forums_copy'			=> 'Ayarları Kopyala',
 	'forums_copy_comment'		=> 'Bu Forum ayarlarını diğer Forumlara kopyalayın',
-	'forums_copy_tips'		=> '<li>Forum ayarlarından biri diğer birçok Foruma kopyalanabilir. Mevcut Forum, bir dizi başka Forumun hızlı kurulumu için bir temel olarak kullanılabilir.</li>	
-					<li>Forum ayarlarının kopyalanması, gönderildikten hemen sonra geçerli olur ve geri yüklenemez. Lütfen hedef forumu ve ayar öğelerini dikkatli bir şekilde seçin.</li>',
+	'forums_copy_tips'		=> '<li>Forum ayarlarından biri diğer birçok Foruma kopyalanabilir. Mevcut Forum, bir dizi başka Forumun hızlı kurulumu için bir temel olarak kullanılabilir.</li><li>Forum ayarlarının kopyalanması, gönderildikten hemen sonra geçerli olur ve geri yüklenemez. Lütfen hedef forumu ve ayar öğelerini dikkatli bir şekilde seçin.</li>',
 	'forums_copy_source'		=> 'Kaynak Forumu',
 	'forums_copy_target'		=> 'Hedef Forum',
 	'forums_copy_target_comment'	=> 'Ayarları kopyalamak istediğiniz hedef forumları seçin. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
@@ -3130,8 +3082,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'forums_moderators'		=> 'moderatörler',
 	'forums_moderators_comment'	=> 'Bu Forum Moderatörünü düzenle',
-	'forums_moderators_tips'	=> '<li>"Ana Forumdan devralındı", bu forumun ana forumun bir moderatörü tarafından yönetileceği anlamına gelir. Devralınan moderatör silinemez.</li>	
-		<li>"Bu forumun veya kategorinin moderatörünün haklarını alt foruma devret", mevcut forum bir kategori olduğunda varsayılan olarak seçilidir; mevcut forum bir alt forum olduğunda, seçilmez varsayılan olarak.</li>',
+	'forums_moderators_tips'	=> '<li>"Ana Forumdan devralındı", bu forumun ana forumun bir moderatörü tarafından yönetileceği anlamına gelir. Devralınan moderatör silinemez.</li><li>"Bu forumun veya kategorinin moderatörünün haklarını alt foruma devret", mevcut forum bir kategori olduğunda varsayılan olarak seçilidir; mevcut forum bir alt forum olduğunda, seçilmez varsayılan olarak.</li>',
 	'forums_moderators_inherit'	=> 'Alt forumlara devral',
 	'forums_moderators_inherited'	=> 'Ana Forumdan devralındı',
 	'forums_moderators_edit'	=> 'moderatörleri düzenle',
@@ -3160,9 +3111,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'threadtype_infotypes_stemplate'	=> 'Kategoride iş parçacığını göstermek için şablon',
 	'threadtype_infotypes_ptemplate'	=> 'Kategorideki gönderiyi göstermek için şablon',
 	'threadtype_infotypes_btemplate'	=> 'Kategorideki gösteri modülü için şablon',
-	'threadtype_infotypes_template_tips'	=> '<li>Boşsa, sistem varsayılan bir şablon kullanır.</li>	
-					<li>Yukarıdaki [Şablon Ekle] bağlantısını tıklayın, ilgili kodu şablona ekleyebilir ve ardından DreamWeaver gibi web sayfası düzenleme araçlarını kullanabilir veya manuel olarak düzenleyebilirsiniz.</li>
-					<li>Sınıflandırma bilgileri görüntüleme şablonu HTML\'yi destekler; burada {alan değişkeni adı}, alanın adını ve [alan değişkeni adı], alanın özel değerini temsil eder.<br />Örneğin age adında bir alan değişkeni var, alan adı age ve üyelerin doldurduğu değer 20. Ardından {age}: [agevalue] gibi bir dize şablonda "Yaş: 20" olarak görüntülenecektir.</li>',
+	'threadtype_infotypes_template_tips'	=> '<li>Boşsa, sistem varsayılan bir şablon kullanır.</li><li>Yukarıdaki [Şablon Ekle] bağlantısını tıklayın, ilgili kodu şablona ekleyebilir ve ardından DreamWeaver gibi web sayfası düzenleme araçlarını kullanabilir veya manuel olarak düzenleyebilirsiniz.</li><li>Sınıflandırma bilgileri görüntüleme şablonu HTML\'yi destekler; burada {alan değişkeni adı}, alanın adını ve [alan değişkeni adı], alanın özel değerini temsil eder.<br />Örneğin age adında bir alan değişkeni var, alan adı age ve üyelerin doldurduğu değer 20. Ardından {age}: [agevalue] gibi bir dize şablonda "Yaş: 20" olarak görüntülenecektir.</li>',
 	'threadtype_infotypes_validity'		=> 'Son kullanma tarihini kontrol et',
 	'threadtype_infotypes_validity_comment'	=> 'Bu kategori yalnızca süresi dolmamış bilgileri görüntüleyebilir/arayabilir. Ön gönderide seçilen sona erme bilgileri.',
 	'threadtype_infotypes_imgnum'		=> 'Resim yükleme sınırı',
@@ -3224,7 +3173,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'threadtype_edit_choices'		=> 'Seçenek özellikleri',
 	'threadtype_edit_choices_comment'	=> 'Bu, yalnızca kategoride seçenekler olduğunda geçerlidir. Satır başına bir özelliği "N=metin" biçiminde girin; burada N, önerilen bir sayıdır. Örneğin:<br /><i>1=Optik fare<br />2=Mekanik fare<br />3=Fare yok</i><br />Not: Karşılığı belirlemek için lütfen aşağıdaki seçenekleri değiştirmeyin dizin ve içerik arasında. Ancak yine de yeni seçenekler ekleyebilirsiniz. Görüntüleme sırasını değiştirmek için, tüm satırı yukarı ve aşağı başka bir konuma taşıyabilirsiniz.',
 	'threadtype_edit_images_weight'		=> 'Maksimum görüntü genişliği (isteğe bağlı)',
-	'threadtype_edit_images_height'	=> 'Maksimum görüntü yüksekliği (isteğe bağlı)',
+	'threadtype_edit_images_height'		=> 'Maksimum görüntü yüksekliği (isteğe bağlı)',
 	'threadtype_edit_upload_extension'	=> 'Yükleme için etkinleştirilmiş dosya türleri (isteğe bağlı)',
 	'threadtype_edit_upload_extension_comment'	=> 'Yüklemeye izin verilen dosya türlerini virgülle ayırarak girin. Tüm dosyaların yüklenmesine izin vermek için boş bırakın.',
 	'threadtype_edit_area'			=> 'Sınıflandırma için birkaç kategori kullanın',
@@ -3329,8 +3278,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'styles_admin_tips'		=> '<li>Dışa aktarılan stil dosyası şablon dizinine yerleştirildiyse, onu doğrudan stil yönetimi ile kurabilirsiniz</li>',
 	'styles_admin_name'		=> 'Program adı',
 	'styles_admin_template'		=> 'şablonda kullanılan',
-	'styles_home_tips'		=> '<li>Mobil sürüm etkinleştirildikten sonra mobil sürüm şablonunun açılması gerekir. <a href="?action=setting&operation=mobile">Mobil sürüm ayarlarına gidin</a></li>	
-		<li>Eğer bir şablon geliştiricisiyseniz, lütfen "<a href="https://open.dismall.com/?ac=document&amp;page=dev_template" target="_blank">Discuz! Teknik Dokümantasyonu</a>" okuyun ve etkinleştirin tasarım modu.</li>',
+	'styles_home_tips'		=> '<li>Mobil sürüm etkinleştirildikten sonra mobil sürüm şablonunun açılması gerekir. <a href="?action=setting&operation=mobile">Mobil sürüm ayarlarına gidin</a></li><li>Eğer bir şablon geliştiricisiyseniz, lütfen "<a href="https://open.dismall.com/?ac=document&amp;page=dev_template" target="_blank">Discuz! Teknik Dokümantasyonu</a>" okuyun ve etkinleştirin tasarım modu.</li>',
 	'styles_tips'			=> '<li>Uzantı, bazı renk değişkenlerinin stilini yeniden tanımlayacak, bu nedenle bazı stil değişkenleri yalnızca varsayılan renk için geçerli olabilir</li>',
 					
 	'styles_edit'			=> 'Stili düzenle',
@@ -3478,9 +3426,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'templates_admin'		=> 'Şablon Yönetimi',
 	'templates_admin_name'		=> 'Şablon adı',
 	'templates_add'			=> 'Yeni bir şablon ekle',
-	'templates_add_tips'		=> '<li><b>Bu özellik yalnızca şablon geliştiricileri içindir.</b></li>	
-		<li>Şablon geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Dokümantasyon</a>".</li>
-		<li>Uyarı: Yanlış şablon tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li>',
+	'templates_add_tips'		=> '<li><b>Bu özellik yalnızca şablon geliştiricileri içindir.</b></li><li>Şablon geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Dokümantasyon</a>".</li><li>Uyarı: Yanlış şablon tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li>',
 	'templates_edit_name'		=> 'Şablon adı (ad)',
 	'templates_edit_name_comment'	=> 'Bu şablonun adı, hem Çince hem de İngilizce olarak, en fazla 40 bayt uzunluğunda',
 	'templates_edit_copyright'	=> 'Telif hakkı bilgisi (telif hakkı)',
@@ -3493,11 +3439,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'templates_question'		=> 'Yardım için şablon soruları',
 					
 	'templates_maint'		=> 'Şablon bakımı',
-	'templates_maint_default_comment'	=> '<li>Varsayılan şablonu düzenliyorsunuz. Diğer şablonların genişletilmesini kolaylaştırmak için varsayılan şablon içeriklerini değiştirmemenizi kesinlikle öneririz.</li>	
-		<li>Değiştirmek istiyorsanız, lütfen değiştirilecek şablon dosyasını başka bir şablon dizinine kopyalayın ve ardından değiştirin.</li>',
-	'templates_maint_nondefault_comment'	=> '<li>Bu satır kümesi eksik şablonları tamamlamak için gerekli değildir, varsayılan şablon yerine kullanılacaktır.</li>	
-		<li>Şablon adı <font color="#FF0000">kırmızı</font> gösteriyorsa, bu şablonun varsayılan şablondan farklı olduğu anlamına gelir; <font color="#00FF00"> gösterir yeşil</font> , bu şablonun kullanıcı tarafından eklenen bir şablon dosyası olduğunu ve varsayılan şablonun karşılık gelen bir şablon dosyası olmadığını belirtir.</li>
-		<li>Bu şablon grubunu yayınlamak istiyorsanız, yayınlamadan önce varsayılan şablon olarak aynı şablon dosyasını silmeniz önerilir.</li>',
+	'templates_maint_default_comment'	=> '<li>Varsayılan şablonu düzenliyorsunuz. Diğer şablonların genişletilmesini kolaylaştırmak için varsayılan şablon içeriklerini değiştirmemenizi kesinlikle öneririz.</li><li>Değiştirmek istiyorsanız, lütfen değiştirilecek şablon dosyasını başka bir şablon dizinine kopyalayın ve ardından değiştirin.</li>',
+	'templates_maint_nondefault_comment'	=> '<li>Bu satır kümesi eksik şablonları tamamlamak için gerekli değildir, varsayılan şablon yerine kullanılacaktır.</li><li>Şablon adı <font color="#FF0000">kırmızı</font> gösteriyorsa, bu şablonun varsayılan şablondan farklı olduğu anlamına gelir; <font color="#00FF00"> gösterir yeşil</font> , bu şablonun kullanıcı tarafından eklenen bir şablon dosyası olduğunu ve varsayılan şablonun karşılık gelen bir şablon dosyası olmadığını belirtir.</li><li>Bu şablon grubunu yayınlamak istiyorsanız, yayınlamadan önce varsayılan şablon olarak aynı şablon dosyasını silmeniz önerilir.</li>',
 	'templates_maint_keyword'		=> 'anahtar kelimeler',
 	'templates_maint_view_all'		=> 'Tüm şablonları görüntüle',
 	'templates_maint_new'			=> 'Şablon Ekle',
@@ -3532,12 +3475,9 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'members_add'			=> 'Yeni Kullanıcı Ekle',
 	'members_add_email_notify'	=> 'Yukarıdaki adrese bildirim gönder',
-	'members_admin_tips'		=> '<li>Kullanıcı yönetimi aracılığıyla, üye bilgilerini, kullanıcı gruplarını, izinleri, puanları, verilen madalyaları düzenleyebilir ve üyeleri ve diğer operasyon üyelerini silebilirsiniz;</li>	
-		<li>Lütfen önce koşullara göre kullanıcıları arayın ve ardından karşılık gelen işlem.</li>
-		<li>Giriş kutusunda joker karakterler * kullanılabilir ve birden çok değer virgülle "," ayrılır.</li>',
+	'members_admin_tips'		=> '<li>Kullanıcı yönetimi aracılığıyla, üye bilgilerini, kullanıcı gruplarını, izinleri, puanları, verilen madalyaları düzenleyebilir ve üyeleri ve diğer operasyon üyelerini silebilirsiniz;</li><li>Lütfen önce koşullara göre kullanıcıları arayın ve ardından karşılık gelen işlem.</li><li>Giriş kutusunda joker karakterler * kullanılabilir ve birden çok değer virgülle "," ayrılır.</li>',
 	'members_admin_comment'		=> 'Kalın olarak görüntülenen sistem kullanıcı grupları üye adı; italik olarak gösterilen özel kullanıcı grupları.',
-	'members_export_tips'		=> '<li>Kullanıcı grubu adı kalın yazılmışsa, bu bir sistem kullanıcı grubudur; italik olarak görüntüleniyorsa özel bir kullanıcı grubudur; aksi halde üye kullanıcı grubudur.</li>	
-		<li>Kullanıcı bilgilerinin dışa aktarılması 10.000 adede kadar veriyi destekler. Dışa aktarılan dosya EXCEL, WPS formu, <a href="https://docs.qq.com/" target="_blank">Tencent Document</a> vb. araçlarla açılabilir.</li>',
+	'members_export_tips'		=> '<li>Kullanıcı grubu adı kalın yazılmışsa, bu bir sistem kullanıcı grubudur; italik olarak görüntüleniyorsa özel bir kullanıcı grubudur; aksi halde üye kullanıcı grubudur.</li><li>Kullanıcı bilgilerinin dışa aktarılması 10.000 adede kadar veriyi destekler. Dışa aktarılan dosya EXCEL, WPS formu, <a href="https://docs.qq.com/" target="_blank">Tencent Document</a> vb. araçlarla açılabilir.</li>',
 					
 	'members_delete_post'		=> 'Postalamak',
 	'members_delete_blog'		=> 'Blog',
@@ -3598,8 +3538,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_edit_site'		=> 'Alan',
 	'members_edit_qq'		=> 'QQ',
 	'members_edit_icq'		=> 'ICQ',
-	'members_edit_yahoo'		=> 'yahoo',
-	'members_edit_taobao'		=> 'taobao',
+	'members_edit_yahoo'		=> 'Yahoo',
+	'members_edit_taobao'		=> 'Taobao',//'淘宝旺旺',
 	'members_edit_alipay'		=> 'alipay hesabı',
 	'members_edit_location'		=> 'Konum',
 	'members_edit_bday'		=> 'Doğum günü',
@@ -3640,8 +3580,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_group_ban_reason_comment'	=> 'Kullanıcıya gösterilecek Yasak nedenini girin',
 					
 	'members_credit'		=> 'Kullanıcı noktalarını düzenle',
-	'members_credit_tips'		=> '<li>Tartış! kullanıcı noktaları için yalnızca 8 genişletilmiş ayarı destekler ve yalnızca etkin nokta ayarları düzenlenebilir.</li>	
-		<li>Bir kullanıcının belirli bir puanını değiştirmek, kullanıcının toplam puanında değişikliğe neden olacağından, genel üyelik düzeyinde de değişikliğe neden olacaktır, bu nedenle lütfen puanları dikkatli ayarlayın.</li>',
+	'members_credit_tips'		=> '<li>Tartış! kullanıcı noktaları için yalnızca 8 genişletilmiş ayarı destekler ve yalnızca etkin nokta ayarları düzenlenebilir.</li><li>Bir kullanıcının belirli bir puanını değiştirmek, kullanıcının toplam puanında değişikliğe neden olacağından, genel üyelik düzeyinde de değişikliğe neden olacaktır, bu nedenle lütfen puanları dikkatli ayarlayın.</li>',
 	'members_credit_ranges'		=> 'Kullanıcı grubu üst ve alt puan limitleri',
 	'members_credit_reason'		=> 'Kullanıcı puanlarını değiştirme nedeni',
 	'members_credit_reason_comment'	=> 'Kullanıcı puanlarını neden değiştirdiğinizi girin. Bu işlem gelecekteki analizler için kaydedilir.',
@@ -3660,8 +3599,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_ban_user'		=> 'Kullanıcıyı yasakla',
 	'members_ban_type'		=> 'yasak türü',
 	'members_ban_type_comment'	=> 'Kullanıcıyı Yasaklamayı veya Yasağı Kaldırmayı Seçin<br/><strong>Kullanıcıyı Yasakla</strong> Kullanıcı, diğer kullanıcıların bilgilerine erişim de dahil olmak üzere herhangi bir işleme erişemeyecek ve bunları gerçekleştiremeyecektir.',
-	'members_ban_none'		=> 'Normal',
-	'members_ban_post'		=> 'R/O',
+	'members_ban_none'		=> 'Normal',//'正常状态',
+	'members_ban_post'		=> 'R/O',//'禁止发言',
 	'members_ban_visit'		=> 'Erişimi devre dışı bırak',
 	'members_ban_status'		=> 'Kullanıcıyı yasakla',
 	'members_ban_delete_avatar'	=> 'avatarı',
@@ -3780,8 +3719,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_verify_userlist'	=> 'Kullanıcı listesi',
 	'members_verify_userlist_comment'	=> 'Aynı anda desteklenen birden çok kullanıcı için ekleme, her satıra bir kullanıcı',
 	'members_verify_setting'	=> 'Kimlik Doğrulama Ayarları',
-	'members_verify_setting_tips'	=> '<li>Video sertifikası, yalnızca uygulama platformu etkinleştirildiğinde geçerli olur.</li>	
-		<li>Video sertifikası incelemesi, video sertifikası inceleme hakları ayarınıza bağlıdır, inceleme girişi video sertifikası sayfasındadır</li>',
+	'members_verify_setting_tips'	=> '<li>Video sertifikası, yalnızca uygulama platformu etkinleştirildiğinde geçerli olur.</li><li>Video sertifikası incelemesi, video sertifikası inceleme hakları ayarınıza bağlıdır, inceleme girişi video sertifikası sayfasındadır</li>',
 	'members_verify_setting_field'	=> '<em class="right">(<a href="?action=members&operation=profile">Veri öğeleri eklemek için burayı tıklayın</a>)</em> İsteğe bağlı veri öğesi',
 	'members_verify_group'		=> 'Kullanıcı grupları için doğrulamaya katılmaya izin ver',
 	'members_verify_group_comment'	=> 'Bu ayar, kullanıcı gruplarının doğrulamaya katılmasını sağlar. Çoktan seçmeli için CTRL\'ye basılı tutun. Tüm gruplar için doğrulamayı etkinleştirmek için boş',
@@ -3801,9 +3739,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_newsletter_posttype'		=> 'Mesaj türü modu',
 	'members_newsletter_posttype_text'	=> 'Metin modu',
 	'members_newsletter_posttype_html'	=> 'HTML Modu',
-	'members_newsletter_mobile_tips'	=> '<li>Mobil istemci kullanıcılarına bildirim göndermek için bu işlevi kullanabilirsiniz. Kullanıcılara daha iyi ulaşmak için mobil istemcimizi tanıtmanız önerilir.</li>	
-		<li>Bu işlevi kullanmak için bulut platformu hizmetlerini ve mobil istemci eklentilerini etkinleştirmeniz gerekir</li>
-		<li><strong>Lütfen uygulama merkezine dikkat edin"<a href="https://addon.dismall.com/?@mobile.plugin" target="_blank">Mobil istemci</a>" güncellemesi, fonksiyon etkinleştirildiğinde, eklentide ayrıntılı olarak açıklanacaktır</strong></li>',
+	'members_newsletter_mobile_tips'	=> '<li>Mobil istemci kullanıcılarına bildirim göndermek için bu işlevi kullanabilirsiniz. Kullanıcılara daha iyi ulaşmak için mobil istemcimizi tanıtmanız önerilir.</li><li>Bu işlevi kullanmak için bulut platformu hizmetlerini ve mobil istemci eklentilerini etkinleştirmeniz gerekir</li><li><strong>Lütfen uygulama merkezine dikkat edin"<a href="https://addon.dismall.com/?@mobile.plugin" target="_blank">Mobil istemci</a>" güncellemesi, fonksiyon etkinleştirildiğinde, eklentide ayrıntılı olarak açıklanacaktır</strong></li>',
 
 	'members_grouppmlist'			=> 'ÖM kaydı gönder',
 	'members_grouppmlist_newsletter'	=> 'Bildirim gönder',
@@ -3834,9 +3770,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_access_add'		=> 'Kullanıcıya özel izinler ekleyin/düzenleyin',
 	'members_access_add_forum'	=> 'Forum Seç',
 	'members_access_add_forum_comment'	=> 'İzinleri ayarlamak için bir Forum seçin. Aşağıdaki izin ayarları, yalnızca bu Forumdaki kullanıcı izinlerini etkiler',
-	'members_access_tips'		=> '<li>Bir forumdaki kullanıcı izinleri, site yapılandırması ve kişisel kullanıcı ayrıcalıklarının birleşimine bağlıdır. Varsayılan olmayan bir durum ayarlarsanız kullanıcı grubu sınırları kullanılmaz.</li>	
-		<li>Bir kullanıcının belirli bir bölümdeki özel izin ayarlarını silin, bu bölümdeki tüm izinlerini varsayılan olarak ayarlamanız yeterlidir</li>
-		<li>Bu bölümdeki belirli bir kullanıcının izinlerini değiştirin, yalnızca ihtiyacınız olan izin ayarlarını yeniden eklemek için</li>',
+	'members_access_tips'		=> '<li>Bir forumdaki kullanıcı izinleri, site yapılandırması ve kişisel kullanıcı ayrıcalıklarının birleşimine bağlıdır. Varsayılan olmayan bir durum ayarlarsanız kullanıcı grubu sınırları kullanılmaz.</li><li>Bir kullanıcının belirli bir bölümdeki özel izin ayarlarını silin, bu bölümdeki tüm izinlerini varsayılan olarak ayarlamanız yeterlidir</li><li>Bu bölümdeki belirli bir kullanıcının izinlerini değiştirin, yalnızca ihtiyacınız olan izin ayarlarını yeniden eklemek için</li>',
 	'members_access_edit'		=> 'Kullanıcı İzinlerini Düzenle',
 	'members_access_allowed'	=> 'Etkinleştirilmiş',
 	'members_access_disallowed'	=> 'Engelli',
@@ -3862,14 +3796,10 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_repeat'		=> 'tekrarlanan',
 					
 	'members_ipban'			=> 'IP\'yi yasakla',
-	'members_ipban_tips'		=> '<li>Bu işlem, grup yönetiminde ilgili izinlerin etkinleştirilmesini gerektirir.</li>	
-		<li>Site yöneticisiyseniz, belirli bir adresi engellemek için joker karakter olarak "*" kullanabilirsiniz.</li>
-		<li>Site yöneticisi değilseniz, "*" kullanamazsınız ve yalnızca eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li>',
+	'members_ipban_tips'		=> '<li>Bu işlem, grup yönetiminde ilgili izinlerin etkinleştirilmesini gerektirir.</li><li>Site yöneticisiyseniz, belirli bir adresi engellemek için joker karakter olarak "*" kullanabilirsiniz.</li><li>Site yöneticisi değilseniz, "*" kullanamazsınız ve yalnızca eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li>',
 	'members_ipban_location'	=> 'IP konumu',
 	'members_ipban_input'		=> 'Yasaklı IP listesini içe aktar',
-	'members_ipban_input_tips'	=> '<li>Bu işlemin, yalnızca site yöneticileri tarafından kullanılabilen yönetim grubundaki ilgili izinleri etkinleştirmesi gerekir.</li>	
-		<li>Daha önce dışa aktarılan yasaklı IP listesini kullanabilir veya IP\'leri toplu olarak yasaklamak için manuel olarak yazabilirsiniz.</li>
-		<li><a href="'.ADMINSCRIPT.'?action=members&operation=ipban&ipact=output">mevcut yasaklanmış IP kitaplığını dışa aktarabilirsiniz</a></li>',
+	'members_ipban_input_tips'	=> '<li>Bu işlemin, yalnızca site yöneticileri tarafından kullanılabilen yönetim grubundaki ilgili izinleri etkinleştirmesi gerekir.</li><li>Daha önce dışa aktarılan yasaklı IP listesini kullanabilir veya IP\'leri toplu olarak yasaklamak için manuel olarak yazabilirsiniz.</li><li><a href="'.ADMINSCRIPT.'?action=members&operation=ipban&ipact=output">mevcut yasaklanmış IP kitaplığını dışa aktarabilirsiniz</a></li>',
 	'members_ipban_input_comment'	=> 'İçe aktarılan Ban IP Listesinin formatı: "IP_address;Number_of_days" veya basit "IP_address" (varsayılan olarak 30 gün geçerlidir). Her satıra bir IP girin. Önceden dışa aktarılmış bir Yasaklanmış IP listesi kullanabilirsiniz.',
 					
 	'members_profile'		=> 'Kullanıcı profili',
@@ -3878,8 +3808,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_profile_group'		=> 'Alan grupları',
 	'members_profile_numbercard'	=> 'Kartvizit Özellikleri',
 	'members_profile_numbercard_tips'	=> '<li>Kullanıcı avatarının altında görüntülenen veri sütunlarının sayısı</li>',
-	'members_profile_tips'			=> '<li>Kullanıcı genişletilmiş bilgilerini göster veya gizle</li>	
-		<li>Ayar sonucu, mevcut kullanıcı verilerini genişletebilir</li>',
+	'members_profile_tips'			=> '<li>Kullanıcı genişletilmiş bilgilerini göster veya gizle</li><li>Ayar sonucu, mevcut kullanıcı verilerini genişletebilir</li>',
 	'members_profile_edit_name'		=> 'Kategori adı',
 	'members_profile_edit_field'		=> 'Alan adı',
 	'members_profile_edit_field_desc'	=> 'Alan Açıklama',
@@ -3931,8 +3860,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'members_stat_updatetime'	=> 'Güncellenmiş',
 	'members_stat_update_option'	=> 'İstatistik öğelerini güncelle',
 	'members_stat_update_data'	=> 'Veriyi güncelle',
-	'members_stat_tips'		=> '<li>Kullanıcı istatistikleri için sütunları ayarlayın: yalnızca açılır kutu veya radyo düğmesi türündeki alanlar istatistiklere dahil edilebilir.</li>	
-		<li>İstatistiksel öğeler değişebilirse, lütfen önce istatistiksel öğeleri, ardından verileri güncelleyin</li>',
+	'members_stat_tips'		=> '<li>Kullanıcı istatistikleri için sütunları ayarlayın: yalnızca açılır kutu veya radyo düğmesi türündeki alanlar istatistiklere dahil edilebilir.</li><li>İstatistiksel öğeler değişebilirse, lütfen önce istatistiksel öğeleri, ardından verileri güncelleyin</li>',
 					
 	'admingroup'			=> 'İdari Gruplar',
 	'admingroup_tips'		=> '<li>Tartış! yönetim ekibi üç yerleşik yönetici türü içerir: yönetici, Süper Moderatör, Moderatör ve ek özel yönetim grupları.</li>',
@@ -4182,9 +4110,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usergroups_add'		=> 'Yeni bir kullanıcı grubu ekle',
 	'usergroups_level_add'		=> 'Yeni bir seviye ekle',
 	'usergroups_sepcial_add'	=> 'Yeni bir özel kullanıcı grubu ekle',
-	'usergroups_tips'		=> '<li>Sistem kullanıcı grupları ve özel kullanıcı grupları, bir grubun üye noktalarını ve ayrıcalıklarını tanımlamayı amaçlar. Sistem grupları ve özel gruplar üye tarafından değiştirilemez.</li>	
-		<li>Sistem grubu ve özel grup ayarının nokta belirtmesine gerek yoktur. Discuz!, site yöneticisinden ziyaretçiye kadar 8 sistem başlığı ayırmıştır. Özel grupların kullanıcılarının kendi eklerini eklemesi gerekir.</li>
-		<li>Üye kullanıcı grupları en az iki gruba ayrılmalı ve puan alt limiti negatif (negatif herhangi bir sayı) ve 0 olmalıdır, aksi takdirde bazı kullanıcıların kullanıcı ile eşleşmemesi sorun yaratacaktır. gruplar.</li>',
+	'usergroups_tips'		=> '<li>Sistem kullanıcı grupları ve özel kullanıcı grupları, bir grubun üye noktalarını ve ayrıcalıklarını tanımlamayı amaçlar. Sistem grupları ve özel gruplar üye tarafından değiştirilemez.</li><li>Sistem grubu ve özel grup ayarının nokta belirtmesine gerek yoktur. Discuz!, site yöneticisinden ziyaretçiye kadar 8 sistem başlığı ayırmıştır. Özel grupların kullanıcılarının kendi eklerini eklemesi gerekir.</li><li>Üye kullanıcı grupları en az iki gruba ayrılmalı ve puan alt limiti negatif (negatif herhangi bir sayı) ve 0 olmalıdır, aksi takdirde bazı kullanıcıların kullanıcı ile eşleşmemesi sorun yaratacaktır. gruplar.</li>',
 	'usergroups_member'		=> 'Kullanıcı grubu üyeleri',
 	'usergroups_special'		=> 'özel grup üyeleri',
 	'usergroups_specialadmin'	=> 'Özel yönetici grubu üyeleri',
@@ -4202,8 +4128,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'usergroups_copy'		=> 'Bir kopya ayarla',
 	'usergroups_copy_comment'	=> 'Kullanıcı grubu kopyasını diğer foruma ayarlayacak',
-	'usergroups_copy_tips'		=> '<li>Kullanıcı grubu ayarlarının kopyalanması, bazı diğer kullanıcı gruplarına yönelik kaynak kullanıcı grubu ayarlarının bir parçası olabilir. Bir kullanıcı grubu temeli oluşturmak için kullanılır, birkaç kullanıcı grubunu hızlı bir şekilde ayarlayın.</li>	
-		<li>Kullanıcı grubu ayarı kopyası gönderildikten sonra, hemen etkinleşir ve geri yüklenemez. Lütfen hedef kullanıcı grubunu ve ayar öğelerini dikkatlice seçin.</li>',
+	'usergroups_copy_tips'		=> '<li>Kullanıcı grubu ayarlarının kopyalanması, bazı diğer kullanıcı gruplarına yönelik kaynak kullanıcı grubu ayarlarının bir parçası olabilir. Bir kullanıcı grubu temeli oluşturmak için kullanılır, birkaç kullanıcı grubunu hızlı bir şekilde ayarlayın.</li><li>Kullanıcı grubu ayarı kopyası gönderildikten sonra, hemen etkinleşir ve geri yüklenemez. Lütfen hedef kullanıcı grubunu ve ayar öğelerini dikkatlice seçin.</li>',
 	'usergroups_copy_source'	=> 'Kaynak kullanıcı grubu',
 	'usergroups_copy_target'	=> 'Hedef kullanıcı grubu',
 	'usergroups_copy_target_comment'	=> 'Kaynak grubu kopyalamak istediğiniz hedef kullanıcı gruplarını seçin. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
@@ -4213,9 +4138,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usergroups_merge'		=> 'Kullanıcı Gruplarını Birleştir',
 	'usergroups_merge_link'		=> 'Birleştirmek',
 	'usergroups_merge_comment'	=> 'Bu işlev, grup üyelerini başka bir kullanıcı grubuna taşıyacak ve ardından kaynak grubu kaldıracaktır.',
-	'usergroups_merge_tips'		=> '<li>Birleştirilmiş kaynak kullanıcı grubunun tüm üyeleri seçilen bir kullanıcı grubuna taşınacak ve kaynak grubu silmeyi seçebilirsiniz.</li>	
-		<li>Kullanıcı grupları, yönetim gruplarını çalıştıramaz.</li>
-		<li>Kullanıcı kombinasyonu, gönderildikten hemen sonra geçerlilik kazanır ve geri yüklenemez. Lütfen hedef kullanıcı grubunu ve ayar öğelerini dikkatlice seçin.</li>',
+	'usergroups_merge_tips'		=> '<li>Birleştirilmiş kaynak kullanıcı grubunun tüm üyeleri seçilen bir kullanıcı grubuna taşınacak ve kaynak grubu silmeyi seçebilirsiniz.</li><li>Kullanıcı grupları, yönetim gruplarını çalıştıramaz.</li><li>Kullanıcı kombinasyonu, gönderildikten hemen sonra geçerlilik kazanır ve geri yüklenemez. Lütfen hedef kullanıcı grubunu ve ayar öğelerini dikkatlice seçin.</li>',
 	'usergroups_merge_source'	=> 'Kaynak kullanıcı grubu',
 	'usergroups_merge_target'	=> 'Hedef kullanıcı grubu',
 	'usergroups_merge_target_comment'	=> 'Kullanıcıların kaynak gruptan taşınacağı nihai kullanıcı grubunu seçin',
@@ -4299,10 +4222,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 					
 	'usergroups_edit_system'		=> 'Sistem kullanıcı grupları',
-	'usergroups_edit_system_tips'		=> '<li><b><u>Genel olmayan kullanıcı grupları</u></b><br />Kullanıcı grubu "genel olmayan kullanıcı grubu" (ana veya genişletilmiş kullanıcı grubu) olarak ayarlandığında, bir kullanıcı gruba yalnızca bir yönetici katılabilir.</li>	
-		<li><b><u>Genel Kullanıcı Grubu</u></b><br />Bu kullanıcı grubu "Genel Kullanıcı Grubu" olarak ayarlandığında ve kullanıcının mevcut kullanıcı grubu katılma izni / Genel kullanıcı grubundan ayrılırken, kullanıcı bu grubu kişisel merkezde ana kullanıcı grubu veya genişletilmiş kullanıcı grubu olarak ayarlayabilecektir. Ana kullanıcı grubu olarak ayarlandığında, ilgili izinler bu kullanıcı grubunun izin ayarlarını takip edecek; genişletilmiş kullanıcı grubu olarak ayarlandığında, yalnızca bu kullanıcı grubunun erişebileceği belirli forum bölümlerine erişebilecektir.</li>
-		<li><b>Ücretli genel kullanıcı grubu</b>:<br />Kullanıcıların bu gruba katılmak için belirli işlem puanları ödemesini talep edebilirsiniz. Bu grubun yetkisine sahip olduğunuz sürenin uzunluğu . Bu grubun iznine sahip kullanıcının bir gün için ödemesi gereken işlem puanı tutarını belirleyebilirsiniz. Kullanıcının ilgili satın alma süresi dolduktan sonra, sistem otomatik olarak kullanıcıyla ilgili kullanıcı grubu özelliğini kaldıracaktır.</li>
-		<li><b>Ücretsiz genel kullanıcı grubu</b>:<br />Kullanıcıların herhangi bir ücret ödemeden bu kullanıcı grubunun yetkisine ve unvanına sahip olmaları için kişisel merkezde bu kullanıcı grubuna katılmayı seçmeleri yeterlidir. fiyat.</li>',
+	'usergroups_edit_system_tips'		=> '<li><b><u>Genel olmayan kullanıcı grupları</u></b><br />Kullanıcı grubu "genel olmayan kullanıcı grubu" (ana veya genişletilmiş kullanıcı grubu) olarak ayarlandığında, bir kullanıcı gruba yalnızca bir yönetici katılabilir.</li><li><b><u>Genel Kullanıcı Grubu</u></b><br />Bu kullanıcı grubu "Genel Kullanıcı Grubu" olarak ayarlandığında ve kullanıcının mevcut kullanıcı grubu katılma izni / Genel kullanıcı grubundan ayrılırken, kullanıcı bu grubu kişisel merkezde ana kullanıcı grubu veya genişletilmiş kullanıcı grubu olarak ayarlayabilecektir. Ana kullanıcı grubu olarak ayarlandığında, ilgili izinler bu kullanıcı grubunun izin ayarlarını takip edecek; genişletilmiş kullanıcı grubu olarak ayarlandığında, yalnızca bu kullanıcı grubunun erişebileceği belirli forum bölümlerine erişebilecektir.</li><li><b>Ücretli genel kullanıcı grubu</b>:<br />Kullanıcıların bu gruba katılmak için belirli işlem puanları ödemesini talep edebilirsiniz. Bu grubun yetkisine sahip olduğunuz sürenin uzunluğu . Bu grubun iznine sahip kullanıcının bir gün için ödemesi gereken işlem puanı tutarını belirleyebilirsiniz. Kullanıcının ilgili satın alma süresi dolduktan sonra, sistem otomatik olarak kullanıcıyla ilgili kullanıcı grubu özelliğini kaldıracaktır.</li><li><b>Ücretsiz genel kullanıcı grubu</b>:<br />Kullanıcıların herhangi bir ücret ödemeden bu kullanıcı grubunun yetkisine ve unvanına sahip olmaları için kişisel merkezde bu kullanıcı grubuna katılmayı seçmeleri yeterlidir. fiyat.</li>',
 	'usergroups_edit_system_public'		=> 'Genel kullanıcı grupları',
 	'usergroups_edit_system_buy'		=> 'Ücretli kullanıcı grubu',
 	'usergroups_edit_system_free'		=> 'ücretsiz kullanıcı grubu',
@@ -4377,10 +4297,10 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usergroups_edit_post_maxprice_comment'		=> 'Konu veya Ek ücretli olabilir. Bu, kullanıcı ileti dizisini veya eki görüntülemek için ödeme yapana kadar ileti dizisi içeriğinin veya ekinin gizleneceği anlamına gelir. Burada satıcı için izin verilen maksimum fiyatı ayarlayın. Satışı devre dışı bırakmak için 0\'a ayarlayın. Not: Bu işlev, yalnızca global işlem noktaları ayarları etkinleştirildiğinde etkinleşir. Moderatörlerin ve yöneticilerin ücretlendirilen ileti dizilerini (Ek) düzenlemesini sağlamak istiyorsanız, maksimum fiyatı normal kullanıcı gruplarından daha yüksek ayarlayın, böylece düzenlemeden sonra gönderi fiyatı kesilmeyecektir.',
 	'usergroups_edit_post_tag'			=> 'Etiketlerin kullanılmasına izin ver',
 	'usergroups_edit_post_tag_comment'		=> 'Yeni konu yayınlarken etiketlerin kullanılmasına izin verilip verilmeyeceğini ayarlayın',
-	'usergroups_edit_post_hide_code'		=> '[gizle] etiketinin kullanılmasına izin ver',
-	'usergroups_edit_post_hide_code_comment'	=> 'Bir gönderide [gizle] etiketinin kullanılmasına izin verilip verilmeyeceğini ayarlayın',
-	'usergroups_edit_post_mediacode'		=> '[ses] [video] [flaş] ve diğer multimedya kodunun kullanılmasına izin ver',
-	'usergroups_edit_post_mediacode_comment'	=> '[ses] [video] [flaş] ve diğer multimedya kodunun etkinleştirilip etkinleştirilmeyeceğini ayarlayın',
+	'usergroups_edit_post_hide_code'		=> '[hide] etiketinin kullanılmasına izin ver',
+	'usergroups_edit_post_hide_code_comment'	=> 'Bir gönderide [hide] etiketinin kullanılmasına izin verilip verilmeyeceğini ayarlayın',
+	'usergroups_edit_post_mediacode'		=> '[audio] [video] [flash] ve diğer multimedya kodunun kullanılmasına izin ver',
+	'usergroups_edit_post_mediacode_comment'	=> '[audio] [video] [flash] ve diğer multimedya kodunun etkinleştirilip etkinleştirilmeyeceğini ayarlayın',
 	'usergroups_edit_post_html'			=> 'HTML kodunun kullanılmasına izin ver',
 	'usergroups_edit_post_html_comment'		=> 'Not: HTML kodu güvenlik sorunlarına neden olur, lütfen dikkatli kullanın! Yalnızca aşırı gereklilik durumlarında etkinleştirilmesi ve yalnızca çekirdek yönetim ekibine etkinleştirilmesi önerilir.',
 	'usergroups_edit_post_custom_bbcode'		=> 'Özel BB Koduna izin ver',
@@ -4391,7 +4311,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usergroups_edit_post_bio_img_code_comment'	=> 'Kullanıcıların kendi tanıtımlarında [img] Kodu kullanmalarına izin verilip verilmeyeceği',
 	'usergroups_edit_post_max_bio_size'		=> 'Kendini tanıtma maksimum uzunluk',
 	'usergroups_edit_post_max_bio_size_comment'	=> 'Kullanıcı kendini tanıtmada maksimum karakter sayısını ayarlayın. 200 karakterlik sistem varsayılan değerini kullanmak için 0\'a ayarlayın.',
-	'usergroups_edit_post_begincode'		=> '[başlangıç] kodunun kullanılmasına izin ver',
+	'usergroups_edit_post_begincode'		=> '[begin] kodunun kullanılmasına izin ver',
 	'usergroups_edit_post_begincode_comment'	=> 'Animasyonu başlatmak için bir gönderide [begin] etiket kodunun kullanılmasına izin verilip verilmeyeceğini ayarlayın',
 	'usergroups_edit_post_sig_bbcode'		=> 'İmzada BB Kodlarına izin ver',
 	'usergroups_edit_post_sig_bbcode_comment'	=> 'Kullanıcıların imzalarında BB Kodlarını kullanmasına izin verilip verilmeyeceği',
@@ -4406,8 +4326,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'usergroups_edit_post_allowcommentpost'		=> 'Yorum Gönder',
 	'usergroups_edit_post_allowcommentpost_comment'	=> 'Kullanıcıların gönderilere yorum yapmasına izin verilip verilmeyeceğini ayarlayın. Not: Bu ayar, yalnızca genel ayarlar yorum göndermeye izin veriyorsa etkili olur.',
 	'usergroups_edit_post_allowcommentpost_firstpost'	=> 'Yalnızca ilk gönderiye yorum yapılmasına izin ver',
-	'usergroups_edit_post_allowcommentpost_reply'		=> 'Yalnızca alıntıyla yanıtlamaya izin ver',
-	'usergroups_edit_post_allowcommentreply'		=> 'Yanıtla Yorumlar kat',
+	'usergroups_edit_post_allowcommentpost_reply'	=> 'Yalnızca alıntıyla yanıtlamaya izin ver',
+	'usergroups_edit_post_allowcommentreply'	=> 'Yanıtla Yorumlar kat',
 	'usergroups_edit_post_allowcommentreply_comment'	=> 'Kullanıcının, diğer Yanıtlarda "Yanıtla"ya tıklayarak gönderi göndermesine izin verir, yorum sırası otomatik olarak oluşturulur.<br />Not: Yalnızca <a href="?action=setting&operation=functions&anchor=comment">Global - Site özellikleri - Yorum gönder </a> açık zeminde kurtarma özellikleri, ayarların devreye girmesi; "Yanıtla" linkindeki bir konuya tıklayın, konu hakkında yorum yapılmayacak',
 	'usergroups_edit_post_allowat'			=> 'Kullanılan @name sayısı',
 	'usergroups_edit_post_allowat_comment'		=> '@name kullanımını devre dışı bırakmak için 0\'a ayarlayın (aşağıdakiler ve arkadaşlar dahil)',
@@ -4593,8 +4513,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'group_mod_delconfirm'		=> 'Seçilen grupları silmek istediğinizi onaylıyor musunuz?',
 					
 	'threads'			=> 'Toplu Konu Yönetimi',
-	'threads_tips'			=> '<li>İplik kitle yönetimi. Konuları arayabilir ve toplu silme, taşıma, kategori ayarlama, üst kısmı ayarlama/iptal etme, özeti ayarlama/iptal etme, ekleri açma/kapatma/silme vb. işlemleri yapabilirsiniz.</li>	
-		<li>Lütfen önce koşullara göre konuyu arayın ve ardından ilgili işlemi seçin.</li>',
+	'threads_tips'			=> '<li>İplik kitle yönetimi. Konuları arayabilir ve toplu silme, taşıma, kategori ayarlama, üst kısmı ayarlama/iptal etme, özeti ayarlama/iptal etme, ekleri açma/kapatma/silme vb. işlemleri yapabilirsiniz.</li><li>Lütfen önce koşullara göre konuyu arayın ve ardından ilgili işlemi seçin.</li>',
 	'threads_list'			=> 'Konu listesi',
 	'threads_search'		=> 'Konu ara',
 	'threads_search_include_yes'	=> 'İçerir ve sadece içerir',
@@ -4654,8 +4573,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'threads_succeed'		=> 'Toplu yönetim başarıyla tamamlandı.',
 					
 	'threads_forumstick'		=> 'Forum/Grup Çubuğu',
-	'threads_forumstick_tips'	=> '<li>Bazı ileti dizileri, sitenin veya herhangi bir Forumun en üstüne, belirli sayıdaki en önemli ileti dizileri içinde yerleştirilebilir.</li>	
-		<li>Yöneticilerin yalnızca konu gönderisinin URL adresini belirtmesi ve konuyu hangi forumlara veya grup sınıflandırmalarına sabitleyeceğini seçmesi gerekir.</li>',
+	'threads_forumstick_tips'	=> '<li>Bazı ileti dizileri, sitenin veya herhangi bir Forumun en üstüne, belirli sayıdaki en önemli ileti dizileri içinde yerleştirilebilir.</li><li>Yöneticilerin yalnızca konu gönderisinin URL adresini belirtmesi ve konuyu hangi forumlara veya grup sınıflandırmalarına sabitleyeceğini seçmesi gerekir.</li>',
 	'threads_forumstick_threadurl'	=> 'Konu URL\'si',
 	'threads_forumstick_targets'	=> 'Hedef Forumlar',
 	'threads_forumstick_targets_comment'	=> 'Belirtilen ileti dizisini en üstte görüntülemek için forumları seçin. Çoktan seçmeli için Shift ve Ctrl tuşlarını basılı tutun',
@@ -4682,12 +4600,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'srch_replies'			=> 'Yanıt sayısı şundan fazla:',
 	'srch_tid'			=> 'Veya doğrudan belirlenen konuyu sonlandırın tid =',
 					
-	'prune_tips'			=> '<li>Yalnızca yasa dışı gönderileri kaldırmak için kullanılan gönderileri toplu olarak silin. Hacmi bozmadan kendi geçmişinizi silmeniz gerekiyorsa toplu ileti dizisi yönetimini kullanın.</li>	
-		<li>Bu işlevi kullanmak için, başlangıç zamanı ve bitiş zamanı ile gönderi kullanıcı adı, gönderi IP\'si ve içerik anahtar kelimelerinden birini, en az iki gerekli koşulu sağlamanız gerekir, aksi takdirde çalıştırmak için çalışmak.</li>
-		<li>Silme kriterlerine uyan gönderi, konudaki ilk gönderiyse veya konuya yanıt gelmezse, konunun tamamı silinir.</li>
-		<li>Forum yöneticisi değilseniz, yalnızca belirli bir zamandan bu yana olan gönderileri silebilirsiniz.</li>
-		<li>Süper moderatörlerin gönderileri silme süresi iki haftadır (14 gün); moderatörlerin süre aralığı bir haftadır (7 gün) ve yalnızca yetki alanları altındaki forumlardaki gönderileri silebilir.</li>
-		<li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır (tırnak işaretleri olmadan) için arama yapabilirsiniz "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>',
+	'prune_tips'			=> '<li>Yalnızca yasa dışı gönderileri kaldırmak için kullanılan gönderileri toplu olarak silin. Hacmi bozmadan kendi geçmişinizi silmeniz gerekiyorsa toplu ileti dizisi yönetimini kullanın.</li><li>Bu işlevi kullanmak için, başlangıç zamanı ve bitiş zamanı ile gönderi kullanıcı adı, gönderi IP\'si ve içerik anahtar kelimelerinden birini, en az iki gerekli koşulu sağlamanız gerekir, aksi takdirde çalıştırmak için çalışmak.</li><li>Silme kriterlerine uyan gönderi, konudaki ilk gönderiyse veya konuya yanıt gelmezse, konunun tamamı silinir.</li><li>Forum yöneticisi değilseniz, yalnızca belirli bir zamandan bu yana olan gönderileri silebilirsiniz.</li><li>Süper moderatörlerin gönderileri silme süresi iki haftadır (14 gün); moderatörlerin süre aralığı bir haftadır (7 gün) ve yalnızca yetki alanları altındaki forumlardaki gönderileri silebilir.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır (tırnak işaretleri olmadan) için arama yapabilirsiniz "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>',
 	'prune'				=> 'Toplu gönderi silme',
 	'prune_search'			=> 'Eşleşen yayınları ara',
 	'prune_search_detail'		=> 'Ayrıntılı gönderi listesini göster',
@@ -4730,20 +4643,14 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'quickquery_clear_userlog'	=> 'Tüm Üye Puanları İşlem günlüklerini temizle',
 					
 	'specialuser_defaultuser'	=> 'varsayılan kullanıcılar',
-	'specialuser_defaultuser_tips'	=> '<li>Aşağıda tavsiye edilen arkadaşların bir listesi var. Önerilen öncelik değeri daha küçükse öncelik daha yüksektir.</li>	
-<li>Varsayılan arkadaşları eklememek için boş bırakın.</li>',				
-	'specialuser_follow_tips'	=> '<li>Kullanıcıları takip etmek için aşağıdakiler önerilir</li>	
-<li>Daha küçük öncelik değeri, daha yüksek önerilen öncelik anlamına gelir.</li>',				
-	'specialuser_defaultuser_add_tips'	=> '<li>Kullanıcı adını ve nedenini girin.</li>	
-<li>Eklenen arkadaş adlarını çoğaltmayın.</li>',				
+	'specialuser_defaultuser_tips'	=> '<li>Aşağıda tavsiye edilen arkadaşların bir listesi var. Önerilen öncelik değeri daha küçükse öncelik daha yüksektir.</li><li>Varsayılan arkadaşları eklememek için boş bırakın.</li>',				
+	'specialuser_follow_tips'	=> '<li>Kullanıcıları takip etmek için aşağıdakiler önerilir</li><li>Daha küçük öncelik değeri, daha yüksek önerilen öncelik anlamına gelir.</li>',				
+	'specialuser_defaultuser_add_tips'	=> '<li>Kullanıcı adını ve nedenini girin.</li><li>Eklenen arkadaş adlarını çoğaltmayın.</li>',				
 	'specialuser_hotuser'		=> 'Sıcak Üyeler',
-	'specialuser_hotuser_tips'	=> '<li>Aşağıda sıcak üyeler listesi var. Sıcak üyeler ekleyebilirsiniz. Üye eklememek için boş bırakın.</li>	
-<li>Görüntüleme sırası: küçük değer daha yüksek önceliğe neden olur.</li>',				
+	'specialuser_hotuser_tips'	=> '<li>Aşağıda sıcak üyeler listesi var. Sıcak üyeler ekleyebilirsiniz. Üye eklememek için boş bırakın.</li><li>Görüntüleme sırası: küçük değer daha yüksek önceliğe neden olur.</li>',				
 	'specialuser_order'		=> 'Önerilen öncelik',
 					
-	'doing_tips'		=> '<li>Yönetimi yapmak, karşılık gelen yanıtlarla birlikte toplu silme işlemleri için kullanışlıdır.</li>	
-		<li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin (sayısıdır tırnak değil) için aranabilir "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'doing_tips'		=> '<li>Yönetimi yapmak, karşılık gelen yanıtlarla birlikte toplu silme işlemleri için kullanışlıdır.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin (sayısıdır tırnak değil) için aranabilir "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'doing'			=> 'Yönetim yapmak',
 	'doing_search'		=> 'Kriterlere göre arama yapın',
 	'doing_search_detail'	=> 'Ayrıntılı yapılacaklar listesini göster',
@@ -4765,9 +4672,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'doing_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'doing_post_nonexistence'	=> 'Aradığınız kriterlere uygun işlem bulunmamaktadır.',
 					
-	'blog_tips'			=> '<li>Blog yönetimi, karşılık gelen yanıtlarla birlikte toplu blog silme için kullanışlıdır.</li>	
-		<li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır tırnak değil "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve için aranabilir "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'blog_tips'			=> '<li>Blog yönetimi, karşılık gelen yanıtlarla birlikte toplu blog silme için kullanışlıdır.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır tırnak değil "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve için aranabilir "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'blog'				=> 'Blog Yönetimi',
 	'blog_search_uid'		=> 'Kullanıcı kimliği',
 	'blog_search_uid_comment'	=> 'Birden çok UID\'yi virgülle ayırın ","',
@@ -4798,8 +4703,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'blog_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'blog_post_nonexistence'	=> 'Koşullara uyan blog yok.',
 					
-	'feed_tips'			=> '<li>Toplu dinamik yönetimi, dinamik (feed) kullanımı silmek için kullanılır.</li>	
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'feed_tips'			=> '<li>Toplu dinamik yönetimi, dinamik (feed) kullanımı silmek için kullanılır.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'feed'				=> 'Yayın Yönetimi',
 	'feed_search_uid'		=> 'Kullanıcı kimliği',
 	'feed_search_uid_comment'	=> 'Birden çok UID\'yi virgülle ayırın ","',
@@ -4846,8 +4750,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'feed_profile'			=> 'Profili Güncelle',
 	'feed_sitefeed'			=> 'Küresel Site Beslemeleri',
 					
-	'album_tips'			=> '<li>Albüm yönetimi, albümleri içindeki tüm resimlerle birlikte toplu olarak kaldırmak için kullanışlıdır.</li>	
-		<li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'album_tips'			=> '<li>Albüm yönetimi, albümleri içindeki tüm resimlerle birlikte toplu olarak kaldırmak için kullanışlıdır.</li><li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'album'				=> 'Albüm Yönetimi',
 	'album_default'			=> 'varsayılan albüm',
 	'album_search_uid'		=> 'Kullanıcı kimliği',
@@ -4869,8 +4772,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'album_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'album_post_nonexistence'	=> 'Koşullara uyan albüm yok.',
 					
-	'pic_tips'			=> '<li>Görüntü yönetimi, görsel yorumlarıyla birlikte görselleri toplu olarak kaldırmak için kullanışlıdır.</li>	
-		<li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'pic_tips'			=> '<li>Görüntü yönetimi, görsel yorumlarıyla birlikte görselleri toplu olarak kaldırmak için kullanışlıdır.</li><li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'pic'				=> 'Görüntü Yönetimi',
 	'pic_search_picid'		=> 'Resim Kimliği',
 	'pic_search_picid_comment'	=> 'Birden fazla görüntü kimliğini virgülle ayırın ","',
@@ -4894,8 +4796,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'pic_search_ip'			=> 'Gönderilen IP',
 	'pic_search_ip_comment'		=> 'Joker karakter "*" kullanılabilir, yani "127.0 .*.*" (tırnak işaretleri olmadan), dikkatli kullanın!!!',
 	'postcomment_search_detail'	=> 'Ayrıntılı Yorum listesini göster',
-	'postcomment_tips'		=> '<li>Gönderi yorumlarını kaldırmak için toplu yorum yönetimi kullanılır.</li>	
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'postcomment_tips'		=> '<li>Gönderi yorumlarını kaldırmak için toplu yorum yönetimi kullanılır.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'postcomment_delete'		=> 'Yorum başarıyla silindi',
 	'postcomment_nonexistence'	=> 'Kriterlerle eşleşen yorum yok',
 	'postcomment_result'		=> 'İlgili yorum sayısı',
@@ -4918,8 +4819,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'comment_comment'		=> 'yorum/mesaj',
 	'comment_article_comment'	=> 'Makale yorumları',
 	'comment_topic_comment'		=> 'Özel konu yorumları',
-	'comment_article_tips'		=> '<li>Burada, gönderi olmayan push the post yorumlarını yönetebilirsiniz.</li>	
-		<li>Post push tarafından oluşturulan makaleler hakkındaki yorumlar için lütfen toplu silme gönderi yönetimine gidin.</li>',
+	'comment_article_tips'		=> '<li>Burada, gönderi olmayan push the post yorumlarını yönetebilirsiniz.</li><li>Post push tarafından oluşturulan makaleler hakkındaki yorumlar için lütfen toplu silme gönderi yönetimine gidin.</li>',
 	'comment_topic_tips'		=> '<li>Portal Konu yorumlarını yönetin.</li>',
 	'comment_uid'			=> 'Yorum',
 	'comment_blogid'		=> 'Blog kimliği',
@@ -4928,8 +4828,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'comment_sid'			=> 'Paylaşım kimliği',
 	'comment_article'		=> 'Madde',
 	'comment_topic'			=> 'Başlık',
-	'comment_tips'			=> '<li>Yorum yönetimi, yorumları toplu olarak silmek için kullanışlıdır.</li>	
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'comment_tips'			=> '<li>Yorum yönetimi, yorumları toplu olarak silmek için kullanışlıdır.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'comment'			=> 'Yorum Yönetimi',
 	'comment_search_perpage'	=> 'sayfa başına öğe',
 	'comment_search_id'		=> 'Yorum Kimliği',
@@ -4959,8 +4858,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'comment_search_ip'		=> 'IP gönder',
 	'comment_search_ip_comment'	=> 'Joker karakter "*" kullanılabilir, yani "127.0 .*.*" (tırnak işaretleri olmadan), dikkatli kullanın!!!',
 					
-	'share_tips'			=> '<li>Paylaşımları toplu olarak kaldırmak için kullanılan paylaşım yönetimi.</li>	
-		<li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
+	'share_tips'			=> '<li>Paylaşımları toplu olarak kaldırmak için kullanılan paylaşım yönetimi.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'share'				=> 'Paylaşım Yönetimi',
 	'share_search_uid'		=> 'kullanıcı kimliği',
 	'share_search_perpage'		=> 'sayfa başına öğe',
@@ -4985,7 +4883,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'share_type'			=> 'paylaşım türü',
 	'share_type_thread'		=> 'İplik',
 	'share_type_space'		=> 'Uzay',
-	'share_type_blog'		=> 'Blog',
+	'share_type_blog'		=> 'Blog',//'日志',
 	'share_type_pic'		=> 'resim',
 	'share_type_album'		=> 'Albüm',
 	'share_type_article'		=> 'Madde',
@@ -5008,8 +4906,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'attach_path'			=> 'Yol',
 	'attach_downloadnums'		=> 'İndirilenler',
 	'attach_thread'			=> 'yazı nerede',
-	'attach_tips'			=> '<li>Mavi etiketli ekler, uzak ekler anlamına gelir. Ek açıklamasını görüntülemek için fareyi dosya adına getirin.</li>	
-		<li>Bir ek <em class="error">kayıp</em> şu anlama gelir: Dosya adı, yol, boyut ve indirme süreleri gibi ilgili veriler veritabanında iyi bir şekilde kaydedilmiştir, ancak ekli dosyalar silinmiştir.</li>',
+	'attach_tips'			=> '<li>Mavi etiketli ekler, uzak ekler anlamına gelir. Ek açıklamasını görüntülemek için fareyi dosya adına getirin.</li><li>Bir ek <em class="error">kayıp</em> şu anlama gelir: Dosya adı, yol, boyut ve indirme süreleri gibi ilgili veriler veritabanında iyi bir şekilde kaydedilmiştir, ancak ekli dosyalar silinmiştir.</li>',
 	'attach_edit_succeed'		=> 'Ek listesi başarıyla güncellendi.',
 	'attach_edit_invalid'		=> 'Silmek için eki seçmediniz, lütfen değiştirmek için geri dönün.',
 					
@@ -5127,7 +5024,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'recyclebinpost'			=> 'Gönderiler Geri Dönüşüm Kutusu',
 	'recyclebinpost_list'			=> 'Gönderi listesi',
 	'recyclebinpost_search'			=> 'Silinen yayınlarda ara',
-	'recyclebinpost_search_forum'		=> 'Forum',
+	'recyclebinpost_search_forum'		=> 'Forum',//'所在版块',
 	'recyclebinpost_search_author'		=> 'yazar adı',
 	'recyclebinpost_search_author_comment'	=> 'Birden çok adı virgülle ayırın',
 	'recyclebinpost_search_keyword'		=> 'anahtar kelimeler',
@@ -5166,9 +5063,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'announce_message_comment'	=> '<b>Duyuru metni:</b>BBCode desteği duyurusu<br /><b>URL bağlantısı:</b>Lütfen duyuru bağlantısını şu şekilde girin: http://xxx.xxx.xxx',
 					
 	'misc_onlinelist'		=> 'Çevrimiçi Liste simgeleri',
-	'misc_onlinelist_tips'		=> '<li>Bu işlev, görüntülenen çevrimiçi üye gruplarının ana sayfa açıklamasını özelleştirmek için kullanılır. Yalnızca çevrimiçi liste özelliği etkinleştirilmişse geçerli olur.</li>	
-		<li>Kullanıcı grubu açıklamasındaki boş, bu grubun kullanıcılarının ayırt edilmediği anlamına gelir ve farklılaştırılmamış tüm kullanıcı grupları, ilk satırdaki "Sıradan Kullanıcı" öğesinde topluca sınıflandırılır.</li>
-		<li>Lütfen kullanıcı grubu açıklamasına resim dosyası adını girin ve ilgili resim dosyasını static/image/common/ dizinine yükleyin.</li>',
+	'misc_onlinelist_tips'		=> '<li>Bu işlev, görüntülenen çevrimiçi üye gruplarının ana sayfa açıklamasını özelleştirmek için kullanılır. Yalnızca çevrimiçi liste özelliği etkinleştirilmişse geçerli olur.</li><li>Kullanıcı grubu açıklamasındaki boş, bu grubun kullanıcılarının ayırt edilmediği anlamına gelir ve farklılaştırılmamış tüm kullanıcı grupları, ilk satırdaki "Sıradan Kullanıcı" öğesinde topluca sınıflandırılır.</li><li>Lütfen kullanıcı grubu açıklamasına resim dosyası adını girin ve ilgili resim dosyasını static/image/common/ dizinine yükleyin.</li>',
 	'misc_onlinelist_image'		=> 'Kullanıcı Grubu Açıklama Görüntüsü',
 					
 	'misc_link_group1'	=> 'Grup 1',
@@ -5178,7 +5073,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_link'		=> 'Bağlantılar',
 	'misc_link_add'		=> 'Link ekle',
 	'misc_link_tips'	=> '<li>Sayfada bağlantıları görüntülemek istemiyorsanız, "<a href="\'.ADMINSCRIPT.\'?action=setting&operation=styles&anchor=index">Stil ayarlarında</a>" devre dışı bırakabilirsiniz. </li>	
-    <li>Açıklama içermeyen bağlantı kompakt bir biçimde görüntülenecektir.</li>',				
+				    <li>Açıklama içermeyen bağlantı kompakt bir biçimde görüntülenecektir.</li>',				
 	'misc_link_edit'		=> 'Bağlantıyı düzenle',
 	'misc_link_edit_name'		=> 'Site adı',
 	'misc_link_edit_url'		=> 'Site URL\'si',
@@ -5196,14 +5091,14 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_relatedlink_extent_article'	=> 'Madde',
 	'misc_relatedlink_extent_forum'	=> 'forum konuları',
 	'misc_relatedlink_extent_group'	=> 'Grup Konusu',
-	'misc_relatedlink_extent_blog'	=> 'Blog',
+	'misc_relatedlink_extent_blog'		=> 'Blog',//'日志',
 					
 	'misc_bbcode'			=> 'Özel BB Kodu',
 	'misc_bbcode_edit'		=> 'BB Kodunu Düzenle',
 	'misc_bbcode_edit_tips'		=> '<li>"Özel Discuz! Koduna İzin Ver" iznine sahip kullanıcı grupları, Özel Discuz! Gönderirken kod düğmesi yalnızca özel Discuz! Kod mevcuttur ve bir simge dosyası ayarlanmıştır.</li>',
 	'misc_bbcode_tag'		=> 'Etiketler',
 	'misc_bbcode_edit_tag'		=> 'Etiketler',
-	'misc_bbcode_edit_tag_comment'	=> '"[etiket]" gibi köşeli parantez içindeki etiket kodu (tırnak işaretleri olmadan)',
+	'misc_bbcode_edit_tag_comment'	=> '"[tag]" gibi köşeli parantez içindeki etiket kodu (tırnak işaretleri olmadan)',
 	'misc_bbcode_edit_replacement'	=> 'İkame içerik',
 	'misc_bbcode_edit_replacement_comment'	=> 'Etiket içeriğini değiştirmek için HTML kodu. En fazla üç dinamik parametreyi destekler.<br />{1} birinci parametreyi temsil eder<br />{2} ikinci bağımsız değişkeni temsil eder<br />{3} üçüncü parametreyi temsil eder.',
 	'misc_bbcode_edit_example'		=> 'Örnek',
@@ -5223,9 +5118,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 	'misc_cron'		=> 'Zamanlayıcı',
 	'misc_cron_list'	=> 'Zamanlanmış görevlerin listesi',
-	'misc_cron_tips'	=> '<li>Tartış! sistemin belirtilen zamanda otomatik olarak gerçekleştireceği bir dizi görev sağlar. Gerekirse bu site özelliğini kolayca genişletebilirsiniz.</li>	
-		<li>Planlı görevler, sistemin çekirdeği ile yakından ilgili işlevsel özelliklerdir. Yanlış ayarlar, site işlevlerinde gizli tehlikelere neden olabilir ve yalnızca ne yaptığınızı ve sonuçlarının ne olduğunu açıkça bildiğiniz zaman, görev öğelerini kendiniz ekleyin veya değiştirin.</li>
-		<li>Diğer fonksiyonlardan farklıdır.Bu fonksiyonda saat tamamen site sisteminin varsayılan saat farkına göre ayarlanıp görüntülenmektedir ve saat farkına göre görüntü veya ayar değiştirilmeyecektir. belirli bir kullanıcı veya yönetici zaman değerinin ayarı.</li>',
+	'misc_cron_tips'	=> '<li>Tartış! sistemin belirtilen zamanda otomatik olarak gerçekleştireceği bir dizi görev sağlar. Gerekirse bu site özelliğini kolayca genişletebilirsiniz.</li><li>Planlı görevler, sistemin çekirdeği ile yakından ilgili işlevsel özelliklerdir. Yanlış ayarlar, site işlevlerinde gizli tehlikelere neden olabilir ve yalnızca ne yaptığınızı ve sonuçlarının ne olduğunu açıkça bildiğiniz zaman, görev öğelerini kendiniz ekleyin veya değiştirin.</li><li>Diğer fonksiyonlardan farklıdır.Bu fonksiyonda saat tamamen site sisteminin varsayılan saat farkına göre ayarlanıp görüntülenmektedir ve saat farkına göre görüntü veya ayar değiştirilmeyecektir. belirli bir kullanıcı veya yönetici zaman değerinin ayarı.</li>',
 	'misc_cron_permonth'	=> 'Ayın günü',
 	'misc_cron_perweek'	=> 'Haftanın günü',
 	'misc_cron_perday'	=> 'Günlük',
@@ -5244,8 +5137,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_cron_next_run'	=> 'Sonraki yürütme zamanı',
 	'misc_cron_run'		=> 'Uygulamak',
 	'misc_cron_edit'	=> 'Zamanlanmış Görevi Düzenle',
-	'misc_cron_edit_tips'	=> '<li>Discuz\'a çok aşina değilseniz, sistemin yerleşik planlanmış görevlerini düzenlemeyin! veya varsayılan ayarların değiştirilmemesi şiddetle tavsiye edilir.</li>	
-		<li>Lütfen değişiklik yapmadan önce orijinal ayarları kaydedin. Yanlış ayarlar sitede beklenmeyen hatalara neden olabilir.</li>',
+	'misc_cron_edit_tips'	=> '<li>Discuz\'a çok aşina değilseniz, sistemin yerleşik planlanmış görevlerini düzenlemeyin! veya varsayılan ayarların değiştirilmemesi şiddetle tavsiye edilir.</li><li>Lütfen değişiklik yapmadan önce orijinal ayarları kaydedin. Yanlış ayarlar sitede beklenmeyen hatalara neden olabilir.</li>',
 	'misc_cron_edit_weekday'		=> 'Hafta içi',
 	'misc_cron_edit_weekday_comment'	=> 'Bu görevi uygulamak için haftanın gününü ayarlayın, sınırlamamak için "*" kullanın. Bu ayar, aşağıdaki "Gün" ayarının üzerine yazacaktır.',
 	'misc_cron_edit_day'			=> 'Ay Gün',
@@ -5258,11 +5150,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_cron_edit_filename_comment'	=> 'Görev yürütme komut dosyası adını ayarlayın. Dosya yolunu dahil etmeyin. source/include/cron/ dizininde depolanan cron betikleri. Eklenti zamanlanmış görevi, source/plugin/your_plugin_name/cron/ dizininde bulunur.',
 					
 	'misc_censor'			=> 'Kötü Kelime Filtresi',
-	'misc_censor_tips'		=> '<li>İçeriğin değiştirilmesi için, bir {x} niteleyicisi metnin iki bitişik karakterini yoksaymak için kullanılabilir; burada <b>x</b>, yok sayılan bir dizi karakterdir. Yani "a{1}s{2}s" maskesi (tırnak işaretleri olmadan) "<b>eşek</b>", "<b>a</b>x<b>s</b>\'yi filtreleyebilir x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>	
-		<li>Programın verimini etkilememek için lütfen çok fazla gereksiz filtreleme içeriği ayarlamayın.</li>
-		<li>İnceleme sadece forumdaki içerik için geçerlidir</li>
-		<li>Forum yöneticisi değilseniz, sadece eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li>
-		<li>Hassas kelime "/" (tırnak işaretleri olmadan) ile başlıyor ve bitiyorsa, bu, formatın bir normal ifade olduğu anlamına gelir. Bu durumda, normal ifadedeki alt kalıp "(n)", örneğin "/1\d{10}([^\d]+|$)/", "Cep telefonu(1)" ile değiştirilir.</li>',
+	'misc_censor_tips'		=> '<li>İçeriğin değiştirilmesi için, bir {x} niteleyicisi metnin iki bitişik karakterini yoksaymak için kullanılabilir; burada <b>x</b>, yok sayılan bir dizi karakterdir. Yani "a{1}s{2}s" maskesi (tırnak işaretleri olmadan) "<b>eşek</b>", "<b>a</b>x<b>s</b>\'yi filtreleyebilir x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Programın verimini etkilememek için lütfen çok fazla gereksiz filtreleme içeriği ayarlamayın.</li><li>İnceleme sadece forumdaki içerik için geçerlidir</li><li>Forum yöneticisi değilseniz, sadece eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li><li>Hassas kelime "/" (tırnak işaretleri olmadan) ile başlıyor ve bitiyorsa, bu, formatın bir normal ifade olduğu anlamına gelir. Bu durumda, normal ifadedeki alt kalıp "(n)", örneğin "/1\d{10}([^\d]+|$)/", "Cep telefonu(1)" ile değiştirilir.</li>',
 	'misc_censor_word'		=> 'Kötü bir kelime',
 	'misc_censor_replacement'	=> 'Yenisiyle değiştirme',
 	'misc_censor_type'		=> 'kelime türü',
@@ -5270,11 +5158,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_censor_wordtype_edit'	=> 'Kelime türünü düzenle',
 	'misc_censor_wordtype_tips'	=> '<li>Varsayılan tür yerleşik bir türdür. Bir grup kategorisini sildiğinizde, kelime filtresi otomatik olarak varsayılan kategoriye eklenir.</li>',
 	'misc_censor_batch_add'		=> 'Toplu Ekle',
-	'misc_censor_batch_add_tips'	=> '<li>Her satırda bir dizi filtreleme sözcüğü, hassas sözcükleri ve yerine geçen sözcükleri ayırmak için "=" kullanın;</li>	
-		<li>Filtreyi değiştirmek yerine belirli bir sözcüğü içeren metnin yayınlanmasını yasaklamak istiyorsanız, lütfen koyun Karşılık gelen değiştirme içeriği {BANNED} olarak ayarlanabilir; bir kullanıcı belirli bir kelimeyi içeren bir metin yayınladığında filtreyi doğrudan görüntülemek veya değiştirmek yerine otomatik olarak manuel inceleme gerektiriyor olarak işaretlemek istiyorsanız, lütfen ilgili içeriği ayarlayın içeriği {MOD} olarak değiştirin (inceleme yalnızca forumdaki içerik için geçerlidir).</li>
-		<li>Bir kelimeyi doğrudan ** ile değiştirmek istiyorsanız, sadece kelimeyi girin;</li>
-		<li>Örneğin:<br />toobad<br />nobad<br />badword=good<br />sexword={BANNED}</li>
-		<li>İçe aktarma/dışa aktarma sırasında kelime sınıflandırmasını içe aktarmayı destekler ve sınıflandırma olmadan içe aktarma yaparken seçerek içe aktarma sınıflandırmasını belirleyebilirsiniz. Hiçbir kategori olmadığında otomatik olarak varsayılan kategoriye girer</li>',
+	'misc_censor_batch_add_tips'	=> '<li>Her satırda bir dizi filtreleme sözcüğü, hassas sözcükleri ve yerine geçen sözcükleri ayırmak için "=" kullanın;</li><li>Filtreyi değiştirmek yerine belirli bir sözcüğü içeren metnin yayınlanmasını yasaklamak istiyorsanız, lütfen koyun Karşılık gelen değiştirme içeriği {BANNED} olarak ayarlanabilir; bir kullanıcı belirli bir kelimeyi içeren bir metin yayınladığında filtreyi doğrudan görüntülemek veya değiştirmek yerine otomatik olarak manuel inceleme gerektiriyor olarak işaretlemek istiyorsanız, lütfen ilgili içeriği ayarlayın içeriği {MOD} olarak değiştirin (inceleme yalnızca forumdaki içerik için geçerlidir).</li><li>Bir kelimeyi doğrudan ** ile değiştirmek istiyorsanız, sadece kelimeyi girin;</li><li>Örneğin:<br />toobad<br />nobad<br />badword=good<br />sexword={BANNED}</li><li>İçe aktarma/dışa aktarma sırasında kelime sınıflandırmasını içe aktarmayı destekler ve sınıflandırma olmadan içe aktarma yaparken seçerek içe aktarma sınıflandırmasını belirleyebilirsiniz. Hiçbir kategori olmadığında otomatik olarak varsayılan kategoriye girer</li>',
 	'misc_censor_batch_add_clear'	=> 'Yeni kelimelerin mevcut sözlüğünü boşalttıktan sonra, bu işlem geri yüklenemez, bu nedenle önce <a href="\'.ADMINSCRIPT.\'?action=misc&operation=censor&do=export" target="_blank"><b> ile bir yedekleme yapın. <u>Kötü kelimeler tablosunu dışa aktar</u></b></a>.<br />',
 	'misc_censor_batch_add_overwrite'	=> 'Yeni ayarlar mevcut kelimeleri geçersiz kılar',
 	'misc_censor_batch_add_no_overwrite'	=> 'Mevcut kelimelerin üzerine yazmayın',
@@ -5327,12 +5211,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'smilies_prefix'		=> 'Önek',
 	'smilies_suffix'		=> 'sonek',
 	'smilies_import'		=> 'Gülümsemeleri içe aktar',
-	'smilies_tips'			=> '<li>Bir gülümseme eklemek için ilgili görseli static/image/smiley/YOUR_SMILEY_CATEGORY/ dizinine yükleyin.</li>	
-		<li>Emojiler "JPG, GIF, PNG" formatlarındaki resimleri destekler ve dosya adı yalnızca sayılara, 26 İngilizce harfe, alt çizgiye, yarı genişlikte boşluklara ve "<>-.&[]()" gibi simgelere izin verir. Uzunluk 30 baytı geçemez, aksi halde tanınmaz.</li>
-		<li>Çok fazla sunucu kaynağı kullanmamak için lütfen çok fazla ifade ayarlamayın.</li>',
-	'smilies_tips_smileytypes'	=> '<li>Gülümsemelerin kategorilere göre sınıflandırılması için gülümseme resimlerini FTP aracılığıyla ilgili alt dizinlere yükleyin.</li>	
-		<li>Lütfen aynı anda çok fazla ifade kategorisini etkinleştirmeyin ve ifade penceresinin tüm ifade kategorilerini tam olarak görüntüleyememesi için ifade kategorilerinin ad uzunluğunu kontrol edin.</li>
-		<li>Arayüz stilinde varsayılan olarak görüntülenen ifade kategorilerini ayarlayabilirsiniz. Bir ifade kategorisini silmek için lütfen önce bu kategori altındaki tüm ifadeleri silin.</li>',
+	'smilies_tips'			=> '<li>Bir gülümseme eklemek için ilgili görseli static/image/smiley/YOUR_SMILEY_CATEGORY/ dizinine yükleyin.</li><li>Emojiler "JPG, GIF, PNG" formatlarındaki resimleri destekler ve dosya adı yalnızca sayılara, 26 İngilizce harfe, alt çizgiye, yarı genişlikte boşluklara ve "<>-.&[]()" gibi simgelere izin verir. Uzunluk 30 baytı geçemez, aksi halde tanınmaz.</li><li>Çok fazla sunucu kaynağı kullanmamak için lütfen çok fazla ifade ayarlamayın.</li>',
+	'smilies_tips_smileytypes'	=> '<li>Gülümsemelerin kategorilere göre sınıflandırılması için gülümseme resimlerini FTP aracılığıyla ilgili alt dizinlere yükleyin.</li><li>Lütfen aynı anda çok fazla ifade kategorisini etkinleştirmeyin ve ifade penceresinin tüm ifade kategorilerini tam olarak görüntüleyememesi için ifade kategorilerinin ad uzunluğunu kontrol edin.</li><li>Arayüz stilinde varsayılan olarak görüntülenen ifade kategorilerini ayarlayabilirsiniz. Bir ifade kategorisini silmek için lütfen önce bu kategori altındaki tüm ifadeleri silin.</li>',
 	'smiliesupload_tips'		=> 'Bir gülümseme kategorisi oluşturmak için, static/image/smiley/ dizini altında bir alt dizin oluşturun, resimleri buraya yükleyin ve ardından sayfayı yenileyin. Gülümseme kategorisi dizin adı sadece rakamlardan, 26 latin harften ve altı çizili toplamdan oluşabilir.',
 					
 	'click'			=> 'Pozisyon (Derecelendirme) yönetimi',
@@ -5340,9 +5220,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'click_edit_blogid'	=> 'Blog İşlemleri',
 	'click_edit_picid'	=> 'Fotoğraf İşlemleri',
 	'click_edit_aid'	=> 'Makale İşlemleri',
-	'click_edit_tips'	=> '<li>Bu işlev, günlük/resim/makale gönderme eylemini ayarlamak için kullanılır, lütfen eylem resmindeki resim dosyasının adını girin ve ilgili resim dosyasını static/image/click/ dizinine yükleyin. </li>	
-		<li><strong>Uyarı: Site belirli bir süre kullanıma açıldıktan sonra ifadelerin sırasının değiştirilmesi önceki ifade sonuçlarını etkileyecektir</strong></li>
-		<li>Her tür 8 eyleme kadar etkinleştirebilir</li>',
+	'click_edit_tips'	=> '<li>Bu işlev, günlük/resim/makale gönderme eylemini ayarlamak için kullanılır, lütfen eylem resmindeki resim dosyasının adını girin ve ilgili resim dosyasını static/image/click/ dizinine yükleyin.</li><li><strong>Uyarı: Site belirli bir süre kullanıma açıldıktan sonra ifadelerin sırasının değiştirilmesi önceki ifade sonuçlarını etkileyecektir</strong></li><li>Her tür 8 eyleme kadar etkinleştirebilir</li>',
 	'click_edit_addnew'	=> 'Yeni bir işlem ekle',
 	'click_edit_image'	=> 'Eylem resmi',
 	'click_edit_type'	=> 'Eylem Türü',
@@ -5366,20 +5244,15 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'misc_stamp_option_recommend'	=> 'Tavsiye etmek',
 	'misc_stamp_option_recommendto'	=> 'düzenlendi',
 	'misc_stamp_tips'		=> 'Statik/image/stamp/ dizini listesinde damga görüntüsünü bulamıyorsanız, lütfen görüntüyü FTP aracılığıyla bu dizine yükleyin ve ardından sayfayı yenileyin.',
-	'misc_stamp_listtips'		=> '<li>Gönderi içeriği sayfalarında doğrulama damgaları ve konu listesi sayfalarında referans simgeleri görüntülenir. </li>	
-		<li>Sistem, resim kimliği 0 ila 99 olan 100 tema tanımlayıcı resim konumu ayırır.</li>
-		<li>Resim kimliğini istediğiniz gibi değiştirmeyin, aksi takdirde temada kullanılan damgaların ve simgelerin karıştırılmasına neden olur.</li>
-		<li>Damga bir işlemle ilişkilendirildiğinde, ilgili işlem gerçekleştirildiğinde damga otomatik olarak konuya eklenecektir; bir damga bir simge ile ilişkilendirildiğinde, simge otomatik olarak konuya eklenecektir. damga eklendiğinde listelenir. İlişkili işlem, ilişkili simgeyle aynı anda ayarlanamaz.</li>',
+	'misc_stamp_listtips'		=> '<li>Gönderi içeriği sayfalarında doğrulama damgaları ve konu listesi sayfalarında referans simgeleri görüntülenir.</li><li>Sistem, resim kimliği 0 ila 99 olan 100 tema tanımlayıcı resim konumu ayırır.</li><li>Resim kimliğini istediğiniz gibi değiştirmeyin, aksi takdirde temada kullanılan damgaların ve simgelerin karıştırılmasına neden olur.</li><li>Damga bir işlemle ilişkilendirildiğinde, ilgili işlem gerçekleştirildiğinde damga otomatik olarak konuya eklenecektir; bir damga bir simge ile ilişkilendirildiğinde, simge otomatik olarak konuya eklenecektir. damga eklendiğinde listelenir. İlişkili işlem, ilişkili simgeyle aynı anda ayarlanamaz.</li>',
 	'misc_stamp_add'		=> 'Damga ekle',
 	'misc_stamp_imagename'		=> 'Damga/Simge görüntü adı',
-	'misc_stamp_addtips'		=> '<li>Bir damga veya simgeye eklemeyi seçebilirsiniz.</li>	
-		<li>Resim adı mutlaka doldurulmalıdır, isimsiz resimler eklenmeyecektir.</li>',
+	'misc_stamp_addtips'		=> '<li>Bir damga veya simgeye eklemeyi seçebilirsiniz.</li><li>Resim adı mutlaka doldurulmalıdır, isimsiz resimler eklenmeyecektir.</li>',
 	'misc_stamp_icon'		=> 'ilişkili simge',
 					
 	'misc_attachtype'		=> 'Tip Yönetimi Ekle',
 	'misc_attachtype_add'		=> 'Yeni ekleme türü ekle',
-	'misc_attachtype_tips'		=> '<li>Bu özellik, bazı ek türlerini belirli bir maksimum boyutla sınırlayabilir. Kullanıcı grubunun izin verilen maksimum boyutundan daha küçük olarak ayarlandığında, bu ek türü boyut sınırı geçerli olacaktır.</li>	
-		<li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li>',
+	'misc_attachtype_tips'		=> '<li>Bu özellik, bazı ek türlerini belirli bir maksimum boyutla sınırlayabilir. Kullanıcı grubunun izin verilen maksimum boyutundan daha küçük olarak ayarlandığında, bu ek türü boyut sınırı geçerli olacaktır.</li><li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li>',
 	'misc_attachtype_ext'		=> 'Uzantı Ekle (küçük harf)',
 	'misc_attachtype_maxsize'	=> 'Maksimum boyut (Kb)',
 					
@@ -5420,9 +5293,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'plugins_vars_variable'	=> 'Yapılandırma değişkeni adı (gerekli)',
 	'plugins_vars_type'	=> 'Değişken Türü',
 	'plugins_add'		=> 'Yeni eklenti tasarla',
-	'plugins_add_tips'	=> '<li><b>Bu özellik yalnızca eklenti geliştiricileri içindir.</b></li>	
-		<li>Eklenti geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Belgeler</a>".</li>
-		<li>Uyarı: Yanlış eklenti tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li>',
+	'plugins_add_tips'	=> '<li><b>Bu özellik yalnızca eklenti geliştiricileri içindir.</b></li><li>Eklenti geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Belgeler</a>".</li><li>Uyarı: Yanlış eklenti tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li>',
 	'plugins_import'		=> 'Eklenti verilerini içe aktar',
 	'plugins_import_ignore_version'	=> 'Discuz\'un farklı sürümleri için eklentileri içe aktarmaya izin ver! (bir hata üretebilir!!!)',
 	'plugins_update_to'		=> ' yükseltme',
@@ -5438,10 +5309,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'plugins_config_uninstallplugin'	=> 'Eklentiyi kaldır',
 	'plugins_edit'			=> 'Eklenti tasarımı',
 	'plugins_edit_available'	=> ' (Eklenti mevcut)',
-	'plugins_edit_tips'		=> '<li><b>Bu özellik yalnızca eklenti geliştiricilerin kullanımına yöneliktir. yalnızca eklentiyi yükler veya kullanırsanız bu ayarları değiştirmeyin.</b></li>	
-		<li>Eklenti geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Belgeler</a>".</li>
-		<li>Uyarı: Yanlış eklenti tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li>
-		<li>Tasarlanan eklentiyi <a href="https://addon.dismall.com" target="_blank">"Discuz! Uygulama Merkezi"</a>\'nde yayınlayın ve web yöneticileri</li>',
+	'plugins_edit_tips'		=> '<li><b>Bu özellik yalnızca eklenti geliştiricilerin kullanımına yöneliktir. yalnızca eklentiyi yükler veya kullanırsanız bu ayarları değiştirmeyin.</b></li><li>Eklenti geliştiricileri, bu işlevi kullanmadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz\'u dikkatlice okumalıdır! Teknik Belgeler</a>".</li><li>Uyarı: Yanlış eklenti tasarımı veya kurulumu sitenin tamamının normal kullanımını tehlikeye atabilir.</li><li>Tasarlanan eklentiyi <a href="https://addon.dismall.com" target="_blank">"Discuz! Uygulama Merkezi"</a>\'nde yayınlayın ve web yöneticileri</li>',
 	'plugins_edit_name'		=> 'Eklenti adı',
 	'plugins_edit_name_comment'	=> 'Eklenti adı yalnızca latin harfleri içerebilir ve 40 bayttan kısa olmalıdır',
 	'plugins_edit_version'		=> 'Eklenti sürümü',
@@ -5469,16 +5337,16 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'plugins_edit_modules_navsuburl'	=> 'Alt gezinme URL\'si',
 	'plugins_edit_modules_type'	=> 'Modül Tipi',
 	'plugins_edit_modules_type_1'	=> 'Navigasyon',
-	'plugins_edit_modules_type_2'	=> '',
+	'plugins_edit_modules_type_2'		=> '',
 	'plugins_edit_modules_type_5'	=> 'Gezinme çubuğu - eklenti menüsü',
 	'plugins_edit_modules_type_23'	=> 'Alt bilgi gezintisi',
 	'plugins_edit_modules_type_24'	=> 'Uzay navigasyonu',
 	'plugins_edit_modules_type_25'	=> 'Kişisel Navigasyon',
-	'plugins_edit_modules_type_6'	=> '',
+	'plugins_edit_modules_type_6'		=> '',
 	'plugins_edit_modules_type_7'	=> 'Kişisel Panel',
-	'plugins_edit_modules_type_8'	=> '',
-	'plugins_edit_modules_type_9'	=> '',
-	'plugins_edit_modules_type_10'	=> '',
+	'plugins_edit_modules_type_8'		=> '',
+	'plugins_edit_modules_type_9'		=> '',
+	'plugins_edit_modules_type_10'		=> '',
 	'plugins_edit_modules_type_3'	=> 'Yönetim Merkezi',
 	'plugins_edit_modules_type_4'	=> 'küresel içerik',
 	'plugins_edit_modules_type_11'	=> 'Sayfada gömülü',
@@ -5489,7 +5357,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'plugins_edit_modules_type_16'	=> 'Yönetim paneli - Araçlar',
 	'plugins_edit_modules_type_17'	=> 'Kişisel panel - kişisel bilgiler',
 	'plugins_edit_modules_type_19'	=> 'Kişisel panel - puanlar ve kullanıcı grubu',
-	'plugins_edit_modules_type_18'	=> '',
+	'plugins_edit_modules_type_18'		=> '',
 	'plugins_edit_modules_type_21'	=> 'Makale Yönetimi',
 	'plugins_edit_modules_type_26'	=> 'Benim gönderilerim',
 	'plugins_edit_modules_type_27'	=> 'Proje gezintisinin başı',
@@ -5655,8 +5523,8 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 					
 					
 	'magics'			=> 'Sihir Merkezi',
-	'magics_tips'			=> '<li>Sihirli sistem öğeleri source/class/magic/ dizininde, eklenti öğeleri ise source/plugin/you_plugin_name/magic/ dizininde bulunur</li>	
-		<li>Eklenti geliştiricileri, tasarlamadan önce dikkatlice okumalıdır yeni aksesuarlar <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Belgeler</a>".</li>',
+	'magics_tips'			=> '<li>Sihirli sistem öğeleri source/class/magic/ dizininde, eklenti öğeleri ise source/plugin/you_plugin_name/magic/ dizininde bulunur</li><li>Eklenti geliştiricileri, tasarlamadan önce dikkatlice okumalıdır yeni aksesuarlar <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Belgeler</a>".</li>',
+
 	'magics_config'			=> 'Magic Base Ayarları',
 	'magics_config_open'		=> 'Sihir merkezini etkinleştir',
 	'magics_config_open_comment'	=> 'Magic Center işlevlerine izin verilip verilmeyeceği',
@@ -5676,8 +5544,7 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'magics_add'		=> 'Yeni sihir ekle',
 	'magics_edit'		=> 'Büyüyü Düzenle',
 	'magics_list'		=> 'sihirli liste',
-	'magics_edit_tips'	=> '<li>Sihirli benzersiz tanımlayıcı uzunluğu 3 bayt olmalıdır, daha büyük bir uzunluk sistem tarafından otomatik olarak kesilir.</li>	
-		<li>Projenin benzersiz tanımlayıcısı eklendikten sonra lütfen özel bir ihtiyaç yoksa değiştirin</li>',
+	'magics_edit_tips'	=> '<li>Sihirli benzersiz tanımlayıcı uzunluğu 3 bayt olmalıdır, daha büyük bir uzunluk sistem tarafından otomatik olarak kesilir.</li><li>Projenin benzersiz tanımlayıcısı eklendikten sonra lütfen özel bir ihtiyaç yoksa değiştirin</li>',
 	'magics_edit_name'	=> 'Sihirli İsim',
 	'magics_edit_type'	=> 'Sihirli tip',
 	'magics_edit_credit'	=> 'Kullanım puanları Sihir',
@@ -5732,15 +5599,10 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'tasks_status_3'	=> 'Bitti',
 					
 	'tasks_tips'		=> '<li>Üyeler, yalnızca "uygun" olarak işaretlenen görevlere erişebilir ve bunları uygulayabilir.</li>',
-	'tasks_tips_edit'	=> '<li>Üyeler, yalnızca "uygun" olarak işaretlenen görevlere erişebilir ve bunları uygulayabilir.</li>	
-		<li>Görevin başlangıç zamanı ayarlanabilir ve belirli bir görevin ne zaman başlayacağını planlayabilirsiniz. Ayarlanmazsa, görev varsayılan olarak başlatılır.</li>',
-	'tasks_tips_add_member'	=> '<li>Üye sınıfı görevleri üç tür içerir: arkadaş ekleme, favori ekleme ve sihir kullanma. Bu tür görevler, üyeleri forum atmosferini harekete geçirmek için forum işlevlerini kullanmaya yönlendirebilir.</li>	
-		<li>Görevleri tamamlamak için farklı koşullar belirlemek, forumunuza uygun görevler oluşturabilir.</li>',
-	'tasks_tips_add_post'	=> '<li>Ders sonrası görevler artık üç tür içeriyor: şişman, Konu ekle, Yanıt ekle, Konu/yanıt ekle.</li>	
-		<li>Görev göndermek için bir forum belirtirseniz, lütfen kullanıcı gruplarının ve forumların izin ayarlarına dikkat edin, aksi halde görev için başvuran bazı kullanıcılar, yetkileri olmadığı için görevi asla tamamlayamayabilir. bu forumda yayınlama hakkı.</li>
-		<li>Yeni cevap gönderme görevi için, bir konuya veya bir yazarın konusuna cevap vermeyi belirtebilirsiniz, ancak lütfen konunun mevcut olması gerektiğini unutmayın, aksi takdirde kullanıcı görevi tamamlayamaz.</li>',
-	'tasks_tips_add_type'	=> '<li>source/class/task/ klasöründe bulunan sistem görevleri. Source/plugin/your_plugin_name/task/ klasöründe bulunan eklenti görevleri.</li>	
-		<li>Eklenti geliştiricileri, yeni görev türleri Dokümantasyonu tasarlamadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technology</a> dikkatlice okumalıdır.</li>',
+	'tasks_tips_edit'	=> '<li>Üyeler, yalnızca "uygun" olarak işaretlenen görevlere erişebilir ve bunları uygulayabilir.</li><li>Görevin başlangıç zamanı ayarlanabilir ve belirli bir görevin ne zaman başlayacağını planlayabilirsiniz. Ayarlanmazsa, görev varsayılan olarak başlatılır.</li>',
+	'tasks_tips_add_member'	=> '<li>Üye sınıfı görevleri üç tür içerir: arkadaş ekleme, favori ekleme ve sihir kullanma. Bu tür görevler, üyeleri forum atmosferini harekete geçirmek için forum işlevlerini kullanmaya yönlendirebilir.</li><li>Görevleri tamamlamak için farklı koşullar belirlemek, forumunuza uygun görevler oluşturabilir.</li>',
+	'tasks_tips_add_post'	=> '<li>Ders sonrası görevler artık üç tür içeriyor: şişman, Konu ekle, Yanıt ekle, Konu/yanıt ekle.</li><li>Görev göndermek için bir forum belirtirseniz, lütfen kullanıcı gruplarının ve forumların izin ayarlarına dikkat edin, aksi halde görev için başvuran bazı kullanıcılar, yetkileri olmadığı için görevi asla tamamlayamayabilir. bu forumda yayınlama hakkı.</li><li>Yeni cevap gönderme görevi için, bir konuya veya bir yazarın konusuna cevap vermeyi belirtebilirsiniz, ancak lütfen konunun mevcut olması gerektiğini unutmayın, aksi takdirde kullanıcı görevi tamamlayamaz.</li>',
+	'tasks_tips_add_type'	=> '<li>source/class/task/ klasöründe bulunan sistem görevleri. Source/plugin/your_plugin_name/task/ klasöründe bulunan eklenti görevleri.</li><li>Eklenti geliştiricileri, yeni görev türleri Dokümantasyonu tasarlamadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technology</a> dikkatlice okumalıdır.</li>',
 	'tasks_edit'		=> 'Görevi düzenle',
 	'tasks_list'		=> 'Görev listesi',
 	'tasks_edit_basic'	=> 'Görev ayarlarını düzenleyin',
@@ -5758,10 +5620,10 @@ For MYOP applications used icons with up to 7 digits. You can use the English wo
 	'tasks_add_endtime_comment'	=> 'Görev bitiş saatini girin. Bu tarihten sonra üyeler görevi uygulayamayacaktır. Kısıtlamamak için boş bırakın',
 	'tasks_add_periodtype'		=> 'Görev aralığı birimi',
 	'tasks_add_periodtype_comment'	=> 'Görev aralığı döngü birimini ayarlayın<br />	
-Hours: the task can be applied again after the specified hours after the task completed.<br />					
-Days: the task can be applied again after the specified days after the task completed.<br />					
-Weeks: the task can be applied again at a specified day of week (from Monday to Sunday). Enter the day of week number in interval from 1 (Monday) to 7 (Sunday)<br />					
-Months: the task can be applied again after a specified date of each month. Enter the day number in interval of 1 to 29,30,31<br />',				
+					Hours: the task can be applied again after the specified hours after the task completed.<br />
+					Days: the task can be applied again after the specified days after the task completed.<br />
+					Weeks: the task can be applied again at a specified day of week (from Monday to Sunday). Enter the day of week number in interval from 1 (Monday) to 7 (Sunday)<br />
+					Months: the task can be applied again after a specified date of each month. Enter the day number in interval of 1 to 29,30,31<br />',
 	'tasks_add_periodtype_hour'	=> 'Saat',
 	'tasks_add_periodtype_day'	=> 'gün',
 	'tasks_add_periodtype_week'	=> 'Haftalar',
@@ -5817,12 +5679,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'ec'				=> 'E-Ticaret',
 					
 	'ec_alipay'			=> 'Alipay ayarları',
-	'ec_alipay_tips'		=> '<li>"Alipay" (<a href="http://www.alipay.com" target="_blank">http://www.alipay.com</a>), Çin\'de lider bir çevrimiçi ödeme platformudur . Dünyanın en iyi B2B şirketi Alibaba tarafından kurulan Discuz! puan alımları ve forum B2C ve C2C ticaret platformları olan kullanıcılar. Basit ayarlar yapmanız yeterlidir ve forumun içeriği ve popülaritesi, forumun geniş çaplı işleyişini gerçekleştirmek için reklam gelirinin yanı sıra gerçekten önemli bir kâr kaynağı haline gelebilir.</li>	
-<li><b>Nakit işlemler söz konusu olduğundan, yanlış kullanımdan kaynaklanan fon kaybını önlemek için lütfen elektronik İşletme bölümünü dikkatlice okuduğunuzdan emin olun, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li>					
-<li>Kullanıcıların işlem puanları hesaplarını yeniden doldurmak için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak için kullanılabilir, puan aktarımı veya kullanıcı grubu yükseltme ve diğer işlevler. Alipay puan işlem fonksiyonu için, işlem puanlarını "<a href="\'.$BASESCRIPT.\'?action=setting&operation=credits" target="_blank">points setting</a>" ve aynı zamanda ilgili puanları ayarlayın Farklı durumların ihtiyaçlarını karşılamak için stratejiler. Lütfen alıcı Alipay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde puanlar ödeme yapıldıktan sonra gerçek zamanlı olarak kullanıcıya yatırılmayacak ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olacaktır.</li>					
-<li>Discuz! resmi web sitesi veya resmi forum tarafından aksi bildirilmedikçe, Discuz! tarafından sağlanan Alipay ödeme hizmeti her işlem için %1,5 işlem ücreti alır. Lütfen ilgili işletmelerin en son bildirimlerine, çeşitli politikaların veya prosedürlerin değişikliklerine ve ayarlamalarına dikkat edin ve Discuz! resmi web sitesi veya resmi forum tarafından sağlanan bilgiler geçerli olacaktır..</li>					
-<li>Alipay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir..</li>					
-<li>Alipay iş danışmanlığı e-postası <a href="mailto:6688@taobao.com">6688@taobao.com</a>; Alipay müşteri hizmetleri telefon numarası +86-0571-88156688.</li>',				
+	'ec_alipay_tips'		=> '<li>"Alipay" (<a href="http://www.alipay.com" target="_blank">http://www.alipay.com</a>), Çin\'de lider bir çevrimiçi ödeme platformudur . Dünyanın en iyi B2B şirketi Alibaba tarafından kurulan Discuz! puan alımları ve forum B2C ve C2C ticaret platformları olan kullanıcılar. Basit ayarlar yapmanız yeterlidir ve forumun içeriği ve popülaritesi, forumun geniş çaplı işleyişini gerçekleştirmek için reklam gelirinin yanı sıra gerçekten önemli bir kâr kaynağı haline gelebilir.</li><li><b>Nakit işlemler söz konusu olduğundan, yanlış kullanımdan kaynaklanan fon kaybını önlemek için lütfen elektronik İşletme bölümünü dikkatlice okuduğunuzdan emin olun, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li><li>Kullanıcıların işlem puanları hesaplarını yeniden doldurmak için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak için kullanılabilir, puan aktarımı veya kullanıcı grubu yükseltme ve diğer işlevler. Alipay puan işlem fonksiyonu için, işlem puanlarını "<a href="\'.$BASESCRIPT.\'?action=setting&operation=credits" target="_blank">points setting</a>" ve aynı zamanda ilgili puanları ayarlayın Farklı durumların ihtiyaçlarını karşılamak için stratejiler. Lütfen alıcı Alipay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde puanlar ödeme yapıldıktan sonra gerçek zamanlı olarak kullanıcıya yatırılmayacak ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olacaktır.</li><li>Discuz! resmi web sitesi veya resmi forum tarafından aksi bildirilmedikçe, Discuz! tarafından sağlanan Alipay ödeme hizmeti her işlem için %1,5 işlem ücreti alır. Lütfen ilgili işletmelerin en son bildirimlerine, çeşitli politikaların veya prosedürlerin değişikliklerine ve ayarlamalarına dikkat edin ve Discuz! resmi web sitesi veya resmi forum tarafından sağlanan bilgiler geçerli olacaktır.</li><li>Alipay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir.</li><li>Alipay iş danışmanlığı e-postası <a href="mailto:6688@taobao.com">6688@taobao.com</a>; Alipay müşteri hizmetleri telefon numarası +86-0571-88156688.</li>',
 	'ec_alipay_account'		=> 'Alipay Hesabı',
 	'ec_alipay_account_comment'	=> 'Takas veya işlem özelliklerini etkinleştirirseniz, kullanıcıların para ve puan alışverişi ile ilgili nakit işlemlerine izin vermek için lütfen gerçek ve etkili bir Alipay hesabı girin. Hesabın geçersiz olması veya güvenlik kodunun yanlış olması kullanıcı işlemlerinde hatalara neden olacaktır.<br />Alipay hesabınız yoksa <a href="http://www.alipay.com/redir. do?id=307&site=allbbs&target=https%3A%2F%2Fwww.alipay.com%2Fuser%2Fuser_register.htm" target="_blank">Yeni Alipay Hesabı Kaydedin</a>',
 	'ec_alipay_check'		=> 'Test Ödemesi',
@@ -5867,10 +5724,9 @@ Months: the task can be applied again after a specified date of each month. Ente
 <li>Tenpay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir..</li>					
 <li>TenPay hizmet hattı: 0755-83762288-2 (24 saat hizmet hattı)</li>',				
 					
+
 	'ec_orders'			=> 'Maksimum sipariş puanı',
-	'ec_orders_tips'		=> '<li>İşlem emri yönetimi işlevini (Alipay düğme işlevi dahil değildir) kullanmanın başlangıç noktalarındasınız. Elektronik ticaret bölümündeki "Kullanım Kılavuzu"nu dikkatlice okuduğunuzdan emin olun, işlemleri tam olarak anladığınızı onaylayın ve kabul edin ve ardından silmek için kullanın.</li>	
-		<li>Kullanıcılarınız çevrimiçi ödeme sonrasında puan hesaplarını otomatik olarak yükleyemediklerini bildiriyorsa bunun nedeni Alipay hesabınızın bildirim arayüzü ayarının yanlış olması veya web sitenize Alipay bildirim sistemi tarafından normal şekilde erişilememesi olabilir. Alipay işlem yönetimi arayüzüne giriş yapabilir ve işlem detaylarını karşılaştırarak ilgili siparişi manuel olarak onaylayabilirsiniz.</li>
-		<li>Sipariş bilgileri 60 gün boyunca tutulur, bu nedenle sipariş bilgilerini yalnızca 60 gün içinde sorgulayabilir ve yönetebilirsiniz, 60 günü aşan bilgiler otomatik olarak silinir.</li>',
+	'ec_orders_tips'		=> '<li>İşlem emri yönetimi işlevini (Alipay düğme işlevi dahil değildir) kullanmanın başlangıç noktalarındasınız. Elektronik ticaret bölümündeki "Kullanım Kılavuzu"nu dikkatlice okuduğunuzdan emin olun, işlemleri tam olarak anladığınızı onaylayın ve kabul edin ve ardından silmek için kullanın.</li><li>Kullanıcılarınız çevrimiçi ödeme sonrasında puan hesaplarını otomatik olarak yükleyemediklerini bildiriyorsa bunun nedeni Alipay hesabınızın bildirim arayüzü ayarının yanlış olması veya web sitenize Alipay bildirim sistemi tarafından normal şekilde erişilememesi olabilir. Alipay işlem yönetimi arayüzüne giriş yapabilir ve işlem detaylarını karşılaştırarak ilgili siparişi manuel olarak onaylayabilirsiniz.</li><li>Sipariş bilgileri 60 gün boyunca tutulur, bu nedenle sipariş bilgilerini yalnızca 60 gün içinde sorgulayabilir ve yönetebilirsiniz, 60 günü aşan bilgiler otomatik olarak silinir.</li>',
 	'ec_orders_search'		=> 'Şarj noktası siparişlerini arayın',
 	'ec_inviteorders_search'	=> 'Sipariş Davet kodu Ara',
 	'ec_inviteorders_status'	=> 'Sipariş durumu',
@@ -5936,7 +5792,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'project_option_forum_allowside'	=> 'Kenar çubuğunu açmaya izin ver',
 	'project_option_forum_allowbbcode'	=> 'BB Kodunun kullanılmasına izin ver',
 	'project_option_forum_allowimgcode'	=> '[img] Kodunun kullanılmasına izin ver',
-	'project_option_forum_allowmediacode'	=> 'Multimedya kodunun kullanılmasına izin ver [ses] [medya] [flaş]',
+	'project_option_forum_allowmediacode'	=> 'Multimedya kodunun kullanılmasına izin ver [audio] [media] [flash]',
 	'project_option_forum_allowanonymous'	=> 'Gönderilerin anonim olarak yayınlanmasına izin ver',
 	'project_option_forum_allowshare'	=> 'Paylaşımların kullanılmasına izin ver',
 	'project_option_forum_allowpostspecial'	=> 'Özel iplik türleri için bir düğme göster',
@@ -6013,7 +5869,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'project_option_group_allowtransfer'	=> 'Puan aktarımına izin ver',
 	'project_option_group_allowsetreadperm'	=> 'Okuma izinlerini ayarlamaya izin ver',
 	'project_option_group_allowsetattachperm'	=> 'Ek izinlerini ayarlamaya izin ver',
-	'project_option_group_allowhidecode'	=> '[gizle] BBCode kullanımına izin ver',
+	'project_option_group_allowhidecode'	=> '[hide] BBCode kullanımına izin ver',
 	'project_option_group_allowmediacode'	=> '[audio] [media] [flash] etiketlerinin kullanılmasına izin ver',
 	'project_option_group_allowhtml'	=> 'HTML kodunun kullanılmasına izin ver',
 	'project_option_group_allowanonymous'	=> 'Anonim gönderiye izin ver',
@@ -6151,9 +6007,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'filecheck_start'		=> 'Başlangıç',
 	'filecheck_verifying'		=> 'Dosya kontrolü devam ediyor, lütfen bekleyin...',
 	'filecheck_tips_step1'		=> 'Discuz ile karşılaştırıldığında dosya sağlama toplamı! Resmi yayın dosyaları. Kontrolü başlatmak için aşağıdaki düğmeyi tıklayın.',
-	'filecheck_tips'		=> '<li>Forum anormal çalıştığında veya yasa dışı işgalden sonra, Forumun güvenli çalışmasını sağlamak için program dosyalarının bütünlüğünü kontrol etmek için bu işlevi kullanmalısınız</li>	
-		<li>“<font color="red">kaybedildi</font>” Dosyaları FTP üzerinden zamanında eklemelisiniz, aksi halde forum normal çalışmayabilir</li>
-		<li>“<font color="red">değiştirilmiş</font>", "<font color="red">Bilinmeyen</font>" dosyalar dikkatinizi çekmelidir, dosyanın sizin tarafınızdan değiştirildiğini veya bir eklenti tarafından eklendiğini onaylamalısınız, aksi takdirde lütfen bilinmeyen dosyayı silin ve değiştirilen dosyayı geri yükleyin</li>',
+	'filecheck_tips'		=> '<li>Forum anormal çalıştığında veya yasa dışı işgalden sonra, Forumun güvenli çalışmasını sağlamak için program dosyalarının bütünlüğünü kontrol etmek için bu işlevi kullanmalısınız</li><li>“<font color="red">kaybedildi</font>” Dosyaları FTP üzerinden zamanında eklemelisiniz, aksi halde forum normal çalışmayabilir</li><li>“<font color="red">değiştirilmiş</font>", "<font color="red">Bilinmeyen</font>" dosyalar dikkatinizi çekmelidir, dosyanın sizin tarafınızdan değiştirildiğini veya bir eklenti tarafından eklendiğini onaylamalısınız, aksi takdirde lütfen bilinmeyen dosyayı silin ve değiştirilen dosyayı geri yükleyin</li>',
 	'filecheck_completed'		=> 'Sonuçları Kontrol Et',
 	'filecheck_unknown'		=> 'bilinmeyen dosyalar',
 	'filecheck_modify'		=> 'Değiştirilmiş dosyalar',
@@ -6168,15 +6022,13 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'hookcheck_start'		=> 'Başlangıç',
 	'hookcheck_verifying'		=> 'Kanca kontrolü devam ediyor, lütfen bekleyin...',
 	'hookcheck_tips_step1'		=> 'Discuz için gömülü kanca kontrolü kullanılır! resmi sürüm dosyaları, {şablonu} doğrulamak için aşağıdaki düğmeyi tıklayın',
-	'hookcheck_tips'		=> '<li>"<font color="red">Hook</font>", "&lt;!--{hook/xxx}--&gt;" kodu olarak kullanılır. şablon dosyalarında. Bir şablon dosyasının kanca kodunu kaybetmesi, bulut hizmetleri (QQ grupları, Tencent analizi gibi) eklentilerinin normal şekilde kullanılamamasına neden olur.</li>	
-		<li>"<font color="red">eksik şablon dosyaları için yerleştirme noktası</font>", orijinali karşılaştırmak için bir karşılaştırma aracı kullanmanız gerekir. Dosyayı sunucudaki karşılık gelen şablon dosyasıyla karşılaştırın ve eksik gömülü nokta kodunu tamamlayın</li>',
+	'hookcheck_tips'		=> '<li>"<font color="red">Hook</font>", "&lt;!--{hook/xxx}--&gt;" kodu olarak kullanılır. şablon dosyalarında. Bir şablon dosyasının kanca kodunu kaybetmesi, bulut hizmetleri (QQ grupları, Tencent analizi gibi) eklentilerinin normal şekilde kullanılamamasına neden olur.</li><li>"<font color="red">eksik şablon dosyaları için yerleştirme noktası</font>", orijinali karşılaştırmak için bir karşılaştırma aracı kullanmanız gerekir. Dosyayı sunucudaki karşılık gelen şablon dosyasıyla karşılaştırın ve eksik gömülü nokta kodunu tamamlayın</li>',
 	'hookcheck_completed'		=> 'Sonuçları kontrol et',
 	'hookcheck_delete'		=> 'Kayıp kanca dosyaları',
 	'hookcheck_discuzhook'		=> 'Orijinal Kanca',
 	'hookcheck_delhook'		=> 'Kayıp Kanca',
 					
-	'replacekey_tips'		=> '<li>Sitenin güvenliği ihlal edildiğinde bilgisayar korsanlarının bilinen bir AUTHKEY aracılığıyla site kontrolünü ele geçirmesini önlemek için burada anahtar güncellemesi yapmayı düşünmelisiniz.</li>	
-		<li><font color="blue">Az sayıda eklenti, verileri kaydetmek için site anahtarını kullanır. Anahtar sıfırlandığında, ilgili veriler kaybolur ve kurtarılamaz. Lütfen ödeme yapın dikkat ve veritabanı ile iyi bir iş yapmak ve site dosyalarının Yedekleme güncellemeden önce. </font></li>',
+	'replacekey_tips'		=> '<li>Sitenin güvenliği ihlal edildiğinde bilgisayar korsanlarının bilinen bir AUTHKEY aracılığıyla site kontrolünü ele geçirmesini önlemek için burada anahtar güncellemesi yapmayı düşünmelisiniz.</li><li><font color="blue">Az sayıda eklenti, verileri kaydetmek için site anahtarını kullanır. Anahtar sıfırlandığında, ilgili veriler kaybolur ve kurtarılamaz. Lütfen ödeme yapın dikkat ve veritabanı ile iyi bir iş yapmak ve site dosyalarının Yedekleme güncellemeden önce.</font></li>',
 	'replacekey_tips_step1'		=> 'İşlemden önce, düşük yoğun çalışmayı seçmeniz veya işlemden önce siteyi kapatmanız ve iyi bir veri ve dosya yedekleme işi yapmanız önerilir, değiştirmeyi başlatmak için aşağıdaki düğmeyi tıklayın',
 	'replacekey_tips_step2'		=> 'Anahtar güncellemesi devam ediyor, lütfen bekleyin...',
 					
@@ -6188,8 +6040,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 					
 	'dbcheck_verifying'		=> 'Veritabanı sağlama toplamı devam ediyor, lütfen bekleyin...',
 	'dbcheck_tips_step1'		=> 'Bir veritabanı kontrolü başlatmak için aşağıdaki düğmeyi tıklayın.',
-	'dbcheck_tips'			=> '<li>Veritabanı kontrolü yalnızca Discuz\'u kontrol eder! resmi yayın veritabanı yapısı.</li>	
-		<li>Bu araç yalnızca alanların değiştirilmesini ve eksikliğini kontrol eder ve dizin eksikliğiyle ilgilenmez.</li>',
+	'dbcheck_tips'			=> '<li>Veritabanı kontrolü yalnızca Discuz\'u kontrol eder! resmi yayın veritabanı yapısı.</li><li>Bu araç yalnızca alanların değiştirilmesini ve eksikliğini kontrol eder ve dizin eksikliğiyle ilgilenmez.</li>',
 	'dbcheck_field'			=> 'yanlış alan',
 	'dbcheck_org_field'		=> 'Sağ alan',
 	'dbcheck_new_field'		=> 'Yeni alan',
@@ -6229,8 +6080,8 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'counter_thread_heat'		=> 'Sıcak Konuları Yeniden Say',
 	'counter_forumid'		=> 'Forum Kimliği',
 	'counter_have_cover'		=> 'Mevcut konuların dahil edilmesi',
-	'counter_tips'			=> '<li>Aşağıdaki veriler normal değil. Durumu düzeltmek için verileri güncellemek için bu işlevi kullanabilirsiniz. Lütfen üyelerin erişiminin en yoğun olduğu zamandan kaçınmaya çalışın</li>\' .	
-\'<li>Her döngüde sayıyı güncelleyin: Değeri makul bir aralıkta ayarlayın. Çok büyük olmamalıdır, Aksi takdirde sunucu yük baskısını artırır</li>',				
+	'counter_tips'			=> '<li>Aşağıdaki veriler normal değil. Durumu düzeltmek için verileri güncellemek için bu işlevi kullanabilirsiniz. Lütfen üyelerin erişiminin en yoğun olduğu zamandan kaçınmaya çalışın</li>' .
+				'<li>Her döngüde sayıyı güncelleyin: Değeri makul bir aralıkta ayarlayın. Çok büyük olmamalıdır, Aksi takdirde sunucu yük baskısını artırır</li>',				
 					
 					
 	'remoderate'		=> 'İçerik denetimi',
@@ -6256,16 +6107,10 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'db_multivol'		=> 'Çok ses',
 	'db_zip'		=> 'posta kodu',
 	'db_volume'		=> 'cilt sayısı',
-//bug	'db_delete_tips'	=> '<br /><br /><a href="\'.ADMINSCRIPT.\'?action=db&operation=import&deletesubmit=1&delete[]={filename}&formhash={FORMHASH}" onclick="return onaylayın (\\'Gönderdiğinize emin misiniz? sunucudaki yedekleme verilerini silmek istiyor musunuz?\\');"><font color="#fe7e01"><strong>Sunucudaki yedekleme verilerini silin</strong></font></a>',
-	'db_export_tips_nouc'	=> '<li><font color="blue"><b>Veri yedeklemeniz UCenter verilerini içermez, Üyelik verilerinizi etkiler, UCenter Verilerini yedeklemek için <a href="{uc_backup_url}">Burayı</a> tıklayın ayrı ayrı.</b></font></li>	
-		<li>Veri yedekleme işlevi, seçiminize göre tüm Discuz! verilerini yedekleyebilir ve dışa aktarılan veri dosyaları, "veri kurtarma" işlevi veya phpMyAdmin.</li>',
+	'db_delete_tips'	=> '<br /><br /><a href="'.ADMINSCRIPT.'?action=db&operation=import&deletesubmit=1&delete[]={filename}&formhash={FORMHASH}" onclick="return confirm (\'Gönderdiğinize emin misiniz? sunucudaki yedekleme verilerini silmek istiyor musunuz?\');"><font color="#fe7e01"><strong>Sunucudaki yedekleme verilerini silin</strong></font></a>',
+	'db_export_tips_nouc'	=> '<li><font color="blue"><b>Veri yedeklemeniz UCenter verilerini içermez, Üyelik verilerinizi etkiler, UCenter Verilerini yedeklemek için <a href="{uc_backup_url}">Burayı</a> tıklayın ayrı ayrı.</b></font></li><li>Veri yedekleme işlevi, seçiminize göre tüm Discuz! verilerini yedekleyebilir ve dışa aktarılan veri dosyaları, "veri kurtarma" işlevi veya phpMyAdmin.</li>',
 	'db_export_tips_uc'	=> '<li>Veri yedekleme işlevi tüm Discuz! ve UCenter verileri seçiminize göre ve dışa aktarılan veri dosyaları "Veri Kurtarma" işlevi veya phpMyAdmin ile içe aktarılabilir. </li>',
-	'db_export_tips'	=> '<li><font color="blue"><b>Güvenlik nedeniyle, veritabanı yedekleme dosyasını dosyayı sildikten veya URL üzerinden erişilemez olarak ayarladıktan sonra indirmenizi kesinlikle öneririz.</b></font> </li>	
-		<li>Tüm yedeklemeler şablon dosyalarını ve ek dosyalarını içermez. Şablonları ve ekleri yedeklemek için yalnızca template/ ve data/attachment/ dizinlerini FTP vb. aracılığıyla indirmeniz gerekir. Discuz! ayrı yedeklemeler sağlamaz.</li>
-		<li>MySQL Dump, Discuz! sorunsuz ilerlemek için aynı veya benzer sürüm numarasına sahip olmalıdır. Bu nedenle, MySQL Dump risklidir: Yedekleme veya kurtarma işlemlerini gerçekleştiren sunuculardan biri Kabuğu devre dışı bıraktığında veya sürüm uyumluluğu sorunları nedeniyle içe aktarma başarısız olduğunda, MySQL Dump yedeklemesini kullanamayacak veya yedekleme verilerinden geri yükleme yapamayacaksınız; Discuz! Yedeklemelerde bu sınırlama yoktur.</li>
-		<li>Veri yedekleme seçeneğindeki ayarlar sadece ileri düzey kullanıcılar için özel amaçlıdır. Veritabanını kapsamlı ve ayrıntılı bir şekilde anlamadan önce lütfen varsayılan parametre yedeklemesini kullanın, aksi takdirde ciddi sorunlara neden olur. yedek veri hataları olarak.</li>
-		<li>Onaltılık biçim, yedekleme verilerinin bütünlüğünü garanti edebilir, ancak yedekleme dosyası daha fazla yer kaplar.</li>
-		<li>Yedek dosyalarınızı sıkıştırmak, yedek dosyalarınızın daha az yer kaplamasını sağlar.</li>',
+	'db_export_tips'	=> '<li><font color="blue"><b>Güvenlik nedeniyle, veritabanı yedekleme dosyasını dosyayı sildikten veya URL üzerinden erişilemez olarak ayarladıktan sonra indirmenizi kesinlikle öneririz.</b></font></li><li>Tüm yedeklemeler şablon dosyalarını ve ek dosyalarını içermez. Şablonları ve ekleri yedeklemek için yalnızca template/ ve data/attachment/ dizinlerini FTP vb. aracılığıyla indirmeniz gerekir. Discuz! ayrı yedeklemeler sağlamaz.</li><li>MySQL Dump, Discuz! sorunsuz ilerlemek için aynı veya benzer sürüm numarasına sahip olmalıdır. Bu nedenle, MySQL Dump risklidir: Yedekleme veya kurtarma işlemlerini gerçekleştiren sunuculardan biri Kabuğu devre dışı bıraktığında veya sürüm uyumluluğu sorunları nedeniyle içe aktarma başarısız olduğunda, MySQL Dump yedeklemesini kullanamayacak veya yedekleme verilerinden geri yükleme yapamayacaksınız; Discuz! Yedeklemelerde bu sınırlama yoktur.</li><li>Veri yedekleme seçeneğindeki ayarlar sadece ileri düzey kullanıcılar için özel amaçlıdır. Veritabanını kapsamlı ve ayrıntılı bir şekilde anlamadan önce lütfen varsayılan parametre yedeklemesini kullanın, aksi takdirde ciddi sorunlara neden olur. yedek veri hataları olarak.</li><li>Onaltılık biçim, yedekleme verilerinin bütünlüğünü garanti edebilir, ancak yedekleme dosyası daha fazla yer kaplar.</li><li>Yedek dosyalarınızı sıkıştırmak, yedek dosyalarınızın daha az yer kaplamasını sağlar.</li>',
 	'db_export_type'		=> 'Yedekleme türü',
 	'db_export_discuz'		=> 'Tüm site verileri',
 	'db_export_discuz_uc'		=> 'Konuş! ve UCenter verileri',
@@ -6294,18 +6139,14 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'db_import_confirm'	=> 'İçe aktarılan dosya verileri ve mevcut Discuz! Sürüm uyumsuz ve bir arızaya neden olabilir',
 	'db_import_confirm_sql'	=> 'SQL yedeğini almak istediğinizden emin misiniz?',
 	'db_import_confirm_zip'	=> 'Yedeği açmak istediğinizden emin misiniz?',
-	'db_import_tips'	=> '<li>Bu işlev, yedek verileri geri yüklerken orijinal verilerin tamamen üzerine yazacaktır. Lütfen sitenin restorasyondan önce kapatıldığından emin olun. Geri yükleme tamamlandıktan sonra site yeniden açılabilir.</li>	
-		<li><font color="blue"><b>Güvenlik nedenleriyle, veritabanı yedekleme dosyasını geri yükledikten sonra dosyayı silmenizi veya dosyayı URL yoluyla erişilemez hale getirmenizi kesinlikle öneririz.</b></font></li>
-		<li> Verileri geri yüklemeden önce, lütfen Discuz! kurulum dosya dizini altındaki yardımcı program klasöründe restore.php dosyasını bulun ve ardından restore.php dosyasını veri dizinine yükleyin. program klasörünün. <b>Sitenizin güvenliği için, verileri başarılı bir şekilde geri yükledikten sonra lütfen restore.php dosyasını zamanında sildiğinizden emin olun.</b></li>
-		<li>Veri yedekleme kaydından sitenin yedek dosyasının detaylı bilgilerini kontrol edebilir, süresi dolan yedeği silebilir, gerekli yedeği import edebilirsiniz.</li>',
+	'db_import_tips'	=> '<li>Bu işlev, yedek verileri geri yüklerken orijinal verilerin tamamen üzerine yazacaktır. Lütfen sitenin restorasyondan önce kapatıldığından emin olun. Geri yükleme tamamlandıktan sonra site yeniden açılabilir.</li><li><font color="blue"><b>Güvenlik nedenleriyle, veritabanı yedekleme dosyasını geri yükledikten sonra dosyayı silmenizi veya dosyayı URL yoluyla erişilemez hale getirmenizi kesinlikle öneririz.</b></font></li><li> Verileri geri yüklemeden önce, lütfen Discuz! kurulum dosya dizini altındaki yardımcı program klasöründe restore.php dosyasını bulun ve ardından restore.php dosyasını veri dizinine yükleyin. program klasörünün. <b>Sitenizin güvenliği için, verileri başarılı bir şekilde geri yükledikten sonra lütfen restore.php dosyasını zamanında sildiğinizden emin olun.</b></li><li>Veri yedekleme kaydından sitenin yedek dosyasının detaylı bilgilerini kontrol edebilir, süresi dolan yedeği silebilir, gerekli yedeği import edebilirsiniz.</li>',
 	'do_import_option'	=> 'Yardımcı program/ dizini altındaki restore.php\'ye gidin ve dosyaları data/ dizinine yükleyin ve ardından tarayıcı url\'sinde veri kurtarma işlemini gerçekleştirin <a href="{restore_url}" target="_blank">{restore_url}</a ></li></ul>',
 	'db_import_from_server'	=> 'Sunucudan (dosya adını veya URL\'yi girin)',
 	'db_import_from_local'	=> 'Yerel dosyadan',
 	'db_import_unzip'	=> 'Sıkıştırılmış',
 					
 	'db_runquery'		=> 'Veritabanı sürümünü yükseltin',
-	'db_runquery_tips'	=> '<li>Genel SQL işlemleri için genişletilmiş işlevsellik eklemek için admincp/quickqueries.inc.php dosyasını değiştirebilirsiniz.</li>	
-		<li>Güvenlik nedeniyle, Discuz! arka planı, varsayılan olarak SQL ifadelerinin doğrudan yürütülmesini yasaklar ve yalnızca ortak SQL içeriklerini kullanabilir.<br />İstediğiniz zaman SQL yükseltme ifadeleri yazmak istiyorsanız, /config_global.php içindeki $_config[admincp][runquery] ayarı 1 olarak değiştirilmiştir.</li>',
+	'db_runquery_tips'	=> '<li>Genel SQL işlemleri için genişletilmiş işlevsellik eklemek için admincp/quickqueries.inc.php dosyasını değiştirebilirsiniz.</li><li>Güvenlik nedeniyle, Discuz! arka planı, varsayılan olarak SQL ifadelerinin doğrudan yürütülmesini yasaklar ve yalnızca ortak SQL içeriklerini kullanabilir.<br />İstediğiniz zaman SQL yükseltme ifadeleri yazmak istiyorsanız, /config_global.php içindeki $_config[admincp][runquery] ayarı 1 olarak değiştirilmiştir.</li>',
 	'db_runquery_sql'		=> 'Konuş! Veritabanı yükseltmesi - Lütfen aşağıdaki veritabanı yükseltme bildirimini yapıştırın',
 	'db_runquery_denied'		=> 'Üzgünüz, bu özellik devre dışı. Etkinleştirmeniz gerekirse, config/config_global.php yapılandırma dosyasını düzenleyin.',
 	'db_runquery_comment'		=> 'Not: Başarılı bir yükseltme sağlamak için SQL deyiminin herhangi bir bölümünü değiştirmeyin.',
@@ -6460,29 +6301,21 @@ Months: the task can be applied again after a specified date of each month. Ente
 					
 	'adv_type_version'		=> 'blok tipi',
 	'adv_type_headerbanner'		=> 'Sayfa başlığı banner\'ı',
-	'adv_type_headerbanner_tips'	=> '<li>Görüntüleme modu: Forum sayfasının sağ üst köşesinde görüntülenen, genellikle 468x60 resim veya Flash kullanan sayfa başlığı banner reklamları. Geçerli sayfada birden çok banner varsa sistem göstermek için bunlardan birini rastgele seçer.</li>	
-		<li>Değer analizi: Reklam içeriği sayfa açılır açılmaz en göz alıcı konumda görüntülenebildiği için fiyatı en yüksek ve ticari kullanıma en uygun reklam türlerinden biri haline gelmiştir. web sayfasında promosyon veya marka tanıtımı.</li>',
+	'adv_type_headerbanner_tips'	=> '<li>Görüntüleme modu: Forum sayfasının sağ üst köşesinde görüntülenen, genellikle 468x60 resim veya Flash kullanan sayfa başlığı banner reklamları. Geçerli sayfada birden çok banner varsa sistem göstermek için bunlardan birini rastgele seçer.</li><li>Değer analizi: Reklam içeriği sayfa açılır açılmaz en göz alıcı konumda görüntülenebildiği için fiyatı en yüksek ve ticari kullanıma en uygun reklam türlerinden biri haline gelmiştir. web sayfasında promosyon veya marka tanıtımı.</li>',
 	'adv_type_footerbanner'		=> 'Altbilgi başlığı',
-	'adv_type_footerbanner_tips'	=> '<li>Genellikle 468x60 veya başka bir boyutta resim veya Flash kullanılarak Forum sayfasının alt kısmında görüntülenen altbilgi banner reklamları. Geçerli sayfada birden çok banner varsa sistem göstermek için bunlardan birini rastgele seçer.</li>	
-		<li>Değer analizi: Sayfanın başı ve ortası ile karşılaştırıldığında, sayfanın kuyruğunun görüntülenme olasılığı nispeten düşüktür, bu genellikle ziyaretçilerde tiksinti uyandırmaz ve aynı zamanda temel olarak reklamın içeriğiyle ilgilenen tüm kitleleri kapsaması, tarafsız ve nazik bir tanıtım için çok uygundur.</li>',
+	'adv_type_footerbanner_tips'	=> '<li>Genellikle 468x60 veya başka bir boyutta resim veya Flash kullanılarak Forum sayfasının alt kısmında görüntülenen altbilgi banner reklamları. Geçerli sayfada birden çok banner varsa sistem göstermek için bunlardan birini rastgele seçer.</li><li>Değer analizi: Sayfanın başı ve ortası ile karşılaştırıldığında, sayfanın kuyruğunun görüntülenme olasılığı nispeten düşüktür, bu genellikle ziyaretçilerde tiksinti uyandırmaz ve aynı zamanda temel olarak reklamın içeriğiyle ilgilenen tüm kitleleri kapsaması, tarafsız ve nazik bir tanıtım için çok uygundur.</li>',
 	'adv_type_text'			=> 'metin reklamlar',
-	'adv_type_text_tips'		=> '<li>Görüntüleme modu: tablo biçimindeki metin reklam sayfaları. Ana sayfada gösterilen, içeriği üç başlıktan oluşan bir liste ve sayfanın üst kısmındaki gönderiler, genellikle metin biçiminde, aynı zamanda küçük resimler ve Flash da kullanılmış. Geçerli sayfada birden çok metin reklam varsa, sistem, otomatik olarak en iyisini düzenlemek için, 3 ila 5 dinamik düzenleme aralığındaki sütun sayısına göre, aynı anda tümü açık olanların görüntülenme sırasına göre tablo biçiminde düzenler. reklam sonuçları.</li>	
-		<li>Değer analizi: Bu tür reklamlar genellikle metin biçiminde görüntülendiğinden, ancak sayfadaki konumu daha yüksek olduğundan, bu tür reklamlar ziyaretçiler için mutlaka okunması gereken içeriklerden biri haline gelir. Aynı sayfada bir düzine kadar metin reklam görüntülenebilir, bu da bunun popüler ancak uygun maliyetli bir tanıtım yöntemi olduğunu belirler ve forumun kendisinin tanıtımı ve duyurusu için de kullanılabilir.</li>',
+	'adv_type_text_tips'		=> '<li>Görüntüleme modu: tablo biçimindeki metin reklam sayfaları. Ana sayfada gösterilen, içeriği üç başlıktan oluşan bir liste ve sayfanın üst kısmındaki gönderiler, genellikle metin biçiminde, aynı zamanda küçük resimler ve Flash da kullanılmış. Geçerli sayfada birden çok metin reklam varsa, sistem, otomatik olarak en iyisini düzenlemek için, 3 ila 5 dinamik düzenleme aralığındaki sütun sayısına göre, aynı anda tümü açık olanların görüntülenme sırasına göre tablo biçiminde düzenler. reklam sonuçları.</li><li>Değer analizi: Bu tür reklamlar genellikle metin biçiminde görüntülendiğinden, ancak sayfadaki konumu daha yüksek olduğundan, bu tür reklamlar ziyaretçiler için mutlaka okunması gereken içeriklerden biri haline gelir. Aynı sayfada bir düzine kadar metin reklam görüntülenebilir, bu da bunun popüler ancak uygun maliyetli bir tanıtım yöntemi olduğunu belirler ve forumun kendisinin tanıtımı ve duyurusu için de kullanılabilir.</li>',
 	'adv_type_thread'		=> 'Konu reklamı',
-	'adv_type_thread_tips'		=> '<li>Görüntüleme modu: bir ileti dizisinin üstünde, altında veya sağında gösterilen reklam içeriği içindeki gönderiler, yaygın olarak kullanılan formun üstündeki ve altındaki metnin içeriğini yayınlayın, yaygın olarak kullanılan görüntü formatının sağ içeriğini yayınlayın. Geçerli sayfada birkaç ilan varsa, sistem girişleri rastgele gösterir. Sayfa başına reklam sayısını göstermek için diğer Global ayarları değiştirebilirsiniz.</li>	
-		<li>Değer analizi: Gönderi, forumun temel bileşeni olduğundan, kullanıcı gönderi içeriğine göz attığında, gönderi içeriğine gömülü gönderi reklamı doğal olarak kabul edilebilir, artı rastgele oynatma özelliği, uygun Belirli bir içeriğin etkili bir şekilde tanıtılması için kullanılabileceği gibi, forumun kendisinin tanıtılması ve duyurulması için de kullanılabilir. Reklam içeriğini farklılaştırmak ve daha fazla ziyaretçinin dikkatini çekmek için birden fazla yayın içi reklam oluşturmanız önerilir.</li>',
+	'adv_type_thread_tips'		=> '<li>Görüntüleme modu: bir ileti dizisinin üstünde, altında veya sağında gösterilen reklam içeriği içindeki gönderiler, yaygın olarak kullanılan formun üstündeki ve altındaki metnin içeriğini yayınlayın, yaygın olarak kullanılan görüntü formatının sağ içeriğini yayınlayın. Geçerli sayfada birkaç ilan varsa, sistem girişleri rastgele gösterir. Sayfa başına reklam sayısını göstermek için diğer Global ayarları değiştirebilirsiniz.</li><li>Değer analizi: Gönderi, forumun temel bileşeni olduğundan, kullanıcı gönderi içeriğine göz attığında, gönderi içeriğine gömülü gönderi reklamı doğal olarak kabul edilebilir, artı rastgele oynatma özelliği, uygun Belirli bir içeriğin etkili bir şekilde tanıtılması için kullanılabileceği gibi, forumun kendisinin tanıtılması ve duyurulması için de kullanılabilir. Reklam içeriğini farklılaştırmak ve daha fazla ziyaretçinin dikkatini çekmek için birden fazla yayın içi reklam oluşturmanız önerilir.</li>',
 	'adv_type_interthread'		=> 'Alıntı içeren ileti dizileri arası reklam',
-	'adv_type_interthread_tips'	=> '<li>Görüntüleme modu: gönderiler arasında. İlk ileti dizisi gönderisi ile ilk yanıt arasında görüntülenen banner reklamlar. 468x60 veya diğer boyutlardaki resimler ve Flash kullanılabilir. Birkaç banner reklam varsa, sistem göstermek için bunlardan birini rastgele seçer.</li>	
-		<li>Değer Analizi: Konu ile cevap birbirinden ayrılabileceği için reklam boyutu büyük olup gönderinin içeriğini etkilemez bu nedenle gönderi yazarı ve ziyaretçilerde iğrenme yaratmaz ve gönderide ticari tanıtım veya marka tanıtımı için uygundur.</li>',
+	'adv_type_interthread_tips'	=> '<li>Görüntüleme modu: gönderiler arasında. İlk ileti dizisi gönderisi ile ilk yanıt arasında görüntülenen banner reklamlar. 468x60 veya diğer boyutlardaki resimler ve Flash kullanılabilir. Birkaç banner reklam varsa, sistem göstermek için bunlardan birini rastgele seçer.</li><li>Değer Analizi: Konu ile cevap birbirinden ayrılabileceği için reklam boyutu büyük olup gönderinin içeriğini etkilemez bu nedenle gönderi yazarı ve ziyaretçilerde iğrenme yaratmaz ve gönderide ticari tanıtım veya marka tanıtımı için uygundur.</li>',
 	'adv_type_float'		=> 'Kayan Reklamlar',
-	'adv_type_float_tips'		=> '<li>Görüntüleme modu: sayfanın sol alt köşesinde görüntülenen kayan reklamlar. Bir sayfa kaydırıldığında, kayan reklam orijinal konumunda kalır. Genellikle küçük resimler veya Flash şeklinde kullanılır. Geçerli sayfada birkaç kayan reklam varsa sistem göstermek için bunlardan birini rastgele seçer.</li>	
-		<li>Değer analizi: Kayan reklamlar, güçlü bir ticari tanıtım için etkili bir araçtır. Sabit resim ve metinlerle karşılaştırıldığında, yüzen reklamların fark edilme olasılığı daha yüksektir. Bu zorunlu dikkat, aynı zamanda ürünle ilgilenmeyen ziyaretçileri de rahatsız edebilir. reklamın içeriği. Sayfa okumayı etkilememek için lütfen çok büyük resimleri veya Flash\'ı kayan reklamlar şeklinde görüntülememeye dikkat edin.</li>',
+	'adv_type_float_tips'		=> '<li>Görüntüleme modu: sayfanın sol alt köşesinde görüntülenen kayan reklamlar. Bir sayfa kaydırıldığında, kayan reklam orijinal konumunda kalır. Genellikle küçük resimler veya Flash şeklinde kullanılır. Geçerli sayfada birkaç kayan reklam varsa sistem göstermek için bunlardan birini rastgele seçer.</li><li>Değer analizi: Kayan reklamlar, güçlü bir ticari tanıtım için etkili bir araçtır. Sabit resim ve metinlerle karşılaştırıldığında, yüzen reklamların fark edilme olasılığı daha yüksektir. Bu zorunlu dikkat, aynı zamanda ürünle ilgilenmeyen ziyaretçileri de rahatsız edebilir. reklamın içeriği. Sayfa okumayı etkilememek için lütfen çok büyük resimleri veya Flash\'ı kayan reklamlar şeklinde görüntülememeye dikkat edin.</li>',
 	'adv_type_couplebanner'		=> 'Beyit Reklamı',
-	'adv_type_couplebanner_tips'	=> '<li>Görüntüleme modu: her iki tarafta görüntülenen sayfanın üstünde dikdörtgen bir resim şeklinde reklamın beyit biçimi, beyit şeklinde, genellikle küçük, uzun, geniş dikdörtgen resim veya Flash. Beyit reklamcılığı genel olarak ana tablo genişliğinin kararlaştırılan yüzdesinin %90\'ından fazlasının kullanılması gibi ana durum biçimlerinin piksel genişliğinin kullanılması, normal ziyaretçilerin göz atmasını etkileyebilir. Bir ziyaretçi 800 pikselden daha az genişliğe sahip bir tarayıcıya sahip olduğunda, bu reklamlar otomatik olarak görünmez. Geçerli sayfada birden fazla beyit reklam varsa, sistem göstermek için bunlardan birini rastgele seçecektir.</li>	
-		<li>Değer analizi: Beyit reklamı yüksek çözünürlüklü (1024x768 ve üzeri) ekranın sadece her iki tarafında görüntülendiği ve sayfanın sadece boş alanını kapladığı için ziyaretçilerde tiksinti uyandırmayacaktır. ve iyi vurgulanabilir ve içerik tanıtılabilir. Ancak ana tablonun çözünürlüğü ve genişliği ile ilgili özel gereksinimler nedeniyle reklamın izleyici oranı %100\'e ulaşamamaktadır.</li>',
+	'adv_type_couplebanner_tips'	=> '<li>Görüntüleme modu: her iki tarafta görüntülenen sayfanın üstünde dikdörtgen bir resim şeklinde reklamın beyit biçimi, beyit şeklinde, genellikle küçük, uzun, geniş dikdörtgen resim veya Flash. Beyit reklamcılığı genel olarak ana tablo genişliğinin kararlaştırılan yüzdesinin %90\'ından fazlasının kullanılması gibi ana durum biçimlerinin piksel genişliğinin kullanılması, normal ziyaretçilerin göz atmasını etkileyebilir. Bir ziyaretçi 800 pikselden daha az genişliğe sahip bir tarayıcıya sahip olduğunda, bu reklamlar otomatik olarak görünmez. Geçerli sayfada birden fazla beyit reklam varsa, sistem göstermek için bunlardan birini rastgele seçecektir.</li><li>Değer analizi: Beyit reklamı yüksek çözünürlüklü (1024x768 ve üzeri) ekranın sadece her iki tarafında görüntülendiği ve sayfanın sadece boş alanını kapladığı için ziyaretçilerde tiksinti uyandırmayacaktır. ve iyi vurgulanabilir ve içerik tanıtılabilir. Ancak ana tablonun çözünürlüğü ve genişliği ile ilgili özel gereksinimler nedeniyle reklamın izleyici oranı %100\'e ulaşamamaktadır.</li>',
 	'adv_type_intercat'		=> 'Kategoriler arası reklamcılık',
-	'adv_type_intercat_tips'	=> '<li>Görüntüleme modu: Forum Ana sayfasındaki kategoriler arasında reklam gösterin Forum. 468x60 veya diğer boyutlardaki resimleri ve Flash\'ı kullanabilirsiniz. Geçerli sayfada birden fazla reklam varsa, sistem bunları rastgele görüntüler.</li>	
-		<li>Değer analizi: Forum ana sayfasında daha belirgin bir konumda göründüğü için reklam görüntüleme etkisi daha iyidir ancak çok fazla ana sayfa reklamı ziyaretçilerin tiksinmesine neden olabilir.</li>',
+	'adv_type_intercat_tips'	=> '<li>Görüntüleme modu: Forum Ana sayfasındaki kategoriler arasında reklam gösterin Forum. 468x60 veya diğer boyutlardaki resimleri ve Flash\'ı kullanabilirsiniz. Geçerli sayfada birden fazla reklam varsa, sistem bunları rastgele görüntüler.</li><li>Değer analizi: Forum ana sayfasında daha belirgin bir konumda göründüğü için reklam görüntüleme etkisi daha iyidir ancak çok fazla ana sayfa reklamı ziyaretçilerin tiksinmesine neden olabilir.</li>',
 	'adv_type'			=> 'reklam türü',
 	'adv_style'			=> 'reklam stili',
 	'adv_style_code'		=> 'kod',
@@ -6507,9 +6340,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'adv_custom_edit'		=> 'Özel bir reklamı düzenleyin',
 	'adv_custom_delete'		=> 'Bu özel reklam kaldırılsın mı?',
 	'adv_customnamenew'		=> 'Lütfen bu özel reklam yeni adını girin:',
-	'adv_list_tip'			=> '<li>"Özel reklam"ı sayfanın herhangi bir yerinde kullanabilirsiniz</li>	
-		<li>Sistem reklam alanı source/class/adv/ dizininde bulunur ve eklenti reklam alanı source/plugin/plugin dizini/adv/ dizininde bulunur.</li>
-		<li>Eklenti geliştiricileri <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Documentation</a>"ı dikkatlice okumalıdır.</li>',
+	'adv_list_tip'			=> '<li>"Özel reklam"ı sayfanın herhangi bir yerinde kullanabilirsiniz</li><li>Sistem reklam alanı source/class/adv/ dizininde bulunur ve eklenti reklam alanı source/plugin/plugin dizini/adv/ dizininde bulunur.</li><li>Eklenti geliştiricileri <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Documentation</a>"ı dikkatlice okumalıdır.</li>',
 	'adv_custom_target'		=> 'Özel adv hedef aralığı. Site kökünden (uzantı olmadan) dosya adını girin, birden çok dosyayı virgülle ayırın',
 					
 	'adv_edit'			=> 'Reklamı Düzenle',
@@ -6592,9 +6423,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'runwizard_concision'		=> 'Kompakt',
 	'runwizard_commonly'		=> 'Genel',
 	'runwizard_abundance'		=> 'Zengin',
-	'runwizard_tips'		=> '<li>Hızlı Kurulum Sihirbazı, forumunuzu en hızlı şekilde kurmanıza yardımcı olacaktır.</li>	
-		<li>Yalnızca dördüncü adımda onayladıktan sonra, tüm ayarlar geçerli olacaktır;</li>
-		<li>Eğer zaten Bu sihirbazı çalıştırdıysanız veya forumu kendiniz yapılandırdıysanız, bu sihirbazı çalıştırmak, ayarlamış olduğunuz ilgili parametrelerin üzerine yazacaktır.</li>',
+	'runwizard_tips'		=> '<li>Hızlı Kurulum Sihirbazı, forumunuzu en hızlı şekilde kurmanıza yardımcı olacaktır.</li><li>Yalnızca dördüncü adımda onayladıktan sonra, tüm ayarlar geçerli olacaktır;</li><li>Eğer zaten Bu sihirbazı çalıştırdıysanız veya forumu kendiniz yapılandırdıysanız, bu sihirbazı çalıştırmak, ayarlamış olduğunuz ilgili parametrelerin üzerine yazacaktır.</li>',
 	'runwizard_step_1'		=> 'Forum türü Ayarlar',
 	'runwizard_step_2'		=> 'Forum temel bilgileri',
 	'runwizard_step_3'		=> 'Forum Hacmini Artırın',
@@ -6799,16 +6628,13 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'article_trash_delete'	=> 'Tamamen kaldır',
 	'article_trash_recover'	=> 'Çöp kutusundan geri yükle',
 	'article_tag'		=> 'toplu Etiketler',
-	'article_tag_tip'	=> '<li>Bir makale modülü, belirtilen Etiketleri makaleye toplamaya izin verir.</li>	
-		<li>Bu 8 etiket için görünen adlar ayarlayabilirsiniz</li>',
+	'article_tag_tip'	=> '<li>Bir makale modülü, belirtilen Etiketleri makaleye toplamaya izin verir.</li><li>Bu 8 etiket için görünen adlar ayarlayabilirsiniz</li>',
 	'article_tag_setting'	=> 'Etiketlerin görünen adını ayarla',
 	'article_clear_trash'	=> 'Geri Dönüşüm Kutusunu Temizle',
 	'article_clear_trash_confirm'	=> 'Geri Dönüşüm Kutusunu temizlemek istediğinizden emin misiniz?',
 					
 	'diytemplate'		=> 'DIY Sayfa Yönetimi',
-	'diytemplate_perm_tips'	=> '<li>Burada, tüm Kendin Yap modüllerini eklemek için bu sayfanın rolüne ilişkin kullanıcı izinlerini ayarlayabilirsiniz (sayfanın bulunduğu yer dışında, modül izinleri devralmaz).</li>	
-		<li>Modülün sayfa izinlerini ve tek bir modül Set in "Modül Yönetimi" => "Yönetim İzinleri"</li>
-		<li>içinde ayarlanır. 1. İzinler küçükten büyüğe değişir (modülün izinleri sayfanınkinden daha fazladır); 2. İzinler "Yönetime izin ver", hem modül özelliklerini hem de modül verilerini yönetebilir;<br />3. "Push\'a izin verilir" ve "Push\'un gözden geçirilmesi gerekiyor" izni, modül verilerini yönetebilir; 4. "Push\'a izin verilir" ve "Push\'ın gözden geçirilmesi gerekiyor" izni modül verilerini aktarabilir ancak yönetemez</li>',
+	'diytemplate_perm_tips'	=> '<li>Burada, tüm Kendin Yap modüllerini eklemek için bu sayfanın rolüne ilişkin kullanıcı izinlerini ayarlayabilirsiniz (sayfanın bulunduğu yer dışında, modül izinleri devralmaz).</li><li>Modülün sayfa izinlerini ve tek bir modül Set in "Modül Yönetimi" => "Yönetim İzinleri"</li><li>içinde ayarlanır. 1. İzinler küçükten büyüğe değişir (modülün izinleri sayfanınkinden daha fazladır); 2. İzinler "Yönetime izin ver", hem modül özelliklerini hem de modül verilerini yönetebilir;<br />3. "Push\'a izin verilir" ve "Push\'un gözden geçirilmesi gerekiyor" izni, modül verilerini yönetebilir; 4. "Push\'a izin verilir" ve "Push\'ın gözden geçirilmesi gerekiyor" izni modül verilerini aktarabilir ancak yönetemez</li>',
 	'diytemplate_name'		=> 'Sayfa ismi',
 	'diytemplate_name_comment'	=> 'Bazı şablon adlarına sahip sayfa',
 	'diytemplate_targettplname'	=> 'Şablon adı oluştur',
@@ -6834,9 +6660,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'diytemplate_permname_tips'	=> 'Bu kullanıcı adı blokları yönetebilir',
 	'diytemplate_the_username_has_not_template'	=> 'Yönetim sayfası yok, lütfen geri dönün',
 					
-	'portalcategory_article_perm_tips'	=> '<li>Kullanıcı grubunun &quot;Yetkili yönetim makalesine izin ver&quot; izinler</li>	
-		<li> Yalnızca kullanıcı adını ekleyin, bu kullanıcının yayın yapabileceğini anlamak için herhangi bir izin seçmeyin /ana kanal sütununu yönet, ancak bu kanal sütununu yayınlamasına/yönetmesine izin verilmiyor (bu kanal sütununun üst kanal yetkisini devralması gerekiyor ve kullanıcı adı üst kanal yetkisine dahil ediliyor)</li>
-		<li>Yetki değerlendirme kuralları: küçükten büyüğe (alt kanal sütununun yetkisi, üst kanal bölümü izinlerinden daha fazladır)</li>',
+	'portalcategory_article_perm_tips'	=> '<li>Kullanıcı grubunun &quot;Yetkili yönetim makalesine izin ver&quot; izinler</li><li> Yalnızca kullanıcı adını ekleyin, bu kullanıcının yayın yapabileceğini anlamak için herhangi bir izin seçmeyin /ana kanal sütununu yönet, ancak bu kanal sütununu yayınlamasına/yönetmesine izin verilmiyor (bu kanal sütununun üst kanal yetkisini devralması gerekiyor ve kullanıcı adı üst kanal yetkisine dahil ediliyor)</li><li>Yetki değerlendirme kuralları: küçükten büyüğe (alt kanal sütununun yetkisi, üst kanal bölümü izinlerinden daha fazladır)</li>',
 	'portalcategory_catname'		=> 'Kategori adı',
 	'portalcategory_domain'			=> 'İhtisas',
 	'portalcategory_is_closed'		=> 'Olanak vermek',
@@ -6962,12 +6786,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 					
 	'blockstyle'		=> 'Blok Stilleri',
 	'blockstyle_add'	=> 'stil ekle',
-	'blockstyle_add_tips'	=> '<li>Modüldeki verileri bir döngüde görüntülemek için [loop]...[/loop] etiketini kullanabilirsiniz; şablonda birden çok yerde döngü yapmak istiyorsanız, genişletmek için [loop1]...[/loop1] kullanabilirsiniz (yalnızca 1-9 arasında genişletilebilir)</li>	
-		<li>Varsayılan konumdaki N\'inci konum verilerinin görüntüsünü değiştirmek için [order=N]...[/order] etiketini kullanabilirsiniz. döngü, genişletmek için [order1= N]...[/order1] kullanabilirsiniz ([loop1]\'e karşılık gelir)</li>
-		<li>Belirtmek için [index=N]...[/index] kullanabilirsiniz N\'inci veri Görüntüleme modunda, bu sözdizimi tarafından belirtilen veriler artık döngü döngüsünde görünmez ve aynı verilerin birden çok görüntüsünü elde etmek için [index1]...[/index1] (yalnızca 1-9) ile genişletilebilir</li>
-		<li>Açılış yöntemini belirtebilen küçük resimler/bağlantılar oluşturabilen ve modülü oluştururken küçük resim boyutunu/bağlantı açma yöntemini belirtebilen resim etiketlerini kullanabilirsiniz</li>
-		<li>Bazı modüller (Statik gibi) modülü) içeriği veri kaynağı tarafından oluşturulur, karşılık gelen şablon gerekmez</li>
-		<li>Alan öğeleri (örneğin: {title}) yalnızca [loop], [order], [index] etiketleri içinde etkili olur</li>',
+	'blockstyle_add_tips'	=> '<li>Modüldeki verileri bir döngüde görüntülemek için [loop]...[/loop] etiketini kullanabilirsiniz; şablonda birden çok yerde döngü yapmak istiyorsanız, genişletmek için [loop1]...[/loop1] kullanabilirsiniz (yalnızca 1-9 arasında genişletilebilir)</li><li>Varsayılan konumdaki N\'inci konum verilerinin görüntüsünü değiştirmek için [order=N]...[/order] etiketini kullanabilirsiniz. döngü, genişletmek için [order1= N]...[/order1] kullanabilirsiniz ([loop1]\'e karşılık gelir)</li><li>Belirtmek için [index=N]...[/index] kullanabilirsiniz N\'inci veri Görüntüleme modunda, bu sözdizimi tarafından belirtilen veriler artık döngü döngüsünde görünmez ve aynı verilerin birden çok görüntüsünü elde etmek için [index1]...[/index1] (yalnızca 1-9) ile genişletilebilir</li><li>Açılış yöntemini belirtebilen küçük resimler/bağlantılar oluşturabilen ve modülü oluştururken küçük resim boyutunu/bağlantı açma yöntemini belirtebilen resim etiketlerini kullanabilirsiniz</li><li>Bazı modüller (Statik gibi) modülü) içeriği veri kaynağı tarafından oluşturulur, karşılık gelen şablon gerekmez</li><li>Alan öğeleri (örneğin: {title}) yalnızca [loop], [order], [index] etiketleri içinde etkili olur</li>',
 	'blockstyle_id'		=> 'Stil Kimliği',
 	'blockstyle_list'	=> 'Stil Listesi',
 	'blockstyle_blockclass'	=> 'Blok Kategorisi',
@@ -6978,8 +6797,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'blockstyle_makethumb'		=> 'Küçük resimler oluştur',
 	'blockstyle_delete'		=> 'Silmek',
 	'blockstyle_edit'		=> 'Düzenlemek',
-	'blockstyle_delete_tips'	=> '<li>Bu stil bazı bloklarda kullanılıyor, bu nedenle onu silmenizi önermiyoruz.</li>	
-		<li>Eğer silmeniz gerekiyorsa, bu modüller için yeni bir şablon seçebilirsiniz</li>',
+	'blockstyle_delete_tips'	=> '<li>Bu stil bazı bloklarda kullanılıyor, bu nedenle onu silmenizi önermiyoruz.</li><li>Eğer silmeniz gerekiyorsa, bu modüller için yeni bir şablon seçebilirsiniz</li>',
 	'blockstyle_moveto'		=> 'Bu stili kullanmak için yeni bir stil modülü seçin',
 	'blockstyle_add_blockclass'	=> 'Blok Kategorisi',
 	'blockstyle_add_name'		=> 'Stil adı',
@@ -7065,9 +6883,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'block_has_no_allowauthorizedblock'	=> 'Yetkili kullanıcı grubu yönetim modülüne izin verilmeyen yerler',
 	'block_choose_blockclass_to_add_jscall'	=> 'Lütfen engelleme kategorisini seçin',
 	'block_diytemplate'		=> 'Karşılık gelen sayfa şablonu',
-	'block_perm_tips'		=> '<li>Bu blokta izin ayarları sayfasının çalışmadığı sayfa, izinleri devralmayı seçmeyin.</li>	
-		<li>Sadece kullanıcı adını ekleyin ve eğer herhangi bir izin seçmezsiniz bu kullanıcı sayfadaki diğer modülleri yönetebilir ama bu modül yönetilemez (bu modül bulunduğu sayfanın yetkisini devralmak zorundadır ve kullanıcı adı yetkiye dahildir) bulunduğu sayfa)</li>
-		<li>1. Yetki küçükten büyüğe doğrudur (modülün yetkisi sayfanın yetkisinden fazladır);<br />2. "Yönetime izin ver" izni, modül özniteliklerini yönetebilir ve modül verileri;<br />3. İzin "Push\'a izin ver" ve "Push\'un incelemeye ihtiyacı var" değil, modül verilerini yönetebilir;<br />4. "Push\'a izin verilir" ve "Push\'un denetlenmesi gerekiyor" izinleri, Push yapabilirsiniz ama yapamazsınız modül verilerini yönet</li>',
+	'block_perm_tips'		=> '<li>Bu blokta izin ayarları sayfasının çalışmadığı sayfa, izinleri devralmayı seçmeyin.</li><li>Sadece kullanıcı adını ekleyin ve eğer herhangi bir izin seçmezsiniz bu kullanıcı sayfadaki diğer modülleri yönetebilir ama bu modül yönetilemez (bu modül bulunduğu sayfanın yetkisini devralmak zorundadır ve kullanıcı adı yetkiye dahildir) bulunduğu sayfa)</li><li>1. Yetki küçükten büyüğe doğrudur (modülün yetkisi sayfanın yetkisinden fazladır);<br />2. "Yönetime izin ver" izni, modül özniteliklerini yönetebilir ve modül verileri;<br />3. İzin "Push\'a izin ver" ve "Push\'un incelemeye ihtiyacı var" değil, modül verilerini yönetebilir;<br />4. "Push\'a izin verilir" ve "Push\'un denetlenmesi gerekiyor" izinleri, Push yapabilirsiniz ama yapamazsınız modül verilerini yönet</li>',
 	'block_not_exists'		=> 'Belirtilen blok mevcut değil',
 	'block_perm_inherited'		=> 'miras alınan',
 					
@@ -7094,9 +6910,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'group_level_icon'	=> 'Düzey simgesi',
 	'group_level_creditsrange'	=> 'puan aralığı',
 	'group_level_add'		=> 'Grup düzeyi ekle',
-	'group_level_tips'		=> '<li>Çok fazla Grup düzeyi eklemeyin.</li>	
-		<li>Kullanıcılar grupları gözden geçirebileceğinden, gruplar halinde yayınlama gibi işlemlerin kullanıcı noktalarını etkilemesine izin verirken dikkatli olunmalıdır.</li>
-		<li>Varsayılan düzey simge boyutu 25 X 25 pikseldir.</li>',
+	'group_level_tips'		=> '<li>Çok fazla Grup düzeyi eklemeyin.</li><li>Kullanıcılar grupları gözden geçirebileceğinden, gruplar halinde yayınlama gibi işlemlerin kullanıcı noktalarını etkilemesine izin verirken dikkatli olunmalıdır.</li><li>Varsayılan düzey simge boyutu 25 X 25 pikseldir.</li>',
 	'group_level_credits'		=> 'ilgili krediler',
 	'group_level_credits_post'	=> 'Bir gönderi için kredi',
 	'group_level_credits_reply'	=> 'Cevap için teşekkürler',
@@ -7123,14 +6937,8 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'postsplit_from'	=> 'Kaynak tablosu',
 	'postsplit_to'		=> 'hedef tablo',
 	'postsplit_create'	=> 'Yeni bir tablo oluştur',
-	'postsplit_manage_tips'	=> '<li>Gönderileri bölmeden önce siteyi kapattığınızdan emin olun. Bölme işleminde sorun yaşamamak için <strong>bu işlemi yapmadan önce veritabanı yedeği almalısınız</strong></li>	
-		<li>Veri gönder Aktarım tamamlandıktan sonra, kaynak posta tablosu optimize edilecektir. Tablonun optimize edilmesi uzun zaman alacaktır. <strong>Bu süre boyunca sunucuyu yeniden başlatmamalı veya MySQL hizmetini durdurmamalısınız</strong></li>
-		<li>forum_post(main table ) 300M veri tutmalıdır</li>
-		<li>Gönderi tablosu işlevi, gönderileri farklı veri tablolarına bölebilir; bu, çok sayıda gönderisi olan ve işletimi etkilenen siteler için uygundur. verimlilik</li>',
-	'postsplit_move_tips'	=> '<li>Taşıma aktarımında büyük miktarda gönderi verisi varsa, lütfen işlemin tamamlanacağı bir süre için <strong>forumu kapatın</strong>.</li>	
-		<li>Taşınma işlemi sırasında veritabanı sorunlarını önlemek için lütfen önce veri yedekleme yapın.</li>
-		<li>Koşullara göre taşınacak konu gönderilerini arayın ve ardından hedef alt tabloyu seçin.</li>
-		<li>Mobil işlem biraz zaman alabilir, lütfen sabırlı olun.</li>',
+	'postsplit_manage_tips'	=> '<li>Gönderileri bölmeden önce siteyi kapattığınızdan emin olun. Bölme işleminde sorun yaşamamak için <strong>bu işlemi yapmadan önce veritabanı yedeği almalısınız</strong></li><li>Veri gönder Aktarım tamamlandıktan sonra, kaynak posta tablosu optimize edilecektir. Tablonun optimize edilmesi uzun zaman alacaktır. <strong>Bu süre boyunca sunucuyu yeniden başlatmamalı veya MySQL hizmetini durdurmamalısınız</strong></li><li>forum_post(main table ) 300M veri tutmalıdır</li><li>Gönderi tablosu işlevi, gönderileri farklı veri tablolarına bölebilir; bu, çok sayıda gönderisi olan ve işletimi etkilenen siteler için uygundur. verimlilik</li>',
+	'postsplit_move_tips'	=> '<li>Taşıma aktarımında büyük miktarda gönderi verisi varsa, lütfen işlemin tamamlanacağı bir süre için <strong>forumu kapatın</strong>.</li><li>Taşınma işlemi sırasında veritabanı sorunlarını önlemek için lütfen önce veri yedekleme yapın.</li><li>Koşullara göre taşınacak konu gönderilerini arayın ve ardından hedef alt tabloyu seçin.</li><li>Mobil işlem biraz zaman alabilir, lütfen sabırlı olun.</li>',
 	'postsplit_manage'		=> 'Bölünme sonrası',
 	'postsplit_move'		=> 'Gönderileri taşı',
 	'postsplit_move_to'		=> 'Taşınmak',
@@ -7161,9 +6969,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'postsplit_move_threads_per_time_1000'	=> '1000 (özel sunucular için önerilir, işlem hızını artırabilir)',
 	'postsplit_manage_submit'		=> 'Tablo işlemini onaylayın',
 					
-	'optimizer_security_tips'	=> '<li>Fiziksel muayene, site sorunlarını keşfetmenize ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir.</li>	
-		<li>Ayar öğelerinin güvenlik denetimi</li>
-		<li>Eklenti güvenlik yükleme ve güncelleme denetimi</li>',
+	'optimizer_security_tips'	=> '<li>Fiziksel muayene, site sorunlarını keşfetmenize ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir.</li><li>Ayar öğelerinin güvenlik denetimi</li><li>Eklenti güvenlik yükleme ve güncelleme denetimi</li>',
 	'optimizer_serversec_tips'	=> '<li>Fiziksel muayene, web sitesinin altında yatan sorunları bulmanıza ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir</li>',
 	'optimizer_performance_tips'	=> '<li>Fiziksel muayene, web sitesi performans sorunlarını bulmanıza ve web sitesi performansını artırmanıza yardımcı olabilir</li>',
 	'optimizer_check_unit_optimizer_plugin'		=> 'Eklentinin yeni bir güncellemesi olup olmadığını kontrol edin',
@@ -7213,10 +7019,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 					
 	'threadsplit'			=> 'İplik Tabloları',
 	'threadsplit_manage'		=> 'Alt Tablo Yönetimi',
-	'threadsplit_manage_tips'	=> '<li>Konu tablosu, konu başlığı, oluşturma zamanı ve diğer bilgiler dahil olmak üzere foruma ve mesaj dizilerine (forum_thread) katılmak içindir, ancak konu içeriğini ve yanıtları içermez. Birden fazla veri tabloya işaret edebilir.</li>	
-		<li>Yeni bir konu arşivi oluşturduktan sonra, belirli konuları arşive taşımak için konu taşıma özelliğini kullanabilirsiniz.</li>
-		<li>Arşiv tablosunda konuya gidilerek, konunun bulunduğu bölümün altında bir arşiv alanı (adı özelleştirilebilir) oluşturulacak ve arşiv tablosundaki konular arşiv üzerinden gezilebilecektir. alan.</li>
-		<li>Arşiv tablosundaki konular sadece göz atmak içindir ve cevaplanamaz, derecelendirilemez veya yönetilemez, ancak silinebilir ve arşiv dışı alana taşınabilir.</li>',
+	'threadsplit_manage_tips'	=> '<li>Konu tablosu, konu başlığı, oluşturma zamanı ve diğer bilgiler dahil olmak üzere foruma ve mesaj dizilerine (forum_thread) katılmak içindir, ancak konu içeriğini ve yanıtları içermez. Birden fazla veri tabloya işaret edebilir.</li><li>Yeni bir konu arşivi oluşturduktan sonra, belirli konuları arşive taşımak için konu taşıma özelliğini kullanabilirsiniz.</li><li>Arşiv tablosunda konuya gidilerek, konunun bulunduğu bölümün altında bir arşiv alanı (adı özelleştirilebilir) oluşturulacak ve arşiv tablosundaki konular arşiv üzerinden gezilebilecektir. alan.</li><li>Arşiv tablosundaki konular sadece göz atmak içindir ve cevaplanamaz, derecelendirilemez veya yönetilemez, ancak silinebilir ve arşiv dışı alana taşınabilir.</li>',
 	'threadsplit_manage_tablename'		=> 'Tablo ismi',
 	'threadsplit_manage_dislayname'		=> 'Ekran adı',
 	'threadsplit_manage_threadcount'	=> 'İş Parçacığı',
@@ -7227,9 +7030,7 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'threadsplit_manage_table_memo'		=> 'açıklama',
 	'threadsplit_manage_table_orig'		=> 'Ana konu tablosu bilgisi',
 	'threadsplit_manage_table_archive'	=> 'Konu tablosu bilgilerini arşivle',
-	'threadsplit_move_tips'			=> '<li>Konu taşıma işlevi, belirli bir konuyu ana tablodan (forum_thread) arşiv tablosuna taşımak için kullanılabilir.</li>	
-		<li>Konuyu taşımadan önce lütfen en az bir konu arşiv tablosu olduğundan emin olun (tablo adları forum_thread_1, forum_thread_2...).</li>
-		<li>Konu arama yoluyla taşınacak konuyu seçin ve ardından konu verisi hareketini tamamlamak için hedef tabloyu seçin.</li>',
+	'threadsplit_move_tips'			=> '<li>Konu taşıma işlevi, belirli bir konuyu ana tablodan (forum_thread) arşiv tablosuna taşımak için kullanılabilir.</li><li>Konuyu taşımadan önce lütfen en az bir konu arşiv tablosu olduğundan emin olun (tablo adları forum_thread_1, forum_thread_2...).</li><li>Konu arama yoluyla taşınacak konuyu seçin ve ardından konu verisi hareketini tamamlamak için hedef tabloyu seçin.</li>',
 	'threads_search_sourcetable'		=> 'Aşağıdaki konu tablosunu arayın',
 	'threadsplit_move_tidrange'		=> 'Konu kimliği aralığı',
 	'threadsplit_move_to'			=> 'Taşınmak',
@@ -7244,12 +7045,8 @@ Months: the task can be applied again after a specified date of each month. Ente
 	'membersplit_lasttime_check'	=> 'Son kontrol',
 	'membersplit_has_no_check'	=> 'Web siteniz kullanıcı tablosu optimizasyonunu hiç kullanmadı, hemen kontrol edilmesi önerilir',
 	'membersplit_without_optimization'	=> 'Kullanıcı tablosu iyi, optimizasyon gerekmiyor',
-	'membersplit_check_tips'	=> '<li>Kullanıcı optimizasyonunu kullanmak, site performansını önemli ölçüde artırabilir.</li>	
-		<li>Fizik muayene işlemi yavaş olduğu için fizik muayene sonuçları bir gün süreyle önbelleğe alınacaktır</li>',
-	'membersplit_tips'		=> '<li>Kullanıcı optimizasyonunu kullanmak, site performansını önemli ölçüde artırabilir.</li>	
-		<li>Optimize edilebilecek kullanıcı sayısı %30\'dan fazla olduğunda, kullanıcı tablosunu optimize etmenizi önemle tavsiye ederiz</li>
-		<li>Lütfen performansa göre tek adımlı optimizasyon sayısını uygun şekilde ayarlayın sunucunun.</li>
-		<li>Kapalı site altında işlemin optimize edilmesi önerilir.</li>',
+	'membersplit_check_tips'	=> '<li>Kullanıcı optimizasyonunu kullanmak, site performansını önemli ölçüde artırabilir.</li><li>Fizik muayene işlemi yavaş olduğu için fizik muayene sonuçları bir gün süreyle önbelleğe alınacaktır</li>',
+	'membersplit_tips'		=> '<li>Kullanıcı optimizasyonunu kullanmak, site performansını önemli ölçüde artırabilir.</li><li>Optimize edilebilecek kullanıcı sayısı %30\'dan fazla olduğunda, kullanıcı tablosunu optimize etmenizi önemle tavsiye ederiz</li><li>Lütfen performansa göre tek adımlı optimizasyon sayısını uygun şekilde ayarlayın sunucunun.</li><li>Kapalı site altında işlemin optimize edilmesi önerilir.</li>',
 	'membersplit_combie_count'	=> 'Kullanıcı sayısı optimize edilebilir',
 	'membersplit_splitnum'		=> 'Tek adımda optimize edilmiş sayı',
 	'membersplit_count'		=> 'Toplam kullanıcı sayısı',
@@ -7368,9 +7165,9 @@ RepeatLimit 32
 <h1>IIS7 Web Server (For Independent host)</h1>					
 <pre class="colorbox">					
 &lt;rewrite&gt;					
-&lt;rules&gt;					
+	&lt;rules&gt;					
 {iis7}					
-&lt;/rules&gt;					
+	&lt;/rules&gt;					
 &lt;/rewrite&gt;					
 </pre>					
 					
@@ -7408,11 +7205,11 @@ url.rewrite-once = (
 // Added by Valery Votintsev
 
 //source/function/function_admincp.php
-	//'upload_selectfile'		=> '浏览',//'Browse',
-	//'version_uptodate'		=> '&#x60A8;&#x5F53;&#x524D;&#x4F7F;&#x7528;&#x7684; Discuz! &#x7A0B;&#x5E8F;&#x7248;&#x672C;&#x6709;&#x91CD;&#x8981;&#x66F4;&#x65B0;&#xFF0C;&#x8BF7;&#x53C2;&#x7167;&#x4EE5;&#x4E0B;&#x63D0;&#x793A;&#x8FDB;&#x884C;&#x53CA;&#x65F6;&#x5347;&#x7EA7;',//'You are currently using up-to-date Discuz! program. To update, please refer to the prompts of following line',
+	//'upload_selectfile'		=> 'Browse',//'浏览',
+	//'version_uptodate'		=> 'You are currently using up-to-date Discuz! program. To update, please refer to the prompts of following line',//'&#x60A8;&#x5F53;&#x524D;&#x4F7F;&#x7528;&#x7684; Discuz! &#x7A0B;&#x5E8F;&#x7248;&#x672C;&#x6709;&#x91CD;&#x8981;&#x66F4;&#x65B0;&#xFF0C;&#x8BF7;&#x53C2;&#x7167;&#x4EE5;&#x4E0B;&#x63D0;&#x793A;&#x8FDB;&#x884C;&#x53CA;&#x65F6;&#x5347;&#x7EA7;',
 
 //source/admincp/admincp_index.php - javascript function shownews()
-	//'subscribe'		=> '订阅',//'Subscribe',
+	//'subscribe'		=> 'Subscribe',//'订阅',
 
 //source/admincp/admincp_plugins.php
 	'disable'		=> 'engelli',//'Disable',

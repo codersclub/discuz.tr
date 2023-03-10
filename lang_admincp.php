@@ -884,7 +884,7 @@ $lang = array
 	'setting_access_access_domainwhitelist_affectimg'	=> 'Bu listede olmayan uzak görüntüleri ayrıştırmayın',
 
 	'setting_styles'				=> 'Stil ayarları',
-	
+
 	'setting_styles_global'				=> 'Global',
 	'setting_styles_global_styleid'			=> 'Site varsayılan stili',
 	'setting_styles_global_styleid_comment'		=> 'Varsayılan site arayüzü stili, ziyaretçiler ve üyeler varsayılan olarak bu stili kullanacaktır.',
@@ -999,7 +999,7 @@ $lang = array
 	'setting_styles_index_online_more_members_comment'	=> 'Bu ayar yalnızca çevrimiçi kullanıcıları görüntüle etkinleştirildiğinde etkilidir. Sınır olmaması için 0\'a ayarlayın.',
 	'setting_styles_index_disfixednv'		=> 'Sabit üst gezinmeyi devre dışı bırak',
 	'setting_styles_index_disfixednv_comment'	=> 'Ekranı yukarı kaydırdığınızda, ana navigasyon hemen ekranın üst kısmında görünecektir.',
-					
+
 	'setting_styles_forumdisplay'				=> 'Konu listesi',
 	'setting_styles_forumdisplay_tpp'			=> 'Sayfa başına konu sayısı',
 	'setting_styles_forumdisplay_tpp_comment'		=> 'Her sayfada listelenen konu sayısını ayarlayın',
@@ -1036,7 +1036,7 @@ $lang = array
 	'setting_styles_forumdisplay_disfixednv_forumdisplay_comment'	=> 'Ekranı yukarı kaydırdığınızda, ana navigasyon hemen ekranın üst kısmında görünecektir.',
 	'setting_styles_forumdisplay_threadpreview'			=> 'Konu Önizlemeyi Devre Dışı Bırak',
 	'setting_styles_forumdisplay_threadpreview_comment'		=> 'İleti dizisi listesinde gönderi içeriği önizlemesinin devre dışı bırakılıp bırakılmayacağını ayarlayın',
-					
+
 	'setting_styles_viewthread'			=> 'Konuyu görüntüle',
 	'setting_styles_viewthread_ppp'			=> 'Sayfa başına gönderi sayısı',
 	'setting_styles_viewthread_ppp_comment'		=> 'Sayfa başına görüntülenen gönderi sayısını ayarlayın',
@@ -1117,7 +1117,7 @@ $lang = array
 	'setting_styles_viewthread_allow_replybg_comment'	=> 'Açıksa, Hızlı Yanıt sonrası kutusu için bir arka plan resmi eklemeye izin verin',
 	'setting_styles_viewthread_global_reply_background'	=> 'Gönderiler hızlı yanıt kutusu için genel arka plan',
 	'setting_styles_viewthread_global_reply_background_comment'	=> 'Hızlı yanıt kutusu için genel arka plan resmini ayarlayın, Forum ayarları daha önceliklidir',
-					
+
 	'setting_threadprofile'			=> 'Düzeni ayarla',
 	'setting_styles_threadprofile'		=> 'Konu içindeki kullanıcı bilgileri',
 	'setting_styles_threadprofile_group'	=> 'Kullanıcı grubu düzenini ayarla',
@@ -1133,7 +1133,7 @@ $lang = array
 	'setting_styles_threadprofile_eccredit_buyer'	=> 'alıcı kredisi',
 	'setting_styles_threadprofile_leftinfoprofile'	=> 'Sol bilgi şablonu',
 	'setting_styles_threadprofile_avatarprofile'	=> 'Avatar menü şablonu',
-					
+
 	'setting_styles_forumdisplay_disfixednv_viewthread'	=> 'Sabit üst gezinmeyi devre dışı bırak',
 	'setting_styles_forumdisplay_disfixednv_viewthread_comment'	=> 'Ekranı yukarı kaydırdığınızda, ana navigasyon hemen ekranın üst kısmında görünecektir.',
 	'setting_styles_forumdisplay_disfixedavatar'		=> 'Sabit avatar alanını devre dışı bırak',
@@ -1154,7 +1154,7 @@ $lang = array
 	'setting_styles_viewthread_guesttipsinthread_comment'	=> 'Bir konuk bir konuya göz attığında, konunun üst kısmında hoş geldiniz metnini gösterir.',
 	'setting_styles_viewthread_guesttipsinthread_text'	=> 'Oturum açma istemi metni',
 	'setting_styles_viewthread_guesttipsinthread_text_comment'	=> 'Özel komut istemi metni, varsayılan değer: Şimdi kaydolun, Daha fazla arkadaş edinin, Daha fazla özelliğin keyfini çıkarın, Topluluğu kolayca Eğlendirmenize izin verin.',
-					
+
 	'setting_styles_viewthread_vtonlinestatus'		=> 'Çevrimiçi durumu göster',
 	'setting_styles_viewthread_vtonlinestatus_comment'	=> 'Posterin çevrimiçi durumunun gösterilip gösterilmeyeceği. Dikkat: Bu özellik sunucu yüklemesini biraz artıracaktır.',
 	'setting_styles_viewthread_userstatusby'		=> 'Grup başlığını göster',
@@ -1162,7 +1162,7 @@ $lang = array
 	'setting_styles_viewthread_userstatusby_usergroup'	=> 'Kullanıcı grubu başlığını göster (grup adı)',
 	'setting_styles_viewthread_online_easy'			=> 'Hızlı Gösteri (önerilir)',
 	'setting_styles_viewthread_online_exactitude'		=> 'Genişletilmiş Gösteri',
-					
+
 	'setting_styles_refresh'			=> 'İstemler',
 	'setting_styles_refresh_refreshtime'		=> 'Hatırlatıcı güncelleme süresi (saniye)',
 	'setting_styles_refresh_refreshtime_comment'	=> 'Bir sayfa kısa sürede, genellikle 1 ila 3 saniye arasında çeşitli istemler görüntüler. İpuçları: Deneyimli kullanıcılar için daha kısa bir süre daha yararlıdır, ancak yeni kullanıcılar için bilgileri görmek için daha uzun süre gerekebilir.',
@@ -1170,7 +1170,7 @@ $lang = array
 	'setting_styles_refresh_quick_comment'		=> 'Herhangi bir işlemi başarıyla tamamladıktan sonra atlamak için doğrudan bir bağlantı görüntülemek için bunu ayarlayın. Bu tür bir bağlantı, otomatik yeniden yönlendirme zaman aşımını beklemeyi ortadan kaldırmaya yardımcı olur.',
 	'setting_styles_refresh_messages'		=> 'hızlı atlama bilgisini göster',
 	'setting_styles_refresh_messages_comment'	=> 'Daha sonra bir hızlı atlama bağlantısını açtığınızda, aşağıdaki bilgiler gösterilecektir. Her satıra bir mesaj anahtar kelimesi girin.',
-					
+
 	'setting_follow'				=> 'Ayarları takip et',
 	'setting_follow_base'				=> 'Temel ayarlar',
 	'setting_follow_base_default_referer'		=> 'Yayın sayfasını varsayılan olarak görüntüle',
@@ -1190,7 +1190,7 @@ $lang = array
 	'setting_home_base_showallfriendnum'		=> 'Evde gösterilecek arkadaş yayınlarının sayısı',
 	'setting_home_base_showallfriendnum_comment'	=> 'Bu sınırdan daha fazla arkadaş yayını göstermeyin. Bir sayıda ff bu sınırı aştığında, Tüm Arkadaşlar Yayınları için bir bağlantı gösterin.<br>Bu parametre, blog ve albümde aynı etkiyi gösterir.',
 	'setting_home_base_feedhiddenicon'		=> 'Evde beslemeleri katlama',
-	'setting_home_base_feedhiddenicon_comment'	=> 'Katlanacak besleme türlerini girin (simge), birden çok türü ayırmak için virgül kullanın.<br>	
+	'setting_home_base_feedhiddenicon_comment'	=> 'Katlanacak besleme türlerini girin (simge), birden çok türü ayırmak için virgül kullanın.<br>
 							Collapsing of certain feeds may decrease the page noise.<br>
 							Feed types of access methods:<br>
 							For view friends feeds at the time, click the small icon in front of each dynamic (e.g. <img src="static/image/feed/blog.gif" align="absmiddle">),<br>
@@ -1222,7 +1222,7 @@ $lang = array
 	'setting_home_base_sendmailday_comment'		=> 'Kullanıcının oturum açmadığı gün sayısı, bundan sonra sistem bir bildirim mesajı gönderir. E-posta bildirimini devre dışı bırakmak için 0 olarak ayarlayın. Bu özelliğin etkinleştirilmesi, sunucu yüklemesini biraz artıracaktır.',
 	'setting_home_base_recycle_bin'			=> 'Blog Geri Dönüşüm Kutusu\'nu etkinleştirin',
 	'setting_home_base_recycle_bin_comment'		=> 'Bu özelliği etkinleştirdikten sonra, kaldırılan tüm bloglar doğrudan kaldırılmak yerine Geri Dönüşüm Kutusu\'na taşınacaktır.',
-					
+
 	'setting_home_base_networkpage'			=> 'Üye listesine sekmeli göz atmayı etkinleştir',
 	'setting_home_base_networkpage_comment'		=> 'Bu ayar yalnızca dereceli üyeler, çevrimiçi üyeler ve tüm üyeler için geçerlidir.',
 	'setting_home_base_topcachetime'		=> 'Üyeler için önbellek süresi En iyiler listesi (dakika olarak)',
@@ -1247,8 +1247,8 @@ $lang = array
 	'setting_home_base_default_debate_forum_comment'	=> 'Tartışmalar için varsayılan bir Forum seçin',
 	'setting_home_base_default_doing'			=> 'Varsayılan içerik yapma öner',
 	'setting_home_base_default_doing_comment'		=> 'Yapılıyor kutusunda görüntülenen bir ipucu içeriği ayarlayın. Bu ipuçları, varsayılan bilgi istemi olarak bu satırlardan rastgele seçilir',
-					
-					
+
+
 	'setting_home_base_allowdomain'			=> 'Kullanıcı alanları için alt alanları etkinleştirin',
 	'setting_home_base_allowdomain_comment'		=> 'Alt etki alanlarını kullanmak için, sunucunun bu işlevleri destekleyecek şekilde yapılandırılması gerekir.',
 	'setting_home_base_holddomain'			=> 'Ayrılmış alt alanlar',
@@ -1291,7 +1291,7 @@ $lang = array
 	'setting_home_videophoto_allowshare'		=> 'Paylaşım eklemeye izin ver',
 	'setting_home_videophoto_allowfavorite'		=> 'Favorilerin kullanılmasına izin ver',
 	'setting_home_videophoto_allowuserapp'		=> 'MYOP uygulamalarını kullanmaya izin ver',
-					
+
 	'setting_home_privacy'			=> 'Gizlilik ayarları',
 	'setting_home_privacy_new_user'		=> 'Yeni kullanıcı varsayılan gizlilik ayarları',
 	'setting_home_privacy_view_index'	=> 'Uzay evi',
@@ -1334,24 +1334,24 @@ $lang = array
 	'setting_home_privacy_default_feed_click'	=> 'Blogu/resmi derecelendir',
 	'setting_home_privacy_default_feed_newthread'	=> 'Konu gönder',
 	'setting_home_privacy_default_feed_newreply'	=> 'Konuyu yanıtla',
-					
+
 	'setting_home_hotuser'				=> 'önerilen üyeler',
 	'setting_home_hotuser_comment'			=> 'Ekleme Biçimi:<br />Lütfen her satıra bir ad gelecek şekilde bir kullanıcı adı girin.<br>Örnek:<br>admin<br>web yöneticisi<br/>bu kullanıcılar "Web Yöneticisi E-postası" sütununda rastgele görüntülenecektir.',
 	'setting_home_hotuser_defaultuser'		=> 'varsayılan kullanıcılar',
 	'setting_home_hotuser_defaultuser_comment'	=> 'Ekleme Biçimi:<br />Lütfen her satıra bir ad gelecek şekilde kullanıcı adlarını girin.<br>Örnek:<br>admin<br>web yöneticisi<br>Bu kullanıcılar otomatik olarak yeni kullanıcılara arkadaş olarak eklenecek ve bir karşılama mesajı gönderilecek.',
-	
+
 	'setting_home_hotuser_defaultpoke'		=> 'Varsayılan karşılama içeriği',
 	'setting_home_hotuser_defaultpoke_comment'	=> 'En fazla 25 karakter olmak üzere yeni arkadaşlara gönderilen otomatik karşılama içeriği.',
-					
+
 	'setting_domain'				=> 'Etki alanı ayarları',
 	'setting_domain_base'				=> 'Temel ayarlar',
 	'setting_domain_base_tips'			=> '<li>Ayrılmış alt alan adı hiçbir ayarda kullanılamaz veya nesne alan adı olarak kullanılamaz.</li><li>If a personal space or a group turned to go to the subdomain root domain settings <strong>set</strong> root <strong>Gruplar, Space</strong> the root domain name</li>',
 	'setting_domain_app'				=> 'Uygulama alanı',
 	'setting_domain_app_domain'			=> 'İhtisas',
-	'setting_domain_app_tips'			=> '<li>Birbirine bağlı alan adları aynı olamaz ve alan adlarının "<strong>http://</strong>" eklenmesi veya "<strong>/</strong>" ile bitmesi gerekmez. , örneğin: portal.comsenz. com</li><li>Bir alan adını keyfi olarak açarsanız, varsayılan alan adını yapılandırmanız gerekir, aksi takdirde birden fazla giriş sorununa neden olur</li><li>Birden fazla alan adı etkinleştirildiğinde, çerez kapsamını ayarlamak için lütfen config/config_global.php dosyasındaki cookiedomain değerini değiştirin</li>',				
+	'setting_domain_app_tips'			=> '<li>Birbirine bağlı alan adları aynı olamaz ve alan adlarının "<strong>http://</strong>" eklenmesi veya "<strong>/</strong>" ile bitmesi gerekmez. , örneğin: portal.comsenz. com</li><li>Bir alan adını keyfi olarak açarsanız, varsayılan alan adını yapılandırmanız gerekir, aksi takdirde birden fazla giriş sorununa neden olur</li><li>Birden fazla alan adı etkinleştirildiğinde, çerez kapsamını ayarlamak için lütfen config/config_global.php dosyasındaki cookiedomain değerini değiştirin</li>',
 	'setting_domain_app_mobile_tips'		=> 'Bir telefonla erişirken alan adını yapılandırın. Mobil olmayan tarayıcı otomatik olarak varsayılan alan adına yönlendirilecek',
 	'setting_domain_root'				=> 'Kök etki alanı ayarları',
-	'setting_domain_root_tips'			=> '<li><strong>Gruplar, Space, Forum, Thread, Category</strong>, kök alan adına göre bir alt alan adına ayarlanabilir. Örnek: Bir kullanıcı uygulamasının XXX.comsenz.com olarak ayarlanması gerekiyorsa kök etki alanını şu şekilde girin: comsenz.com</li><li><strong>Gruplar, Alan</strong>\'ı alt alan adına ayarlamayı bitirdikten sonra, kullanıcıların alt alan adını bağlamak için uygun yeri uygulayabilmeleri için ilgili alt alan anahtarlamasını da açmaları gerekir. Kullanıcı grupları da alt alan adının uzunluğu ile sınırlıdır.</li><li>Alt alan adında bir <strong>Kanal</strong> etkinleştirilmişse ve bir dizine bağlıysa, bağlama ile ilgili işlem için ortamı kendiniz yapılandırın.</li><li>Diğer durumlarda, kök etki alanının alt etki alanlarına değiştirilmesi önerilmez.</li>',				
+	'setting_domain_root_tips'			=> '<li><strong>Gruplar, Space, Forum, Thread, Category</strong>, kök alan adına göre bir alt alan adına ayarlanabilir. Örnek: Bir kullanıcı uygulamasının XXX.comsenz.com olarak ayarlanması gerekiyorsa kök etki alanını şu şekilde girin: comsenz.com</li><li><strong>Gruplar, Alan</strong>\'ı alt alan adına ayarlamayı bitirdikten sonra, kullanıcıların alt alan adını bağlamak için uygun yeri uygulayabilmeleri için ilgili alt alan anahtarlamasını da açmaları gerekir. Kullanıcı grupları da alt alan adının uzunluğu ile sınırlıdır.</li><li>Alt alan adında bir <strong>Kanal</strong> etkinleştirilmişse ve bir dizine bağlıysa, bağlama ile ilgili işlem için ortamı kendiniz yapılandırın.</li><li>Diğer durumlarda, kök etki alanının alt etki alanlarına değiştirilmesi önerilmez.</li>',
 	'setting_domain_allow_space'			=> 'Alt alan adlarında Boşluğa İzin Ver',
 	'setting_domain_allow_space_comment'		=> 'Bu AÇIK ise, kök etki alanı adını ayarlamanız gerekir. Bir kullanıcı grubu veya uygulama alan adı uzunluğu sınırlıdır!',
 	'setting_domain_allow_group'			=> 'Alt alan adında grupları etkinleştir',
@@ -1368,9 +1368,9 @@ $lang = array
 	'setting_profile_personal_signature'		=> 'kişisel imza',
 	'setting_profile_time_zone'			=> 'Saat dilimi',
 	'setting_profile_tips'				=> '<li>Kullanıcı gruplarının en azından bir kısmı etkinleştirilmelidir. Etkinleştirilmemişse, varsayılanın tümü etkindir</li>',
-					
-	'setting_threadprofile_tpl_tpls'	=> '<li>{<b>tag</b>} Parametresiz bir ETİKET kullanın.</li><li>{<b>tag</b>=<b>parameter</b>} Parametrelerle birlikte bir ETİKET kullanın. Birden fazla parametreyi virgülle ayırın  &quot;,&quot;.</li><li>{<b>tag</b>}HTML{<b>*</b>}HTML{/<b>tag</b>} Çağıran içerik için bir değer olduğunda {*} öğesinden önce ve sonra HTML içeriğini görüntüleme</li><li>&quot;<b>plugin:Plugin_ID</b>&quot; this format of a <b>tag</b> is used to display the info from a plugin. Plug-in developers must read carefully the &laquo;<a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technical Documentation</a>&raquo; before designing a new user defined tag.</li>',				
-					
+
+	'setting_threadprofile_tpl_tpls'	=> '<li>{<b>tag</b>} Parametresiz bir ETİKET kullanın.</li><li>{<b>tag</b>=<b>parameter</b>} Parametrelerle birlikte bir ETİKET kullanın. Birden fazla parametreyi virgülle ayırın  &quot;,&quot;.</li><li>{<b>tag</b>}HTML{<b>*</b>}HTML{/<b>tag</b>} Çağıran içerik için bir değer olduğunda {*} öğesinden önce ve sonra HTML içeriğini görüntüleme</li><li>&quot;<b>plugin:Plugin_ID</b>&quot; this format of a <b>tag</b> is used to display the info from a plugin. Plug-in developers must read carefully the &laquo;<a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Technical Documentation</a>&raquo; before designing a new user defined tag.</li>',
+
 	'setting_numbercard'			=> 'Kullanıcı öznitelikleri kartvizit',
 	'setting_numbercard_row'		=> 'İlk {i} sıralar',
 	'setting_numbercard_type_threads'	=> 'İş Parçacığı',
@@ -1386,13 +1386,13 @@ $lang = array
 	'setting_numbercard_type_follower'	=> 'Takipçiler',
 	'setting_numbercard_type_following'	=> 'Takip edenler',
 	'setting_numbercard_type_friends'	=> 'Arkadaşlar',
-					
+
 	'district'				=> 'bölgeler',
 	'district_tips'				=> '<li>Kendi bölgesel verilerinizi ekleyebilir/düzenleyebilirsiniz</li><li>Ekleme, düzenleme veya silme işleminden sonra, geçerlilik kazanması için "Gönder" düğmesini tıklamanız gerekir</li>',
 	'district_choose'			=> 'bir bölge seçin',
 	'district_birthcity'			=> '<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">Birth City',//'<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">出生地',
 	'district_residecity'			=> '<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">Living City',//'<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">居住地',
-					
+
 	'misc_focus'				=> 'Sıcak Konular',
 	'misc_focus_handadd'			=> 'manuel olarak ekle',
 	'misc_focus_threadadd'			=> 'Konu ekle',
@@ -1422,7 +1422,7 @@ $lang = array
 	'misc_focus_area_title_comment'		=> 'Varsayılan, &quot;Webmaster tarafından tavsiye edilir&quot; şeklindedir, istediğinizi ayarlayabilirsiniz',
 	'misc_focus_area_cookie'		=> 'Süreyi (saat) ayarladıktan sonra tekrar açılır',
 	'misc_focus_area_cookie_comment'	=> '0 ise açılan sayfayı yenileyin. Sayfayı 1 saat sonra görünecek şekilde yenilemek için 1 olarak ayarlayın. Varsayılan 1\'dir, açılmasını istediğiniz zamanı ayarlayabilirsiniz.',
-					
+
 	'misc_focus_position'		=> 'Web yöneticisi tarafından önerilen bloğun nereye yerleştirileceği',
 	'misc_focus_position_portal'	=> 'Portal',
 	'misc_focus_position_home'	=> 'Uzay',
@@ -1431,11 +1431,11 @@ $lang = array
 	'misc_focus_position_group'	=> 'Gruplar',
 	'misc_focus_position_search'	=> 'Aramak',
 	'misc_focus_position_userapp'	=> 'Uygulamalar',
-					
+
 	'setting_faq_title'		=> 'Daha fazla ipucu görün',
-					
+
 	'setting_optimize'		=> 'optimizasyon',
-					
+
 	'setting_seo'			=> 'SEO',
 	'setting_seo_insallowcode'	=> 'Kullanılabilir kod, Eklemek için tıklayın',
 	'setting_seo_opendetail'	=> 'Ayrıntılı ayarları göster',
@@ -1446,7 +1446,7 @@ $lang = array
 	'setting_seo_articlelist'	=> 'makale listesi',
 	'setting_seo_article'		=> 'Makale içeriği',
 	'setting_seo_forum'		=> 'Forum Ana Sayfası',
-	'setting_seo_forum_tips'	=> '<li>Site adı&nbsp;<font class="highlight">{bbname}</font>(Uygulama: Tüm Konum)</li>	
+	'setting_seo_forum_tips'	=> '<li>Site adı&nbsp;<font class="highlight">{bbname}</font>(Uygulama: Tüm Konum)</li>
 					<li>Geçerli bölüm adı&nbsp;<font class="highlight">{forum}</font> (uygulama kapsamı: ana sayfa hariç)</li>
 					<li>Birinci düzey forumun adı&nbsp;<font class="highlight">{fup}</font> (uygulama kapsamı: listesi alt forum konuları sayfası ve gönderi içeriği sayfası)</li>
 					<li>Bölüm adı&nbsp;<font class="highlight">{fgroup}</font>(geçerli kapsam: ana sayfa hariç)</li>
@@ -1458,7 +1458,7 @@ $lang = array
 	'setting_seo_threadlist'	=> 'Konu Listesi',
 	'setting_seo_viewthread'	=> 'Konuyu Görüntüle',
 	'setting_seo_home'		=> 'ana sayfa',
-	'setting_seo_home_tips'		=> '<li>Site Adı&nbsp;<font class="highlight">{bbname}</font> (Uygulama: Tüm konumlar</li>	
+	'setting_seo_home_tips'		=> '<li>Site Adı&nbsp;<font class="highlight">{bbname}</font> (Uygulama: Tüm konumlar</li>
 					<li>Günlük başlığı&nbsp;<font class="highlight">{subject}</font> (uygulama kapsamı: günlük içeriği sayfası)</li>
 					<li>günlük/albüm yazarı&nbsp;<font class="highlight">{user}</font> (uygulama kapsamı: günlük ve albüm içeriği sayfası )</li>
 					<li>Günlük özeti&nbsp;<font class="highlight">{summary}</font> (uygulama aralığı: günlük içeriği sayfası)</li>
@@ -1469,7 +1469,7 @@ $lang = array
 	'setting_seo_blog'		=> 'blog içeriği',
 	'setting_seo_album'		=> 'Albüm içeriği',
 	'setting_seo_group'		=> 'Grup Ana Sayfası/Kategori',
-	'setting_seo_group_tips'	=> '<li>Site Adı&nbsp;<font class="highlight">{bbname}</font> (Uygulama: Tüm Konumlar)</li>	
+	'setting_seo_group_tips'	=> '<li>Site Adı&nbsp;<font class="highlight">{bbname}</font> (Uygulama: Tüm Konumlar)</li>
 					<li>Geçerli grup adı&nbsp;<font class="highlight">{forum}</font> (uygulama kapsamı: grup ana sayfası, kategori sayfası hariç)</li>
 					<li>Birinci seviye kategorinin adı&nbsp;<font class="highlight">{first}</font> (uygulama kapsamı: tümü konumlar)</li>
 					<li>İkincil sınıflandırma adı&nbsp;<font class="highlight">{second}</font> (uygulama aralığı: tüm konumlar)</li>
@@ -1533,7 +1533,7 @@ $lang = array
 	'setting_seo_code_viewthread_group_summary'	=> 'Konu açıklaması',
 	'setting_seo_code_viewthread_group_tags'	=> 'Konu etiketleri',
 	'setting_seo_code_viewthread_group_page'	=> 'Konu alt sayfaları',
-					
+
 	'setting_seo_seohead'			=> 'Diğer başlık bilgileri',
 	'setting_seo_seohead_comment'		=> '&lt;head&gt;arasına ek HTML kodu yerleştirmek için bu ayarı kullanın. &lt;/head&gt; etiketler. Bu gerekli değilse boş bırakın.',
 	'setting_seo_rewritestatus'		=> '<span class="spectitle">Statik URL</span>',
@@ -1556,7 +1556,7 @@ $lang = array
 	'setting_seo_rewritecompatible_comment'	=> 'Sunucunuz Yeniden Yazma Kurallarında Çince karakterleri desteklemiyorsa, lütfen "Evet"i seçin. Sunucu ile ilgili bir sorun yoksa "Hayır" seçeneğini seçebilirsiniz.',
 	'setting_seo_rewriteguest'		=> 'Yalnızca misafirler için geçerlidir',
 	'setting_seo_rewriteguest_comment'	=> 'Bu özellik etkinleştirildiğinde, Yeniden Yazma özelliği yalnızca misafirler ve arama motorları için geçerli olacaktır. Sunucu yüklemesini azaltabilir.',
-					
+
 	'setting_cachethread'			=> 'Forum önbellek ayarları',
 	'setting_cachethread_comment'		=> 'Etkinleştirilirse, sayfa içeriği sunucu hızını büyük ölçüde artıracak şekilde statik dosyalara önbelleğe alınır. Özel bir sunucu kullanılması tavsiye edilir. Sanal sunucu için lütfen önbelleği gerçek duruma göre ayarlayın.',
 	'setting_cachethread_indexlife'		=> 'Forum Giriş Önbelleği geçerlilik süresi',
@@ -1570,7 +1570,7 @@ $lang = array
 	'setting_cachethread_coefficient_comment'	=> 'Üye bilgilerinin önbelleğe alınması, büyük ölçekli bir sunucu üzerindeki baskıyı önemli ölçüde azaltabilir. Önbellek eşik aralığını kullan 0 - 100\'dür. Önerilen değer 40\'tır, 0, önbellek etkisini devre dışı bırakır. Yeterli disk alanınız varsa, önbellek hacmini artırmayı deneyebilir ve böylece önbellek etkisini artırabilirsiniz.',
 	'setting_cachethread_coefficient_forum'		=> 'Lütfen kurmak için bir forum seçin',
 	'setting_cachethread_coefficient_forum_comment'	=> 'Bu, önceki önbellek katsayısı değerinin üzerine yazacaktır. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
-					
+
 	'setting_memory'		=> 'Bellek optimizasyonu',
 	'setting_memory_tips'		=> '<li>Bellek optimizasyon programı, performansı büyük ölçüde artıracak ve sunucu yüklemesini azaltacaktır. Bellek optimizasyonu özelliği, sunucunun uygun PHP uzantısını desteklemesini gerektirir.</li><li>Şu anda desteklenen bellek optimizasyonu arayüzleri arasında Memcache, eAccelerator yer alır , ve Alternatif PHP Önbellek (APC), Xcache, Redis, YAC, APCu, optimizasyon sistemi arayüzü mevcut sunucu ortamına göre sırayla seçecektir</li><li>Bellek arayüzünün ana ayarları config_global\'de bulunmaktadır. .php, config_global.php düzenleyebilirsiniz Gelişmiş ayarlar yapın</li>',
 	'setting_memory_status'		=> 'Bellek optimizasyonunun mevcut durumu',
@@ -1607,7 +1607,7 @@ $lang = array
 	'setting_memory_func_forum_collectionrelated_comment'	=> '<span class="vtop tips2">Etkinleştirilmesi önerilir, Süresi hiç dolmamışsa 0\'a ayarlayın. Bir birim olarak TID, Koleksiyon kimliğinin bu TID\'si, Veri Tablosu güncellenirse önbelleğe alınan veriler eşzamanlı olarak güncellenir</span>',
 	'setting_memory_func_home_follow'		=> 'Kullanıcıyı ilgili verilere odaklayın',
 	'setting_memory_func_home_follow_comment'	=> '<span class="vtop tips2">Etkinleştirilmesi önerilir, Süre 86400 saniye (1 gün) olarak ayarlanmıştır, birim için UID, Veriler önbellek süresi içinde güncellenmez</span>',
-					
+
 	'setting_memorydata'				=> 'Önbellek yönetimi',
 	'setting_memorydata_rm_cache_key'		=> 'Önbelleği Sil ANAHTAR',
 	'setting_memory_data_forumindex_comment'	=> '<span class="vtop tips2">Kullanıcı grubu kimliği veya \'for_robot\'</span>',
@@ -1622,7 +1622,7 @@ $lang = array
 	'setting_memory_data_forum_collection_comment'		=> '<span class="vtop tips2">Konu TID\'si</span>',
 	'setting_memory_data_forum_collectionrelated_comment'	=> '<span class="vtop tips2">Konu TID\'si</span>',
 	'setting_memory_data_home_follow_comment'		=> '<span class="vtop tips2">Kullanıcı UID\'si</span>',
-					
+
 	'setting_serveropti'			=> 'sunucu optimizasyonu',
 	'setting_serveropti_maxonlines'		=> 'Maksimum çevrimiçi',
 	'setting_serveropti_maxonlines_comment'	=> 'Lütfen 10 - 65535 aralığında makul bir değer belirleyin. Önerilen değer = 10 * ortalama çevrimiçi üye.',
@@ -1666,9 +1666,9 @@ $lang = array
 	'setting_serveropti_sessionclose_comment'		=> 'Oturum mekanizmasını devre dışı bırakmak, sunucu yüklemesini önemli ölçüde azaltabilir. Çevrimiçi kullanıcı sayısı 20000\'den fazlaysa açılması önerilir (Not: Çevrimiçi süre ve ziyaretçi ve kullanıcı sayısı artık istatistiksel olmayacak, Forum Ana Sayfası ve Forum Listesi sayfalarının çevrimiçi kullanıcı listesi işlevi kullanılamayacak)',
 	'setting_serveropti_onlineguestsmultiple'		=> 'Çevrimiçi ziyaretçi sayın',
 	'setting_serveropti_onlineguestsmultiple_comment'	=> 'Oturum mekanizmasını kapattıktan sonra, Toplam çevrimiçi ziyaretçi (misafirler ve kullanıcılar dahil) ‰ˆ Gerçek çevrimiçi kullanıcı sayısı * Tahmini Çevrimiçi oranı. Kayan nokta için önerilen değer yaklaşık 10\'dur (Not: çevrimiçi kullanıcıların önbellek döngüsünün gerçek sayısı 600 saniyedir)',
-					
+
 	'setting_functions'					=> 'Site modülleri',
-					
+
 	'setting_functions_curscript'				=> 'İşlev betiği',
 	'setting_functions_curscript_scriptclosed_portal'	=> 'Portal özelliğini etkinleştir',
 	'setting_functions_curscript_scriptclosed_portal_comment'	=> 'Portal devre dışı bırakıldığında kategoriler ve makaleler kullanılmayacaktır. Ancak bu, diğer sayfaları ve DIY modüllerinin toplanmasını etkilemez',
@@ -1703,7 +1703,7 @@ $lang = array
 	'setting_functions_curscript_doing_intro'	=> 'İlhamın paylaşılması, duyguların ifade edilmesi, akılda tutulması gereken şeylerin kaydedilmesi',
 	'setting_functions_curscript_message_intro'	=> 'Mesajlar yoluyla, diğer kullanıcıların sizinle etkileşimi kaçırmamasına izin verebilirsiniz',
 	'setting_functions_curscript_ranklist_intro'	=> 'RankList aracılığıyla sitenin derecelendirilen içeriğini görüntüleyebilirsiniz',
-					
+
 	'setting_functions_mod'				=> 'Yönetimle ilgili',
 	'setting_functions_mod_updatestat'		=> '<span class="spectitle">Site istatistiklerini etkinleştir</span>',
 	'setting_functions_mod_updatestat_comment'	=> 'Site istatistikleri, site yöneticisi için çok faydalıdır. Not: Bu özellik, sistem yükünü biraz artıracaktır.',
@@ -1796,7 +1796,7 @@ $lang = array
 	'setting_functions_comment_commentitem_5_comment'	=> 'Açılır menü olarak görüntülenen önceden tanımlanmış genel yorum listesini ayarlayın. Satır başına bir yorum. Boş bir satır varsa, kullanıcının alternatif bakış açısına girmesi sağlanır.',
 	'setting_functions_comment_commentitem_threadplugin'	=> 'Önceden ayarlanmış bakış açıları yorumları',
 	'setting_functions_comment_commentitem_threadplugin_comment'	=> 'Satır başına bir bakış açısı. Boş bir satır varsa, içeriğin altındaki boş satır, açılır menüde alternatif bir bakış açısı olarak görünecektir.',
-					
+
 	'setting_functions_threadexp'				=> 'Yanıt gönder',
 	'setting_functions_threadexp_repliesrank'		=> 'Ankete yanıt vermeyi etkinleştir',
 	'setting_functions_threadexp_repliesrank_comment'	=> 'Açıksa, kullanıcılar &quot;Destek&quot;, &quot;Katılmıyorum&quot;',
@@ -1812,7 +1812,7 @@ $lang = array
 	'setting_functions_threadexp_hidefilteredpost_comment'	=> 'Etkinleştirilirse, algılanan tüm filtrelenmiş gönderiler gizlenir',
 	'setting_functions_threadexp_filterednovote'		=> 'Filtrelenen gönderiler için oylamayı devre dışı bırak',
 	'setting_functions_threadexp_filterednovote_comment'	=> 'Etkinleştirilirse, algılanan tüm filtrelenmiş gönderiler, sonrası oylamaya katılmaz',
-					
+
 	'setting_functions_makehtml'				=> 'HTML yap',
 	'setting_functions_makehtml_articlehtmldir'		=> 'Mağaza makalesi HTML\'si için dizin',
 	'setting_functions_makehtml_articlehtmldir_comment'	=> 'Mağaza makalesi statik dosyaları için geçerli kategori klasöründe, eğik çizgi / ile bitmeden site kök dizininden başlayarak bir alt klasör adı ayarlayın. Bu alt klasör adı boşsa, statik dosyalar geçerli kategori klasöründe saklanacaktır.',
@@ -1839,8 +1839,8 @@ $lang = array
 	'setting_functions_makehtml_cleanhtml_index'		=> 'Portal Ana Sayfası',
 	'setting_functions_makehtml_cleanhtml_category'		=> 'Tüm kategoriler sayfası',
 	'setting_functions_makehtml_cleanhtml_other'		=> 'Diğer tüm sayfalar',
-					
-					
+
+
 	'setting_functions_other'			=> 'Diğer',
 	'setting_functions_other_pwdsafety'		=> 'Parola şifrelemeyi etkinleştir',
 	'setting_functions_other_pwdsafety_comment'	=> 'Bir parolanın sunucuya iletilmeden önce şifrelenmesi gerekiyorsa "Evet"i seçin',
@@ -1878,7 +1878,7 @@ $lang = array
 	'setting_functions_other_global_sign_comment'	=> 'Ayar, imza doğrulamasından sonra açılmalıdır. Kullanıcı imzayı ayarlamazsa, genel imza gösterilir.',
 	'setting_functions_other_shortcut'		=> 'Kredi hatırlatma alt limiti',
 	'setting_functions_other_shortcut_comment'	=> 'Bir kullanıcının kredisi bu limitin altında değilse, kredi hatırlatıcısı üstteki hatırlatıcı çubuğunda gösterilecektir. Bu özelliği devre dışı bırakmak için boş bırakın veya 0 olarak ayarlayın.',
-					
+
 	'setting_functions_activity'			=> 'Etkinlik dizisi',
 	'setting_functions_activity_type'		=> 'Yerleşik tipler',
 	'setting_functions_activity_type_comment'	=> 'Bu ayar, kullanıcı bir olay başlattığında, her satıra bir tür olmak üzere olay türleri görüntülenecektir.',
@@ -1894,7 +1894,7 @@ $lang = array
 	'setting_functions_guide_hotlimt'	=> 'Bir kılavuza toplama için daha düşük Sıcak değer',
 	'setting_functions_guide_hotdt'		=> 'Sıcak toplama sonrası zaman aralığı',
 	'setting_functions_guide_digestdt'	=> 'Özet toplama zaman aralığı',
-					
+
 	'setting_editor'			=> 'Düzenleyici Ayarları',
 	'setting_editor_global'			=> 'küresel',
 	'setting_editor_code'			=> 'BB Kodu',
@@ -1913,7 +1913,7 @@ $lang = array
 	'setting_editor_smcols_comment'		=> 'Kaç tane gülümseme sütunu gösterilecek. Önerilen değer 8 ile 12 arasındadır.',
 	'setting_editor_smrows'			=> 'Gülümseme satırları',
 	'setting_editor_smrows_comment'		=> 'Kaç sıra gülümseme gösterilecek.',
-					
+
 	'setting_permissions'			=> 'Kullanıcı İzinleri',
 	'setting_permissions_alloweditpost'	=> 'Kullanıcıların kendi gönderilerini düzenlemesine izin ver',
 	'setting_permissions_alloweditpost_comment'	=> 'Seçilen kullanıcı grupları "Gönderi zamanını düzenle" ile sınırlı olmayacak ve gönderileri istedikleri zaman düzenleyebilir.',
@@ -1955,7 +1955,7 @@ $lang = array
 	'setting_permissions_nsprofiles_comment'	=> 'Kişisel bilgiler, aktivasyondan sonra kişisel alanda görüntülenmeyecektir.',
 	'setting_permissions_modasban'			=> 'İnceleme anahtar kelimelerini göz ardı etmeyin',
 	'setting_permissions_modasban_comment'		=> 'Etkinleştirildikten sonra denetim anahtar sözcüklerini desteklemeyen bir modülde bu tür anahtar sözcükler bulunursa, gönderi reddedilecek ve kapatılırsa gönderiye izin verilecektir.',
-					
+
 	'setting_credits'			=> 'Kredi Ayarları',
 	'setting_credits_base'			=> 'Temel ayarlar',
 	'setting_credits_scheme_title'		=> 'Kredi planı',
@@ -2009,7 +2009,7 @@ $lang = array
 	'setting_credits_policy_mobile'		=> 'Mobil erişim ekstra kredileri',
 	'setting_credits_policy_mobile_comment'	=> 'Foruma Mobilden erişildiğinde, kullanıcı kredi politikasına karşılık gelen ekstra kredi alacaktır. Yalnızca ekstra krediler için geçerlidir.',
 	'setting_credits_use_custom_credit'	=> 'Mevcut forum özel puan stratejisi',
-					
+
 	'setting_credits_formula'		=> 'Toplam Puan Formülü',
 	'setting_credits_formula_credits'	=> 'Toplam puan',
 	'setting_credits_formulaperm_and'	=> 'Ve',
@@ -2066,7 +2066,7 @@ $lang = array
 	'setting_credits_maxincperthread_comment'	=> 'Tek bir satış dizisi (ekleme) gelir puanı için maksimum vergiyi ayarlayın. Bir satın alma bu sınırı aşarsa, yine de bir alıcı puanını düşürür, ancak iş parçacığı (Attach) gelir puanları yükselmez. Kısıtlamalar sadece konu (Attach) alış/satımı için geçerlidir. Limitsiz olarak 0\'a ayarlayın.',
 	'setting_credits_maxchargespan'		=> 'Tek iş parçacığı (Attach) satış süresi (saat)',
 	'setting_credits_maxchargespan_comment'	=> 'Yayınlandıktan sonra bir ileti dizisinin (Attach) satışa sunulacağı zamanı (saat cinsinden) belirleyin. Bu süreden sonra bir ileti dizisi ortak (ücretsiz) bir ileti dizisi haline gelir (Attach) ve bir okuyucu bunun için ödeme yapmak zorunda kalmaz ve bir yazar artık buna karşılık gelen faydayı alamaz. Limitsiz olarak 0\'a ayarlayın.',
-					
+
 	'setting_mail'				=> 'E-Posta Ayarları',
 	'setting_mail_setting'			=> 'Ayarlar',
 	'setting_mail_setting_silent'		=> 'E-posta gönderirken tüm hataları gizle',
@@ -2090,7 +2090,7 @@ $lang = array
 	'setting_mail_setting_includeuser'		=> 'Alıcı adresi bir kullanıcı adı içeriyor',
 	'setting_mail_setting_includeuser_comment'	=> 'Alıcı e-posta adresi kullanıcı adını içeriyorsa "Evet"i seçin',
 	'setting_mail_setting_edit_addnew'		=> 'Yeni bir SMTP sunucusu ekleyin',
-					
+
 	'setting_mail_check'		=> 'Ölçek',
 	'setting_mail_check_test_from'	=> 'Test gönderen',
 	'setting_mail_check_test_to'	=> 'Test alıcısı',
@@ -2108,7 +2108,7 @@ $lang = array
 	'setting_mail_check_success_1'	=> 'Mesaj başarıyla gönderildi:\n2 harf başlıklı',
 	'setting_mail_check_success_2'	=> 'Test mesajı gönderildi, lütfen kontrol edin.',
 	'setting_mail_check_error'	=> 'Test başarısız. Alınan hata mesajı:\n',
-					
+
 	'setting_sec'			=> 'Anti-spam ayarları',
 	'setting_seccheck'		=> 'Kimlik Doğrulama Ayarları',
 	'setting_accountguard'		=> 'Hesap koruması',
@@ -2119,7 +2119,7 @@ $lang = array
 	'setting_sec_seclevel_comment'	=> 'Genellikle, gelişmiş kimlik doğrulama şemasını kullanmanızı öneririz. Sitenin kullanıcı doğrulaması için kaynak harcayamayacağına karar verdiyseniz, normal bir kimlik doğrulama şeması kullanabilirsiniz.',
 	'setting_sec_seclevel_lower'	=> 'Normal kimlik doğrulama şeması',
 	'setting_sec_seclevel_higher'	=> 'Gelişmiş kimlik doğrulama şeması',
-					
+
 	'setting_sec_base'			=> 'Temel anti-spam ayarları',
 	'setting_sec_base_need_email'		=> 'Yeni kullanıcıları e-postayı etkinleştirmeye zorla',
 	'setting_sec_base_need_email_comment'	=> 'Üyelerin herhangi bir şey gönderebilmeleri için posta kutularını doğrulamaları gerekir.',
@@ -2131,7 +2131,7 @@ $lang = array
 	'setting_sec_base_need_friendnum_comment'	=> 'Yeni kullanıcının bir şey gönderebilmesi için sahip olması gereken arkadaş sayısını ayarlayın.',
 	'setting_sec_floodctrl'			=> 'Taşkın Kontrolü Sonrası (saniye)',
 	'setting_sec_floodctrl_comment'		=> 'İki gönderi arasındaki aralık bu süreden az olmamalıdır, limitsiz için 0',
-					
+
 	'setting_sec_seccode'			=> 'Güvenlik Kodu ayarları',
 	'setting_sec_seccode_rule_setting'	=> 'Kural Ayarı',
 	'setting_sec_seccode_type_setting'	=> 'Tip ayarını göster',
@@ -2181,7 +2181,7 @@ $lang = array
 	'setting_sec_seccode_width_comment'	=> 'Doğrulama kodu görüntüsünün genişliğini 100 - 200 piksel aralığında ayarlayın.',
 	'setting_sec_seccode_height'		=> 'Görüntü yüksekliği',
 	'setting_sec_seccode_height_comment'	=> 'Doğrulama kodu görüntüsünün yüksekliğini 50 - 80 piksel aralığında ayarlayın.',
-					
+
 	'setting_sec_seccode_cloudip'		=> 'Bulut IP doğrulaması',
 	'setting_sec_seccode_cloudip_comment'	=> 'Bulut şüpheli IP kitaplığında bir kullanıcı IP\'si bulunursa, bulut captcha bu kullanıcının tüm oturum açma/kayıt/gönderme işlemleri için otomatik olarak açılır.',
 	'setting_sec_seccode_rule_min'		=> 'Dakika',
@@ -2194,7 +2194,7 @@ $lang = array
 	'setting_sec_seccode_rule_register_numlimit'	=> 'Dönem içindeki kayıtları sınırlayın',
 	'setting_sec_seccode_rule_register_numlimit_comment'	=> 'Bir kullanıcı seçilen zaman aralığında kayıt sayısını aştığında, doğrulama kodu (captcha) açılacaktır. Bu özelliği devre dışı bırakmak için 0 olarak ayarlayın.',
 	'setting_sec_seccode_rule_register_timelimit'	=> 'Zaman aralığını seçin',
-					
+
 	'setting_sec_seccode_rule_login'		=> 'Giriş Yaparken Captcha Kullanın',
 	'setting_sec_seccode_rule_login_comment'	=> 'Girişte doğrulama kodunu etkinleştirmek için kuralı ayarlayın',
 	'setting_sec_seccode_rule_login_auto'		=> 'Akıllı etkin',
@@ -2210,7 +2210,7 @@ $lang = array
 	'setting_sec_seccode_rule_login_timeiptry'		=> 'Zaman aralığını seçin',
 	'setting_sec_seccode_rule_login_outofday'		=> 'Kaydedilmemiş süre (gün)',
 	'setting_sec_seccode_rule_login_outofday_comment'	=> 'Son ve mevcut oturum açma arasındaki zaman aşımı bu değeri aşarsa, doğrulama kodu açılır. Bu kuralı devre dışı bırakmak için 0 olarak ayarlayın.',
-					
+
 	'setting_sec_seccode_rule_post'			=> 'Gönderide Captcha kullanın',
 	'setting_sec_seccode_rule_post_comment'		=> 'Bu kural, herhangi bir gönderi yayınlanırken bir doğrulama kodunu etkinleştirir',
 	'setting_sec_seccode_rule_post_auto'		=> 'Akıllı etkin',
@@ -2223,13 +2223,13 @@ $lang = array
 	'setting_sec_seccode_rule_post_nplimit_comment'	=> 'İki iş parçacığının oluşturulması arasında geçen süre bu sınırın altındaysa doğrulama kodu açılacaktır. Bu kuralı devre dışı bırakmak için 0 olarak ayarlayın.',
 	'setting_sec_seccode_rule_post_vplimit'		=> 'Yanıt akışı süresi (saniye)',
 	'setting_sec_seccode_rule_post_vplimit_comment'	=> 'İki kullanıcı yanıtı arasındaki süre bu sınırın altındaysa doğrulama kodu açılacaktır. Bu kuralı devre dışı bırakmak için 0 olarak ayarlayın.',
-					
+
 	'setting_sec_seccode_rule_password'		=> 'Şifreyi Değiştirirken Captcha\'yı Kullanın',
 	'setting_sec_seccode_rule_password_comment'	=> 'Parola değişiminde doğrulama kodunun etkinleştirilip etkinleştirilmeyeceğini ayarlayın',
-					
+
 	'setting_sec_seccode_rule_card'		=> 'Captcha\'yı ön ödemeli kartta kullan kapalı',
 	'setting_sec_seccode_rule_card_comment'	=> 'Doğrulama kodu gizli ön ödemeli kartın etkinleştirilip etkinleştirilmeyeceğini ayarlayın (Etkinleştirilmesi önerilir)',
-					
+
 	'setting_sec_secqaa'			=> 'Güvenlik Soru-Cevap',
 	'setting_sec_secqaa_add'		=> 'yeni soru ekle',
 	'setting_sec_secqaa_status'		=> 'Güvenlik Soru-Cevap\'ını etkinleştirin',
@@ -2240,7 +2240,7 @@ $lang = array
 	'setting_sec_secqaa_question'		=> 'Soru',
 	'setting_sec_secqaa_answer'		=> 'Cevap',
 	'setting_sec_secqaa_comment'		=> 'Kaydolurken veya gönderirken güvenlik soruları ve yanıtları, daha önemli zorluk nedeniyle kötü niyetli etkilerin önlenmesini sağlar. 10\'dan fazla soru ve cevap ayarlamanız önerilir. Not: HTML kodu desteklenir, yanıt 50 karakterden uzun olmamalıdır.',
-					
+
 	'setting_sec_reginput'			=> 'Kayıt formu adı',
 	'setting_sec_reginput_username'		=> 'kullanıcı adı ayarları',
 	'setting_sec_reginput_username_comment'	=> 'Varsayılan kullanıcı adı, yalnızca harf ve sayı kombinasyonu bir harfle başlamalıdır. Değiştirilen form adı, RI\'da rol oynamayı zorlaştıracak',
@@ -2252,9 +2252,9 @@ $lang = array
 	'setting_sec_reginput_email_comment'	=> 'Varsayılan e-posta, yalnızca harf ve sayı kombinasyonu bir harfle başlamalıdır. Değiştirilen form adı, RI\'da rol oynamayı zorlaştıracak',
 	'setting_sec_postperiodtime'		=> 'Posta süresi kısıtlaması',
 	'setting_sec_accountguard'		=> 'Hesap koruması',
-					
+
 	'setting_datetime'			=> 'Zaman Ayarları',
-					
+
 	'setting_datetime_format'		=> 'Tarih ve saat biçimi',
 	'setting_datetime_timeformat'		=> 'Varsayılan saat biçimi',
 	'setting_datetime_dateformat'		=> 'Varsayılan tarih biçimi',
@@ -2264,7 +2264,7 @@ $lang = array
 	'setting_datetime_timeoffset'		=> 'Varsayılan zaman farkı',
 	'setting_datetime_timeoffset_comment'	=> 'Yerel saat farkınızı GMT\'den (Saat dilimi) ayarlayın. Örneğin, Çin\'de Yaz Saati için -7,5 girebilirsiniz.',
 	'setting_datetime_timezone'	=> array(
-			''	=> 'Select the public Time Zone',				
+			''	=> 'Select the public Time Zone',
 			'-12'	=> '(GMT -12:00) Eniwetok Adası, Kwajalein Atolü',
 			'-11'	=> '(GMT -11:00) Midway Adası, Samoa',
 			'-10'	=> '(GMT -10:00) Hawaii',
@@ -2297,7 +2297,7 @@ $lang = array
 			'10'	=> '(GMT +10:00) Canberra, Guam, Melbourne, Sidney, Vladivostok',
 			'11'	=> '(GMT +11:00) Magadan, Yeni Kaledonya, Solomon Adaları',
 			'12'	=> '(GMT +12:00) Auckland, Wellington, Fiji, Marshall Adaları',
-			),					
+			),
 	'setting_datetime_periods'			=> 'Zaman aralığı ayarları',
 	'setting_datetime_visitbanperiods'		=> 'Erişim zamanını devre dışı bırak',
 	'setting_datetime_visitbanperiods_comment'	=> 'Kullanıcıların siteye erişemedikleri günün belirli bir saatini ayarlayın. 24 saatlik zaman biçimini, her satıra bir zaman aralığı kullanın. gerekirse, bir zaman sıfırı (gece yarısını) geçebilir. Sınırlandırmamak için boş bırakın. Örneğin:<br />Gece yarısına yakın: <i>23:25-05:05</i><br />Her gün 21:00 - 14:30: <i>09:00-14: 30</i><br />Not: Yanlış saat formatı bazı beklenmeyen sorunlara neden olabilir! Yani "Süresiz" seçeneği olan kullanıcı gruplarında zaman zaman erişim kısıtlamaları olabilir. Tüm saat ayarları, sistemin varsayılan saat dilimi kullanılarak ayarlanmalıdır.',
@@ -2313,7 +2313,7 @@ $lang = array
 	'setting_datetime_searchbanperiods_comment'	=> 'Kullanıcıların tam metin aramayı kullanamayacakları bir zaman aralığı belirleyin.',
 	'setting_datetime_ban_downtime'			=> 'İndirme süresi yok',
 	'setting_datetime_ban_downtime_comment'		=> 'Kullanıcıların ekleri indiremeyeceği bir zaman aralığı belirleyin',
-					
+
 	'setting_sec_accountguard_forcelogin'		=> 'Güvenli giriş',
 	'setting_sec_accountguard_forcelogin_comment'	=> 'Bazı kullanıcı gruplarını belirtilen oturum açma yöntemini kullanmaya zorla',
 	'setting_sec_accountguard_postqqonly'		=> 'Göndermeden önce QQ\'yu bağlayın',
@@ -2327,10 +2327,10 @@ $lang = array
 	'setting_sec_accountguard_loginoutofdate_comment'	=> 'Kullanıcı belirli bir süreden fazla oturum açtığında, hesap denetlenmemiş gruba girecek ve kullanıcı, posta kutusunu doğrulayarak veya itiraz ederek hesabı çözebilir ve QQ oturumu açan kullanıcı bu özellikten etkilenmeyecektir. <a href="'.ADMINSCRIPT.'?action=moderate&operation=members">Kullanıcıları denetle</a>',
 	'setting_sec_accountguard_loginoutofdatenum'		=> 'Anormal oturum açma tespiti için gün sayısı',
 	'setting_sec_accountguard_loginoutofdatenum_comment'	=> 'Anormal oturum açma tespiti için gün sayısını yapılandırın, varsayılan değer 90 gündür',
-					
-					
+
+
 	'setting_attach'			=> 'Yükleme Ayarları',
-					
+
 	'setting_attach_basic'			=> 'Temel ayarlar',
 	'setting_attach_basic_dir'		=> 'Ek dizini',
 	'setting_attach_basic_dir_comment'	=> 'Mutlak sunucu yolunu eğik çizgi ("/") olmadan ayarlayın. 777 özelliklerine sahip olmalı ve web tarafından erişilebilir olmalıdır.',
@@ -2352,7 +2352,7 @@ $lang = array
 	'setting_attach_basic_allowattachurl'		=> 'Medya oynatıcı için ek URL\'yi etkinleştir',
 	'setting_attach_basic_allowattachurl_comment'	=> 'Ekin URL adresini açtıktan sonra, yüklenen ekin adresine herhangi bir gönderide "attach://aid.ext" <b>(Ek ücretlendirmesini ve okuma izni kararını desteklemez)</b> tarafından başvurulabilir, ve medya eklerini destekler Doğrudan oynatma için, bu ayarın kullanıcı gruplarının <a href="'.ADMINSCRIPT.'?action=usergroups">usergroup</a> - gönderiyle ilgili multimedya kodlarını kullanmasına izin vermesi ve yerel yapılandırmayı sağlaması gerekir config_global.php dosyası Sadece dosya okuma modu 1 veya 4 olduğunda etkili olabilir',
 	'setting_attach_basic_swfupload_comment'	=> 'Flash kullanarak yüklemek için toplu yükleme mekanizması, çalışma zamanında yükleme ilerlemesini gösteren birden fazla ek yüklemek için kullanılabilir.',
-					
+
 	'setting_attach_forumattach'		=> 'Forum ekleri',
 	'setting_attach_image_preview'		=> 'Ön izleme',
 	'setting_attach_image_preview_comment'	=> 'Önizleme için ayarları kaydetmeye gerek yok',
@@ -2422,7 +2422,7 @@ $lang = array
 	'setting_imgwater_image_watermarktext_imskewx_comment'	=> 'Filigran yatay açısını ayarlayın. Bu ayar yalnızca ImageMagick kitaplığı için geçerlidir.',
 	'setting_imgwater_image_watermarktext_imskewy'		=> 'METİN filigranı dikey eğme (ImageMagick)',
 	'setting_imgwater_image_watermarktext_imskewy_comment'	=> 'Filigran dikey açısını ayarlayın. Bu ayar yalnızca ImageMagick kitaplığı için geçerlidir.',
-					
+
 	'setting_attach_remote'			=> 'Uzak Ekler',
 	'setting_attach_remote_preview'		=> 'Bağlantı Testi',
 	'setting_attach_remote_preview_comment'	=> 'Test etmek için ayarları kaydetmeye ve ardından test edilenleri kaydetmeye gerek yok',
@@ -2452,7 +2452,7 @@ $lang = array
 	'setting_attach_remote_minsize'			=> 'Minimum bağlantı boyutu',
 	'setting_attach_remote_minsize_comment'		=> 'Birim: KB. Yalnızca boyut değerden büyükse uzak eklerin yüklenmesine izin verin. 0\'a ayarlayın veya limitsiz olarak boş bırakın.',
 	'setting_attach_remote_ftpcheck'		=> 'Uzak ek ayarlarını test edin',
-					
+
 	'setting_ftp_remote_-100'	=> 'PHP uzantılı FTP modülü kurulu değil veya FTP işlevleri devre dışı.',
 	'setting_ftp_remote_-101'	=> 'FTP sunucusu bağlantısı başarısız oldu. FTP sunucusu adresini ve bağlantı noktası ayarlarının doğru olup olmadığını kontrol edin.',
 	'setting_ftp_remote_-102'	=> 'FTP sunucusu bağlantısı başarısız oldu. FTP sunucusu adresini ve bağlantı noktası ayarlarının doğru olup olmadığını kontrol edin.',
@@ -2463,7 +2463,7 @@ $lang = array
 	'setting_ftp_remote_-107'	=> 'FTP yüklemesi başarısız oldu. FTP hesabının dosyaları yüklemek için etkinleştirilip etkinleştirilmediğini kontrol edin. İzinler doğruysa pasif mod (pasv) bağlantısını kullanmayı deneyin.',
 	'setting_attach_ftp_dir'	=> 'Site kök dizini',
 	'setting_attach_ftp_dir_comment'	=> 'Site kök dizini mutlak yolu (veya FTP giriş dizininden göreli yol), sonuna eğik çizgi "/" eklemeyin! "." FTP giriş dizini anlamına gelir.',
-					
+
 	'setting_attach_remote_-100'	=> 'PHP uzantılı FTP modülü kurulu değil veya FTP işlevleri devre dışı.',
 	'setting_attach_remote_-101'	=> 'Uzak ek özelliği devre dışı bırakıldı.',
 	'setting_attach_remote_-102'	=> 'FTP sunucusu bağlantısı başarısız oldu. FTP sunucusu adresini ve bağlantı noktası ayarlarının doğru olup olmadığını kontrol edin.',
@@ -2475,17 +2475,17 @@ $lang = array
 	'setting_attach_remote_geterr'	=> 'Yükleme başarısız. Uzaktan erişim URL\'sinin doğru olup olmadığını kontrol edin.',
 	'setting_attach_remote_delerr'	=> 'Dosya silinemedi. FTP hesabının dosyaları silmek için etkinleştirilip etkinleştirilmediğini kontrol edin.',
 	'setting_attach_remote_ok'	=> 'Uzak Ek ayarları başarıyla ayarlandı.',
-					
+
 	'setting_attach_album'				=> 'Albüm ayarları',
 	'setting_attach_album_maxtimage'		=> 'Görüntü maksimum boyutları',
 	'setting_attach_album_maxtimage_comment'	=> 'Büyük bir resim yüklediğinizde, program buna karşılık gelen küçük bir resim oluşturacaktır, varsayılan boyut 300*300 pikseldir.',
-					
+
 	'setting_attach_portal_article_attach'		=> 'Makale Ekleri',
 	'setting_attach_portal_article_img_thumb_closed'	=> 'Makaleler için küçük resimleri etkinleştir',
 	'setting_attach_portal_article_img_thumb_closed_comment'	=> 'Yüklenen makale resimlerinden küçük resimler oluşturun',
 	'setting_attach_portal_article_imgsize'		=> 'Makale resimleri için küçük resim boyutu',
 	'setting_attach_portal_article_imgsize_comment'	=> 'Büyük bir resim yüklediğinizde, program buna karşılık gelen küçük bir resim oluşturacaktır, varsayılan boyut 300*300 pikseldir.',
-					
+
 	'setting_attach_antileech'			=> 'Anti-sülük ayarları',
 	'setting_attach_antileech_expire'		=> 'Ek bağlantıların sona ermesi',
 	'setting_attach_antileech_expire_comment'	=> 'Birim: saat. Kalıcı ek bağlantıları için 0\'a ayarlayın veya boş bırakın. Süresi dolmuş bağlantılar otomatik olarak güncellenir. Bu özellik, ekin sızmasını ve toplu indirmeleri önleyebilir, ancak normal üyelerin indirmesini zorlaştıracaktır.',
@@ -2493,7 +2493,7 @@ $lang = array
 	'setting_attach_antileech_refcheck_comment'	=> 'Diğer sitelerden veya indirilmesi yasaklanmış sitelerden ekleri indirirken bir yönlendireni kontrol etmek için "Evet"i seçin. Not: Bu özellik "resim eki hakkında bir mesaj" gösterecek ve sunucu yüklemesini artıracaktır.',
 	'setting_attach_antileech_remote_hide_dir'	=> 'Gerçek bağlanma yolunu gizle',
 	'setting_attach_antileech_remote_hide_dir_comment'	=> 'Bu seçenek, sunucu yüklemesini artıracak ve yerel sunucu trafiğini önemli ölçüde artıracaktır. Bir indirme/yükleme eki dosya adının gizlenip gizlenmeyeceğini seçin.',
-					
+
 	'setting_imgwater'			=> 'Filigran',
 	'setting_imgwater_portal'		=> 'Nesne',
 	'setting_imgwater_forum'		=> 'Forum',
@@ -2503,7 +2503,7 @@ $lang = array
 	'setting_imgwater_preview_portal'	=> '<a href="?action=checktools&operation=imagepreview&type=portal&frame=no" target="_blank" class="btn" style="border-style: solid; border-width: 1px;">Önizleme filigranı</a>',
 	'setting_imgwater_preview_forum'	=> '<a href="?action=checktools&operation=imagepreview&type=forum&frame=no" target="_blank" class="btn" style="border-style: solid; border-width: 1px;">Önizleme filigranı</a>',
 	'setting_imgwater_preview_album'	=> '<a href="?action=checktools&operation=imagepreview&type=album&frame=no" target="_blank" class="btn" style="border-style: solid; border-width: 1px;">Önizleme filigranı</a>',
-					
+
 	'setting_search'		=> 'Arama Ayarları',
 	'setting_search_status'		=> 'Aramayı etkinleştir',
 	'setting_search_status_portal'	=> 'Arama Portalı',
@@ -2515,14 +2515,14 @@ $lang = array
 	'setting_search_status_comment'		=> 'Aramayı etkinleştirmek istediğiniz alanları kontrol edin',
 	'setting_search_onoff'			=> 'Olanak vermek',
 	'search_item_name'			=> 'Arama alanı',
-					
+
 	'setting_search_srchsetting'		=> 'Arama seçeneği ayarları',
 	'setting_search_srchcensor'		=> 'Arama kelime filtreleme ile kontrol edilir',
-					
+
 	'setting_search_srchhotkeywords'	=> 'Popüler anahtar kelimeler',
 	'setting_search_srchhotkeywords_comment'	=> 'Satır başına bir anahtar kelime',
 	'setting_search_srchhotkeywords_disabled'	=> '<strong>Latitude Arama hizmetini etkinleştirdiniz, lütfen <a href="'.ADMINSCRIPT.'?action=cloud&operation=search">Bulut platformu->Boylam Arama</a> ayarlarına gidin</strong>',
-					
+
 	'settings_sphinx'			=> 'Sphinx tam metin arama ayarları',
 	'settings_sphinx_sphinxon'		=> 'Sphinx\'i Etkinleştir',
 	'settings_sphinx_sphinxon_comment'	=> 'Bu ayarı etkinleştirmeden önce, sphinx tam metin arama motorunu kurmanız ve yapılandırmanız gerekir.',
@@ -2539,10 +2539,10 @@ $lang = array
 	'settings_sphinx_sphinxlimit'		=> 'Maksimum arama sonucu sayısı',
 	'settings_sphinx_sphinxlimit_comment'	=> 'Döndürülecek maksimum eşleşme sayısını girin, negatif olmayan bir tam sayı olmalıdır, varsayılan değer 10000\'dir.',
 	'settings_sphinx_sphinxrank'		=> 'Tam metin dizini sıralama modu',
-	'settings_sphinx_sphinxrank_comment'	=> '(1) SPH_RANK_PROXIMITY_BM, varsayılan mod, rank ve BM25 rank deyimlerini kullanır ve her ikisinin birleşimi olacaktır. [Varsayılan]	
-<br />(2) SPH_RANK_BM25, statistical correlation calculation mode, use only the BM25 rank calculation (full text search engine with most of the same). This mode is faster, but may contain more than the result of a query term decline in the quality.					
-<br />(3) SPH_RANK_NONE, Disable ranking mode, which is the fastest mode. Fact that the same model as a Boolean search. All the matches are given weight 1.',				
-					
+	'settings_sphinx_sphinxrank_comment'	=> '(1) SPH_RANK_PROXIMITY_BM, varsayılan mod, rank ve BM25 rank deyimlerini kullanır ve her ikisinin birleşimi olacaktır. [Varsayılan]
+<br />(2) SPH_RANK_BM25, statistical correlation calculation mode, use only the BM25 rank calculation (full text search engine with most of the same). This mode is faster, but may contain more than the result of a query term decline in the quality.
+<br />(3) SPH_RANK_NONE, Disable ranking mode, which is the fastest mode. Fact that the same model as a Boolean search. All the matches are given weight 1.',
+
 	'setting_ranklist'		=> 'Sıralama Listesi',
 	'setting_ranklist_all'		=> 'Tüm',
 	'setting_ranklist_other'	=> 'Diğer',
@@ -2574,9 +2574,9 @@ $lang = array
 	'setting_ranklist_update_cache_choose'	=> 'Modül önbelleğini güncellemeyi seçin',
 	'setting_ranklist_index'		=> 'Üst Liste Ana Sayfası',
 	'setting_ranklist_cache_comment'	=> 'Sunucu yüklemenize göre modül önbelleğini güncellemek için makul bir seçim belirleyin. Ne kadar çok modül seçilirse o kadar fazla sunucu yüklenmesine neden olur.',
-					
+
 	'setting_profile_field'			=> 'İsteğe bağlı profil alanları (<a href="?action=members&operation=profile">Yeni alanı etkinleştirmek için burayı tıklayın</a>)',
-					
+
 	'tag'				=> 'Etiket Yönetimi',
 	'tag_set'			=> 'Ayarlamak',
 	'tag_enable'			=> 'Etiketleri Etkinleştir',
@@ -2592,7 +2592,7 @@ $lang = array
 	'tag_recommend_comment'		=> 'Her etiket için 3-20 karakter uzunluğunda, satır başına önerilen etiketler',
 	'tag_admin'			=> 'Etiket Yönetimi',
 	'tag_result'			=> 'İlgili etiketlerin sayısı',
-					
+
 	'collection'			=> 'Koleksiyonlar',
 	'collection_date'		=> 'Posta zamanı',
 	'collection_admin'		=> 'Koleksiyonu yönet',
@@ -2618,7 +2618,7 @@ $lang = array
 	'collection_recommend_tips'	=> 'Manuel olarak önerilecek koleksiyon yok, <a href="'.ADMINSCRIPT.'?action=collection&operation=admin">Birkaç albüm ara</a>\'ya gidin ve ardından ana sayfaya önerilir!',
 	'collection_recommend_index_autonumber'		=> 'Önerilen Ev Sayısı',
 	'collection_recommend_index_autonumber_comment'	=> 'Bu ayar, ana sayfada önerilen bir dizi popüler albümü tanımladı. "0" olarak ayarlayın; Tavsiye özelliğini devre dışı bırakmak için. Bu sayıya bir dizi manuel öneriye ulaşıldığında, sistem bu albümü otomatik olarak önerecektir.',
-					
+
 	'usertag'		=> 'Kullanıcı Etiketleri',
 	'usertag_list'		=> 'Üstesinden gelmek',
 	'usertag_count'		=> 'Şu anda {tagcount} kullanıcı etiketi var',
@@ -2671,7 +2671,7 @@ $lang = array
 	'setting_mobile_wml_comment'		=> 'WML sürümü, web sitesine göz atmak için yalnızca WML dilini destekleyen bazı önceki cihazların içeriğidir.',
 	'pack'					=> 'Ambalaj',
 	'unwind'				=> 'Genişletmek',
-					
+
 	'setting_antitheft'		=> 'Kapma önleme ayarları',
 	'setting_antitheft_tips'	=> '<li>Gizlenme önleme işlevi, normal kullanıcıların içeriğe göz atmasını etkilemez.</li><li>Bu sitedeki konuların, makalelerin ve logların hukuka aykırı olarak toplanmasını engelleyebilir.</li><li><font style="color:red">IP aynı anda kara/beyaz listede bulunduğunda, beyaz liste önceliklidir.</font></li><li>Toplama önleme işlevi etkinleştirildikten sonra, gönderi listesi sayfasındaki gönderi önizleme işlevi kullanılamaz.</li>',
 	'setting_antitheft_status'	=> 'Kapma önleme genel ayarları',
@@ -2697,7 +2697,7 @@ $lang = array
 	'setting_antitheft_choose_optype'	=> 'Lütfen gerçekleştirilecek işlemi seçin',
 	'setting_antitheft_addwhitelist'	=> 'Beyaz Listeye Ekle',
 	'setting_antitheft_addblacklist'	=> 'Karalisteye ekle',
-					
+
 	'setting_uc'			=> 'UCenter ayarları',
 	'setting_uc_tips'		=> '<li>Genel olarak, kurulumdan sonra tüm UC ayarları otomatik olarak yapılır ve herhangi bir değişiklik gerektirmez. Not: Bir site çalışamadığında değişiklik hatalarını önlemek için değişiklik yapmadan önce config/config_ucenter.php dosyasının yedeğini alın.</li>',
 	'setting_uc_key'		=> 'UCenter iletişim anahtarı',
@@ -2726,7 +2726,7 @@ $lang = array
 	'setting_uc_avatarmethod_comment'	=> 'Kullanıcı avatarlarını göstermek için bir yöntem belirleyin',
 	'setting_uc_avatarmethod_0'		=> 'Dinamik bir avatar adresi kullanın',
 	'setting_uc_avatarmethod_1'		=> 'Statik bir avatar adresi kullanın',
-					
+
 	'setting_ec'			=> 'E-ticaret ayarları',
 	'setting_ec_credittrade'	=> 'Puan Değişimi ayarları',
 	'setting_ec_goodstrade'		=> 'Ürünle ilgili ayarlar',
@@ -2744,7 +2744,7 @@ $lang = array
 	'setting_ec_biosize_comment'		=> 'Bir ürün açıklamasında maksimum karakter sayısı belirleyin. Sistem varsayılan değeri olan 400 karakteri kullanmak için 0\'a ayarlayın.',
 	'setting_ec_type'			=> 'Yerleşik ürün kategorileri',
 	'setting_ec_type_comment'		=> 'Bir iş parçacığı oluşturulduğunda seçmek için ürün kategorilerini ayarlayın. Not: Kategorileri ayarlamayı bitirdiğinizde, bir Forum Kategorisine atanabilir. Kullanılabilir Forum kategorilerini belirtmezseniz, Forum herkes için varsayılan kategoriyi kullanacaktır.',
-					
+
 	'forums'			=> 'Forumlar',
 	'forums_admin'			=> 'Forum Yönetimi',
 	'forums_admin_add_category'	=> 'yeni bir kategori ekle',
@@ -2760,7 +2760,7 @@ $lang = array
 	'forums_admin_password'		=> 'Şifre',
 	'forums_admin_url'		=> 'Dış bağlantılar',
 	'forums_relation'		=> 'İlgili Forumlar',
-					
+
 	'forums_grid'			=> 'Ev ızgarası',
 	'forums_grid_tips'		=> '<li>Etkinleştirilirse, forum ana sayfası içeriği 4 çerçeveli ızgarada gösterilecektir</li>',
 	'forums_grid_show_grid'		=> 'Evde 4 çerçeveli ızgarayı göster',
@@ -2783,7 +2783,7 @@ $lang = array
 	'forums_grid_cache_life_comment'	=> 'Forum Ana Sayfası 4 çerçeveli ızgara için önbellek güncelleme süresini saniye cinsinden ayarlayın. Varsayılan 600 saniyedir.',
 	'show_all'				=> 'Genişletmek',
 	'hide_all'				=> 'Yıkılmak',
-					
+
 	'forums_cat_detail'		=> 'Kategori ayrıntılı ayarları',
 	'forums_cat_display'		=> 'Ekran kategorisi',
 	'forums_cat_display_comment'	=> '"Hayır"ı seçerseniz, kategori geçici olarak gizlenecektir, ancak kullanıcılar bu alana Forum URL\'si aracılığıyla erişmeye devam edebilir.',
@@ -2794,7 +2794,7 @@ $lang = array
 	'forums_edit_tips'		=> '<li>Aşağıdaki ayarlar devralınmaz, bu yalnızca mevcut Forumdur ve alt Forumları etkilemez.</li>',
 	'forums_edit_switch'		=> 'Toplu Forum düzenleme',
 	'forums_multiedit'		=> 'Seçilen Forumları toplu düzenleme',
-					
+
 	'forums_edit_basic'			=> 'Temel ayarlar',
 	'forums_edit_basic_cat_name'		=> 'Kategori adı',
 	'forums_edit_basic_cat_name_color'	=> 'Kategori Adı Renk',
@@ -2832,7 +2832,7 @@ $lang = array
 	'forums_edit_basic_keys_comment'	=> 'Statik URL etkinleştirildikten sonra, Foruma bu takma ad üzerinden erişilebilir. Örneğin, takma ad "geliştirici" olarak ayarlanmışsa, Forum URL\'si "'.$_G['siteurl'].'forum-developer-1.html" olur. Not: Takma ad yalnızca harf veya rakam içerebilir ve yalnızca sayısal olamaz.',
 	'forums_edit_basic_binddomain'		=> 'Forum park alanı',
 	'forums_edit_basic_binddomain_comment'	=> 'Forumu ziyaret ettikten sonra alan adına bağlanın',
-					
+
 	'forums_edit_extend'			=> 'Genişletilmiş ayarlar',
 	'forums_edit_extend_style'		=> 'Forum stili',
 	'forums_edit_extend_style_comment'	=> 'Bu Forumda ziyaretçiler tarafından kullanılan stili girin',
@@ -2907,7 +2907,7 @@ $lang = array
 	'forums_edit_extend_recommend_top'		=> 'Küresel çubuğa izin ver',
 	'forums_edit_extend_recommend_top_comment'	=> 'Global olarak işaretlenen ipler, global üstte ve alt üstte görüntülenecektir.',
 	'forums_edit_sub_multi_tips'			=> '<span class="lightfont">Alt forumda değişiklik yapmaya gerek yok</span>',
-					
+
 	'forums_edit_posts'			=> 'Gönderi seçenekleri',
 	'forums_edit_posts_modposts'		=> 'Ön moderasyon sonrası',
 	'forums_edit_posts_modposts_comment'	=> 'Bu forumdaki tüm gönderilerin başkaları tarafından görülebilmesi için moderatör/yönetici tarafından onaylanması gerektiğinden "Evet"i seçin. Ayarladıktan sonra, hangi gönderilerin doğrulanması gerektiğini ve bu doğrulamayı yapabilecek grupları seçebilirsiniz.',
@@ -2933,7 +2933,7 @@ $lang = array
 	'forums_edit_posts_anonymous_comment'	=> 'Kullanıcıların ileti dizilerini ve yanıtları anonim olarak yayınlamasına izin verilip verilmeyeceği. Anonim gönderim, gönderilen konuklardan farklıdır, anonim kullanıcıların gönderi göndermeden önce oturum açması gerekir ve moderatörler ve yöneticiler gerçek yazarı görebilir.',
 	'forums_edit_posts_disablethumb'	=> 'Ek resim küçük resmi eklemeyi devre dışı bırakın',
 	'forums_edit_posts_disablethumb_comment'	=> '"Evet"i seçerseniz, bu özellik için genel ayar açık olsa bile bu foruma yüklenen resimler otomatik olarak küçük resim oluşturmaz. "Hayır" ise - küçük resim kararı, varsayılan sistem ayarlarına uygun olacaktır.',
-					
+
 	'forums_edit_posts_disablewatermark'		=> 'Filigranı devre dışı bırak',
 	'forums_edit_posts_disablewatermark_comment'	=> 'Genel ayarlar tarafından etkinleştirilmiş olsa bile filigran kullanımını devre dışı bırakmak için "Evet"i seçin. Sistem varsayılan filigran ayarlarını kullanmak için "Hayır"ı seçin.',
 	'forums_edit_posts_tagstatus'			=> 'ETİKETLERİ kullanmayı etkinleştir',
@@ -2972,14 +2972,14 @@ $lang = array
 	'forums_edit_posts_noforumhidewater_comment'	=> 'Anlamsız gönderileri gizleme işlevi herhangi bir forum için kullanılabilir. Bazı Spam türü forumlar için uygundur.',
 	'forums_edit_posts_noforumrecommend'		=> 'Yanıt Önermeyi Devre Dışı Bırak',
 	'forums_edit_posts_noforumrecommend_comment'	=> 'Önerilen Yanıtlar işlevini kapatmak, sunucu kaynaklarından bir miktar tasarruf sağlayabilir. Spam türü forumlar için Önerilen Yanıtlar işlevini devre dışı bırakmanız önerilir.',
-					
+
 	'forums_edit_attachtype'		=> 'Ekleme türü',
 	'forums_edit_attachtype_tips'		=> '<li>Bu özellik, bu forumdaki belirli bir ek türünün maksimum boyutunu sınırlayabilir. Burada ayarlanan değer, bir kullanıcı grubunun izin verilen maksimum boyutundan küçük olduğunda, Belirtilen türün ek boyutu sınırı bu sınıra ayarlanacaktır.</li><li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li><li>Bu ayar boş bırakılırsa, genel "ek türü boyutu" ayarı kullanılacaktır.</li>',
 
 	'forums_edit_credits'			=> 'Kredi stratejisi',
 	'forums_edit_credits_policy'		=> 'Uzatılmış krediler değişim stratejisi',
 	'forums_edit_credits_comment'		=> '-99 ila +99 aralığında puan değişikliklerine izin verilir. Parantez içindeki rakamlar, genel ayar değeri anlamına gelir. <a href="home.php?mod=spacecp&ac=credit&op=usergroup&ptype=1&fid={fid}" target="_blank">Puan değiştirme stratejisinin açıklamasını görüntüleyin</a>',
-					
+
 	'forums_edit_threadtypes'		=> 'Konu türleri',
 	'forums_edit_threadtypes_comment'	=> 'Forumda kullanılan ve birçok durumda kullanılacak olan konu kategorilerini etkinleştirebilirsiniz. Önerilen kategoriler yalnızca "düz panel" yaklaşımı kullanıldığında önemlidir. Daha fazla kategori için "Açılır" yaklaşımı kullanıldı.',
 	'forums_edit_threadtypes_config'	=> 'İş parçacığı türleri yapılandırılır',
@@ -3008,7 +3008,7 @@ $lang = array
 	'forums_edit_threadtypes_defaultshow'		=> 'Kategoriyi varsayılan olarak göster',
 	'forums_edit_threadtypes_options_comment'	=> 'Bu Forumda kategori seçeneğini kullanmayı düşünüyorsanız bunu işaretleyin. Yeni konu ve konu taraması, seçilen kategorilere göre sınıflandırılacaktır. Not: Bu fonksiyonun kullanılabilmesi için önce "İplik kategorilerini etkinleştir" ayarını yapmalısınız.',
 	'forums_edit_threadtypes_nonexistence'		=> 'Konu kategorileri mevcut değil, lütfen ekleyin',
-					
+
 	'forums_edit_threadsorts'		=> 'forum kategorileri',
 	'forums_edit_threadsorts_tips'		=> '<ul><li>Resmi kullanımdan sonra eklenen alanları değiştirmemeye çalışın ve veri kaybını önlemek için proje alanlarını değiştirmeyin</li><li>Numara, seçme, radyo alanı türleri dışında form aramayı açın , diğer alan türleri sistem için önemlidir Büyük performans etkisi</li></ul>',
 	'forums_edit_threadsorts_status'		=> 'Forum kategorilerini etkinleştir',
@@ -3029,7 +3029,7 @@ $lang = array
 	'forums_edit_threadsorts_default_comment'	=> 'Etkinleştirilirse aşağıdaki kategorileri seçin',
 	'forums_edit_threadsorts_template_default'	=> 'Varsayılan şablon',
 	'forums_edit_threadsorts_template_house'	=> 'Emlak şablonu',
-					
+
 	'forums_edit_perm'			=> 'İzinle ilgili',
 	'forums_edit_perm_forum'		=> 'forum izinleri',
 	'forums_edit_perm_price'		=> 'ödenen fiyat',
@@ -3068,9 +3068,9 @@ $lang = array
 	'forums_edit_perm_formula_buyercredit'	=> 'alıcı oranı',
 	'forums_edit_perm_formula_sellercredit'	=> 'satıcı ücreti',
 	'forums_edit_perm_verify'		=> 'Kullanıcı doğrulama',
-					
+
 	'forums_edit_plugin'		=> 'Eklenti ile ilgili',
-					
+
 	'forums_copy'			=> 'Ayarları Kopyala',
 	'forums_copy_comment'		=> 'Bu Forum ayarlarını diğer Forumlara kopyalayın',
 	'forums_copy_tips'		=> '<li>Forum ayarlarından biri diğer birçok Foruma kopyalanabilir. Mevcut Forum, bir dizi başka Forumun hızlı kurulumu için bir temel olarak kullanılabilir.</li><li>Forum ayarlarının kopyalanması, gönderildikten hemen sonra geçerli olur ve geri yüklenemez. Lütfen hedef forumu ve ayar öğelerini dikkatli bir şekilde seçin.</li>',
@@ -3079,21 +3079,21 @@ $lang = array
 	'forums_copy_target_comment'	=> 'Ayarları kopyalamak istediğiniz hedef forumları seçin. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
 	'forums_copy_options'		=> 'Kopyalama seçenekleri',
 	'forums_copy_options_comment'	=> 'Hedef forumlarda ayarlamak istediğiniz seçenekleri Kaynak Forum\'dan seçin. Çoktan seçmeli için bir CTRL tuşunu basılı tutun',
-					
+
 	'forums_moderators'		=> 'moderatörler',
 	'forums_moderators_comment'	=> 'Bu Forum Moderatörünü düzenle',
 	'forums_moderators_tips'	=> '<li>"Ana Forumdan devralındı", bu forumun ana forumun bir moderatörü tarafından yönetileceği anlamına gelir. Devralınan moderatör silinemez.</li><li>"Bu forumun veya kategorinin moderatörünün haklarını alt foruma devret", mevcut forum bir kategori olduğunda varsayılan olarak seçilidir; mevcut forum bir alt forum olduğunda, seçilmez varsayılan olarak.</li>',
 	'forums_moderators_inherit'	=> 'Alt forumlara devral',
 	'forums_moderators_inherited'	=> 'Ana Forumdan devralındı',
 	'forums_moderators_edit'	=> 'moderatörleri düzenle',
-					
+
 	'forums_delete_comment'		=> 'Forumu ve içindeki tüm mesajları silin',
-					
+
 	'forums_merge'			=> 'Forumlar birleşiyor',
 	'forums_merge_source'		=> 'Kaynak Forumu',
 	'forums_merge_source_comment'	=> 'Tüm ileti dizilerinin hedef foruma taşınacağı ve forumun kaldırılacağı bir kaynak forum.',
 	'forums_merge_target'		=> 'Hedef Forum',
-					
+
 	'threadtype_infotypes'			=> 'Kategori bilgi yönetimi',
 	'threadtype_infotypes_type'		=> 'Kategori yönetimi',
 	'threadtype_infotypes_option'		=> 'Seçenek yönetimi',
@@ -3219,9 +3219,9 @@ $lang = array
 	'threadtype_template_tag'		=> 'Etiketler',
 	'threadtype_template_intro'		=> 'Açıklamak',
 	'threadtype_template_example'		=> 'Örnek',
-					
-					
-					
+
+
+
 	'misc_customnav_detail'		=> 'Gezinme çubuğu ayrıntıları',
 	'misc_customnav_name'		=> 'Menü Öğesi Adı',
 	'misc_customnav_parent'		=> 'Menü Öğesi Konumu',
@@ -3249,14 +3249,14 @@ $lang = array
 	'misc_customnav_subcols_comment'	=> 'Yatay çizgide gösterilen giriş sayısını ayarlayın. Boş, metin kaydırmanın ötesinde sınır olmadığı anlamına gelir',
 	'misc_customnav_logo'		=> 'Özel logo',
 	'misc_customnav_logo_comment'	=> 'Logo altında bu gezinme sayfasının ayarlanmasıyla ilgili, Logo stilini kullanmak için boş bırakın',
-					
+
 	'misc_customnav_icon'		=> 'Gezinme simgesi',
 	'misc_customnav_icon_comment'	=> 'Simge boyutu 16x16 pikseldir. &quot;{STATICURL}&quot; site statik dosyaları static/ dizini adına, config/config_global.php dosyasını değiştirebilirsiniz',
 	'misc_mynav_icon_comment'	=> 'Simge boyutu 40x40. Kullanılabilir URL "{STATICURL}" Statik dosya, site static/ dizinini temsil eder, config/config_global.php adresinde değiştirilmeye uygundur',
 	'misc_customnav_allowsub'	=> 'Alt navigasyonu göster',
 	'misc_customnav_subname'	=> 'Alt navigasyon Adı',
 	'misc_customnav_suburl'		=> 'Alt navigasyon bağlantısı',
-					
+
 	'nav_nav_headernav'		=> 'Ana menü',
 	'nav_nav_spacenav'		=> 'Uzay Gezintisi',
 	'nav_nav_footernav'		=> 'Altbilgide Gezinme',
@@ -3271,7 +3271,7 @@ $lang = array
 	'nav_spacenav_userpanelarea2'	=> '{navname} Alan 2',
 	'nav_mynav_add'			=> 'Kişisel navigasyon ekle',
 	'nav_spacenav_tips'		=> 'Geçerli bir "SNS modülü stili gösterisi" olduğunda, "ev gösterisi stili"ndeki aşağıdaki gezinme bağlantıları etkinleştirilir',
-					
+
 	'styles'			=> 'stiller',
 	'styles_admin'			=> 'Stil Yönetimi',
 	'styles_list'			=> 'Stil listesi',
@@ -3280,7 +3280,7 @@ $lang = array
 	'styles_admin_template'		=> 'şablonda kullanılan',
 	'styles_home_tips'		=> '<li>Mobil sürüm etkinleştirildikten sonra mobil sürüm şablonunun açılması gerekir. <a href="?action=setting&operation=mobile">Mobil sürüm ayarlarına gidin</a></li><li>Eğer bir şablon geliştiricisiyseniz, lütfen "<a href="https://open.dismall.com/?ac=document&amp;page=dev_template" target="_blank">Discuz! Teknik Dokümantasyonu</a>" okuyun ve etkinleştirin tasarım modu.</li>',
 	'styles_tips'			=> '<li>Uzantı, bazı renk değişkenlerinin stilini yeniden tanımlayacak, bu nedenle bazı stil değişkenleri yalnızca varsayılan renk için geçerli olabilir</li>',
-					
+
 	'styles_edit'			=> 'Stili düzenle',
 	'styles_edit_type_bg'		=> 'Arka plan',
 	'styles_edit_type_header'	=> 'Sayfa Üstbilgisi/Altbilgisi',
@@ -3293,7 +3293,7 @@ $lang = array
 	'styles_edit_type_dropmenu'	=> 'Aşağıya doğru açılan menü',
 	'styles_edit_type_float'	=> 'Yüzen pencere',
 	'styles_edit_type_other'	=> 'Diğer',
-					
+
 	'styles_edit_headerbgcolor'	=> 'Sayfa başlığı arka planı',
 	'styles_edit_bgcolor'		=> 'Sayfa arkaplanı',
 	'styles_edit_sidebgcolor'	=> 'Kenar çubuğu arka planı',
@@ -3340,7 +3340,7 @@ $lang = array
 	'styles_edit_noticetext'	=> 'Renk istemi',
 	'styles_edit_iconbgcolor'	=> 'Stil ikonu arka plan rengi',
 	'styles_edit_titlebgcolor'	=> 'Forum listesi başlığı arka planı',
-					
+
 	'styles_edit_bg'		=> '<br />Arka plan resmi adresini girin<br />Ek özellikler girin',
 	'styles_edit_name'		=> 'Arayüz stili adı',
 	'styles_edit_name_comment'	=> 'Arayüz stili, boşluk veya özel sembol kullanmayın',
@@ -3357,7 +3357,7 @@ $lang = array
 	'styles_edit_extstyle'			=> 'Genişletilmiş Stil',
 	'styles_edit_extstyle_comment'		=> 'Kullanıcının seçmekte özgür olduğu genişletilmiş renk şeması seçeneklerini etkinleştirin.<br />&quot;template/default/style/&quot; gibi yeni genişletilmiş renk şemaları stil dizinine yüklenebilir.',
 	'styles_edit_defaultextstyle'		=> 'varsayılan renk stili',
-					
+
 	'styles_edit_simple'			=> 'Önizleme modu',
 	'styles_edit_adv'			=> 'Düzenleme modu',
 	'styles_edit_simple_switch'		=> 'Önizleme modunu ayarla',
@@ -3398,7 +3398,7 @@ $lang = array
 	'styles_edit_visual_getcolor'			=> 'Renk al',
 	'styles_edit_visual_getcolor_fileerror'		=> 'Geçersiz resim adresi girildi',
 	'styles_edit_visual_getcolor_nosupport'		=> 'Sunucu renk işlevlerini desteklemiyor',
-					
+
 	'styles_edit_customvariable'	=> 'Özel şablon değişkeni',
 	'styles_edit_variable'		=> 'Değişken',
 	'styles_edit_subst'		=> 'İçeriği değiştir',
@@ -3408,21 +3408,21 @@ $lang = array
 	'styles_stylecount'		=> 'Stil numarası',
 	'styles_uninstall'		=> 'Kaldır',
 	'styles_find_newversion'	=> 'Yeni sürüm bulundu',
-					
+
 	'styles_default'		=> 'Varsayılan tarz',
 	'styles_default0'		=> 'bilgisayar versiyonu',
 	'styles_default1'		=> 'Mobil basit sürüm',
 	'styles_default2'		=> 'Mobil dokunmatik ekran versiyonu',
 	'styles_default3'		=> 'Mobil WML sürümü',
-					
+
 	'styles_import'			=> 'Arayüz stilini içe aktar',
 	'styles_import_ignore_version'	=> 'Diğer Discuz stillerini içe aktarmak için etkinleştirin! sürümleri (bu bir hataya neden olabilir!)',
 	'styles_import_version_invalid'	=> 'Sürüm numaraları eşleşmiyor, Geçerli sürüm: {cur_version}, Sistem sürümü: {set_version}',
-					
+
 	'styles_validator_nowupgrade'	=> 'Aşağıdaki şablonlar artık yeni sürüme güncellenebilir, güncellemeyi yüklemek için tıklayın',
 	'styles_validator_newversion'	=> 'Aşağıdaki şablonun yeni bir sürümü var, yüklemek ve güncellemek için tıklayın',
 	'styles_validator_error'	=> 'Aşağıdaki şablon orijinal bir şablon değil, orijinal bir şablon yüklemek için tıklayın',
-					
+
 	'templates_admin'		=> 'Şablon Yönetimi',
 	'templates_admin_name'		=> 'Şablon adı',
 	'templates_add'			=> 'Yeni bir şablon ekle',
@@ -3437,7 +3437,7 @@ $lang = array
 	'templates_edit_style_comment'	=> 'Bu şablonu başlatmak için mevcut şablon ayarlarını kullanın veya boş ayarlarla bir şablon oluşturun',
 	'templates_empty'		=> 'Boş',
 	'templates_question'		=> 'Yardım için şablon soruları',
-					
+
 	'templates_maint'		=> 'Şablon bakımı',
 	'templates_maint_default_comment'	=> '<li>Varsayılan şablonu düzenliyorsunuz. Diğer şablonların genişletilmesini kolaylaştırmak için varsayılan şablon içeriklerini değiştirmemenizi kesinlikle öneririz.</li><li>Değiştirmek istiyorsanız, lütfen değiştirilecek şablon dosyasını başka bir şablon dizinine kopyalayın ve ardından değiştirin.</li>',
 	'templates_maint_nondefault_comment'	=> '<li>Bu satır kümesi eksik şablonları tamamlamak için gerekli değildir, varsayılan şablon yerine kullanılacaktır.</li><li>Şablon adı <font color="#FF0000">kırmızı</font> gösteriyorsa, bu şablonun varsayılan şablondan farklı olduğu anlamına gelir; <font color="#00FF00"> gösterir yeşil</font> , bu şablonun kullanıcı tarafından eklenen bir şablon dosyası olduğunu ve varsayılan şablonun karşılık gelen bir şablon dosyası olmadığını belirtir.</li><li>Bu şablon grubunu yayınlamak istiyorsanız, yayınlamadan önce varsayılan şablon olarak aynı şablon dosyasını silmeniz önerilir.</li>',
@@ -3449,7 +3449,7 @@ $lang = array
 	'templates_maint_language_pack'		=> 'Dil paketi',
 	'templates_maint_html'			=> 'Şablon',
 	'templates_maint_reset'			=> 'Varsayılan şablonu sıfırla',
-					
+
 	'templates_edit'			=> 'Şablonu düzenle',
 	'templates_edit_default_overwriteconfirm'	=> 'Diğer şablonların kullanım kolaylığını artırmak için, varsayılan şablonun içeriğini değiştirmemenizi kesinlikle öneririz, değiştirmek istediğinizden emin misiniz?',
 	'templates_edit_diff'			=> 'Varsayılan şablonla karşılaştır',
@@ -3470,15 +3470,15 @@ $lang = array
 	'templates_edit_variable'		=> 'Değişken',
 	'templates_edit_value'			=> 'Değer',
 	'templates_edit_select'			=> 'Lütfen çalışacak şablonu seçin:',
-					
+
 	'members'			=> 'Üyeler',
-					
+
 	'members_add'			=> 'Yeni Kullanıcı Ekle',
 	'members_add_email_notify'	=> 'Yukarıdaki adrese bildirim gönder',
 	'members_admin_tips'		=> '<li>Kullanıcı yönetimi aracılığıyla, üye bilgilerini, kullanıcı gruplarını, izinleri, puanları, verilen madalyaları düzenleyebilir ve üyeleri ve diğer operasyon üyelerini silebilirsiniz;</li><li>Lütfen önce koşullara göre kullanıcıları arayın ve ardından karşılık gelen işlem.</li><li>Giriş kutusunda joker karakterler * kullanılabilir ve birden çok değer virgülle "," ayrılır.</li>',
 	'members_admin_comment'		=> 'Kalın olarak görüntülenen sistem kullanıcı grupları üye adı; italik olarak gösterilen özel kullanıcı grupları.',
 	'members_export_tips'		=> '<li>Kullanıcı grubu adı kalın yazılmışsa, bu bir sistem kullanıcı grubudur; italik olarak görüntüleniyorsa özel bir kullanıcı grubudur; aksi halde üye kullanıcı grubudur.</li><li>Kullanıcı bilgilerinin dışa aktarılması 10.000 adede kadar veriyi destekler. Dışa aktarılan dosya EXCEL, WPS formu, <a href="https://docs.qq.com/" target="_blank">Tencent Document</a> vb. araçlarla açılabilir.</li>',
-					
+
 	'members_delete_post'		=> 'Postalamak',
 	'members_delete_blog'		=> 'Blog',
 	'members_delete_pic'		=> 'resim',
@@ -3493,7 +3493,7 @@ $lang = array
 	'members_delete_processing'		=> '{deladdmsg}, {current} ile {next} arasındaki {item} kullanıcı verileri siliniyor. Bu işlem çok fazla kaynak gerektiriyor, lütfen sabırlı olun.',
 	'members_delete_all'			=> 'Tüm kullanıcı verilerini silin (işlem nispeten kaynak tüketir, lütfen sabırlı olun)',
 	'members_delete_ucdata'			=> 'Kullanıcı bilgilerinin UCenter\'dan silinmesi',
-					
+
 	'members_edit'			=> 'Üyeyi düzenle',
 	'members_edit_reason'		=> 'Nedeni düzenle',
 	'members_edit_username'		=> 'Kullanıcı adı',
@@ -3533,7 +3533,7 @@ $lang = array
 	'members_edit_uinblack_notice'	=> '<br /><font color="red">Uyarı: Mevcut kullanıcı bireysel şifre belirlemediyse, yasaklandıktan sonra siteye giriş yapamaz.</font>',
 	'members_edit_unbind'		=> 'QQ hesabının bağlantısını kaldırın',
 	'members_edit_unbind_comment'	=> 'Mevcut kullanıcının QQ hesabı kaybolur veya çalınırsa, bağlı QQ hesabını kaldırabilirsiniz.',
-					
+
 	'members_edit_info'		=> 'Kullanıcı bilgisi',
 	'members_edit_site'		=> 'Alan',
 	'members_edit_qq'		=> 'QQ',
@@ -3545,7 +3545,7 @@ $lang = array
 	'members_edit_bday'		=> 'Doğum günü',
 	'members_edit_bio'		=> 'kendi kendine giriş',
 	'members_edit_signature'	=> 'İmza',
-					
+
 	'members_edit_option'		=> 'Forum Seçenekleri',
 	'members_edit_style'		=> 'stil',
 	'members_edit_tpp'		=> 'Sayfa başına konu sayısı',
@@ -3563,7 +3563,7 @@ $lang = array
 	'members_edit_timeoffset_comment'	=> 'GMT\'den kullanıcı yerel saat farkı. Varsayılan zaman farkı ayarını kullanmak için 9999\'u ayarlayın.',
 	'members_edit_pmsound'		=> 'PM Sesi',
 	'members_edit_ignorepm'		=> 'Özel Mesajı Yoksay',
-					
+
 	'members_group'			=> 'Üye kullanıcı grubunu düzenle',
 	'members_group_member'		=> 'Üye {username} kullanıcı grubunu düzenleyin',
 	'members_group_group'		=> 'ilgili kullanıcı grubu',
@@ -3578,21 +3578,21 @@ $lang = array
 	'members_group_orig_adminid'	=> 'Süresi dolduktan sonra kullanıcı grubunu şu şekilde değiştirin:',
 	'members_group_ban_reason'	=> 'Yasak nedeni',
 	'members_group_ban_reason_comment'	=> 'Kullanıcıya gösterilecek Yasak nedenini girin',
-					
+
 	'members_credit'		=> 'Kullanıcı noktalarını düzenle',
 	'members_credit_tips'		=> '<li>Tartış! kullanıcı noktaları için yalnızca 8 genişletilmiş ayarı destekler ve yalnızca etkin nokta ayarları düzenlenebilir.</li><li>Bir kullanıcının belirli bir puanını değiştirmek, kullanıcının toplam puanında değişikliğe neden olacağından, genel üyelik düzeyinde de değişikliğe neden olacaktır, bu nedenle lütfen puanları dikkatli ayarlayın.</li>',
 	'members_credit_ranges'		=> 'Kullanıcı grubu üst ve alt puan limitleri',
 	'members_credit_reason'		=> 'Kullanıcı puanlarını değiştirme nedeni',
 	'members_credit_reason_comment'	=> 'Kullanıcı puanlarını neden değiştirdiğinizi girin. Bu işlem gelecekteki analizler için kaydedilir.',
 	'members_credit_logs'		=> 'Puan Değişiklik Geçmişi',
-					
+
 	'members_medal'			=> 'Kullanıcı Madalyalarını Verme/İptal Etme',
 	'members_medal_grant'		=> 'Hibe etmek',
 	'members_medal_revoke'		=> 'Geri çekmek',
 	'members_medal_unavailable'	=> 'Müsait değil',
 	'members_medal_reason'		=> 'Madalya Verme/İptal Etme Nedeni',
 	'members_medal_reason_comment'	=> 'Bu işlemi neden yaptığınızı giriniz. Bu işlem gelecekteki analizler için kaydedilir.',
-					
+
 	'members_ban'			=> 'Kullanıcıyı yasakla',
 	'members_ban_tips'		=> '<li>Bu işlem ilgili grup izinlerini gerektirir</li>',
 	'members_ban_username'		=> 'Kullanıcı adını yasakla',
@@ -3623,7 +3623,7 @@ $lang = array
 	'members_ban_delavatar'		=> 'avatarı',
 	'members_ban_reason'		=> 'Sebep',
 	'members_ban_reason_comment'	=> 'Kullanıcının yasaklanmasının/yasaklığının kaldırılmasının bir nedeni',
-					
+
 	'members_search'		=> 'kullanıcıları ara',
 	'members_delete'		=> 'Kullanıcıyı sil',
 	'members_search_between'	=> 'arasında',
@@ -3672,7 +3672,7 @@ $lang = array
 	'members_search_uinblacklist'	=> 'QQ hesabı bloke edildi',
 	'members_search_nonemedal'	=> 'Madalya yok',
 	'members_search_noneusertags'	=> 'Kullanılabilir kullanıcı etiketi yok',
-					
+
 	'members_verify_tips'			=> '<li>İşlemleri toplu yapabilir</li>',
 	'members_verify_pass'			=> 'Kabul etmek',
 	'members_verify_pass_with_group'	=> 've kullanıcı grubuna yükselmek',
@@ -3681,14 +3681,14 @@ $lang = array
 	'members_verify_gender_0'		=> 'Gizli',
 	'members_verify_gender_1'		=> 'Erkek',
 	'members_verify_gender_2'		=> 'Dişi',
-					
+
 	'members_verify_securitylist'	=> 'Doğrulanmış öğe listesi',
 	'members_verify_fieldid_sel'	=> 'Doğrulanmış öğeleri seçin',
 	'members_verify_dateline'	=> 'İletilen Tarih',
 	'members_verify_oldvalue'	=> 'güncel bilgi',
 	'members_verify_newvalue'	=> 'Gönderilen Bilgi',
 	'members_verify_submit'		=> 'Göndermek',
-					
+
 	'members_verify'		=> 'Kimlik Doğrulama Ayarları',
 	'members_verify_base'		=> 'Temel ayarlar',
 	'members_verify_add'		=> 'Doğrulama ekleniyor',
@@ -3724,7 +3724,7 @@ $lang = array
 	'members_verify_group'		=> 'Kullanıcı grupları için doğrulamaya katılmaya izin ver',
 	'members_verify_group_comment'	=> 'Bu ayar, kullanıcı gruplarının doğrulamaya katılmasını sağlar. Çoktan seçmeli için CTRL\'ye basılı tutun. Tüm gruplar için doğrulamayı etkinleştirmek için boş',
 	'members_verify_pic_removed'	=> 'Yüklenmiş resim yok veya silinmiş',
-					
+
 	'members_newsletter'		=> 'site bildirimleri',
 	'members_newsletter_method'	=> 'Bildirim yöntemi gönder',
 	'members_newsletter_send'	=> 'Bilgilendirmek için site bildirimi gönderin',
@@ -3750,7 +3750,7 @@ $lang = array
 	'members_grouppmlist_status_1'		=> 'Okumak',
 	'members_grouppmlist_status_0'		=> 'Okunmamış',
 	'members_grouppmlist_status_-1'		=> 'silindi',
-					
+
 	'members_reward'		=> 'Ödül puanları',
 	'members_reward_value'		=> 'Ödül değeri',
 	'members_reward_members'	=> 'Üyeleri ödüllendirin',
@@ -3758,13 +3758,13 @@ $lang = array
 	'members_reward_clean'		=> 'Noktaları temizle',
 	'members_reward_affect'		=> 'noktaları',
 	'members_reward_clean_alarm'	=> 'Seçilen kullanıcılar için puanları silmek istediğinizden emin misiniz?',
-					
+
 	'members_confermedal'		=> 'Madalyalar',
 	'members_confermedal_members'	=> 'Hibe üyeleri',
 	'members_confermedal_to'	=> 'madalya vermek',
 	'members_confermagic'		=> 'Mevcut Sihir',
 	'members_confermagic_members'	=> 'Üyelere Sihir Hediye Et',
-					
+
 	'members_access'		=> 'İzinler',
 	'members_access_now'		=> 'Geçerli özel izinler',
 	'members_access_add'		=> 'Kullanıcıya özel izinler ekleyin/düzenleyin',
@@ -3792,16 +3792,16 @@ $lang = array
 	'members_access_add_getimage'	=> 'Resim haklarını görüntüle',
 	'members_access_add_postattach'	=> 'Ek İzni Yükle',
 	'members_access_add_postimage'	=> 'Resim İzni Yükle',
-					
+
 	'members_repeat'		=> 'tekrarlanan',
-					
+
 	'members_ipban'			=> 'IP\'yi yasakla',
 	'members_ipban_tips'		=> '<li>Bu işlem, grup yönetiminde ilgili izinlerin etkinleştirilmesini gerektirir.</li><li>Site yöneticisiyseniz, belirli bir adresi engellemek için joker karakter olarak "*" kullanabilirsiniz.</li><li>Site yöneticisi değilseniz, "*" kullanamazsınız ve yalnızca eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li>',
 	'members_ipban_location'	=> 'IP konumu',
 	'members_ipban_input'		=> 'Yasaklı IP listesini içe aktar',
 	'members_ipban_input_tips'	=> '<li>Bu işlemin, yalnızca site yöneticileri tarafından kullanılabilen yönetim grubundaki ilgili izinleri etkinleştirmesi gerekir.</li><li>Daha önce dışa aktarılan yasaklı IP listesini kullanabilir veya IP\'leri toplu olarak yasaklamak için manuel olarak yazabilirsiniz.</li><li><a href="'.ADMINSCRIPT.'?action=members&operation=ipban&ipact=output">mevcut yasaklanmış IP kitaplığını dışa aktarabilirsiniz</a></li>',
 	'members_ipban_input_comment'	=> 'İçe aktarılan Ban IP Listesinin formatı: "IP_address;Number_of_days" veya basit "IP_address" (varsayılan olarak 30 gün geçerlidir). Her satıra bir IP girin. Önceden dışa aktarılmış bir Yasaklanmış IP listesi kullanabilirsiniz.',
-					
+
 	'members_profile'		=> 'Kullanıcı profili',
 	'members_profile_edit'		=> 'Kullanıcı profilini düzenle',
 	'members_profile_list'		=> 'Alan Listesi',
@@ -3848,8 +3848,8 @@ $lang = array
 	'members_profile_edit_profile_view'	=> 'Bilgi sayfası',
 	'members_profile_edit_card_view'	=> 'Kartvizit',
 	'members_profile_edit_reg_view'		=> 'Kayıt bilgisi',
-					
-					
+
+
 	'members_stat_options'		=> 'Saha istatistikleri',
 	'members_stat_null_fieldvalue'	=> 'dolu değil',
 	'members_stat_current_field'	=> 'Mevcut saha istatistikleri:',
@@ -3861,14 +3861,14 @@ $lang = array
 	'members_stat_update_option'	=> 'İstatistik öğelerini güncelle',
 	'members_stat_update_data'	=> 'Veriyi güncelle',
 	'members_stat_tips'		=> '<li>Kullanıcı istatistikleri için sütunları ayarlayın: yalnızca açılır kutu veya radyo düğmesi türündeki alanlar istatistiklere dahil edilebilir.</li><li>İstatistiksel öğeler değişebilirse, lütfen önce istatistiksel öğeleri, ardından verileri güncelleyin</li>',
-					
+
 	'admingroup'			=> 'İdari Gruplar',
 	'admingroup_tips'		=> '<li>Tartış! yönetim ekibi üç yerleşik yönetici türü içerir: yönetici, Süper Moderatör, Moderatör ve ek özel yönetim grupları.</li>',
 	'admingroup_level'		=> 'Yönetim seviyesi',
 	'admingroup_setting_user'	=> 'Temel ayarlar',
 	'admingroup_setting_admin'	=> 'İzin yönetimi',
 	'admingroups_multiedit'		=> 'Seçilen grupları toplu düzenleme',
-					
+
 	'admingroup_edit'		=> 'Yönetim Ekibini Düzenle',
 	'admingroup_edit_permdetail'	=> 'İzinler',
 	'admingroup_edit_admincpperm'	=> 'Yönetim Merkezi ayrıcalıkları',
@@ -3997,7 +3997,7 @@ $lang = array
 	'admingroup_edit_manage_videophoto'	=> 'Görüntülü kimlik doğrulamanın yönetilmesine izin ver',
 	'admingroup_edit_manage_magic'		=> 'Büyüyü yönetmeye izin ver',
 	'admingroup_edit_manage_click'		=> 'Konumlandırma eylemlerinin yönetilmesine izin ver',
-					
+
 	'report_newreport'		=> 'Son raporlar',
 	'report_resolved'		=> 'İşlenen raporlar',
 	'report_note'			=> 'Not',
@@ -4012,12 +4012,12 @@ $lang = array
 	'report_reward_min'		=> 'Minimum ödül',
 	'report_reward_max'		=> 'Maksimum ödül',
 	'report_reward_comment'		=> 'Her iki değer de boş veya sıfırsa Ödüller ve Cezalar Raporu devre dışı bırakılır',
-					
+
 	'warn_info'			=> 'Uyarı',
 	'warn_user'			=> 'Kullanıcıyı uyar',
 	'warn_reason'			=> 'Uyarı nedeni:',
 	'warn_url'			=> 'Sayfa URL\'sini Uyar:',
-					
+
 	'founder_cpgroupname'		=> 'İş unvanı',
 	'founder_username'		=> 'Kullanıcı adı',
 	'founder_usergname'		=> 'Seviye',
@@ -4028,7 +4028,7 @@ $lang = array
 	'founder_perm_all'		=> '<span title="Belirli kurucu hakları dışında tüm izinlere sahip olun">Tam erişim</span>',
 	'founder_perm_allowpost'	=> '<span title="Ayarları değiştirebilir">Ayarların düzenlenmesine izin ver</span>',
 	'founder_group_switch'		=> 'Takım seviyesini değiştir',
-					
+
 	'founder_perm_moderate_threads'		=> 'Denetlenen Konular',
 	'founder_perm_moderate_replies'		=> 'Denetlenen Yanıtlar',
 	'founder_perm_moderate_blogs'		=> 'Denetleyici Bloglar',
@@ -4055,7 +4055,7 @@ $lang = array
 	'founder_perm_ec_credit'		=> 'Puan Kuralları',
 	'founder_perm_ec_orders'		=> 'Ücret emirleri',
 	'founder_perm_tradelog'			=> 'İşlem Günlüğü',
-					
+
 	'founder_notifyusers_types'		=> 'Bildirim türü alın',
 	'founder_notifyusers_tips'		=> '<li>Kullanıcıların alabileceği yönetim bildirimi.</li>',
 	'founder_notidyusers_verifythread'	=> 'Konu yanıtı',
@@ -4072,7 +4072,7 @@ $lang = array
 	'founder_notidyusers_verifyarticle'	=> 'Makale doğrulandı',
 	'founder_notidyusers_verifyacommont'	=> 'Makale yorumu yönetildi',
 	'founder_notidyusers_verifyfield'	=> 'Profil alanı doğrulandı',
-					
+
 	'founder_patchstatus_0'		=> 'sabit değil',
 	'founder_patchstatus_1'		=> 'Sabit',
 	'founder_patchstatus_2'		=> 'Dosya değiştirilmiş olabilir, güvenlik açığı bulunamadı',
@@ -4082,19 +4082,19 @@ $lang = array
 	'founder_patchstatus_error4'	=> 'FTP modu kullanılamaz, FTP hesap bilgilerinin doğru olduğundan emin olun',
 	'founder_patchstatus_error5'	=> 'Dosyaları kopyalama sorunu. Kaynak kod dizinlerinin, alt dizinlerin ve dosyaların okunabilir ve yazılabilir olduğundan emin olun, aksi takdirde dosyalar kilitlenebilir. Lütfen işlemden sonra siteyi kapatın',
 	'founder_patchstatus_error6'	=> 'Güvenlik açığını düzeltin, sorunlarınız varsa veya geri alma sorunlarınız varsa. Dosyaları mümkün olan en kısa sürede geri yükleyin, dosya yedeği aynı dizinde bulunabilir',
-	'founder_patch_tips'		=> '<li>Hata düzeltme durum açıklaması:</li>	
-<li>					
-<em class="fixed">&nbsp;2</em> Dosya değiştirilmiş olabilir, güvenlik açığı bulunamadı<br />					
-<em class="fixed">&nbsp;1</em> Sabit<br />					
-<em class="unfixed">&nbsp;0</em> Sabit değil<br />					
-<em class="unfixed">-1</em> Güvenlik yaması kodu boş, yerel yama bilgilerinizde ve verilerinizde bir sorun olabilir<br />					
-<em class="unfixed">-2</em> Güvenlik açığı yamalı dosya mevcut değil veya değiştirilemez, dosya izinlerini kontrol edin ve okuma/yazma olarak değiştirin (777)<br />					
-<em class="unfixed">-3</em> Geçici dosyaya yazma başarısız oldu, veri dizininin yazılabilir olup olmadığını kontrol edin<br />					
-<em class="unfixed">-4</em> FTP modu kullanılamıyor, FTP hesap bilgilerinin doğru olduğundan emin olun<br />					
-<em class="unfixed">-5</em> Dosyaları kopyalama sorunu. Kaynak kod dizinlerinin, alt dizinlerin ve dosyaların okunabilir ve yazılabilir olduğundan emin olun, aksi takdirde dosyalar kilitlenebilir. Lütfen işlemden sonra siteyi kapatın<br />					
-<em class="unfixed">-6</em> Güvenlik açığını düzeltin sorun var veya geri alma sorun var. Dosyaları mümkün olan en kısa sürede geri yükleyin, dosya yedeği aynı dizinde bulunabilir					
-</li>',				
-					
+	'founder_patch_tips'		=> '<li>Hata düzeltme durum açıklaması:</li>
+<li>
+<em class="fixed">&nbsp;2</em> Dosya değiştirilmiş olabilir, güvenlik açığı bulunamadı<br />
+<em class="fixed">&nbsp;1</em> Sabit<br />
+<em class="unfixed">&nbsp;0</em> Sabit değil<br />
+<em class="unfixed">-1</em> Güvenlik yaması kodu boş, yerel yama bilgilerinizde ve verilerinizde bir sorun olabilir<br />
+<em class="unfixed">-2</em> Güvenlik açığı yamalı dosya mevcut değil veya değiştirilemez, dosya izinlerini kontrol edin ve okuma/yazma olarak değiştirin (777)<br />
+<em class="unfixed">-3</em> Geçici dosyaya yazma başarısız oldu, veri dizininin yazılabilir olup olmadığını kontrol edin<br />
+<em class="unfixed">-4</em> FTP modu kullanılamıyor, FTP hesap bilgilerinin doğru olduğundan emin olun<br />
+<em class="unfixed">-5</em> Dosyaları kopyalama sorunu. Kaynak kod dizinlerinin, alt dizinlerin ve dosyaların okunabilir ve yazılabilir olduğundan emin olun, aksi takdirde dosyalar kilitlenebilir. Lütfen işlemden sonra siteyi kapatın<br />
+<em class="unfixed">-6</em> Güvenlik açığını düzeltin sorun var veya geri alma sorun var. Dosyaları mümkün olan en kısa sürede geri yükleyin, dosya yedeği aynı dizinde bulunabilir
+</li>',
+
 	'usergroups'			=> 'Kullanıcı Grupları',
 	'usergroups_system_0'		=> 'sıradan kullanıcı',
 	'usergroups_system_1'		=> 'yönetici',
@@ -4106,7 +4106,7 @@ $lang = array
 	'usergroups_system_7'		=> 'Misafir',
 	'usergroups_system_8'		=> 'doğrulama için bekleyin',
 	'usergroups_creditsrange'	=> 'puan aralığı',
-					
+
 	'usergroups_add'		=> 'Yeni bir kullanıcı grubu ekle',
 	'usergroups_level_add'		=> 'Yeni bir seviye ekle',
 	'usergroups_sepcial_add'	=> 'Yeni bir özel kullanıcı grubu ekle',
@@ -4125,7 +4125,7 @@ $lang = array
 	'usergroups_project'		=> 'Grup ana sayfasında üyelerin avatarlarını göster',
 	'usergroups_switch'		=> 'Toplu Düzenleme veya Kullanıcı Grubu Değiştirme',
 	'usergroups_multiedit'		=> 'Seçilen kullanıcı gruplarını toplu düzenleme',
-					
+
 	'usergroups_copy'		=> 'Bir kopya ayarla',
 	'usergroups_copy_comment'	=> 'Kullanıcı grubu kopyasını diğer foruma ayarlayacak',
 	'usergroups_copy_tips'		=> '<li>Kullanıcı grubu ayarlarının kopyalanması, bazı diğer kullanıcı gruplarına yönelik kaynak kullanıcı grubu ayarlarının bir parçası olabilir. Bir kullanıcı grubu temeli oluşturmak için kullanılır, birkaç kullanıcı grubunu hızlı bir şekilde ayarlayın.</li><li>Kullanıcı grubu ayarı kopyası gönderildikten sonra, hemen etkinleşir ve geri yüklenemez. Lütfen hedef kullanıcı grubunu ve ayar öğelerini dikkatlice seçin.</li>',
@@ -4134,7 +4134,7 @@ $lang = array
 	'usergroups_copy_target_comment'	=> 'Kaynak grubu kopyalamak istediğiniz hedef kullanıcı gruplarını seçin. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
 	'usergroups_copy_options'		=> 'Seçenek seçimi',
 	'usergroups_copy_options_comment'	=> 'Kaynak gruptan hedef kullanıcı grubuna ayarlamak istediğiniz kullanıcı grubu seçeneklerini seçin. Çoktan seçmeli için CTRL tuşunu basılı tutabilirsiniz.',
-					
+
 	'usergroups_merge'		=> 'Kullanıcı Gruplarını Birleştir',
 	'usergroups_merge_link'		=> 'Birleştirmek',
 	'usergroups_merge_comment'	=> 'Bu işlev, grup üyelerini başka bir kullanıcı grubuna taşıyacak ve ardından kaynak grubu kaldıracaktır.',
@@ -4143,9 +4143,9 @@ $lang = array
 	'usergroups_merge_target'	=> 'Hedef kullanıcı grubu',
 	'usergroups_merge_target_comment'	=> 'Kullanıcıların kaynak gruptan taşınacağı nihai kullanıcı grubunu seçin',
 	'usergroups_merge_delete_source'	=> 'Birleştirdikten sonra kaynak kullanıcı grubunu kaldırın',
-					
+
 	'usergroups_edit'			=> 'Kullanıcı Grubunu Düzenle',
-					
+
 	'usergroups_edit_basic'			=> 'Temel ayarlar',
 	'usergroups_edit_basic_title'		=> 'Kullanıcı grubu başlığı',
 	'usergroups_edit_basic_scheme'		=> 'Kullanıcı Grubu Şemasını Ayarlayın',
@@ -4219,8 +4219,8 @@ $lang = array
 	'usergroups_edit_basic_allowfollowcollection_comment'	=> 'Kullanıcıların yalnızca bu sınırlı sayıda koleksiyonu takip etmesine izin ver',
 	'usergroups_edit_basic_close_ad'		=> 'reklamı devre dışı bırak',
 	'usergroups_edit_basic_close_ad_comment'	=> '"Evet" seçilirse, bu kullanıcı grubu üyeleri site reklamlarını görmeyecektir.',
-					
-					
+
+
 	'usergroups_edit_system'		=> 'Sistem kullanıcı grupları',
 	'usergroups_edit_system_tips'		=> '<li><b><u>Genel olmayan kullanıcı grupları</u></b><br />Kullanıcı grubu "genel olmayan kullanıcı grubu" (ana veya genişletilmiş kullanıcı grubu) olarak ayarlandığında, bir kullanıcı gruba yalnızca bir yönetici katılabilir.</li><li><b><u>Genel Kullanıcı Grubu</u></b><br />Bu kullanıcı grubu "Genel Kullanıcı Grubu" olarak ayarlandığında ve kullanıcının mevcut kullanıcı grubu katılma izni / Genel kullanıcı grubundan ayrılırken, kullanıcı bu grubu kişisel merkezde ana kullanıcı grubu veya genişletilmiş kullanıcı grubu olarak ayarlayabilecektir. Ana kullanıcı grubu olarak ayarlandığında, ilgili izinler bu kullanıcı grubunun izin ayarlarını takip edecek; genişletilmiş kullanıcı grubu olarak ayarlandığında, yalnızca bu kullanıcı grubunun erişebileceği belirli forum bölümlerine erişebilecektir.</li><li><b>Ücretli genel kullanıcı grubu</b>:<br />Kullanıcıların bu gruba katılmak için belirli işlem puanları ödemesini talep edebilirsiniz. Bu grubun yetkisine sahip olduğunuz sürenin uzunluğu . Bu grubun iznine sahip kullanıcının bir gün için ödemesi gereken işlem puanı tutarını belirleyebilirsiniz. Kullanıcının ilgili satın alma süresi dolduktan sonra, sistem otomatik olarak kullanıcıyla ilgili kullanıcı grubu özelliğini kaldıracaktır.</li><li><b>Ücretsiz genel kullanıcı grubu</b>:<br />Kullanıcıların herhangi bir ücret ödemeden bu kullanıcı grubunun yetkisine ve unvanına sahip olmaları için kişisel merkezde bu kullanıcı grubuna katılmayı seçmeleri yeterlidir. fiyat.</li>',
 	'usergroups_edit_system_public'		=> 'Genel kullanıcı grupları',
@@ -4233,7 +4233,7 @@ $lang = array
 	'usergroups_edit_system_minspan_comment'	=> 'Bir kullanıcının bu gruba erişim satın alabileceği minimum gün sayısını ayarlayın. Minimum kullanılabilir değer 1 gündür. Örneğin günlük fiyat 2, en kısa satın alma süresi 10 gün olarak belirlenmiş, bu nedenle kullanıcının bu gruba katılması ve 10 gün içinde erişim elde etmesi için en az 2 * 10 = 20 puan ödemesi gerekiyor.',
 	'usergroups_edit_system_guest_portal_tips'	=> '<li>Portal gönderme ayrıcalıklarıyla ilgili misafir kullanıcı grubu ayarları</li>',
 	'usergroups_edit_system_guest_home_tips'	=> '<li>Alan yayınlama ve yorum izinleriyle ilgili misafir kullanıcı grubu ayarları</li>',
-					
+
 	'usergroups_edit_forum'			=> 'Forumla İlgili',
 	'usergroups_edit_special'		=> 'özel iplik',
 	'usergroups_edit_special_poll'		=> 'Anket oluşturmaya izin ver',
@@ -4268,13 +4268,13 @@ $lang = array
 	'usergroups_edit_special_allowthreadplugin_comment'	=> 'Eklentilerin özel başlıkta kullanılmasına izin verilip verilmeyeceğini ayarlayın',
 	'usergroups_edit_special_rushreply'		=> 'Alıntılanan yanıtları koru',
 	'usergroups_edit_special_rushreply_comment'	=> 'Kullanıcıların alıntılanan yanıtları silmesine izin vermez',
-					
+
 	'usergroups_edit_post'			=> 'Yayınla ilgili izinler',
 	'usergroups_edit_post_new'		=> 'Yeni ileti dizisi oluşturmaya izin ver',
 	'usergroups_edit_post_new_comment'	=> 'Yeni bir ileti dizisi oluşturmaya izin verilip verilmeyeceğini ayarlayın. Not: kullanıcı, yalnızca kullanıcı grubu READ izinleri 0\'dan yüksek olduğunda yeni bir ileti dizisi oluşturabilir.',
 	'usergroups_edit_post_reply'		=> 'Bir ileti dizisini yanıtlamaya izin ver',
 	'usergroups_edit_post_reply_comment'	=> 'Kullanıcıların yanıt vermesine izin verilip verilmeyeceğini ayarlayın. Not: Kullanıcı, yalnızca kullanıcı grubu READ izinleri 0\'dan yüksek olduğunda bir yanıt yayınlayabilir.',
-					
+
 	'usergroups_edit_post_direct'		=> 'Doğrudan göndermeye izin ver',
 	'usergroups_edit_post_direct_none'	=> 'Doğrudan göndermeyi devre dışı bırakın, tümünün doğrulaması gerekiyor',
 	'usergroups_edit_post_direct_reply'	=> 'Doğrudan yanıta izin ver',
@@ -4364,7 +4364,7 @@ $lang = array
 	'usergroups_edit_attach_max_number_per_day_comment'	=> 'Kullanıcıların 24 saatte bir yükleyebilecekleri eklerin sayısını belirleyin. Limitsiz olarak 0\'a ayarlayın.',
 	'usergroups_edit_attach_ext'			=> 'Etkin ek türü',
 	'usergroups_edit_attach_ext_comment'		=> 'Etkin ek uzantılarını ayarlayın, birden çok uzantıyı virgül "," ile ayırın. Limitsiz için boş bırakın.',
-					
+
 	'usergroups_edit_other'				=> 'Diğer',
 	'usergroups_edit_magic'				=> 'Büyü ile ilgili',
 	'usergroups_edit_magic_tips'			=> '<li>Sihirle ilgili işlevler <a href="'.ADMINSCRIPT.'?action=magics">sihir işlevlerini etkinleştirmeyi</a></li> zorunlu kılar',
@@ -4377,7 +4377,7 @@ $lang = array
 	'usergroups_edit_magic_unallowed'		=> 'Sihir kullanımını, satın alımını ve aktarımını devre dışı bırakın',
 	'usergroups_edit_magic_allow'			=> 'Kullanıma izin ver ve sihir satın al',
 	'usergroups_edit_magic_allow_and_pass'		=> 'Sihrin kullanılmasına, satın alınmasına ve aktarılmasına izin ver',
-					
+
 	'usergroups_edit_invite'			=> 'Kayıtla ilgili',
 	'usergroups_edit_invite_tips'			=> '<li>Kayıtla ilgili davet işlevlerini ayarlayın, genel ayarın ayarlanması gerekir <a href="'.ADMINSCRIPT.'?action=setting&operation=access">Kayıt için daveti etkinleştir</a></li>',
 	'usergroups_edit_invite_permission'		=> 'Davet kodu satın almaya izin ver',
@@ -4390,13 +4390,13 @@ $lang = array
 	'usergroups_edit_invite_buynum_comment'		=> 'Davet kodu maksimum sayısı, kullanıcı grubu üyeleri 24 saat içinde satın alabilir, bu tutardan fazlası satın alamayacaktır.',
 	'usergroups_edit_invite_maxinviteday'		=> 'Davet kodu geçerlilik süresi',
 	'usergroups_edit_invite_maxinviteday_comment'	=> 'Kullanıcı grubu üyeleri satın alınan davetiye kodunu maksimum gün olarak kullanabilirler. Bu süreden sonra davet kodunun süresi otomatik olarak dolacaktır. Varsayılan 10\'dur.',
-					
+
 	'usergroups_edit_pm'			=> 'PM ile ilgili',
 	'usergroups_edit_pm_sendallpm'		=> 'Herkese PM gönderilmesine izin verilip verilmeyeceği',
 	'usergroups_edit_pm_sendallpm_comment'	=> 'Hayır\'ı seçerseniz, kullanıcılar yalnızca yalnızca arkadaşlarına/arkadaşlarından PM gönderebilir/kabul edebilir ve diğerlerinin hepsine PM gönderemez.',
 	'usergroups_edit_pm_sendpmmaxnum'	=> '24 saatte maksimum PM sayısı',
 	'usergroups_edit_pm_sendpmmaxnum_comment'	=> '24 saat içinde kullanıcı grubu için yayınlanan maksimum kısa mesaj sayısını belirleyin. Toplu PM spamını önlemek için etkilidir. Kısıtlama olmaması için 0\'a ayarlayın.',
-					
+
 	'usergroups_edit_credit'		=> 'İlgili noktalar',
 	'usergroups_edit_credit_allowrate'	=> 'Üyeleri derecelendirmeye izin ver',
 	'usergroups_edit_credit_rate_isself'	=> 'Kendilerini puan indirimi olarak değerlendirin',
@@ -4414,7 +4414,7 @@ $lang = array
 	'usergroups_edit_credit_exempt_attachpay'	=> 'Doğrudan indirme eki ücreti',
 	'usergroups_edit_credit_exempt_inperm'		=> 'Forum yetkisi dahilinde',
 	'usergroups_edit_credit_exempt_outperm'		=> 'Forum yetki alanı dışında',
-					
+
 	'usergroups_edit_home'			=> 'Uzayla ilgili',
 	'usergroups_edit_home_allow_viewprofile'	=> 'Kullanıcı profilini görüntülemeye izin ver',
 	'usergroups_edit_home_allow_viewprofile_comment'	=> 'Diğer kullanıcıların profil bilgilerinin görüntülenmesine izin verilip verilmeyeceğini ayarlayın',
@@ -4441,13 +4441,13 @@ $lang = array
 	'usergroups_edit_home_allow_space_diy_imgcode_comment'	=> 'Kişisel ev stili seti için düzen modülünde [img] kodunun kullanımının etkinleştirilip etkinleştirilmeyeceği',
 	'usergroups_edit_home_image_max_size'			=> 'Kişisel resim albümü maksimum boyutu',
 	'usergroups_edit_home_image_max_size_comment'		=> 'Kişisel görüntü albümünün maksimum boyutunu ayarlayın (K 1M = 1024K cinsinden). 0, limitsiz, PHP\'nin etkili olabilmesi için ayarlanması gerekir, Lütfen Yönetim Merkezi Ana Sayfasına bakın',
-					
+
 	'usergroups_edit_group'			=> 'İlgili gruplar',
 	'usergroups_edit_group_build'		=> 'Oluşturulmasına izin verilen grup sayısı',
 	'usergroups_edit_group_build_comment'	=> 'Aralık 1-255\'tir, grup oluşturmayı devre dışı bırakmak için 0\'a ayarlayın',
 	'usergroups_edit_group_buildcredits'	=> 'Grup oluştur için krediye ihtiyacınız var',
 	'usergroups_edit_group_buildcredits_comment'	=> 'Bir grup oluşturmak için gereken kredi miktarı. Kredi gerektirmeyen için 0\'a ayarlayın',
-					
+
 	'usergroups_edit_portal'			=> 'Portalla ilgili',
 	'usergroups_edit_portal_allow_post_article'	=> 'makale yayınla',
 	'usergroups_edit_portal_allow_down_local_img'	=> 'Yerel resimleri indirmeye izin ver',
@@ -4455,13 +4455,13 @@ $lang = array
 	'usergroups_edit_portal_allow_post_article_moderate'	=> 'Yayınlanan makaleler doğrulanmalıdır',
 	'usergroups_edit_portal_allow_comment_article'		=> 'Bir yorumdaki kelime sayısı',
 	'usergroups_edit_portal_allow_comment_article_comment'	=> 'Bir makale yayınlanan kullanıcı grubu yorum kelime sınırını ayarlayın. Bu kullanıcı seviyesi için yorumları devre dışı bırakmak için 0\'a ayarlayın.',
-					
+
 	'usergroups_edit_raterange_min'		=> 'Minimum derecelendirme',
 	'usergroups_edit_raterange_max'		=> 'Maksimum derecelendirme',
 	'usergroups_edit_raterange_mrpd'	=> 'Günlük maksimum oranlar',
-					
+
 	'usergroups_edit_plugin'	=> 'Eklentiler',
-					
+
 	'groups_search_result'		=> 'Toplam <strong>{groupnum}</strong> grup bulundu',
 	'groups_setting_basic'		=> 'Temel ayarlar',
 	'groups_setting_basic_status'	=> 'Grup İşlevleri açık',
@@ -4511,7 +4511,7 @@ $lang = array
 	'group_mod_wait'		=> 'Bekleyen gruplar',
 	'group_mod_description'		=> 'Tanım',
 	'group_mod_delconfirm'		=> 'Seçilen grupları silmek istediğinizi onaylıyor musunuz?',
-					
+
 	'threads'			=> 'Toplu Konu Yönetimi',
 	'threads_tips'			=> '<li>İplik kitle yönetimi. Konuları arayabilir ve toplu silme, taşıma, kategori ayarlama, üst kısmı ayarlama/iptal etme, özeti ayarlama/iptal etme, ekleri açma/kapatma/silme vb. işlemleri yapabilirsiniz.</li><li>Lütfen önce koşullara göre konuyu arayın ve ardından ilgili işlemi seçin.</li>',
 	'threads_list'			=> 'Konu listesi',
@@ -4571,7 +4571,7 @@ $lang = array
 	'threads_stick_two'		=> 'Çubuk II',
 	'threads_stick_three'		=> 'Çubuk III',
 	'threads_succeed'		=> 'Toplu yönetim başarıyla tamamlandı.',
-					
+
 	'threads_forumstick'		=> 'Forum/Grup Çubuğu',
 	'threads_forumstick_tips'	=> '<li>Bazı ileti dizileri, sitenin veya herhangi bir Forumun en üstüne, belirli sayıdaki en önemli ileti dizileri içinde yerleştirilebilir.</li><li>Yöneticilerin yalnızca konu gönderisinin URL adresini belirtmesi ve konuyu hangi forumlara veya grup sınıflandırmalarına sabitleyeceğini seçmesi gerekir.</li>',
 	'threads_forumstick_threadurl'	=> 'Konu URL\'si',
@@ -4582,13 +4582,13 @@ $lang = array
 	'threads_forumstick_targetgroups_comment'	=> 'Belirtilen ileti dizisi, grup gösterisinin üst kısmındaki kategori gruplarına taşınacak, birden çok seçmek için CTRL\'yi basılı tutun',
 	'threads_forumstick_forum'		=> 'Forum Listesi',
 	'threads_forumstick_group'		=> 'Grup Kategorisi',
-					
+
 	'threads_postposition'		=> 'Gönderi Optimizasyonu',
-	'threads_postposition_tips'	=> '<li>Bu işlev esas olarak çok sayıda yanıtın optimizasyonu için kullanılır. Genellikle, beklenen yanıt sayısı 5.000 gönderiden fazla olduğunda bir optimizasyon kullanabilirsiniz.</li>	
-<li>Konu optimizasyon kuyruğuna girdiğinde, bu konudaki gönderileri silmenizi önermiyoruz. İçerik yasa dışıysa, gönderiyi kilitlemenizi öneririz.</li>					
-<li>Bir iş parçacığının konumunu değiştiren herhangi bir olay başlattığınızda, sistem otomatik olarak iş parçacığını optimizasyon kuyruğuna alacaktır. Ayrıca herhangi bir iş parçacığını optimizasyon kuyruğundan geri döndürebilirsiniz.</li>					
-',				
-					
+	'threads_postposition_tips'	=> '<li>Bu işlev esas olarak çok sayıda yanıtın optimizasyonu için kullanılır. Genellikle, beklenen yanıt sayısı 5.000 gönderiden fazla olduğunda bir optimizasyon kullanabilirsiniz.</li>
+<li>Konu optimizasyon kuyruğuna girdiğinde, bu konudaki gönderileri silmenizi önermiyoruz. İçerik yasa dışıysa, gönderiyi kilitlemenizi öneririz.</li>
+<li>Bir iş parçacığının konumunu değiştiren herhangi bir olay başlattığınızda, sistem otomatik olarak iş parçacığını optimizasyon kuyruğuna alacaktır. Ayrıca herhangi bir iş parçacığını optimizasyon kuyruğundan geri döndürebilirsiniz.</li>
+',
+
 	'threads_postposition_replies'	=> 'Yanıt sayısı belirtilen değerden büyük',
 	'delandadd'			=> 'Yeniden Oluşturma Optimizasyonu (silme ve ekleme)',
 	'deleteposition'		=> 'Optimizasyonu Kaldır',
@@ -4599,7 +4599,7 @@ $lang = array
 	'srch'				=> 'Aramaya başla',
 	'srch_replies'			=> 'Yanıt sayısı şundan fazla:',
 	'srch_tid'			=> 'Veya doğrudan belirlenen konuyu sonlandırın tid =',
-					
+
 	'prune_tips'			=> '<li>Yalnızca yasa dışı gönderileri kaldırmak için kullanılan gönderileri toplu olarak silin. Hacmi bozmadan kendi geçmişinizi silmeniz gerekiyorsa toplu ileti dizisi yönetimini kullanın.</li><li>Bu işlevi kullanmak için, başlangıç zamanı ve bitiş zamanı ile gönderi kullanıcı adı, gönderi IP\'si ve içerik anahtar kelimelerinden birini, en az iki gerekli koşulu sağlamanız gerekir, aksi takdirde çalıştırmak için çalışmak.</li><li>Silme kriterlerine uyan gönderi, konudaki ilk gönderiyse veya konuya yanıt gelmezse, konunun tamamı silinir.</li><li>Forum yöneticisi değilseniz, yalnızca belirli bir zamandan bu yana olan gönderileri silebilirsiniz.</li><li>Süper moderatörlerin gönderileri silme süresi iki haftadır (14 gün); moderatörlerin süre aralığı bir haftadır (7 gün) ve yalnızca yetki alanları altındaki forumlardaki gönderileri silebilir.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır (tırnak işaretleri olmadan) için arama yapabilirsiniz "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li>',
 	'prune'				=> 'Toplu gönderi silme',
 	'prune_search'			=> 'Eşleşen yayınları ara',
@@ -4623,7 +4623,7 @@ $lang = array
 	'prune_condition_invalid'	=> 'Zaman aralığını ve diğer ilgili arama kriterlerini belirtmediniz, lütfen geri dönün.',
 	'prune_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'prune_post_nonexistence'	=> 'Koşullara uygun yayın yok.',
-					
+
 	'quickquery_open_forum'		=> 'Hızlı İzin Ver Forum özellikleri',
 	'quickquery_open_recycle'	=> 'Tüm Forumlar için Geri Dönüşüm Kutusuna İzin Ver',
 	'quickquery_open_discuzcode'	=> 'Tüm Forumlar için BB koduna izin ver',
@@ -4641,15 +4641,15 @@ $lang = array
 	'quickquery_close_guest'	=> 'Tüm forumlar için anonim gönderileri devre dışı bırak',
 	'quickquery_user'		=> 'Üyelerle ilgili işlemler',
 	'quickquery_clear_userlog'	=> 'Tüm Üye Puanları İşlem günlüklerini temizle',
-					
+
 	'specialuser_defaultuser'	=> 'varsayılan kullanıcılar',
-	'specialuser_defaultuser_tips'	=> '<li>Aşağıda tavsiye edilen arkadaşların bir listesi var. Önerilen öncelik değeri daha küçükse öncelik daha yüksektir.</li><li>Varsayılan arkadaşları eklememek için boş bırakın.</li>',				
-	'specialuser_follow_tips'	=> '<li>Kullanıcıları takip etmek için aşağıdakiler önerilir</li><li>Daha küçük öncelik değeri, daha yüksek önerilen öncelik anlamına gelir.</li>',				
-	'specialuser_defaultuser_add_tips'	=> '<li>Kullanıcı adını ve nedenini girin.</li><li>Eklenen arkadaş adlarını çoğaltmayın.</li>',				
+	'specialuser_defaultuser_tips'	=> '<li>Aşağıda tavsiye edilen arkadaşların bir listesi var. Önerilen öncelik değeri daha küçükse öncelik daha yüksektir.</li><li>Varsayılan arkadaşları eklememek için boş bırakın.</li>',
+	'specialuser_follow_tips'	=> '<li>Kullanıcıları takip etmek için aşağıdakiler önerilir</li><li>Daha küçük öncelik değeri, daha yüksek önerilen öncelik anlamına gelir.</li>',
+	'specialuser_defaultuser_add_tips'	=> '<li>Kullanıcı adını ve nedenini girin.</li><li>Eklenen arkadaş adlarını çoğaltmayın.</li>',
 	'specialuser_hotuser'		=> 'Sıcak Üyeler',
-	'specialuser_hotuser_tips'	=> '<li>Aşağıda sıcak üyeler listesi var. Sıcak üyeler ekleyebilirsiniz. Üye eklememek için boş bırakın.</li><li>Görüntüleme sırası: küçük değer daha yüksek önceliğe neden olur.</li>',				
+	'specialuser_hotuser_tips'	=> '<li>Aşağıda sıcak üyeler listesi var. Sıcak üyeler ekleyebilirsiniz. Üye eklememek için boş bırakın.</li><li>Görüntüleme sırası: küçük değer daha yüksek önceliğe neden olur.</li>',
 	'specialuser_order'		=> 'Önerilen öncelik',
-					
+
 	'doing_tips'		=> '<li>Yönetimi yapmak, karşılık gelen yanıtlarla birlikte toplu silme işlemleri için kullanışlıdır.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin (sayısıdır tırnak değil) için aranabilir "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'doing'			=> 'Yönetim yapmak',
 	'doing_search'		=> 'Kriterlere göre arama yapın',
@@ -4671,7 +4671,7 @@ $lang = array
 	'doing_condition_invalid'	=> 'Zaman aralığını veya diğer ilgili arama terimlerini belirtmediniz.',
 	'doing_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'doing_post_nonexistence'	=> 'Aradığınız kriterlere uygun işlem bulunmamaktadır.',
-					
+
 	'blog_tips'			=> '<li>Blog yönetimi, karşılık gelen yanıtlarla birlikte toplu blog silme için kullanışlıdır.</li><li>Anahtar kelimeler, iki bitişik karakter arasında yok sayılabilecek metni sınırlamak için {x} niteleyicisini kullanabilir, x, "a{1}s{2}s" gibi yok sayılan karakterlerin sayısıdır tırnak değil "<b>ass</b>" veya "<b>a</b>x<b>s</b>x<b>s</b>" ve için aranabilir "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'blog'				=> 'Blog Yönetimi',
 	'blog_search_uid'		=> 'Kullanıcı kimliği',
@@ -4702,7 +4702,7 @@ $lang = array
 	'blog_condition_invalid'	=> 'Zaman aralığını veya diğer ilgili arama terimlerini belirtmediniz.',
 	'blog_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'blog_post_nonexistence'	=> 'Koşullara uyan blog yok.',
-					
+
 	'feed_tips'			=> '<li>Toplu dinamik yönetimi, dinamik (feed) kullanımı silmek için kullanılır.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'feed'				=> 'Yayın Yönetimi',
 	'feed_search_uid'		=> 'Kullanıcı kimliği',
@@ -4749,7 +4749,7 @@ $lang = array
 	'feed_show'			=> 'Teklif Sıralaması',
 	'feed_profile'			=> 'Profili Güncelle',
 	'feed_sitefeed'			=> 'Küresel Site Beslemeleri',
-					
+
 	'album_tips'			=> '<li>Albüm yönetimi, albümleri içindeki tüm resimlerle birlikte toplu olarak kaldırmak için kullanışlıdır.</li><li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'album'				=> 'Albüm Yönetimi',
 	'album_default'			=> 'varsayılan albüm',
@@ -4771,7 +4771,7 @@ $lang = array
 	'album_succeed'			=> '{deletecount} albüm başarıyla silindi.',
 	'album_mod_range_illegal'	=> 'Belirtilen zaman aralığı sınırı aşıyor.',
 	'album_post_nonexistence'	=> 'Koşullara uyan albüm yok.',
-					
+
 	'pic_tips'			=> '<li>Görüntü yönetimi, görsel yorumlarıyla birlikte görselleri toplu olarak kaldırmak için kullanışlıdır.</li><li>Hatırlatıcı: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'pic'				=> 'Görüntü Yönetimi',
 	'pic_search_picid'		=> 'Resim Kimliği',
@@ -4857,7 +4857,7 @@ $lang = array
 	'comment_post_nonexistence'	=> 'Koşullara uyan yorum yok.',
 	'comment_search_ip'		=> 'IP gönder',
 	'comment_search_ip_comment'	=> 'Joker karakter "*" kullanılabilir, yani "127.0 .*.*" (tırnak işaretleri olmadan), dikkatli kullanın!!!',
-					
+
 	'share_tips'			=> '<li>Paylaşımları toplu olarak kaldırmak için kullanılan paylaşım yönetimi.</li><li>Hatırlatma: Arama sonuç sayfasındaki <b>Sil</b> düğmesini tıklayın, ilgili bilgiler doğrudan silinecektir!</li>',
 	'share'				=> 'Paylaşım Yönetimi',
 	'share_search_uid'		=> 'kullanıcı kimliği',
@@ -4887,7 +4887,7 @@ $lang = array
 	'share_type_pic'		=> 'resim',
 	'share_type_album'		=> 'Albüm',
 	'share_type_article'		=> 'Madde',
-					
+
 	'attach'			=> 'Ek Yönetimi',
 	'attach_attachtableid'		=> 'Ek tablosu kimliğini seçin',
 	'attach_attachtableid_n'	=> 'Tablo kimliği',
@@ -4909,7 +4909,7 @@ $lang = array
 	'attach_tips'			=> '<li>Mavi etiketli ekler, uzak ekler anlamına gelir. Ek açıklamasını görüntülemek için fareyi dosya adına getirin.</li><li>Bir ek <em class="error">kayıp</em> şu anlama gelir: Dosya adı, yol, boyut ve indirme süreleri gibi ilgili veriler veritabanında iyi bir şekilde kaydedilmiştir, ancak ekli dosyalar silinmiştir.</li>',
 	'attach_edit_succeed'		=> 'Ek listesi başarıyla güncellendi.',
 	'attach_edit_invalid'		=> 'Silmek için eki seçmediniz, lütfen değiştirmek için geri dönün.',
-					
+
 	'moderate_m_forum'		=> 'Orta Forum',
 	'moderate_m_home'		=> 'Orta Ev',
 	'moderate_m_portal'		=> 'Orta Portal',
@@ -4937,14 +4937,14 @@ $lang = array
 	'moderate_export_all'		=> 'Dışa Aktar\'ı seçin',
 	'moderate_export_getall'	=> 'Tümünü Dışa Aktar',
 	'moderate_nodata'		=> 'Veri yok',
-					
-					
+
+
 	'moderate_threads'		=> 'Yeni ileti dizilerini doğrulayın',
 	'moderate_threads_none'		=> 'Doğrulama için yeni ileti dizisi yok. Yeni yanıtları doğrulamak için buraya tıklayabilirsiniz.',
-					
+
 	'moderate_replies'		=> 'Yeni Yanıtları Doğrula',
 	'moderate_replies_none'		=> 'Doğrulama için yeni yanıt yok. Yeni konuları doğrulamak için buraya tıklayabilirsiniz.',
-					
+
 	'moderate_blogs'		=> 'Yeni blogları doğrulayın',
 	'moderate_pictures'		=> 'Yeni resimleri doğrulayın',
 	'moderate_doings'		=> 'Yeni işleri doğrulayın',
@@ -4952,7 +4952,7 @@ $lang = array
 	'moderate_comments'		=> 'Yeni yorumları doğrula',
 	'moderate_articles'		=> 'Yeni makaleleri doğrulayın',
 	'moderate_articlecomments'	=> 'Yeni makale yorumlarını doğrulayın',
-					
+
 	'moderate_all_invalidate'	=> 'Tümünü Reddet',
 	'moderate_all_validate'		=> 'Tümünü onayla',
 	'moderate_all_delete'		=> 'Hepsini sil',
@@ -4987,7 +4987,7 @@ $lang = array
 	'moderate_bump'			=> 'çarpma ipliği',
 	'moderate_repair'		=> 'Onarım ipliği',
 	'moderate_t_comment'		=> 'Mikroblog Yorumları',
-					
+
 	'recyclebin'			=> 'Geridönüşüm kutusu',
 	'recyclebin_list'		=> 'Konu listesi',
 	'recyclebin_list_thread'	=> 'Forum',
@@ -5012,7 +5012,7 @@ $lang = array
 	'recyclebin_all_undelete'		=> 'Her şeyi eski haline getir',
 	'recyclebin_all_ignore'			=> 'Hepsini Yoksay',
 	'recyclebin_delete_time'		=> 'Zamanı sil',
-					
+
 	'recyclebin_clean'		=> 'Geri Dönüşüm Kutusunu toplu temizleme',
 	'recyclebin_clean_days'		=> 'Şundan daha eski olan Geri Dönüşüm Kutusunu temizle (gün)',
 	'recyclebin_clean_days_comment'	=> 'TÜMÜNÜ temizlemek için 0\'a ayarlayın',
@@ -5020,7 +5020,7 @@ $lang = array
 	'recyclebin_undelete'		=> 'Gönderileri geri yükle',
 	'recyclebin_succeed'		=> 'Geri Dönüşüm Kutusu başarıyla güncellendi. Toplam {threadsdel} ileti dizisi kaldırıldı, {threadsundel} ileti dizisi geri yüklendi.',
 	'recyclebin_nothread'		=> 'Kaldırılan konu yok',
-					
+
 	'recyclebinpost'			=> 'Gönderiler Geri Dönüşüm Kutusu',
 	'recyclebinpost_list'			=> 'Gönderi listesi',
 	'recyclebinpost_search'			=> 'Silinen yayınlarda ara',
@@ -5032,24 +5032,24 @@ $lang = array
 	'recyclebinpost_search_post_time'	=> 'Yayın zaman aralığı',
 	'recyclebinpost_search_post_time_comment'	=> 'Format: yyyy-aa-dd, limitsiz için boş bırakın',
 	'recyclebinpost_result'			=> 'Geri Dönüşüm Kutusu Sonuçlarını Ara',
-					
+
 	'recyclebinpost_clean'			=> 'Geri Dönüşüm Kutusunu Toplu Temizleme gönderileri',
 	'recyclebinpost_clean_days'		=> 'Geri Dönüşüm Kutusu Gönderilerini boşaltmak kaç gün eski',
 	'recyclebinpost_clean_days_comment'	=> 'Tümünü temizlemek için 0',
 	'recyclebinpost_none'			=> 'Hiçbir gönderi temizlenmedi',
 	'recyclebinpost_succeed'		=> 'Yanıtlar Geri Dönüşüm Kutusu başarıyla güncellendi. Kaldırılan gönderiler: {postsdel}, Geri yüklenen gönderiler: {postsundel}',
 	'recyclebinpost_clean_next'		=> 'Gönderi Geri Dönüşüm Kutusu güncellendi, Kaldırılan {postsdel} gönderiler. Program otomatik olarak devam edecek',
-					
+
 	'isanonymous'			=> 'anonim gönderi',
 	'ishtmlon'			=> 'HTML\'yi destekleyin',
-					
+
 	'misc'				=> 'Diğer',
-					
+
 	'misc_customnav'		=> 'Özel gezinme',
 	'misc_customnav_add_menu'	=> 'Menü öğesi ekle',
 	'misc_customnav_add_submenu'	=> 'Alt menü öğesi ekle',
 	'misc_customnav_add_ucenter'	=> 'UCenter Uygulaması Ekle',
-					
+
 	'announce'			=> 'Site Duyuruları',
 	'announce_tips'			=> '<li>Site yöneticisi değilseniz, yalnızca kendi öğelerinizi ekleyebilir/düzenleyebilir/silebilirsiniz.</li>',
 	'announce_edit'			=> 'Site Duyurusunu Düzenle',
@@ -5061,19 +5061,19 @@ $lang = array
 	'announce_end_time_comment'	=> 'Limitsiz için boş bırakın',
 	'announce_message'		=> 'İleti',
 	'announce_message_comment'	=> '<b>Duyuru metni:</b>BBCode desteği duyurusu<br /><b>URL bağlantısı:</b>Lütfen duyuru bağlantısını şu şekilde girin: http://xxx.xxx.xxx',
-					
+
 	'misc_onlinelist'		=> 'Çevrimiçi Liste simgeleri',
 	'misc_onlinelist_tips'		=> '<li>Bu işlev, görüntülenen çevrimiçi üye gruplarının ana sayfa açıklamasını özelleştirmek için kullanılır. Yalnızca çevrimiçi liste özelliği etkinleştirilmişse geçerli olur.</li><li>Kullanıcı grubu açıklamasındaki boş, bu grubun kullanıcılarının ayırt edilmediği anlamına gelir ve farklılaştırılmamış tüm kullanıcı grupları, ilk satırdaki "Sıradan Kullanıcı" öğesinde topluca sınıflandırılır.</li><li>Lütfen kullanıcı grubu açıklamasına resim dosyası adını girin ve ilgili resim dosyasını static/image/common/ dizinine yükleyin.</li>',
 	'misc_onlinelist_image'		=> 'Kullanıcı Grubu Açıklama Görüntüsü',
-					
+
 	'misc_link_group1'	=> 'Grup 1',
 	'misc_link_group2'	=> 'Grup 2',
 	'misc_link_group3'	=> 'Grup 3',
 	'misc_link_group4'	=> 'Grup 4',
 	'misc_link'		=> 'Bağlantılar',
 	'misc_link_add'		=> 'Link ekle',
-	'misc_link_tips'	=> '<li>Sayfada bağlantıları görüntülemek istemiyorsanız, "<a href="'.ADMINSCRIPT.'?action=setting&operation=styles&anchor=index">Stil ayarlarında</a>" devre dışı bırakabilirsiniz. </li>	
-				    <li>Açıklama içermeyen bağlantı kompakt bir biçimde görüntülenecektir.</li>',				
+	'misc_link_tips'	=> '<li>Sayfada bağlantıları görüntülemek istemiyorsanız, "<a href="'.ADMINSCRIPT.'?action=setting&operation=styles&anchor=index">Stil ayarlarında</a>" devre dışı bırakabilirsiniz. </li>
+				    <li>Açıklama içermeyen bağlantı kompakt bir biçimde görüntülenecektir.</li>',
 	'misc_link_edit'		=> 'Bağlantıyı düzenle',
 	'misc_link_edit_name'		=> 'Site adı',
 	'misc_link_edit_url'		=> 'Site URL\'si',
@@ -5092,7 +5092,7 @@ $lang = array
 	'misc_relatedlink_extent_forum'	=> 'forum konuları',
 	'misc_relatedlink_extent_group'	=> 'Grup Konusu',
 	'misc_relatedlink_extent_blog'		=> 'Blog',//'日志',
-					
+
 	'misc_bbcode'			=> 'Özel BB Kodu',
 	'misc_bbcode_edit'		=> 'BB Kodunu Düzenle',
 	'misc_bbcode_edit_tips'		=> '<li>"Özel Discuz! Koduna İzin Ver" iznine sahip kullanıcı grupları, Özel Discuz! Gönderirken kod düğmesi yalnızca özel Discuz! Kod mevcuttur ve bir simge dosyası ayarlanmıştır.</li>',
@@ -5115,7 +5115,7 @@ $lang = array
 	'misc_bbcode_edit_usergroup_comment'	=> 'Bu kodu hangi kullanıcı gruplarının kullanabileceğini belirleyin<br />Çoklu seçim için CTRL tuşunu basılı tutun',
 	'misc_bbcode_icon_file'			=> 'Simge Dosyası / Açıklama',
 	'misc_bbcode_icon'			=> 'simge',
-					
+
 	'misc_cron'		=> 'Zamanlayıcı',
 	'misc_cron_list'	=> 'Zamanlanmış görevlerin listesi',
 	'misc_cron_tips'	=> '<li>Tartış! sistemin belirtilen zamanda otomatik olarak gerçekleştireceği bir dizi görev sağlar. Gerekirse bu site özelliğini kolayca genişletebilirsiniz.</li><li>Planlı görevler, sistemin çekirdeği ile yakından ilgili işlevsel özelliklerdir. Yanlış ayarlar, site işlevlerinde gizli tehlikelere neden olabilir ve yalnızca ne yaptığınızı ve sonuçlarının ne olduğunu açıkça bildiğiniz zaman, görev öğelerini kendiniz ekleyin veya değiştirin.</li><li>Diğer fonksiyonlardan farklıdır.Bu fonksiyonda saat tamamen site sisteminin varsayılan saat farkına göre ayarlanıp görüntülenmektedir ve saat farkına göre görüntü veya ayar değiştirilmeyecektir. belirli bir kullanıcı veya yönetici zaman değerinin ayarı.</li>',
@@ -5148,7 +5148,7 @@ $lang = array
 	'misc_cron_edit_minute_comment'		=> 'Görevin hangi dakikalarda uygulanacağını ayarlayın, 12 dakikaya kadar değerler ayarlayabilirsiniz. Birden çok dakika değerini virgül "," ile ayırın. limitsiz için boş bırakın',
 	'misc_cron_edit_filename'		=> 'Görev Komut Dosyası',
 	'misc_cron_edit_filename_comment'	=> 'Görev yürütme komut dosyası adını ayarlayın. Dosya yolunu dahil etmeyin. source/include/cron/ dizininde depolanan cron betikleri. Eklenti zamanlanmış görevi, source/plugin/your_plugin_name/cron/ dizininde bulunur.',
-					
+
 	'misc_censor'			=> 'Kötü Kelime Filtresi',
 	'misc_censor_tips'		=> '<li>İçeriğin değiştirilmesi için, bir {x} niteleyicisi metnin iki bitişik karakterini yoksaymak için kullanılabilir; burada <b>x</b>, yok sayılan bir dizi karakterdir. Yani "a{1}s{2}s" maskesi (tırnak işaretleri olmadan) "<b>eşek</b>", "<b>a</b>x<b>s</b>\'yi filtreleyebilir x<b>s</b>" ve "<b>a</b>x<b>s</b>xx<b>s</b>" vb.</li><li>Programın verimini etkilememek için lütfen çok fazla gereksiz filtreleme içeriği ayarlamayın.</li><li>İnceleme sadece forumdaki içerik için geçerlidir</li><li>Forum yöneticisi değilseniz, sadece eklediğiniz öğeleri düzenleyebilir veya silebilirsiniz.</li><li>Hassas kelime "/" (tırnak işaretleri olmadan) ile başlıyor ve bitiyorsa, bu, formatın bir normal ifade olduğu anlamına gelir. Bu durumda, normal ifadedeki alt kalıp "(n)", örneğin "/1\d{10}([^\d]+|$)/", "Cep telefonu(1)" ile değiştirilir.</li>',
 	'misc_censor_word'		=> 'Kötü bir kelime',
@@ -5168,8 +5168,8 @@ $lang = array
 	'misc_censor_word_default_typename'	=> 'Varsayılan Tür Adı',
 	'misc_censor_wordtype_search'	=> 'Kelime türünü sınırlamaz',
 	'misc_censor_wordtype_name'	=> 'Tip Adı',
-					
-					
+
+
 	'misc_tag'			=> 'Etiketler',
 	'misc_tag_threadnum'		=> 'Konu numarası',
 	'misc_tag_status'		=> 'Durum',
@@ -5184,7 +5184,7 @@ $lang = array
 	'misc_tag_all_close'		=> 'Tümünü Kilitle',
 	'misc_tag_all_open'		=> 'Hepsini aç',
 	'misc_tag_all_recommend'	=> 'Tümü Önerilen',
-					
+
 	'smilies'			=> 'Gülümseme yönetimi',
 	'smilies_edit'			=> 'Gülümseme yönetimi',
 	'smilies_type'			=> 'Gülümseme kategorisi',
@@ -5214,7 +5214,7 @@ $lang = array
 	'smilies_tips'			=> '<li>Bir gülümseme eklemek için ilgili görseli static/image/smiley/YOUR_SMILEY_CATEGORY/ dizinine yükleyin.</li><li>Emojiler "JPG, GIF, PNG" formatlarındaki resimleri destekler ve dosya adı yalnızca sayılara, 26 İngilizce harfe, alt çizgiye, yarı genişlikte boşluklara ve "<>-.&[]()" gibi simgelere izin verir. Uzunluk 30 baytı geçemez, aksi halde tanınmaz.</li><li>Çok fazla sunucu kaynağı kullanmamak için lütfen çok fazla ifade ayarlamayın.</li>',
 	'smilies_tips_smileytypes'	=> '<li>Gülümsemelerin kategorilere göre sınıflandırılması için gülümseme resimlerini FTP aracılığıyla ilgili alt dizinlere yükleyin.</li><li>Lütfen aynı anda çok fazla ifade kategorisini etkinleştirmeyin ve ifade penceresinin tüm ifade kategorilerini tam olarak görüntüleyememesi için ifade kategorilerinin ad uzunluğunu kontrol edin.</li><li>Arayüz stilinde varsayılan olarak görüntülenen ifade kategorilerini ayarlayabilirsiniz. Bir ifade kategorisini silmek için lütfen önce bu kategori altındaki tüm ifadeleri silin.</li>',
 	'smiliesupload_tips'		=> 'Bir gülümseme kategorisi oluşturmak için, static/image/smiley/ dizini altında bir alt dizin oluşturun, resimleri buraya yükleyin ve ardından sayfayı yenileyin. Gülümseme kategorisi dizin adı sadece rakamlardan, 26 latin harften ve altı çizili toplamdan oluşabilir.',
-					
+
 	'click'			=> 'Pozisyon (Derecelendirme) yönetimi',
 	'click_edit'		=> 'Pozisyon (Derecelendirme) yönetimi',
 	'click_edit_blogid'	=> 'Blog İşlemleri',
@@ -5225,12 +5225,12 @@ $lang = array
 	'click_edit_image'	=> 'Eylem resmi',
 	'click_edit_type'	=> 'Eylem Türü',
 	'click_edit_succeed'	=> 'Pozisyon işlemleri başarıyla güncellendi',
-					
-					
+
+
 	'misc_icon'		=> 'İplik simgeleri',
 	'misc_icon_tips'	=> 'Statik/image/forum/icon/ dizini listesinde tema simgelerini bulamıyorsanız, lütfen konu simgelerini FTP aracılığıyla bu dizine yükleyin ve ardından sayfayı yenileyin.',
 	'misc_icon_add'		=> 'Konu simgesi ekle',
-					
+
 	'misc_stamp'			=> 'İplik tanımlama',
 	'misc_stamp_thread'		=> 'İplik simgesi',
 	'misc_stamp_list'		=> 'Simge Listesi',
@@ -5249,13 +5249,13 @@ $lang = array
 	'misc_stamp_imagename'		=> 'Damga/Simge görüntü adı',
 	'misc_stamp_addtips'		=> '<li>Bir damga veya simgeye eklemeyi seçebilirsiniz.</li><li>Resim adı mutlaka doldurulmalıdır, isimsiz resimler eklenmeyecektir.</li>',
 	'misc_stamp_icon'		=> 'ilişkili simge',
-					
+
 	'misc_attachtype'		=> 'Tip Yönetimi Ekle',
 	'misc_attachtype_add'		=> 'Yeni ekleme türü ekle',
 	'misc_attachtype_tips'		=> '<li>Bu özellik, bazı ek türlerini belirli bir maksimum boyutla sınırlayabilir. Kullanıcı grubunun izin verilen maksimum boyutundan daha küçük olarak ayarlandığında, bu ek türü boyut sınırı geçerli olacaktır.</li><li>Belirli bir ek türünün maksimum boyutunu 0 olarak ayarlayarak bu ek türünün bir bütün olarak yüklenmesini engelleyebilirsiniz.</li>',
 	'misc_attachtype_ext'		=> 'Uzantı Ekle (küçük harf)',
 	'misc_attachtype_maxsize'	=> 'Maksimum boyut (Kb)',
-					
+
 	'faq'			=> 'SSS',
 	'faq_thread'		=> 'Yardım konuları',
 	'faq_sortup'		=> 'Daha yüksek kategori',
@@ -5271,7 +5271,7 @@ $lang = array
 	'faq_content_comment'	=> 'Yardım içeriği, HTML kodu desteği',
 	'faq_additem'		=> 'Yeni yardım konuları ekleyin',
 	'faq_addcat'		=> 'Yeni yardım kategorisi ekle',
-					
+
 	'plugins'		=> 'Eklenti yapılandırması',
 	'plugins_home'		=> 'Açıklamayı görüntüle',
 	'plugins_visit'		=> 'Oyla',
@@ -5417,7 +5417,7 @@ $lang = array
 	'plugins_list_available'		=> 'Mevcut eklentiler',
 	'plugins_list_unavailable'		=> 'Kullanılamayan eklentiler',
 	'plugins_list_new'			=> 'Yüklü olmayan eklentiler',
-					
+
 	'medals'		=> 'Madalyalar',
 	'medals_tips'		=> '<li>Bu özellik, kullanıcılara verilen Madalyalar hakkındaki bilgileri ayarlamak için kullanılabilir. Resim dosyası adını girin ve ilgili resim dosyasını static/image/common/ dizinine yükleyin.</li>',
 	'medals_edit'		=> 'Madalyayı Düzenle',
@@ -5458,7 +5458,7 @@ $lang = array
 	'medals_permformula'		=> 'İzin ifadesini ayarladığınızda, yalnızca ifadeyle eşleşen bir üye madalyayı alabilir, örneğin Madalya satın alınabilir devre dışı bırakılabilir. Örneğin, "posts>100 and extcredits1>10" ifadesi "Gönderi sayısı > 100 ve prestij > 10" anlamına gelir"<br />Tarih biçimi "{YMD}", yani "{2009-10-1}" . IP biçimi "{xxxx}" şeklindedir, tam adresi veya "{10.0.0.1}", "{192.168.0}" gibi yalnızca IP başlangıcını girebilirsiniz.',
 	'medals_credit'			=> 'Kredi',
 	'medals_price'			=> 'Fiyat',
-					
+
 	'card'				=> 'Şarj kartı',
 	'card_make_tips'		=> '<li>Kart oluşturma devre dışı bırakıldığında, Basit kurallar veya daha az sayıda yaprağın oluşturulması, gerçek oluşturmaya neden olabilecek sayfaların sayısı, oluşturulan varsayılan sayfa sayısından daha azdır.</li>',
 	'card_config_open'		=> 'Ön şarja izin ver',
@@ -5519,9 +5519,9 @@ $lang = array
 	'card_type_tips'		=> '<li>Bir Kart gizli türü kaldırılırsa, sonraki kart otomatik olarak "Varsayılan Türe" dahil edilir</li>',
 	'card_type_none'		=> 'Tip yok',
 	'card_type_default'		=> 'Varsayılan Tür',
-					
-					
-					
+
+
+
 	'magics'			=> 'Sihir Merkezi',
 	'magics_tips'			=> '<li>Sihirli sistem öğeleri source/class/magic/ dizininde, eklenti öğeleri ise source/plugin/you_plugin_name/magic/ dizininde bulunur</li><li>Eklenti geliştiricileri, tasarlamadan önce dikkatlice okumalıdır yeni aksesuarlar <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Belgeler</a>".</li>',
 
@@ -5530,10 +5530,10 @@ $lang = array
 	'magics_config_open_comment'	=> 'Magic Center işlevlerine izin verilip verilmeyeceği',
 	'magics_config_discount'	=> 'Sihirli iade indirimi',
 	'magics_config_discount_comment'	=> 'Sistem fiyat indirimine sihirli bir dönüş yüzde değeri olarak ayarlayın. Örneğin bu değer 85 ise sistem büyüyü iade ederken orijinal fiyatın %85\'ini kullanıcıya teklif edecektir. Para kaybetmeyi önlemek için, değeri 100\'den fazla ayarlamamanız önerilir. Sihirli dönüş işlemini devre dışı bırakmak için boş bırakın veya 0 olarak ayarlayın.',
-					
+
 	'magics_market'		=> 'sihirli pazar',
 	'magics_market_seller'	=> 'satıcı',
-					
+
 	'magics_identifier'	=> 'tanımlayıcı',
 	'magic_recommend'	=> 'Tavsiye etmek',
 	'magic_suppytype_1'	=> 'Gün',
@@ -5579,7 +5579,7 @@ $lang = array
 	'magics_goods_stack_month'	=> 'Otomatik aylık yenileme',
 	'magics_type'			=> 'Sihirli Tip',
 	'magics_grant_notify'		=> 'Sihirli hediye bildirimi gönder',
-					
+
 	'tasks'			=> 'Site Görevleri',
 	'tasks_on'		=> 'Site görevlerinin etkinleştirilip etkinleştirilmeyeceği',
 	'tasks_online'		=> 'Çevrimiçi',
@@ -5597,7 +5597,7 @@ $lang = array
 	'tasks_status_1'	=> 'Çevrimiçi degil',
 	'tasks_status_2'	=> 'Devam etmekte',
 	'tasks_status_3'	=> 'Bitti',
-					
+
 	'tasks_tips'		=> '<li>Üyeler, yalnızca "uygun" olarak işaretlenen görevlere erişebilir ve bunları uygulayabilir.</li>',
 	'tasks_tips_edit'	=> '<li>Üyeler, yalnızca "uygun" olarak işaretlenen görevlere erişebilir ve bunları uygulayabilir.</li><li>Görevin başlangıç zamanı ayarlanabilir ve belirli bir görevin ne zaman başlayacağını planlayabilirsiniz. Ayarlanmazsa, görev varsayılan olarak başlatılır.</li>',
 	'tasks_tips_add_member'	=> '<li>Üye sınıfı görevleri üç tür içerir: arkadaş ekleme, favori ekleme ve sihir kullanma. Bu tür görevler, üyeleri forum atmosferini harekete geçirmek için forum işlevlerini kullanmaya yönlendirebilir.</li><li>Görevleri tamamlamak için farklı koşullar belirlemek, forumunuza uygun görevler oluşturabilir.</li>',
@@ -5619,7 +5619,7 @@ $lang = array
 	'tasks_add_endtime'		=> 'Çevrimdışı saat (tarih)',
 	'tasks_add_endtime_comment'	=> 'Görev bitiş saatini girin. Bu tarihten sonra üyeler görevi uygulayamayacaktır. Kısıtlamamak için boş bırakın',
 	'tasks_add_periodtype'		=> 'Görev aralığı birimi',
-	'tasks_add_periodtype_comment'	=> 'Görev aralığı döngü birimini ayarlayın<br />	
+	'tasks_add_periodtype_comment'	=> 'Görev aralığı döngü birimini ayarlayın<br />
 					Hours: the task can be applied again after the specified hours after the task completed.<br />
 					Days: the task can be applied again after the specified days after the task completed.<br />
 					Weeks: the task can be applied again at a specified day of week (from Monday to Sunday). Enter the day of week number in interval from 1 (Monday) to 7 (Sunday)<br />
@@ -5632,7 +5632,7 @@ $lang = array
 	'tasks_add_period_comment'	=> 'Boşsa - bu tek seferlik görev, aksi takdirde - periyodik görev',
 	'tasks_add_reward'		=> 'Görev ödülü',
 	'tasks_add_reward_comment'	=> 'Ödül türleri şunlardır: Puanlar, Sihir, Dekorasyonlar ve özel kullanıcı grupları. Sihir ve Dekorasyon türleri için ilgili işlevlerin etkinleştirilmesi gerekir.',
-					
+
 	'tasks_add_extcredit'		=> 'Uzatılmış Krediler',
 	'tasks_add_credits'		=> 'Kredi Tutarı',
 	'tasks_add_magicname'		=> 'Sihirli tanımlayıcı',
@@ -5675,9 +5675,9 @@ $lang = array
 	'tasks_add_act_newreply'	=> 'Yeni yanıt gönder',
 	'tasks_add_act_newpost'		=> 'Yeni konu/yanıt gönder',
 	'tasks_add_setting'		=> 'Diğer ayarlar',
-					
+
 	'ec'				=> 'E-Ticaret',
-					
+
 	'ec_alipay'			=> 'Alipay ayarları',
 	'ec_alipay_tips'		=> '<li>"Alipay" (<a href="http://www.alipay.com" target="_blank">http://www.alipay.com</a>), Çin\'de lider bir çevrimiçi ödeme platformudur . Dünyanın en iyi B2B şirketi Alibaba tarafından kurulan Discuz! puan alımları ve forum B2C ve C2C ticaret platformları olan kullanıcılar. Basit ayarlar yapmanız yeterlidir ve forumun içeriği ve popülaritesi, forumun geniş çaplı işleyişini gerçekleştirmek için reklam gelirinin yanı sıra gerçekten önemli bir kâr kaynağı haline gelebilir.</li><li><b>Nakit işlemler söz konusu olduğundan, yanlış kullanımdan kaynaklanan fon kaybını önlemek için lütfen elektronik İşletme bölümünü dikkatlice okuduğunuzdan emin olun, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li><li>Kullanıcıların işlem puanları hesaplarını yeniden doldurmak için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak için kullanılabilir, puan aktarımı veya kullanıcı grubu yükseltme ve diğer işlevler. Alipay puan işlem fonksiyonu için, işlem puanlarını "<a href="'.$BASESCRIPT.'?action=setting&operation=credits" target="_blank">points setting</a>" ve aynı zamanda ilgili puanları ayarlayın Farklı durumların ihtiyaçlarını karşılamak için stratejiler. Lütfen alıcı Alipay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde puanlar ödeme yapıldıktan sonra gerçek zamanlı olarak kullanıcıya yatırılmayacak ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olacaktır.</li><li>Discuz! resmi web sitesi veya resmi forum tarafından aksi bildirilmedikçe, Discuz! tarafından sağlanan Alipay ödeme hizmeti her işlem için %1,5 işlem ücreti alır. Lütfen ilgili işletmelerin en son bildirimlerine, çeşitli politikaların veya prosedürlerin değişikliklerine ve ayarlamalarına dikkat edin ve Discuz! resmi web sitesi veya resmi forum tarafından sağlanan bilgiler geçerli olacaktır.</li><li>Alipay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir.</li><li>Alipay iş danışmanlığı e-postası <a href="mailto:6688@taobao.com">6688@taobao.com</a>; Alipay müşteri hizmetleri telefon numarası +86-0571-88156688.</li>',
 	'ec_alipay_account'		=> 'Alipay Hesabı',
@@ -5698,7 +5698,7 @@ $lang = array
 	'ec_alipay_partner_comment'		=> 'tarafından size atanan İş Ortağı Kimliğini girin. Kullanıcı ücretleri, resmi sözleşmeyi imzaladığınız sözleşmeye uygun olarak ödenir.<br/>İmzalamadıysanız <a href="http://act.life.alipay.com/systembiz/discuz /" target="_blank">Şimdi oturum açın</a>. Zaten kaydolduysanız, <a href="https://b.alipay.com/order/pidKey.htm?pid=2088501719138773&product=fastpay" id="aliapitype" target="_blank">buraya tıklayarak alabilirsiniz. PID ve Anahtar</a>; Alipay imzalama ile ilgili sorun yaşıyorsanız lütfen 0571-88158090 numaralı telefondan Destek Hizmetine danışın.',
 	'ec_alipay_creditdirectpay'		=> 'Doğrudan hesap arayüzünü kullanın',
 	'ec_alipay_creditdirectpay_comment'	=> 'Sözleşmeyi imzaladıktan sonra satıcı arayüzünü doğrudan kullanmanıza izin verdiyseniz, yeniden yükleme, ürün satışı vb. gibi gerçek zamanlı ödemelerle entegrasyona izin vermek için bunu seçin.',
-					
+
 	'ec_tenpay'			=> 'Tenpay Ayarları',
 	'ec_tenpay_opentrans'		=> 'Güvenli işlem ayarları',
 	'ec_tenpay_opentrans_chnid'	=> 'Güvenli işlem hesabı',
@@ -5716,14 +5716,14 @@ $lang = array
 	'ec_tenpay_checklink_credit'		=> 'Şarj noktaları Sipariş Testi',
 	'ec_tenpay_checklink_virtualgoods'	=> 'Sanal ürün siparişi testi',
 	'ec_tenpay_checklink_goods'	=> 'Gerçek ürün siparişi testi',
-	'ec_tenpay_tips'		=> '<li>"Tenpay" (<a href="http://www.tenpay.com" target="_blank">http://www.tenpay.com</a>) bir Çinli lider çevrimiçi ödeme platformudur sağlayan Discuz! noktalı satın alma işlem platformuna sahip kullanıcılar.</li>	
-<li>Anında kredi yüklemesini etkinleştirmek istiyorsanız, lütfen Tenpay <b>Enterprise Edition\'ı kullanın</b> and open <b>anında kredi işlemi</b>; aksi takdirde yalnızca "<b>Aracı Garantili işlem" seçeneğini etkinleştirmeniz gerekir.</b>".</li>					
-<li><b>Nakit işlemler söz konusu olduğundan, yanlış işlemlerden kaynaklanan mali kayıpları önlemek için, Tenpay nokta işlem işlevini (Tenpay düğme işlevi hariç) kullanmaya başlamadan önce lütfen "Kullanım Kılavuzunu" dikkatlice okuyun." E-ticaret ile ilgili bölümde, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li>					
-<li>Kullanıcıların işlem puanları hesaplarını yeniden şarj etmek için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak, puan aktarımı veya kullanıcı grubu yükseltmesi ve diğer işlevler için kullanılabilir. Tenpay puan ticareti işlevi için, "Puan Ayarları "nda işlem puanlarını etkinleştirmeniz ve farklı durumların ihtiyaçlarını karşılamak için aynı zamanda ilgili puan stratejilerini ayarlamanız gerekir. Lütfen alıcı Tenpay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde kullanıcı ödeme yaptıktan sonra puanlar hesaba gerçek zamanlı olarak yatırılmaz ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olur.</li>					
-<li>Discuz! resmi web sitesi veya resmi forum tarafından aksi bildirilmedikçe, Discuz! tarafından sağlanan TenPay ödeme hizmeti her işlem için %1 işlem ücreti alır. Lütfen ilgili işletmelerin en son bildirimlerine, çeşitli politikaların veya prosedürlerin değişikliklerine ve ayarlamalarına dikkat edin ve Discuz! resmi web sitesi veya resmi forum tarafından sağlanan bilgiler geçerli olacaktır..</li>					
-<li>Tenpay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir..</li>					
-<li>TenPay hizmet hattı: 0755-83762288-2 (24 saat hizmet hattı)</li>',				
-					
+	'ec_tenpay_tips'		=> '<li>"Tenpay" (<a href="http://www.tenpay.com" target="_blank">http://www.tenpay.com</a>) bir Çinli lider çevrimiçi ödeme platformudur sağlayan Discuz! noktalı satın alma işlem platformuna sahip kullanıcılar.</li>
+<li>Anında kredi yüklemesini etkinleştirmek istiyorsanız, lütfen Tenpay <b>Enterprise Edition\'ı kullanın</b> and open <b>anında kredi işlemi</b>; aksi takdirde yalnızca "<b>Aracı Garantili işlem" seçeneğini etkinleştirmeniz gerekir.</b>".</li>
+<li><b>Nakit işlemler söz konusu olduğundan, yanlış işlemlerden kaynaklanan mali kayıpları önlemek için, Tenpay nokta işlem işlevini (Tenpay düğme işlevi hariç) kullanmaya başlamadan önce lütfen "Kullanım Kılavuzunu" dikkatlice okuyun." E-ticaret ile ilgili bölümde, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li>
+<li>Kullanıcıların işlem puanları hesaplarını yeniden şarj etmek için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak, puan aktarımı veya kullanıcı grubu yükseltmesi ve diğer işlevler için kullanılabilir. Tenpay puan ticareti işlevi için, "Puan Ayarları "nda işlem puanlarını etkinleştirmeniz ve farklı durumların ihtiyaçlarını karşılamak için aynı zamanda ilgili puan stratejilerini ayarlamanız gerekir. Lütfen alıcı Tenpay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde kullanıcı ödeme yaptıktan sonra puanlar hesaba gerçek zamanlı olarak yatırılmaz ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olur.</li>
+<li>Discuz! resmi web sitesi veya resmi forum tarafından aksi bildirilmedikçe, Discuz! tarafından sağlanan TenPay ödeme hizmeti her işlem için %1 işlem ücreti alır. Lütfen ilgili işletmelerin en son bildirimlerine, çeşitli politikaların veya prosedürlerin değişikliklerine ve ayarlamalarına dikkat edin ve Discuz! resmi web sitesi veya resmi forum tarafından sağlanan bilgiler geçerli olacaktır..</li>
+<li>Tenpay hizmetini kullanımınız tamamen gönüllülük esasına dayanmaktadır ve Tencent Cloud, öznel kötü niyetli faktörler nedeniyle Discuz! tarafından neden olunan fon kaybı dışında, bu işlevin kullanılmasından kaynaklanan herhangi bir kayıptan sorumlu değildir..</li>
+<li>TenPay hizmet hattı: 0755-83762288-2 (24 saat hizmet hattı)</li>',
+
 
 	'ec_orders'			=> 'Maksimum sipariş puanı',
 	'ec_orders_tips'		=> '<li>İşlem emri yönetimi işlevini (Alipay düğme işlevi dahil değildir) kullanmanın başlangıç noktalarındasınız. Elektronik ticaret bölümündeki "Kullanım Kılavuzu"nu dikkatlice okuduğunuzdan emin olun, işlemleri tam olarak anladığınızı onaylayın ve kabul edin ve ardından silmek için kullanın.</li><li>Kullanıcılarınız çevrimiçi ödeme sonrasında puan hesaplarını otomatik olarak yükleyemediklerini bildiriyorsa bunun nedeni Alipay hesabınızın bildirim arayüzü ayarının yanlış olması veya web sitenize Alipay bildirim sistemi tarafından normal şekilde erişilememesi olabilir. Alipay işlem yönetimi arayüzüne giriş yapabilir ve işlem detaylarını karşılaştırarak ilgili siparişi manuel olarak onaylayabilirsiniz.</li><li>Sipariş bilgileri 60 gün boyunca tutulur, bu nedenle sipariş bilgilerini yalnızca 60 gün içinde sorgulayabilir ve yönetebilirsiniz, 60 günü aşan bilgiler otomatik olarak silinir.</li>',
@@ -5752,7 +5752,7 @@ $lang = array
 	'ec_orders_price'		=> 'Sipariş Fiyatı (USD)',
 	'ec_orders_submitdate'		=> 'zaman gönder',
 	'ec_orders_confirmdate'		=> 'zamanı onayla',
-					
+
 	'ec_credit'			=> 'Puan Kuralları',
 	'ec_credit_tips'		=> '<li>Kendi stil simgelerinizi kullanmak için static/image/traderank/ dizinindeki simgeleri değiştirebilirsiniz.</li>',
 	'ec_credit_maxcreditspermonth'	=> 'Her doğal ay için maksimum ödeme toplamı (alıcılar ve satıcılar arasında)',
@@ -5761,7 +5761,7 @@ $lang = array
 	'ec_credit_between'		=> 'puan aralığı',
 	'ec_credit_sellericon'		=> 'satıcı simgesi',
 	'ec_credit_buyericon'		=> 'alıcı simgesi',
-					
+
 	'tradelog_order_status'		=> 'Sipariş durumu',
 	'tradelog_all_order'		=> 'Tüm siparişler',
 	'tradelog_order_count'		=> 'Toplam Siparişler',
@@ -5776,7 +5776,7 @@ $lang = array
 	'tradelog_money'		=> 'Tutar (Dolar)',
 	'tradelog_credit'		=> 'Puanlar',
 	'tradelog_fee'			=> 'Ücret (USD)',
-					
+
 	'credits_edit'				=> 'Puan Kurallarını Düzenle',
 	'credits_edit_cycletype'		=> 'Puan Kurallarını Düzenle',
 	'credits_edit_cycletime'		=> 'Zaman aralığı',
@@ -5785,7 +5785,7 @@ $lang = array
 	'credits_edit_rewardnum_comment'	=> 'Sınırsız için 0\'a ayarlayın',
 	'credits_edit_lowerlimit'		=> 'Entegrasyon stratejisinin alt sınırı',
 	'credits_edit_globalrule'		=> 'Küresel Puan Kuralları',
-					
+
 	'project_option_forum_styleid'		=> 'Forum Stili seçenekleri',
 	'project_option_forum_allowsmilies'	=> 'Gülümsemelerin kullanılmasına izin ver',
 	'project_option_forum_allowhtml'	=> 'HTML kodunun kullanılmasına izin ver',
@@ -5847,7 +5847,7 @@ $lang = array
 	'project_option_forum_seodescription'	=> 'SEO açıklaması',
 	'project_option_forum_showexif'		=> 'Resimleri Göster EXIF bilgisiâ€‹â€‹',
 	'project_option_forum_disablecollect'	=> 'Koleksiyonları Devre Dışı Bırak',
-					
+
 	'project_option_group_readaccess'	=> 'Okuma izni',
 	'project_option_group_allowvisit'	=> 'Foruma erişime izin ver',
 	'project_option_group_allowpost'	=> 'Gönderilere izin ver',
@@ -5969,9 +5969,9 @@ $lang = array
 	'project_option_group_allowcommentcollection'	=> 'Koleksiyon yorumlarına izin ver',
 	'project_option_group_allowcreatecollection'	=> 'İzin verilen koleksiyon sayısı',
 	'project_option_group_maxthreadsperhour'	=> 'Saat başına iş parçacığı sınırı',
-					
+
 	'extended'		=> 'Uzantılar',
-					
+
 	'extended_tag'		=> 'İlgili etiketler',
 	'extended_tag_tips'	=> '<li>Forum ileti dizisi etiketleri etkin değil. <a href="'.ADMINSCRIPT.'?action=setting&operation=functions&anchor=tags">Konu etiketlerini etkinleştirmek için burayı tıklayın</a></li>',
 	'extended_tag_on'	=> 'Konu etiketlerini etkinleştir',
@@ -5983,27 +5983,27 @@ $lang = array
 	'extended_tag_order'	=> 'Görüntüleme sırası',
 	'extended_tag_name'	=> 'İsim',
 	'extended_tag_memo'	=> 'Hafıza',
-					
+
 	'tools'			=> 'Aletler',
-					
+
 	'tools_updatecache'		=> 'Önbelleği güncelle',
-	'tools_updatecache_tips'	=> '<li>Site anormal çalıştığında veya veri kurtarma ya da güncellemelerden sonra, site önbelleğini yeniden oluşturmak için bu işlevi kullanabilirsiniz. Önbelleği güncellemek çok fazla sunucu kaynağı gerektirir, bu nedenle bu işlevi üyelerin ziyaretlerinin yoğun olduğu zamanlarda kullanmayın.</li>	
-<li>Veri önbelleği: Site yapılandırmasını ve tüm veri önbelleğini günceller.</li>					
-<li>Şablon önbelleği: Site şablonlarını, stil önbellek dosyalarını günceller. Bir şablonu veya stili değiştirdiğinizde, ancak hemen bir etki görmediğinizde kullanılır.</li>					
-<li>DIY modül önbelleği: DIY bloklarını günceller. Herhangi bir DIY modülünü yüklediğinizde veya değiştirdiğinizde göstermeye zorlamak için kullanın.</li>					
-',				
-					
+	'tools_updatecache_tips'	=> '<li>Site anormal çalıştığında veya veri kurtarma ya da güncellemelerden sonra, site önbelleğini yeniden oluşturmak için bu işlevi kullanabilirsiniz. Önbelleği güncellemek çok fazla sunucu kaynağı gerektirir, bu nedenle bu işlevi üyelerin ziyaretlerinin yoğun olduğu zamanlarda kullanmayın.</li>
+<li>Veri önbelleği: Site yapılandırmasını ve tüm veri önbelleğini günceller.</li>
+<li>Şablon önbelleği: Site şablonlarını, stil önbellek dosyalarını günceller. Bir şablonu veya stili değiştirdiğinizde, ancak hemen bir etki görmediğinizde kullanılır.</li>
+<li>DIY modül önbelleği: DIY bloklarını günceller. Herhangi bir DIY modülünü yüklediğinizde veya değiştirdiğinizde göstermeye zorlamak için kullanın.</li>
+',
+
 	'tools_updatecache_data'	=> 'Veri önbelleği',
 	'tools_updatecache_tpl'		=> 'Şablon önbelleği',
 	'tools_updatecache_blockclass'	=> 'DIY özel stiller önbelleği',
 	'tools_updatecache_waiting'	=> 'Önbellek güncelleniyor, lütfen bekleyin...',
-					
+
 	'fileperms_check_note'		=> 'Ana dosya ve klasörlerin yazma izinlerini kontrol edin. Kontrol etmeye başlamak için aşağıdaki düğmeyi tıklayın.',
 	'fileperms_check_waiting'	=> 'Dosya izinlerini kontrol etme işlemi devam ediyor, lütfen bekleyin...',
 	'fileperms_tips'		=> '<li>Bir kontrolden sonra bazı dosya veya dizinler "Yazılamıyor" (kırmızı) olarak işaretlenirse, lütfen sitenin düzgün çalıştığından emin olmak için özelliklerini (örneğin, 777\'ye ayarlayın) değiştirmek için hemen FTP veya diğer araçları kullanın. işlevler düzgün çalışıyor.</li>',
 	'fileperms_check_ok'		=> 'Tüm dosya ve dizin izinleri doğru.',
 	'fileperms_unwritable'		=> 'yazılamadı',
-					
+
 	'filecheck_start'		=> 'Başlangıç',
 	'filecheck_verifying'		=> 'Dosya kontrolü devam ediyor, lütfen bekleyin...',
 	'filecheck_tips_step1'		=> 'Discuz ile karşılaştırıldığında dosya sağlama toplamı! Resmi yayın dosyaları. Kontrolü başlatmak için aşağıdaki düğmeyi tıklayın.',
@@ -6018,7 +6018,7 @@ $lang = array
 	'filecheck_check_now'		=> 'Şimdi kontrol et',
 	'filecheck_view_list'		=> 'dosya listesini görüntüle',
 	'filecheck_last_homecheck'	=> 'Son kontrol zamanı',
-					
+
 	'hookcheck_start'		=> 'Başlangıç',
 	'hookcheck_verifying'		=> 'Kanca kontrolü devam ediyor, lütfen bekleyin...',
 	'hookcheck_tips_step1'		=> 'Discuz için gömülü kanca kontrolü kullanılır! resmi sürüm dosyaları, {şablonu} doğrulamak için aşağıdaki düğmeyi tıklayın',
@@ -6027,17 +6027,17 @@ $lang = array
 	'hookcheck_delete'		=> 'Kayıp kanca dosyaları',
 	'hookcheck_discuzhook'		=> 'Orijinal Kanca',
 	'hookcheck_delhook'		=> 'Kayıp Kanca',
-					
+
 	'replacekey_tips'		=> '<li>Sitenin güvenliği ihlal edildiğinde bilgisayar korsanlarının bilinen bir AUTHKEY aracılığıyla site kontrolünü ele geçirmesini önlemek için burada anahtar güncellemesi yapmayı düşünmelisiniz.</li><li><font color="blue">Az sayıda eklenti, verileri kaydetmek için site anahtarını kullanır. Anahtar sıfırlandığında, ilgili veriler kaybolur ve kurtarılamaz. Lütfen ödeme yapın dikkat ve veritabanı ile iyi bir iş yapmak ve site dosyalarının Yedekleme güncellemeden önce.</font></li>',
 	'replacekey_tips_step1'		=> 'İşlemden önce, düşük yoğun çalışmayı seçmeniz veya işlemden önce siteyi kapatmanız ve iyi bir veri ve dosya yedekleme işi yapmanız önerilir, değiştirmeyi başlatmak için aşağıdaki düğmeyi tıklayın',
 	'replacekey_tips_step2'		=> 'Anahtar güncellemesi devam ediyor, lütfen bekleyin...',
-					
+
 	'imagepreview_imagesize_source'	=> 'Orijinal resim boyutu',
 	'imagepreview_imagesize_target'	=> 'İşlenmiş Görüntü Boyutu',
-					
+
 	'imagepreview_thumb'		=> 'Küçük resim önizlemesi',
 	'imagepreview_watermark'	=> 'Filigran önizlemesi',
-					
+
 	'dbcheck_verifying'		=> 'Veritabanı sağlama toplamı devam ediyor, lütfen bekleyin...',
 	'dbcheck_tips_step1'		=> 'Bir veritabanı kontrolü başlatmak için aşağıdaki düğmeyi tıklayın.',
 	'dbcheck_tips'			=> '<li>Veritabanı kontrolü yalnızca Discuz\'u kontrol eder! resmi yayın veritabanı yapısı.</li><li>Bu araç yalnızca alanların değiştirilmesini ve eksikliğini kontrol eder ve dizin eksikliğiyle ilgilenmez.</li>',
@@ -6057,7 +6057,7 @@ $lang = array
 	'dbcheck_setting'		=> 'Eksik forum ayarları(sitenin normal çalıştığından emin olmak için lütfen aşağıdaki ayar parametrelerini ekleyin)',
 	'dbcheck_repairtable'		=> 'Tüm alanları onar değiştirildi',
 	'dbcheck_userfields'		=> 'Yeni veri tablosu alanları (aşağıdaki veri tablosu alanları bazı eklentiler tarafından eklenebilir, bunu onaylıyorsanız, bunları yok sayabilirsiniz)',
-					
+
 	'counter'			=> 'İstatistikleri Güncelle',
 	'counter_forum'			=> 'Forum/Grup Gönderilerini Yeniden Say',
 	'counter_digest'		=> 'Özet Gönderilerini Yeniden Say',
@@ -6081,9 +6081,9 @@ $lang = array
 	'counter_forumid'		=> 'Forum Kimliği',
 	'counter_have_cover'		=> 'Mevcut konuların dahil edilmesi',
 	'counter_tips'			=> '<li>Aşağıdaki veriler normal değil. Durumu düzeltmek için verileri güncellemek için bu işlevi kullanabilirsiniz. Lütfen üyelerin erişiminin en yoğun olduğu zamandan kaçınmaya çalışın</li>' .
-				'<li>Her döngüde sayıyı güncelleyin: Değeri makul bir aralıkta ayarlayın. Çok büyük olmamalıdır, Aksi takdirde sunucu yük baskısını artırır</li>',				
-					
-					
+				'<li>Her döngüde sayıyı güncelleyin: Değeri makul bir aralıkta ayarlayın. Çok büyük olmamalıdır, Aksi takdirde sunucu yük baskısını artırır</li>',
+
+
 	'remoderate'		=> 'İçerik denetimi',
 	'remoderate_thread'	=> 'İleti dizilerini ve yanıtları denetleme',
 	'remoderate_blog'	=> 'Orta derecede blog başlığı ve içeriği',
@@ -6096,10 +6096,10 @@ $lang = array
 	'remoderate_topiccomment'	=> 'Orta konu yorumları',
 	'remoderate_amount'		=> 'Döngü başına güncelleme miktarı',
 	'remoderate_processing'		=> '{current} ile {next} arasında işleniyor',
-	'remoderate_tips'		=> '<li>Kelime filtreleme parametrelerinde büyük bir değişiklik olduğunda veya hassas zaman noktalarına yakın olduğunda, geçmiş verileri incelemek için bu işlevi kullanabilirsiniz. Lütfen üye ziyaretlerinin yoğun olduğu saatlerden kaçınmaya çalışın</li>	
-<li>Döngü başına güncelleme sayısı: Lütfen değeri makul bir aralıkta tutun, çok büyük değil, aksi takdirde sunucu üzerinde yük baskısı oluşturacaktır</li>					
-',				
-					
+	'remoderate_tips'		=> '<li>Kelime filtreleme parametrelerinde büyük bir değişiklik olduğunda veya hassas zaman noktalarına yakın olduğunda, geçmiş verileri incelemek için bu işlevi kullanabilirsiniz. Lütfen üye ziyaretlerinin yoğun olduğu saatlerden kaçınmaya çalışın</li>
+<li>Döngü başına güncelleme sayısı: Lütfen değeri makul bir aralıkta tutun, çok büyük değil, aksi takdirde sunucu üzerinde yük baskısı oluşturacaktır</li>
+',
+
 	'db'			=> 'Veri tabanı',
 	'db_export'		=> 'Veri yedekleme',
 	'db_method'		=> 'Yöntem',
@@ -6134,7 +6134,7 @@ $lang = array
 	'db_export_file'		=> 'Yedekleme kayıtları',
 	'db_export_discuz_table'	=> 'Discuz! Veri Tabloları',
 	'db_export_discuz_table_uc'	=> 'Discuz! ve UCenter veri tabloları',
-					
+
 	'db_import'		=> 'Veri kurtarma',
 	'db_import_confirm'	=> 'İçe aktarılan dosya verileri ve mevcut Discuz! Sürüm uyumsuz ve bir arızaya neden olabilir',
 	'db_import_confirm_sql'	=> 'SQL yedeğini almak istediğinizden emin misiniz?',
@@ -6144,7 +6144,7 @@ $lang = array
 	'db_import_from_server'	=> 'Sunucudan (dosya adını veya URL\'yi girin)',
 	'db_import_from_local'	=> 'Yerel dosyadan',
 	'db_import_unzip'	=> 'Sıkıştırılmış',
-					
+
 	'db_runquery'		=> 'Veritabanı sürümünü yükseltin',
 	'db_runquery_tips'	=> '<li>Genel SQL işlemleri için genişletilmiş işlevsellik eklemek için admincp/quickqueries.inc.php dosyasını değiştirebilirsiniz.</li><li>Güvenlik nedeniyle, Discuz! arka planı, varsayılan olarak SQL ifadelerinin doğrudan yürütülmesini yasaklar ve yalnızca ortak SQL içeriklerini kullanabilir.<br />İstediğiniz zaman SQL yükseltme ifadeleri yazmak istiyorsanız, /config_global.php içindeki $_config[admincp][runquery] ayarı 1 olarak değiştirilmiştir.</li>',
 	'db_runquery_sql'		=> 'Discuz! Veritabanı yükseltmesi - Lütfen aşağıdaki veritabanı yükseltme bildirimini yapıştırın',
@@ -6153,7 +6153,7 @@ $lang = array
 	'db_runquery_select'		=> 'Mevcut ifadeler',
 	'db_runquery_simply'		=> 'Ortak SQL güncelleme bildirimi',
 	'db_runquery_createcompatible'	=> 'Dönüştürme Bildirimi biçimini ve karakter kümesini değiştirin',
-					
+
 	'db_optimize_tables'	=> 'Optimize edilecek veri tablolarının listesi',
 	'db_optimize_tips'	=> '<li>Veri tablosunun optimizasyonu, bir veri dosyasındaki birikintileri ve delikleri kaldırabilir, böylece kayıtlar yakın bir şekilde düzenlenerek erişim hızı artırılabilir.</li>',
 	'db_optimize_opt'	=> 'optimize etmek mi?',
@@ -6164,7 +6164,7 @@ $lang = array
 	'db_optimize_frag'	=> 'Parça',
 	'db_optimize_used'	=> 'Boyut',
 	'db_optimize_done'	=> 'Veri tablosu parçalı değildir, optimizasyon gerekmez.',
-					
+
 	'logs'			=> 'Günlük Kayıtları',
 	'logs_lpp'		=> 'Sayfa Başına Satır',
 	'logs_passwd'		=> 'Şifre hatası kayıtları',
@@ -6274,7 +6274,7 @@ $lang = array
 	'logs_lock'			=> 'Kilit',
 	'logs_unlock'			=> 'Kilidini aç',
 	'logs_select_ridtype'		=> 'Lütfen kimlikle ilişkili türü seçin',
-					
+
 	'crime_action'			=> 'Aksiyon',
 	'crime_dateline'		=> 'Çalışma süresi',
 	'crime_reason'			=> 'moderatör sebep',
@@ -6291,14 +6291,14 @@ $lang = array
 	'crime_sightml'			=> 'imzayı kaldır',
 	'crime_customstatus'		=> 'Özel durumu kaldır',
 	'crime_checkrecord'		=> 'İhlal günlüğünü görüntüle',
-					
+
 	'adv'			=> 'reklamlar',
 	'adv_admin'		=> 'Site Reklamcılığı',
 	'adv_admin_setting'	=> 'Ayarlar',
 	'adv_admin_list'	=> 'reklam',
 	'adv_admin_listall'	=> 'tüm ilanlar',
 	'adv_admin_discuzunion'	=> 'Discuz! Birlik',
-					
+
 	'adv_type_version'		=> 'blok tipi',
 	'adv_type_headerbanner'		=> 'Sayfa başlığı banner\'ı',
 	'adv_type_headerbanner_tips'	=> '<li>Görüntüleme modu: Forum sayfasının sağ üst köşesinde görüntülenen, genellikle 468x60 resim veya Flash kullanan sayfa başlığı banner reklamları. Geçerli sayfada birden çok banner varsa sistem göstermek için bunlardan birini rastgele seçer.</li><li>Değer analizi: Reklam içeriği sayfa açılır açılmaz en göz alıcı konumda görüntülenebildiği için fiyatı en yüksek ve ticari kullanıma en uygun reklam türlerinden biri haline gelmiştir. web sayfasında promosyon veya marka tanıtımı.</li>',
@@ -6342,7 +6342,7 @@ $lang = array
 	'adv_customnamenew'		=> 'Lütfen bu özel reklam yeni adını girin:',
 	'adv_list_tip'			=> '<li>"Özel reklam"ı sayfanın herhangi bir yerinde kullanabilirsiniz</li><li>Sistem reklam alanı source/class/adv/ dizininde bulunur ve eklenti reklam alanı source/plugin/plugin dizini/adv/ dizininde bulunur.</li><li>Eklenti geliştiricileri <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Documentation</a>"ı dikkatlice okumalıdır.</li>',
 	'adv_custom_target'		=> 'Özel adv hedef aralığı. Site kökünden (uzantı olmadan) dosya adını girin, birden çok dosyayı virgülle ayırın',
-					
+
 	'adv_edit'			=> 'Reklamı Düzenle',
 	'adv_add'			=> 'İlan Ekle',
 	'adv_list'			=> 'İlan Listesi',
@@ -6414,7 +6414,7 @@ $lang = array
 	'adv_setting_advexpiration_method_notice'	=> 'Bildirim yöntemi',
 	'adv_setting_advexpiration_users'		=> 'alıcıyı bilgilendir',
 	'adv_setting_advexpiration_users_comment'	=> 'Reklamlar için yöneticiler uyarı alacak, kullanıcı adlarını her satıra bir ad gelecek şekilde girin',
-					
+
 	'runwizard_small'		=> 'Küçük',
 	'runwizard_midding'		=> 'Orta',
 	'runwizard_big'			=> 'Büyük',
@@ -6440,7 +6440,7 @@ $lang = array
 	'runwizard_hobby_concision'	=> 'Kompakt (sistem kaynaklarının tüketimini gerektiren bazı özellikleri devre dışı bırakın, eğlence özellikleri, verimlilik arayışı tercih edilen forum)',
 	'runwizard_hobby_commonly'	=> 'Genel (forumun, genel forumun günlük ihtiyaçlarını karşılayabilecek standardı belirlemesi gerekir, verimlilik ve işlev daha dengelidir)',
 	'runwizard_hobby_abundance'	=> 'Zengin (tüm site özelliklerini etkinleştirin, forum üyelerinin ilk iki modelden daha iyi bir kullanıcı deneyimi yaşamasına izin verin. Sunucu kaynaklarını biraz daha fazla tüketir)',
-					
+
 	'runwizard_size_0'		=> 'Küçük',
 	'runwizard_size_1'		=> 'Orta',
 	'runwizard_size_2'		=> 'Büyük',
@@ -6457,13 +6457,13 @@ $lang = array
 	'runwizard_succeed'		=> 'Tebrikler, kuruldu! Ardından, aşağıdaki gibi ilerleyebilirsiniz:',
 	'runwizard_particular'		=> 'Ayrıntılı Ayarlar',
 	'runwizard_database_backup'	=> 'Verilerinizi düzenli olarak yedeklemenizi öneririz:',
-					
+
 	'upgrade_tips'		=> '<li><font color="red">Çevrimiçi yükseltme, programı ve veritabanını yedeklediğinizden emin olun</font></li>',
-					
-					
+
+
 	'cplog_home'		=> 'Yönetici Merkezi Ana Sayfası',
 	'cplog_runwizard'	=> 'Hızlı Kurulum Sihirbazı',
-					
+
 	'cplog_setting_basic'		=> 'Temel Ayarlar',
 	'cplog_setting_access'		=> 'Kayıt ve erişim kontrolü',
 	'cplog_setting_styles'		=> 'Stil ayarları',
@@ -6480,18 +6480,18 @@ $lang = array
 	'cplog_setting_imgwater'	=> 'Filigran',
 	'cplog_setting_wap'		=> 'WAP ayarları',
 	'cplog_setting_uc'		=> 'UCenter ayarları',
-					
+
 	'cplog_forums'			=> 'Forum Yönetimi',
 	'cplog_forums_merge'		=> 'Forumlar birleşiyor',
 	'cplog_forums_edit'		=> 'Forumu Düzenle',
 	'cplog_forums_delete'		=> 'Forumu Kaldır',
 	'cplog_forums_moderators'	=> 'Moderatörü Değiştir',
 	'cplog_forums_copy'		=> 'Forum ayarlarını kopyala',
-					
+
 	'cplog_threadtypes'		=> 'Konu türleri',
 	'cplog_threadtypes_type'	=> 'İplik türleri bilgisi',
 	'cplog_threadtypes_option'	=> 'Seçenekler türleri',
-					
+
 	'cplog_members'		=> 'kullanıcıyı düzenle',
 	'cplog_members_add'	=> 'Kullanıcı Ekle',
 	'cplog_members_ban'	=> 'Kullanıcıyı yasakla',
@@ -6506,27 +6506,27 @@ $lang = array
 	'cplog_members_confermedal'	=> 'madalya verildi',
 	'cplog_members_reward'		=> 'Ödül puanları',
 	'cplog_members_clean'		=> 'Temizlenecek kullanıcılar',
-					
+
 	'cplog_moderate_members_mod'	=> 'Yeni Kullanıcıları Denetle',
 	'cplog_moderate_members_del'	=> 'Temizlik için bekleyen üyeleri doğrulayın',
 	'cplog_moderate_threads'	=> 'Yeni Konuları Doğrula',
 	'cplog_moderate_replies'	=> 'Yeni Yanıtları Doğrula',
 	'cplog_recyclebin'		=> 'Orta Düzeyde Geri Dönüşüm Kutusu',
 	'cplog_recyclebinpost'		=> 'Geri Dönüşüm Sonrası Kutusu',
-					
+
 	'cplog_usergroups'	=> 'Kullanıcı Grubu işlemi',
 	'cplog_admingroups'	=> 'Yönetim Grubu operasyonları',
-					
+
 	'cplog_styles'		=> 'Stil Yönetimi',
 	'cplog_templates'	=> 'Şablon Yönetimi',
 	'cplog_templates_add'	=> 'Şablon Ekle',
 	'cplog_templates_edit'	=> 'Şablonu düzenle',
 	'cplog_templates_copy'	=> 'Şablonu kopyala',
-					
+
 	'cplog_announce'	=> 'Site Duyuruları',
 	'cplog_announce_add'	=> 'duyuru ekle',
 	'cplog_announce_edit'	=> 'duyuruyu düzenle',
-					
+
 	'cplog_misc_link'	=> 'Bağlantılar',
 	'cplog_misc_onlinelist'	=> 'Çevrimiçi Liste simgeleri',
 	'cplog_misc_censor'	=> 'Kötü Kelime Filtresi',
@@ -6538,7 +6538,7 @@ $lang = array
 	'cplog_smilies'		=> 'Gülümseme yönetimi',
 	'cplog_faq_list'	=> 'SSS',
 	'cplog_faq_detail'	=> 'Forum Yardımı',
-					
+
 	'cplog_plugins_list'	=> 'Eklenti listesi',
 	'cplog_plugins_export'	=> 'Eklentiyi dışa aktar',
 	'cplog_plugins_import'	=> 'Eklentiyi dışa aktar',
@@ -6553,21 +6553,21 @@ $lang = array
 	'cplog_magics_edit'	=> 'Büyüyü Düzenle',
 	'cplog_magics_market'	=> 'Sihirli Pazar',
 	'cplog_tasks'		=> 'Görevler',
-					
+
 	'cplog_ecommerce_alipay'	=> 'Alipay ayarları',
 	'cplog_ecommerce_tenpay'	=> 'Tenpay ayarları',
 	'cplog_ecommerce_orders'	=> 'Emirler',
 	'cplog_setting_ec'		=> 'E-Ticaret ayarları',
 	'cplog_ecommerce_ec_credit'	=> 'Puan Derecelendirme Sistemi',
 	'cplog_tradelog'		=> 'E-ticaret günlükleri',
-					
+
 	'cplog_database_export'		=> 'Veri yedekleme',
 	'cplog_database_import'		=> 'Veri kurtarma',
 	'cplog_database_importzip'	=> 'Zip\'ten kurtarma',
 	'cplog_database_runquery'	=> 'Veritabanı sürümünü yükseltin',
 	'cplog_database_optimize'	=> 'Veri tablosu Optimizasyonu',
 	'cplog_database_dbcheck'	=> 'Veritabanı sağlama toplamı',
-					
+
 	'cplog_attach'		=> 'Eki düzenle',
 	'cplog_counter'		=> 'Forum İstatistiklerini Güncelle',
 	'cplog_threads'		=> 'Toplu Konu Yönetimi',
@@ -6576,7 +6576,7 @@ $lang = array
 	'cplog_project'		=> 'Site Programı Şeması',
 	'cplog_project_add'	=> 'Bir site programı ekleyin',
 	'cplog_project_apply'	=> 'Site programını uygula',
-					
+
 	'cplog_logs_illegal'	=> 'Şifre hatası kayıtları',
 	'cplog_logs_rate'	=> 'Kullanıcı derecelendirme kayıtları',
 	'cplog_logs_credits'	=> 'Kredi işlemleri',
@@ -6587,26 +6587,26 @@ $lang = array
 	'cplog_logs_magic'	=> 'Büyü ile ilgili kayıtlar',
 	'cplog_logs_invite'	=> 'Davetli kayıt kayıtları',
 	'cplog_logs_error'	=> 'Sistem Hatası Kayıtları',
-					
+
 	'cplog_tools_updatecache'	=> 'Önbelleği güncelle',
 	'cplog_tools_relatedtag'	=> 'İlgili etiketler',
 	'cplog_tools_fileperms'		=> 'Dosya izinlerini kontrol edin',
-					
+
 	'cplog_checktools_hookcheck'	=> 'Kontrol Kancaları',
 	'cplog_checktools_filecheck'	=> 'Dosya Sağlama Toplamı',
 	'cplog_checktools_ftpcheck'	=> 'Uzak ek ayarlarını test edin',
 	'cplog_checktools_mailcheck'	=> 'Posta testi gönder',
 	'cplog_checktools_imagepreview'	=> 'Ek resmi önizleme ayarları',
-					
+
 	'cplog_advertisements'		=> 'Site Reklamcılığı',
 	'cplog_advertisements_advadd'	=> 'İlan Ekle',
 	'cplog_advertisements_advedit'	=> 'Reklamı Düzenle',
-					
+
 	'cplog_upgrade'		=> 'Güncellemeler',
 	'cplog_upgradedown'	=> 'Güncellemeler',
 	'cplog_upgradeopenbbs'	=> 'Güncellemeler',
 	'cplog_logout'		=> 'CP\'den çık',
-					
+
 	'article'		=> 'Makale Yönetimi',
 	'article_id'		=> 'Makale kimliği',
 	'article_add'		=> 'makale ekle',
@@ -6632,7 +6632,7 @@ $lang = array
 	'article_tag_setting'	=> 'Etiketlerin görünen adını ayarla',
 	'article_clear_trash'	=> 'Geri Dönüşüm Kutusunu Temizle',
 	'article_clear_trash_confirm'	=> 'Geri Dönüşüm Kutusunu temizlemek istediğinizden emin misiniz?',
-					
+
 	'diytemplate'		=> 'DIY Sayfa Yönetimi',
 	'diytemplate_perm_tips'	=> '<li>Burada, tüm Kendin Yap modüllerini eklemek için bu sayfanın rolüne ilişkin kullanıcı izinlerini ayarlayabilirsiniz (sayfanın bulunduğu yer dışında, modül izinleri devralmaz).</li><li>Modülün sayfa izinlerini ve tek bir modül Set in "Modül Yönetimi" => "Yönetim İzinleri"</li><li>içinde ayarlanır. 1. İzinler küçükten büyüğe değişir (modülün izinleri sayfanınkinden daha fazladır); 2. İzinler "Yönetime izin ver", hem modül özelliklerini hem de modül verilerini yönetebilir;<br />3. "Push\'a izin verilir" ve "Push\'un gözden geçirilmesi gerekiyor" izni, modül verilerini yönetebilir;<br />4. "Push\'a izin verilir" ve "Push\'ın gözden geçirilmesi gerekiyor" izni modül verilerini aktarabilir ancak yönetemez</li>',
 	'diytemplate_name'		=> 'Sayfa ismi',
@@ -6659,7 +6659,7 @@ $lang = array
 	'diytemplate_permname'		=> 'Kullanıcı adı',
 	'diytemplate_permname_tips'	=> 'Bu kullanıcı adı blokları yönetebilir',
 	'diytemplate_the_username_has_not_template'	=> 'Yönetim sayfası yok, lütfen geri dönün',
-					
+
 	'portalcategory_article_perm_tips'	=> '<li>Kullanıcı grubunun &quot;Yetkili yönetim makalesine izin ver&quot; izinler</li><li> Yalnızca kullanıcı adını ekleyin, bu kullanıcının yayın yapabileceğini anlamak için herhangi bir izin seçmeyin /ana kanal sütununu yönet, ancak bu kanal sütununu yayınlamasına/yönetmesine izin verilmiyor (bu kanal sütununun üst kanal yetkisini devralması gerekiyor ve kullanıcı adı üst kanal yetkisine dahil ediliyor)</li><li>Yetki değerlendirme kuralları: küçükten büyüğe (alt kanal sütununun yetkisi, üst kanal bölümü izinlerinden daha fazladır)</li>',
 	'portalcategory_catname'		=> 'Kategori adı',
 	'portalcategory_domain'			=> 'İhtisas',
@@ -6684,7 +6684,7 @@ $lang = array
 	'portalcategory_foldername_comment'	=> 'Bu kategori, klasör adını doğrudan site kök dizini altında oluşturur (Yalnızca harfler, sayılar, alt çizgiler).<br />Site kök dizininin yazma izni olmasını gerektirir.<br />Boş olarak ayarlanırsa, oluşturulan dizin silinir.',
 	'portalcategory_summary'		=> 'Meta Açıklaması',
 	'portalcategory_summary_comment'	=> 'Bu, açıklama meta etiketine yerleştirilen arama motoru optimizasyonu içeriğinin açıklamasıdır.',
-					
+
 	'portalcategory_keyword'		=> 'Anahtar Kelimeler',
 	'portalcategory_keyword_comment'	=> 'Anahtar kelime meta etiketinde arama motoru optimizasyonu için anahtar kelimeler. Birden çok anahtar kelimeyi virgül &quot;,&quot; ile ayırın.',
 	'portalcategory_seotitle'		=> 'Başlık',
@@ -6751,13 +6751,13 @@ $lang = array
 	'diy_template_extension_invalid'	=> 'Şablon dosya uzantısı doğru değil',
 	'diy_template_noexist'			=> 'Şablon dosyası mevcut değil',
 	'diy_sign_invalid'			=> 'DIY şablonu veri doğrulama hatası',
-					
+
 	'portalpermission'		=> 'portal izinleri',
 	'portalpermission_article'	=> 'Makale izinleri',
 	'portalpermission_template'	=> 'Sayfa düzeni izinleri',
 	'portalpermission_block'	=> 'Engelleme izni',
 	'portalpermission_no_inherited'	=> 'İzinler devralınmaz',
-					
+
 	'blogcategory'			=> 'Blog Kategorileri',
 	'blogcategory_addcategory'	=> 'Kategori ekle',
 	'blogcategory_addsubcategory'	=> 'alt kategori ekle',
@@ -6769,7 +6769,7 @@ $lang = array
 	'blogcategory_subcategory_moveto_parent'	=> 'Üst kategoriye taşı',
 	'blogcategory_article_moveto'		=> 'Makaleleri kategoriye taşı',
 	'blogcategory_blog_moveto'		=> 'Blogları Kategoriye Taşı',
-					
+
 	'albumcategory'				=> 'Albüm Kategorileri',
 	'albumcategory_addcategory'		=> 'Kategori ekle',
 	'albumcategory_addsubcategory'		=> 'alt kategori ekle',
@@ -6780,10 +6780,10 @@ $lang = array
 	'albumcategory_subcategory_moveto_trash'	=> 'Çöp kutusuna taşıyın',
 	'albumcategory_subcategory_moveto_parent'	=> 'Üst kategoriye taşı',
 	'albumcategory_article_moveto'		=> 'Albümleri kategoriye taşı',
-					
+
 	'system_category_stat'		=> 'Sistem kategorilerini etkinleştir',
 	'system_category_required'	=> 'Gerekli Sistem Kategorileri',
-					
+
 	'blockstyle'		=> 'Blok Stilleri',
 	'blockstyle_add'	=> 'stil ekle',
 	'blockstyle_add_tips'	=> '<li>Modüldeki verileri bir döngüde görüntülemek için [loop]...[/loop] etiketini kullanabilirsiniz; şablonda birden çok yerde döngü yapmak istiyorsanız, genişletmek için [loop1]...[/loop1] kullanabilirsiniz (yalnızca 1-9 arasında genişletilebilir)</li><li>Varsayılan konumdaki N\'inci konum verilerinin görüntüsünü değiştirmek için [order=N]...[/order] etiketini kullanabilirsiniz. döngü, genişletmek için [order1= N]...[/order1] kullanabilirsiniz ([loop1]\'e karşılık gelir)</li><li>Belirtmek için [index=N]...[/index] kullanabilirsiniz N\'inci veri Görüntüleme modunda, bu sözdizimi tarafından belirtilen veriler artık döngü döngüsünde görünmez ve aynı verilerin birden çok görüntüsünü elde etmek için [index1]...[/index1] (yalnızca 1-9) ile genişletilebilir</li><li>Açılış yöntemini belirtebilen küçük resimler/bağlantılar oluşturabilen ve modülü oluştururken küçük resim boyutunu/bağlantı açma yöntemini belirtebilen resim etiketlerini kullanabilirsiniz</li><li>Bazı modüller (Statik gibi) modülü) içeriği veri kaynağı tarafından oluşturulur, karşılık gelen şablon gerekmez</li><li>Alan öğeleri (örneğin: {title}) yalnızca [loop], [order], [index] etiketleri içinde etkili olur</li>',
@@ -6814,7 +6814,7 @@ $lang = array
 	'blockstyle_add_currentorder'	=> 'Geçerli veri sırası',
 	'blockstyle_add_moreurl'	=> 'Daha fazla bağlantı',
 	'blockstyle_add_parity'		=> 'Tek satırlardaki güncel veriler',
-					
+
 	'blockxml'			=> 'Üçüncü taraf blokları',
 	'blockxml_tips'			=> '<li>Eklenti geliştiricileri, yeni bir üçüncü taraf bloğu tasarlamadan önce <a href="https://open.dismall.com/?!devdoc" target="_blank">Discuz! Teknik Dokümantasyon</a>.</li>',
 	'blockxml_list'			=> 'Üçüncü taraf bloklarının listesi',
@@ -6841,7 +6841,7 @@ $lang = array
 	'CLIENT_NOT_EXISTS'		=> 'İstemci mevcut değil',
 	'SIGN_ERROR'			=> 'İmza Veri hatası',
 	'NO_OPERATION'			=> 'tanımsız işlem',
-					
+
 	'block'			=> 'Blok Yönetimi',
 	'block_id'		=> 'Blok Kimliği',
 	'block_list'		=> 'Blok Listesi',
@@ -6886,7 +6886,7 @@ $lang = array
 	'block_perm_tips'		=> '<li>Bu blokta izin ayarları sayfasının çalışmadığı sayfa, izinleri devralmayı seçmeyin.</li><li>Sadece kullanıcı adını ekleyin ve eğer herhangi bir izin seçmezsiniz bu kullanıcı sayfadaki diğer modülleri yönetebilir ama bu modül yönetilemez (bu modül bulunduğu sayfanın yetkisini devralmak zorundadır ve kullanıcı adı yetkiye dahildir) bulunduğu sayfa)</li><li>1. Yetki küçükten büyüğe doğrudur (modülün yetkisi sayfanın yetkisinden fazladır);<br />2. "Yönetime izin ver" izni, modül özniteliklerini yönetebilir ve modül verileri;<br />3. İzin "Push\'a izin ver" ve "Push\'un incelemeye ihtiyacı var" değil, modül verilerini yönetebilir;<br />4. "Push\'a izin verilir" ve "Push\'un denetlenmesi gerekiyor" izinleri, Push yapabilirsiniz ama yapamazsınız modül verilerini yönet</li>',
 	'block_not_exists'		=> 'Belirtilen blok mevcut değil',
 	'block_perm_inherited'		=> 'miras alınan',
-					
+
 	'topic'			=> 'Konu Yönetimi',
 	'topic_id'		=> 'Konu Kimliği',
 	'topic_list'		=> 'konu listesi',
@@ -6926,11 +6926,11 @@ $lang = array
 	'group_level_special_allowclose'	=> 'Kurucunun grubu kapatmasına izin ver',
 	'group_level_special_allowthreadtype'	=> 'İş parçacığı türünü ayarlamaya izin ver',
 	'group_level_special_membermax'		=> 'Maksimum grup üyesi sayısı',
-					
+
 	'group_userperm_moderator'	=> 'Grup moderatörü',
 	'group_userperm_upload_banner'	=> 'Grup üst resmi',
 	'group_userperm_others'		=> 'Diğer haklar',
-					
+
 	'postsplit'		=> 'Gönderileri Böl',
 	'postsplit_name'	=> 'Tablo kimliği',
 	'postsplit_select'	=> 'Bölünecek ipliği seçin',
@@ -6968,7 +6968,7 @@ $lang = array
 	'postsplit_move_threads_per_time_500'	=> '500 (önerilen seçenek)',
 	'postsplit_move_threads_per_time_1000'	=> '1000 (özel sunucular için önerilir, işlem hızını artırabilir)',
 	'postsplit_manage_submit'		=> 'Tablo işlemini onaylayın',
-					
+
 	'optimizer_security_tips'	=> '<li>Fiziksel muayene, site sorunlarını keşfetmenize ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir.</li><li>Ayar öğelerinin güvenlik denetimi</li><li>Eklenti güvenlik yükleme ve güncelleme denetimi</li>',
 	'optimizer_serversec_tips'	=> '<li>Fiziksel muayene, web sitesinin altında yatan sorunları bulmanıza ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir</li>',
 	'optimizer_performance_tips'	=> '<li>Fiziksel muayene, web sitesi performans sorunlarını bulmanıza ve web sitesi performansını artırmanıza yardımcı olabilir</li>',
@@ -7012,11 +7012,11 @@ $lang = array
 	'optimizer_check_unit_optimizer_remote'		=> 'Uzaktan aramaların etkin olup olmadığını kontrol edin',
 	'optimizer_check_unit_optimizer_dos8p3'		=> 'DOS 8.3 dosya adı desteğinin etkin olup olmadığını kontrol edin',
 	'optimizer_check_unit_optimizer_httphost'	=> 'Boş HOST erişiminin etkinleştirilip etkinleştirilmediğini kontrol edin',
-					
+
 	'domain_topic'			=> 'Konular',
 	'domain_home'			=> 'Kişisel alan',
 	'domain_forum'			=> 'Forum',
-					
+
 	'threadsplit'			=> 'İplik Tabloları',
 	'threadsplit_manage'		=> 'Alt Tablo Yönetimi',
 	'threadsplit_manage_tips'	=> '<li>Konu tablosu, konu başlığı, oluşturma zamanı ve diğer bilgiler dahil olmak üzere foruma ve mesaj dizilerine (forum_thread) katılmak içindir, ancak konu içeriğini ve yanıtları içermez. Birden fazla veri tabloya işaret edebilir.</li><li>Yeni bir konu arşivi oluşturduktan sonra, belirli konuları arşive taşımak için konu taşıma özelliğini kullanabilirsiniz.</li><li>Arşiv tablosunda konuya gidilerek, konunun bulunduğu bölümün altında bir arşiv alanı (adı özelleştirilebilir) oluşturulacak ve arşiv tablosundaki konular arşiv üzerinden gezilebilecektir. alan.</li><li>Arşiv tablosundaki konular sadece göz atmak içindir ve cevaplanamaz, derecelendirilemez veya yönetilemez, ancak silinebilir ve arşiv dışı alana taşınabilir.</li>',
@@ -7039,7 +7039,7 @@ $lang = array
 	'threadsplit_manage_forum_update'	=> 'Forum Arşivini Güncelle',
 	'threadsplit_move_threads_per_time'	=> 'Zaman başına taşınacak iş parçacığı sayısı',
 	'threadsplit_move_threads_per_time_comment'	=> '1000\'den fazla tavsiye edilmez',
-					
+
 	'membersplit'			=> 'Kullanıcı tablosunu optimize et',
 	'membersplit_check'		=> 'Şimdi kontrol et',
 	'membersplit_lasttime_check'	=> 'Son kontrol',
@@ -7055,24 +7055,24 @@ $lang = array
 	'membersplit_message10'		=> 'Kullanıcı tablosunu optimize etmek için önerilir',
 	'membersplit_message100'	=> 'Kullanıcı tablosunu optimize etmek için şiddetle tavsiye edilir',
 	'membersplit_archive'		=> 'Şimdi optimize Et',
-					
+
 	'category_channel'		=> 'Temel ayarlar',
 	'category_channel_config'	=> 'Temel ayarlar',
 	'category_channel_open'		=> 'Açık',
 	'category_channel_title'	=> 'Başlık',
 	'category_channel_identifier'	=> 'tanımlayıcı',
 	'category_channel_identifier_comment'	=> 'Benzersiz modül tanımlayıcısını değiştirin. Gerekli değilse değişiklik yapmayın.',
-					
+
 	'category_option'	=> 'Seçenekler Yönetimi',
 	'category_sort'		=> 'Kategori yönetimi',
 	'category_area'		=> 'Bölge Yönetimi',
 	'category_counter'	=> 'İstatistiksel veri',
-					
+
 	'setting_manyou'	=> 'Manyou Ayarları',
-	'setting_manyou_tips'	=> '<li>Uygulama platformu açıldıktan sonra, Kullanıcılar sunucuda çeşitli uygulamalar seçebilirler (Happy farm, Happy manor, Texas hold-em, GloryhHospital, vb... gibi).</li>	
-<li>Uygulama arama özelliği etkinse, kullanıcılar uygulamalarda arama işlevini kullanabilirg.</li>					
-<li>Site adresini, site adını ve diğer bilgileri değiştirirseniz, göndermek için lütfen "Uygulama Platformu bilgilerini senkronize et" seçeneğini seçin.</li>					
-<li>Tarafından sağlanan uygulama özellikleri <a target="_blank" href="http://www.manyou.com/www/">MYOP Open platform</a>, Manyou Open Platform (MYOP) is a Service of Comsenz Company that provide an open application development platform <a href="http://wiki.developer.manyou.com/wiki/index.php?title=MYOP%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE&printable=yes" target="_blank">Please read MYOP Website Services Agreement</a></li>',				
+	'setting_manyou_tips'	=> '<li>Uygulama platformu açıldıktan sonra, Kullanıcılar sunucuda çeşitli uygulamalar seçebilirler (Happy farm, Happy manor, Texas hold-em, GloryhHospital, vb... gibi).</li>
+<li>Uygulama arama özelliği etkinse, kullanıcılar uygulamalarda arama işlevini kullanabilirg.</li>
+<li>Site adresini, site adını ve diğer bilgileri değiştirirseniz, göndermek için lütfen "Uygulama Platformu bilgilerini senkronize et" seçeneğini seçin.</li>
+<li>Tarafından sağlanan uygulama özellikleri <a target="_blank" href="http://www.manyou.com/www/">MYOP Open platform</a>, Manyou Open Platform (MYOP) is a Service of Comsenz Company that provide an open application development platform <a href="http://wiki.developer.manyou.com/wiki/index.php?title=MYOP%E7%BD%91%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE&printable=yes" target="_blank">Please read MYOP Website Services Agreement</a></li>',
 	'setting_manyou_base'			=> 'Temel Ayarlar',
 	'setting_manyou_base_status'		=> 'Uygulama platformunu etkinleştir',
 	'setting_manyou_base_status_comment'	=> 'Uygulamaların etkinleştirilip etkinleştirilmeyeceğini seçin. Uygulamaları kapatırsanız, kullanıcılarınız bu platforma dayalı hiçbir uygulamayı kullanmayacaktır.',
@@ -7092,7 +7092,7 @@ $lang = array
 	'setting_manyou_base_showgift_comment'	=> 'MYOP platformunda uygulama hediyelerini etkinleştirirseniz, sayfada "Önerilen hediyeler" görüntülenir.',
 	'setting_manyou_manage'			=> 'Uygulama Platformu Yönetimi',
 	'setting_manyou_search_manage'		=> 'Uygulama Arama Yönetimi',
-					
+
 	'connect_menu_setting'		=> 'Temel Ayarlar',
 	'connect_setting_allow'		=> 'Kayıt/Giriş Hizmeti için QQ bağlamaya izin ver',
 	'connect_setting_allow_comment'	=> 'QQ bağlama etkinleştirildiyse, bir kullanıcı siteye QQ hesabıyla giriş yapabilir ve QQ ile ilgili bazı işlemleri daha yapabilir',
@@ -7105,14 +7105,14 @@ $lang = array
 	'connect_member_bindlog_type_2'	=> 'çöz',
 	'connect_member_bindlog_uin'	=> 'QQ hesabı bağlama günlüğü',
 	'connect_member_bindlog_uid'	=> 'Kullanıcı hesabı bağlama günlüğü',
-					
+
 	'custommenu_edit_succeed'	=> 'Özel menü başarıyla güncellendi',
 	'custommenu_add'		=> 'Özel menü işlemi ekle',
 	'custommenu_addto'		=> 'Ana menüye ekle',
-					
+
 	'import_data_invalid'		=> 'Veriler tanımlanamıyor, lütfen geri gönderin',
 	'import_data_typeinvalid'	=> 'Veri türü hatası, lütfen geri gönderin',
-					
+
 	'cloudaddons_ftp_setting'	=> 'Site FTP ayarları',
 	'cloudaddons_unwriteabledirs'	=> '{basedir} dizini altındaki aşağıdaki dizinler yazılabilir değil, Bu uygulama çevrimiçi yüklenemez, Lütfen siteyi doldurun FTP bağlantı parametreleri (Bu ayar kaydedilmeyecek):<br />{unwriteabledirs}',
 	'cloudaddons_plugin_link'	=> 'Daha fazla eklenti edinin',
@@ -7121,67 +7121,67 @@ $lang = array
 	'plugins_validator_nowupgrade'	=> 'Aşağıdaki eklentiler artık yeni sürüme güncellenebilir, güncellemeleri yüklemek için tıklayın',
 	'plugins_validator_newversion'	=> 'Aşağıdaki eklentilerin yeni sürümleri var, güncellemeleri yüklemek için tıklayın',
 	'plugins_validator_error'	=> 'Aşağıdaki eklentiler orijinal eklentiler değildir, orijinal eklentileri yüklemek için tıklayın',
-					
-					
-	'rewrite_message'		=> '<h1>Apache Web Sunucusu (bağımsız ana bilgisayar kullanılır)</h1>	
-<pre class="colorbox">					
-&lt;IfModule mod_rewrite.c&gt;					
-	RewriteEngine On					
-{apache1}					
-&lt;/IfModule&gt;					
-</pre>					
-					
-<h1>Apache Web Server (Virtual Host used)</h1>					
-<pre class="colorbox">					
-# Enable RewriteEngine module					
-RewriteEngine On					
-					
-# Modify the following statement for real discuz directory at your server. # For example, www.discuz.net/bbs/, the corresponding is RewriteBase /bbs/, if the program is placed in the root directory, use RewriteBase /					
-RewriteBase {siteroot}					
-					
-# Rewrite rules, do not modify the system					
-{apache2}					
-</pre>					
-					
-<h1>Nginx Web Server</h1>					
-<pre class="colorbox">					
-{nginx}					
-</pre>					
-					
-<h1>IIS Web Server (independent host user)</h1>					
-<pre class="colorbox">					
-[ISAPI_Rewrite]					
-					
-# 3600 = 1 hour					
-CacheClockRate 3600					
-					
-RepeatLimit 32					
-					
-# Protect httpd.ini and httpd.parse.errors files					
-# from accessing through HTTP					
-{iis}					
-</pre>					
-					
-<h1>IIS7 Web Server (For Independent host)</h1>					
-<pre class="colorbox">					
-&lt;rewrite&gt;					
-	&lt;rules&gt;					
-{iis7}					
-	&lt;/rules&gt;					
-&lt;/rewrite&gt;					
-</pre>					
-					
-<h1>Lighttpd Web Server</h1>					
-<pre class="colorbox">					
-url.rewrite-once = (					
-{lighttpd})					
-</pre>					
-					
-<h1>Caddy Web Server</h1>					
-<pre class="colorbox">					
-{caddy}					
-</pre>',				
-					
+
+
+	'rewrite_message'		=> '<h1>Apache Web Sunucusu (bağımsız ana bilgisayar kullanılır)</h1>
+<pre class="colorbox">
+&lt;IfModule mod_rewrite.c&gt;
+	RewriteEngine On
+{apache1}
+&lt;/IfModule&gt;
+</pre>
+
+<h1>Apache Web Server (Virtual Host used)</h1>
+<pre class="colorbox">
+# Enable RewriteEngine module
+RewriteEngine On
+
+# Modify the following statement for real discuz directory at your server. # For example, www.discuz.net/bbs/, the corresponding is RewriteBase /bbs/, if the program is placed in the root directory, use RewriteBase /
+RewriteBase {siteroot}
+
+# Rewrite rules, do not modify the system
+{apache2}
+</pre>
+
+<h1>Nginx Web Server</h1>
+<pre class="colorbox">
+{nginx}
+</pre>
+
+<h1>IIS Web Server (independent host user)</h1>
+<pre class="colorbox">
+[ISAPI_Rewrite]
+
+# 3600 = 1 hour
+CacheClockRate 3600
+
+RepeatLimit 32
+
+# Protect httpd.ini and httpd.parse.errors files
+# from accessing through HTTP
+{iis}
+</pre>
+
+<h1>IIS7 Web Server (For Independent host)</h1>
+<pre class="colorbox">
+&lt;rewrite&gt;
+	&lt;rules&gt;
+{iis7}
+	&lt;/rules&gt;
+&lt;/rewrite&gt;
+</pre>
+
+<h1>Lighttpd Web Server</h1>
+<pre class="colorbox">
+url.rewrite-once = (
+{lighttpd})
+</pre>
+
+<h1>Caddy Web Server</h1>
+<pre class="colorbox">
+{caddy}
+</pre>',
+
 	'detect_environment'	=> 'İşletim ortamını algıla',
 	'version_tips'		=> 'Bu sürüm hakkında sıcak ipuçları',
 	'version_tips_msg'	=> 'Discuz\'u seçtiğiniz için teşekkür ederiz! {version}, bu sürümle ilgili güncellemeler için <a href="https://gitee.com/Discuz/DiscuzX/releases" target="_blank"><strong>sürüm notlarını</strong></a> görüntüleyebilirsiniz . Bir <a href="{ADMINSCRIPT}?action=optimizer&operation=security"><strong>güvenlik kontrolü</strong></a> ve <a href="{ADMINSCRIPT}?action=optimizer&operation=serversec gerçekleştirmenizi öneririz. "<strong>Sitenizi olabildiğince güvenli tutmak için düşük düzeyli güvenlik kontrolleri</strong></a>. <a href="{ADMINSCRIPT}?action=index&closesitereleasetips=1"><strong>Biliyorum</strong></a>',
@@ -7218,7 +7218,7 @@ url.rewrite-once = (
 //Change Language
 	'change_language'	=> 'Dili değiştir',
 	'change_style'		=> 'Stili değiştir',
-					
+
 	'language'			=> 'Diller',
 	'setting_language'		=> 'Dil ayarları',
 	'setting_language_tips'		=> '<li>Dil paketlerinizi ekleyin/değiştirin</li>',
@@ -7230,9 +7230,9 @@ url.rewrite-once = (
 	'setting_language_title'	=> 'Başlık (İngilizce!)',
 	'setting_language_dir'		=> 'Yön',
 	'setting_language_actions'	=> 'Hareketler',
-					
+
 	'nav_language'			=> 'Diller',
-					
+
 );
 
 //------------------------------------------------------
@@ -7244,7 +7244,7 @@ if(file_exists($adminextendfile = DISCUZ_ROOT.'./data/sysdata/cache_adminextend.
 	foreach($adminextend as $extend) {
 		$extend_lang = array();
 		@include DISCUZ_ROOT.'./source/language/lang_admincp_'.$extend;
-/*vot*/	@include DISCUZ_ROOT.'./source/language/tr/lang_admincp_'.$extend;
+/*vot*/		@include DISCUZ_ROOT.'./source/language/tr/lang_admincp_'.$extend;
 		$lang = array_merge($lang, $extend_lang);
 	}
 }

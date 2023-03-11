@@ -20,7 +20,7 @@ $lang = array
 	4	=> 'Site',
 
 	100	=> 'Diğer',
-	127	=> 'Plugins',// '插件',
+	127	=> 'Eklentiler',// '插件',
 
 );
 

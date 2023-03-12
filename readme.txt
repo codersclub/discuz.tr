@@ -25,3 +25,10 @@ Branches:
 Discuz!ML v3.4 - https://github.com/codersclub/Discuz.ML/tree/v3.4ML
 
 Discuz!ML v3.5 - https://github.com/codersclub/Discuz.ML/tree/v3.5ML
+
+
+We invite everyone interested to improve the Turkish translation.
+Submit your translations, improve existing translations
+and submit your changes as Pull Requests!
+
+Welcome to our translation team, dear friends!

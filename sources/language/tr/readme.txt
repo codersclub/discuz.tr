@@ -31,4 +31,4 @@ We invite everyone interested to improve the Turkish translation.
 Submit your translations, improve existing translations
 and submit your changes as Pull Requests!
 
-Welcome to our translators team, dear friends!
+Welcome to our translation team, dear friends!

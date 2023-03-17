@@ -15,7 +15,7 @@ Turkish translation by www.discuz.eu
 
 Discussion: https://codersclub.org/discuzx/forum.php?mod=forumdisplay&fid=63
 
-Turkish language pack contans both Discuz and UCenter languages.
+Turkish language pack contains both Discuz and UCenter languages.
 /sources/language/tr/ - Discuz language
 /uc_server/language/tr/ - UCenter
 

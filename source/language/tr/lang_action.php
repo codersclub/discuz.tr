@@ -5,6 +5,7 @@
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: lang_action.php by Valery Votintsev, codersclub.org
+ *      Translated to Turkish by ulascemh
  */
 
 if(!defined('IN_DISCUZ')) {
@@ -20,7 +21,7 @@ $lang = array
 	4	=> 'Site',
 
 	100	=> 'Diğer',
-	127	=> 'Plugins',// '插件',
+	127	=> 'Eklentiler',// '插件',
 
 );
 

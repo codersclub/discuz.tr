@@ -16,7 +16,7 @@ $lang = array(
 	'unknown'		=> 'Unknown',//'未知',
 	'resolutionunit'	=> array('', '', 'inch', 'cm'),//array('', '', '英寸', '厘米'),
 	'exposureprogram'	=> array('Undefined', 'Manual', 'Standard procedure', 'Aperture Priority', 'Shutter Priority', 'Depth of pre-field', 'Sports mode', 'Portrait Mode', 'Landscape mode'),//array('未定义', '手动', '标准程序', '光圈先决', '快门先决', '景深先决', '运动模式', '肖像模式', '风景模式'),
-	'meteringmode'	=> array(
+	'meteringmode' => array(
 		'0'		=> 'Unknown',//'未知',
 		'1'		=> 'Average',//'平均',
 		'2'		=> 'The central focus of the average metering',//'中央重点平均测光',
@@ -26,7 +26,7 @@ $lang = array(
 		'6'		=> 'Part',//'局部',
 		'255'		=> 'Other'//'其他'
 		),
-	'lightsource'	=> array(
+	'lightsource' => array(
 		'0'		=> 'Unknown',//'未知',
 		'1'		=> 'Sunlight',//'日光',
 		'2'		=> 'Fluorescent',//'荧光灯',

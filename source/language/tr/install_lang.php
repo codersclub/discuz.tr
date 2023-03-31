@@ -12,14 +12,13 @@ if(!defined('IN_COMSENZ')) {
 }
 
 define('UC_VERNAME', 'International Version');
-
 $lang = array(
 	'SC_GBK'		=> 'Simplified Chinese GBK encoding',//'简体中文版',
 	'TC_BIG5'		=> 'Traditional Chinese BIG5 encoding',//'繁体中文版',
 	'SC_UTF8'		=> 'Simplified Chinese UTF8 encoding',//'简体中文 UTF8 版',
 	'TC_UTF8'		=> 'Traditional Chinese UTF8 encoding',//'繁体中文 UTF8 版',
 	'EN_ISO'		=> 'ENGLISH ISO8859',
-	'EN_UTF8'		=> 'ENGLISH UTF-8',
+/*vot*/	'EN_UTF8'		=> 'ENGLISH UTF-8',
 
 	'title_install'		=> SOFT_NAME.' Setup Wizard',//SOFT_NAME.' 安装向导',
 	'agreement_yes'		=> 'I agree',//'我同意',
@@ -90,7 +89,7 @@ $lang = array(
 	'step_app_reg_title'	=> 'Setting environment',//'设置运行环境',
 	'step_app_reg_desc'	=> 'Check the server environment, and set UCenter',//'检测服务器环境以及设置 UCenter',
 	'tips_ucenter'		=> 'Please fill in the information for UCenter',//'请填写 UCenter 相关信息',
-	'tips_ucenter_comment'	=> 'UCenter is the Comsenz inc. core service program. Discuz! Board and other Comsenz applications rely on this program. If you have already installed UCenter, please fill in the information below. Otherwise, please go to <a href="http://www.discuz.com/" target="blank">Comsenz Products</a> to download and install UCenter, and then continue.',//'UCenter 是 Comsenz 公司产品的核心服务程序，Discuz! Board 的安装和运行依赖此程序。如果您已经安装了 UCenter，请填写以下信息。否则，请到 <a href="http://www.discuz.com/" target="blank">Comsenz 产品中心</a> 下载并且安装，然后再继续。',
+	'tips_ucenter_comment'	=> 'UCenter is the core service program of Comsenz products, and the installation and operation of Discuz! Board depends on this program. If you have already installed UCenter, please fill in the following information. Otherwise, please go to <a href="https://www.discuz.vip/" target="blank">Comsenz Product Center</a> to download and install it before proceeding.',
 
 	'advice_mysql_connect'		=> 'Please check the mysql module is loaded correctly.',//'请检查 mysql 模块是否正确加载',
 	'advice_gethostbyname'		=> 'PHP configuration is not allowed the <b>gethostbyname</b> function. Please contact the server administrator to resolve this problem.',//'是否php配置中禁止了gethostbyname函数。请联系空间商，确定开启了此项功能',
@@ -126,9 +125,9 @@ $lang = array(
 
 	'uc_url_empty'			=> 'You have to fill in the UCenter URL',//'您没有填写 UCenter 的 URL，请返回填写',
 	'uc_url_invalid'		=> 'UCenter URL format is invalid',//'URL 格式错误',
-	'uc_url_unreachable'		=> 'UCenter URL address is unreachable, please check',//'UCenter 的 URL 地址可能填写错误，请检查',
+	'uc_url_unreachable'		=> 'The URL address of UCenter may be filled in incorrectly, and the possible reasons are as follows:<br />1. The UCenter path is incorrect or the state is abnormal<br />2. The application query UCenter status request cannot be initiated or is blocked<br />2. UCenter background" Add Application Capabilities via URL" is not enabled',
 	'uc_ip_invalid'			=> 'Can not resolve the domain name, please fill in the site IP address',//'无法解析该域名，请填写站点的 IP',
-	'uc_admin_invalid'		=> 'UCenter administrator password invalid, please re-fill',//'UCenter 创始人密码错误，请重新填写',
+	'uc_admin_invalid'		=> 'UCenter founder password verification failed, the possible reasons are:<br />1. The UCenter founder password is incorrect<br />2. The founder user and IP address are locked due to repeated wrong password entry<br />3. UCenter background "add application function via URL" is not enabled',
 	'uc_data_invalid'		=> 'UCenter communication failure. Check the UCenter URL address is correct',//'通信失败，请检查 UCenter 的URL 地址是否正确 ',
 	'uc_dbcharset_incorrect'	=> 'UCenter database character set is inconsistent with the current application character set',//'UCenter 数据库字符集与当前应用字符集不一致',
 	'uc_api_add_app_error'		=> 'Adding to UCenter application error',//'向 UCenter 添加应用错误',
@@ -149,8 +148,8 @@ $lang = array(
 	'admininfo_password_invalid'	=> 'Administrator password is blank, please fill in',//'管理员密码为空，请填写',
 	'admininfo_password2_invalid'	=> 'Two passwords are not equal, please check',//'两次密码不一致，请检查',
 
-/*vot*/	'install_dzfull'		=> 'New Discuz! X installation (including UCenter Server)',//'全新安装 Discuz! X (含 UCenter Server)',
-/*vot*/	'install_dzonly'		=> 'Install Discuz! X only (specify manually already installed UCenter Server)',//'仅安装 Discuz! X (手工指定已经安装的 UCenter Server)',
+	'install_dzfull'		=> '<br><label><input type="radio"'.(getgpc('install_ucenter') != 'no' ? ' checked="checked"' : '').' name="install_ucenter" value="yes" onclick="if(this.checked)$(\'form_items_2\').style.display=\'none\';" />New installation of Discuz! X (including UCenter Server)</label>',
+	'install_dzonly'		=> '<br><label><input type="radio"'.(getgpc('install_ucenter') == 'no' ? ' checked="checked"' : '').' name="install_ucenter" value="no" onclick="if(this.checked)$(\'form_items_2\').style.display=\'\';" />Only install Discuz! X (manually specify the installed UCenter Server)</label>',
 
 	'username'			=> 'Administrator username',//'管理员账号',
 	'email'				=> 'Administrator Email',//'管理员 Email',
@@ -173,12 +172,12 @@ $lang = array(
 	'tagtemplates_dateline'		=> 'Date',//'日期',
 	'tagtemplates_url'		=> 'Templates URL',//'主题地址',
 
-	'uc_version_incorrect'		=> 'Your UCenter server version is too old. Please upgrade the UCenter service with the latest version. Download address: http://www.comsenz.com/.',//'您的 UCenter 服务端版本过低，请升级 UCenter 服务端到最新版本，并且升级，下载地址：http://www.comsenz.com/ 。',
+	'uc_version_incorrect'		=> 'Your UCenter server version is too old. Please upgrade the UCenter service with the latest version. Download address: https://www.discuz.vip/.',
 	'config_unwriteable'		=> 'Setup Wizard can not write the configuration file. Enable the config.inc.php write permissions (666 or 777)',//'安装向导无法写入配置文件, 请设置 config.inc.php 程序属性为可写状态(777)',
 
 	'install_in_processed'		=> 'Installing ...',//'正在安装...',
 	'install_succeed'		=> 'Installation successfully completed! Click here to enter your Discuz! X',//'安装成功，点击进入',
-	'install_cloud'			=> 'After successful installation, Welcome to the opening Discuz! Cloud platform<br>Discuz! Cloud platform dedicated to help website owners to increase their websites traffic, enhance the ability of Web site operators, and increase a website revenue.<br>Discuz! Cloud platform currently provides a free QQ Internet, Tencent analysis, Cloud search, QQ Group Community,Roaming,SOSO emoticon services.Discuz! Cloud platform will continue to provide more quality services to the project.<br>Before open the Discuz! Platform make sure that your website (Discuz!, UCHome or SupeSite) has been upgraded to Discuz! X2.5.',//'安装成功，欢迎开通Discuz!云平台<br>Discuz!云平台致力于帮助站长提高网站流量，增强网站运营能力，增加网站收入。<br>Discuz!云平台目前免费提供了QQ互联、腾讯分析、纵横搜索、社区QQ群、漫游应用、SOSO表情服务。Discuz!云平台将陆续提供更多优质服务项目。<br>开通Discuz!平台之前，请确保您的网站（Discuz!、UCHome或SupeSite）已经升级到Discuz!X2.5。',
+	'install_cloud'			=> 'The installation is successful, welcome to activate Discuz! Cloud Platform<br>Discuz! Cloud Platform is committed to helping webmasters increase website traffic, enhance website operation capabilities, and increase website income.<br>Discuz! cloud platform currently provides free QQ Internet, Tencent analysis, vertical and horizontal search, roaming applications, SOSO expression services. Discuz! cloud platform will provide more high-quality service items in succession.<br>Before opening the Discuz! platform, please make sure that your website (Discuz!, UCHome or SupeSite) has been upgraded to Discuz! X3.',
 	'to_install_cloud'		=> 'Open Admin-Center',//'到后台开通',
 	'to_index'			=> 'Temporarily not open',//'暂不开通',
 
@@ -242,7 +241,7 @@ $lang = array(
 	'init_default_style'			=> 'Default Style',//'默认风格',
 	'init_default_forum'			=> 'Default Forum',//'默认版块',
 	'init_default_template'			=> 'Default template',//'默认模板套系',
-	'init_default_template_copyright'	=> 'Tencent Cloud Computing (Beijing) Co., Ltd.',
+	'init_default_template_copyright'	=> 'Discuz!',
 
 	'init_dataformat'	=> 'Y-m-d',//'Y-n-j',
 	'init_modreasons'	=> 'Advertising/SPAM\r\nMalicious/Hacking\r\nIllegal content\r\nOfftopic\r\nRepeated post\r\n\r\nI agree\r\nExcellent article\r\nOriginal content',//'广告/SPAM\r\n恶意灌水\r\n违规内容\r\n文不对题\r\n重复发帖\r\n\r\n我很赞同\r\n精品文章\r\n原创内容',
@@ -256,13 +255,13 @@ $lang = array(
 
 	'license'	=> '
 <div class="license"><h1>Chinese version license agreement for Chinese users</h1>
-<p>Copyright (c) 2001-2022, Tencent Cloud Computing (Beijing) Co., Ltd. All rights reserved. </p>
+<p>Copyright (c) 2001-2023, Tencent Cloud Computing (Beijing) Co., Ltd. All rights reserved. </p>
 
-<p>Thank you for choosing Tencent Cloud products. We hope that our efforts can provide you with an efficient, fast, powerful site solution, and a powerful community forum solution. The website of Tencent Cloud is https://www.qcloud.com, and the website of the official product discussion community is https://www.dismall.com. The website of the official application center of the product is: https://addon.dismall.com. The open source code is available at https://code.dismall.com. </p>
+<p>Thank you for choosing Tencent Cloud products. We hope that our efforts can provide you with an efficient, fast, powerful site solution, and a powerful community forum solution. The website of the official product discussion community is https://www.dismall.com. The website of the official application center of the product is: https://addon.dismall.com. The open source code is available at https://code.dismall.com. </p>
 
 <p>The official application center included in the Discuz! X project of Tencent Cloud products is undertaken and operated by Hefei Erdao Network Technology Co., Ltd. The Discuz! X open source project is maintained by Hefei Erdao Network Technology Co., Ltd., and the Discuz! X open source code is jointly maintained by the project open source management committee and community developers. Except for the above services, all services are provided by Tencent Cloud. </p>
 
-<p>User Notice: This Agreement is a legal agreement between you and Tencent Cloud regarding your use of various software products and services provided by Tencent Cloud. Regardless of whether you are an individual or an organization, whether you are making a profit or not, and how you use it (including for the purpose of learning and research), you must read this agreement carefully, including the disclaimer clauses that exempt or limit Tencent Cloud's liability and limit your rights. Please review and accept or not accept the terms of service. If you do not agree to the terms of service and/or Tencent Cloud's modification at any time, you should not use or voluntarily cancel the Tencent Cloud products provided by Tencent Cloud. Otherwise, any of your registration, login, download, viewing, and other usage behaviors of relevant services in Tencent Cloud products will be deemed as your full acceptance of the terms of service, including acceptance of any modification made by Tencent Cloud to the terms of service at any time . </p>
+<p>User Notice: This Agreement is a legal agreement between you and Tencent Cloud regarding your use of various software products and services provided by Tencent Cloud. Regardless of whether you are an individual or an organization, whether you are making a profit or not, and how you use it (including for the purpose of learning and research), you must read this agreement carefully, including the disclaimer clauses that exempt or limit Tencent Cloud\'s liability and limit your rights. Please review and accept or not accept the terms of service. If you do not agree to the terms of service and/or Tencent Cloud\'s modification at any time, you should not use or voluntarily cancel the Tencent Cloud products provided by Tencent Cloud. Otherwise, any of your registration, login, download, viewing, and other usage behaviors of relevant services in Tencent Cloud products will be deemed as your full acceptance of the terms of service, including acceptance of any modification made by Tencent Cloud to the terms of service at any time . </p>
 <p>Once the terms of service are changed, Tencent Cloud will publish the revised content on the webpage. Once the revised terms of service are announced on the website management background, they will effectively replace the original terms of service. You can log on to the open source code website to check the latest version of the terms of service at any time. If you choose to accept these terms, you agree to be bound by the conditions of the agreement. If you do not agree to these Terms of Service, you do not have the right to use the Service. If you violate the provisions of this clause, Tencent Cloud has the right to suspend or terminate your qualification to use Tencent Cloud products at any time and reserves the right to pursue relevant legal responsibilities. </p>
 <p>You can start using Tencent Cloud products only after you understand, agree to, and abide by all the terms of this agreement. You may directly sign another written agreement with Tencent Cloud to supplement or replace all or any part of this agreement. </p>
 
@@ -272,15 +271,15 @@ $lang = array(
 <ol>
    <li>On the basis of fully complying with this license agreement, you can use this software for non-commercial or commercial purposes (limited to the licenses applicable to this agreement), without paying software copyright license fees. </li>
    <li>You can modify the Tencent Cloud product source code (if provided) or interface style within the constraints and limitations stipulated in the agreement to suit your website requirements. </li>
-   <li>You have the ownership of all member materials, articles and related information in the website built using this software, and independently undertake the audit and care obligations of the content of the website built using this software to ensure that it does not infringe anyone's legitimate rights and interests, You shall independently assume all responsibilities arising from the use of Tencent Cloud software and services, and you shall make full compensation for any loss to Tencent Cloud or users. </li>
-   <li>If you need to use Tencent Cloud software or service users for commercial purposes, you must abide by the relevant laws of the People's Republic of China. If you need to provide technical support methods or content, please provide technical support services to the official (https://www.discuz.net/). </li>
+   <li>You have the ownership of all member materials, articles and related information in the website built using this software, and independently undertake the audit and care obligations of the content of the website built using this software to ensure that it does not infringe anyone\'s legitimate rights and interests, You shall independently assume all responsibilities arising from the use of Tencent Cloud software and services, and you shall make full compensation for any loss to Tencent Cloud or users. </li>
+   <li>If you need to use Tencent Cloud software or service users for commercial purposes, you must abide by the relevant laws of the People\'s Republic of China. If you need to provide technical support methods or content, please obtain technical support services from the official website (https://www.discuz.vip/). </li>
    <li>You can download the application suitable for your website from the application center service provided by Tencent Cloud, but you should pay the application developer/owner the corresponding fee. </li>
 </ol>
 
 <h3>II. Restrictions and Limitations of the Agreement</h3>
 <ol>
    <li>The software or commercial licenses associated with it may not be rented, sold, mortgaged or sublicensed. </li>
-   <li>In any case, regardless of the purpose, whether it has been modified or beautified, and the degree of modification, as long as the whole or any part of the Tencent Cloud product is used without written permission, the name of the Tencent Cloud product and Tencent Cloud Company at the footer of the page Subsidiary websites (http://cloud.tencent.com or https://www.discuz.net) and links to the official application center in the background of the program (https://addon.dismall.com) must be kept, and cannot be cleared or Modify, replace. </li>
+   <li>In any case, regardless of the purpose, whether it has been modified or beautified, and the degree of modification, as long as you use the whole or any part of Tencent Cloud products, without written permission, the Powered by Discuz! and link at the footer of the page (https ://www.discuz.vip/) and the link to the official application center of the program background (https://addon.dismall.com) must be kept, and cannot be cleared, modified, or replaced. </li>
    <li>It is prohibited to develop any derivative version, modified version or third-party version based on the whole or any part of Tencent Cloud products for redistribution. </li>
    <li>The applications you download from the application center may not be reverse-engineered, reverse-assembled, reverse-compiled, etc. without the written permission of the application developer/owner, and may not be copied, modified, linked, Reprint, compile, publish, publish, develop related derivative products, works, etc. </li>
    <li>If you fail to comply with the terms of this agreement, your authorization will be terminated, the licensed rights will be withdrawn, and you should bear corresponding legal responsibilities. </li>
@@ -292,21 +291,21 @@ $lang = array(
    <li>Users use this software voluntarily. You must understand the risks of using this software. We do not promise to provide any form of technical support, use guarantee, nor assume any responsibility for problems arising from the use of this software. </li>
    <li>Tencent Cloud is not responsible for the articles or information in the websites or forums constructed by using this software, and all responsibilities are borne by you. </li>
    <li>The official application center cannot comprehensively monitor the applications uploaded to the application center by third parties, so it does not guarantee the legality, security, integrity, authenticity or quality of the applications; when you download applications from the application center, I agree to make my own judgment and bear all risks, without relying on Tencent Cloud and the official application center. But in any case, the official application center has the right to stop the service of the application center and take corresponding actions according to law, including but not limited to uninstalling related applications, suspending all or part of the service, keeping relevant records, and reporting to relevant authorities. Tencent Cloud and the official application center shall not be liable for any direct, indirect or joint liability for any loss that may be caused to you or a third party. </li>
-   <li>Tencent Cloud does not guarantee the timeliness, security, and accuracy of the software and services provided by Tencent Cloud. You agree to waive all rights to pursue Tencent Cloud's responsibility if the use and service are suspended or terminated and cause losses to you. </li>
-   <li>Tencent Cloud Company would like to remind you that in order to protect the autonomy of the company's business development and adjustment, Tencent Cloud Company has the right to modify the service content, suspend or terminate part or all of the software use and services at any time with or without prior notice. The rights to services and modifications will be announced on the relevant pages of the Tencent Cloud website, and once announced, it will be deemed a notice. Tencent Cloud shall not be liable to you or any third party for losses caused by Tencent Cloud's exercise of the right to modify or suspend or terminate part or all of the software and services. </li>
+   <li>Tencent Cloud does not guarantee the timeliness, security, and accuracy of the software and services provided by Tencent Cloud. You agree to waive all rights to pursue Tencent Cloud\'s responsibility if the use and service are suspended or terminated and cause losses to you. </li>
+   <li>Tencent Cloud Company would like to remind you that in order to protect the autonomy of the company\'s business development and adjustment, Tencent Cloud Company has the right to modify the service content, suspend or terminate part or all of the software use and services at any time with or without prior notice. The rights to services and modifications will be announced on the relevant pages of the Tencent Cloud website, and once announced, it will be deemed a notice. Tencent Cloud shall not be liable to you or any third party for losses caused by Tencent Cloud\'s exercise of the right to modify or suspend or terminate part or all of the software and services. </li>
 </ol>
 
 <p>Details about the Tencent Cloud product end user license agreement, commercial authorization and technical services are exclusively provided by Tencent Cloud. Tencent Cloud reserves the right to modify the authorization agreement and service price list without prior notice, and the revised agreement or price list will take effect for new authorized users from the date of modification. </p>
 
 <p>Once you start installing Tencent Cloud products, you are deemed to have fully understood and accepted the terms of this agreement, and while enjoying the rights granted by the above terms, you are subject to relevant constraints and restrictions. Behavior outside the scope of the agreement will directly violate this authorization agreement and constitute infringement. We have the right to terminate the authorization at any time, order to stop the damage, and reserve the right to pursue relevant responsibilities. </p>
 
-<p>The interpretation, effectiveness and dispute resolution of the terms of this license agreement shall be governed by the mainland laws of the People's Republic of China. </p>
+<p>The interpretation, effectiveness and dispute resolution of the terms of this license agreement shall be governed by the mainland laws of the People\'s Republic of China. </p>
 
-<p>If any dispute or dispute arises between you and Tencent Cloud, it should first be settled through friendly negotiation. If the negotiation fails, you hereby fully agree to submit the dispute or dispute to the Haidian District People's Court of Beijing, where Tencent Cloud is located, for jurisdiction. Tencent Cloud reserves the right to interpret and modify the contents of the above terms. </p>
+<p>If any dispute or dispute arises between you and Tencent Cloud, it should first be settled through friendly negotiation. If the negotiation fails, you hereby fully agree to submit the dispute or dispute to the Haidian District People\'s Court of Beijing, where Tencent Cloud is located, for jurisdiction. Tencent Cloud reserves the right to interpret and modify the contents of the above terms. </p>
 
 <p>(End of text)</p>
 
-<p align="right">Tencent Cloud</p>
+<p align="right">Discuz!</p>
 
 </div>',
 

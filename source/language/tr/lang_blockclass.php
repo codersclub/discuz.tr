@@ -468,5 +468,4 @@ $lang = array(
 	'blockclass_profile_group_edu'		=> 'Eğitim',//'教育情况',
 	'blockclass_profile_group_work'		=> 'İş',//'工作情况',
 	'blockclass_profile_group_info'		=> 'Kişisel bilgi',//'个人信息',
-
 );

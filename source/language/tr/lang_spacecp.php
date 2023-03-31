@@ -49,7 +49,7 @@ $lang = array(
 
 
 	'friend_subject'	=> '<a href="{url}" target="_blank">{username} sizinle arkadaş olmak istiyor</a>',
-	'friend_request_note'	=> ', Not:{note}',
+	'friend_request_note'	=> ', Not: {note}',
 	'comment_friend'	=> '<a href="\\2" target="_blank">\\1 size mesaj yazdı</a>',
 	'photo_comment'		=> '<a href="\\2" target="_blank">\\1 resminizi yorumladı</a>',
 	'blog_comment'		=> '<a href="\\2" target="_blank">\\1 blogunuzu yorumladı</a>',
@@ -306,7 +306,7 @@ $lang = array(
 	'district_level_3'		=> '-Ilçe-',
 	'district_level_4'		=> '-Kasaba-',
 	'invite_you_to_visit'		=> '{user} invite you to {bbname}',//'{user}邀请您访问{bbname}',
-//vot	'district_level_0'		=> '- Country -',//'-国家-',
+
 	'portal'		=> 'Portal',//'门户',
 	'group'			=> 'Gruplar',//'群组',
 	'follow'		=> 'Follow',//'广播',
@@ -330,7 +330,7 @@ $lang = array(
 
 	'spacecp_message_prompt'	=> '(Destek {msg} kod,en fazla 1000 kelime)',
 	'card_update_doing'		=> ' <a class="xi2" href="###">[Yenile]</a>',
-	'email_acitve_message'		=> '<img src="{imgdir}/mail_inactive.png" alt="Doğrulanmamış" class="vm" />
+/*vot*/	'email_acitve_message'		=> '<img src="{imgdir}/mail_inactive.png" alt="Doğrulanmamış" class="vm" />
 						<span class="xi1">Yeni Email({newemail})Doğrulama bekliyor ...</span><br />
 						Sistem email etkinleştirmek için size doğrulama maili gönderdi,Lütfen maillerinizi kontrol ediniz.<br>
 						Eger doğrulama emaili almadıysanız, buradan tekrar talep edebilirsiniz.<a href="home.php?mod=spacecp&ac=profile&op=password&resend=1&formhash={formhash}" class="xi2">Yeniden doğrulama emaili</a>',

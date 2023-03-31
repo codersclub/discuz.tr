@@ -1446,7 +1446,7 @@ $lang = array
 	'setting_seo_articlelist'	=> 'Makale listesi',
 	'setting_seo_article'		=> 'Makale içeriği',
 	'setting_seo_forum'		=> 'Forum Ana Sayfası',
-	'setting_seo_forum_tips'	=> '<li>Site adı&nbsp;<font class="highlight">{bbname}</font>(Uygulama: Tüm Konum)</li>
+/*vot*/	'setting_seo_forum_tips'	=> '<li>Site adı&nbsp;<font class="highlight">{bbname}</font>(Uygulama: Tüm Konum)</li>
 					<li>Geçerli bölüm adı&nbsp;<font class="highlight">{forum}</font> (uygulama kapsamı: ana sayfa hariç)</li>
 					<li>Birinci düzey forumun adı&nbsp;<font class="highlight">{fup}</font> (uygulama kapsamı: listesi alt forum konuları sayfası ve gönderi içeriği sayfası)</li>
 					<li>Bölüm adı&nbsp;<font class="highlight">{fgroup}</font>(geçerli kapsam: ana sayfa hariç)</li>
@@ -3014,7 +3014,7 @@ $lang = array
 	'forums_edit_threadsorts_status'		=> 'Forum kategorilerini etkinleştir',
 	'forums_edit_threadsorts_defaultorderfield'	=> '<span class="spectitle">Konu varsayılan sıralama alanı</span>',
 	'forums_edit_threadsorts_defaultorderfield_comment'	=> 'Varsayılan sıralama ölçütü için bir alan listesi ayarlayın. Varsayılan, "Son gönderi zamanı"dır. Varsayılan ayarlara yapılan herhangi bir ekleme, sunucu yüklemesini artıracaktır.',
-	'forums_edit_threadsorts_defaultorder'	=> '<span class="spectitle">Varsayılan iş parçacığı sırası</span>',
+	'forums_edit_threadsorts_defaultorder'		=> '<span class="spectitle">Varsayılan iş parçacığı sırası</span>',
 	'forums_edit_threadsorts_defaultorder_comment'	=> 'Forum konu listesinin gösterilmesi için varsayılan sırayı ayarlayın. Varsayılan "Azalan" sıradır. Varsayılan ayarlara yapılan herhangi bir ekleme, sunucu yüklemesini artıracaktır.',
 	'forums_edit_threadsorts_order_lastpost'	=> 'Son Posta',
 	'forums_edit_threadsorts_order_starttime'	=> 'Başlangıç saati',
@@ -3438,7 +3438,7 @@ $lang = array
 	'templates_empty'		=> 'Boş',
 	'templates_question'		=> 'Yardım için şablon soruları',
 
-	'templates_maint'		=> 'Şablon bakımı',
+	'templates_maint'			=> 'Şablon bakımı',
 	'templates_maint_default_comment'	=> '<li>Varsayılan şablonu düzenliyorsunuz. Diğer şablonların genişletilmesini kolaylaştırmak için varsayılan şablon içeriklerini değiştirmemenizi kesinlikle öneririz.</li><li>Değiştirmek istiyorsanız, lütfen değiştirilecek şablon dosyasını başka bir şablon dizinine kopyalayın ve ardından değiştirin.</li>',
 	'templates_maint_nondefault_comment'	=> '<li>Bu satır kümesi eksik şablonları tamamlamak için gerekli değildir, varsayılan şablon yerine kullanılacaktır.</li><li>Şablon adı <font color="#FF0000">kırmızı</font> gösteriyorsa, bu şablonun varsayılan şablondan farklı olduğu anlamına gelir; <font color="#00FF00"> gösterir yeşil</font> , bu şablonun kullanıcı tarafından eklenen bir şablon dosyası olduğunu ve varsayılan şablonun karşılık gelen bir şablon dosyası olmadığını belirtir.</li><li>Bu şablon grubunu yayınlamak istiyorsanız, yayınlamadan önce varsayılan şablon olarak aynı şablon dosyasını silmeniz önerilir.</li>',
 	'templates_maint_keyword'		=> 'Anahtar kelimeler',
@@ -3976,7 +3976,7 @@ $lang = array
 	'admingroup_edit_view_log_comment'	=> 'Yönetim günlüğünün görüntülenmesine izin verilip verilmeyeceği',
 	'admingroup_edit_disable_postctrl'	=> 'Kısıtlama sonrası',
 	'admingroup_edit_disable_postctrl_comment'	=> 'Sulamayı önlemek için maksimum posta karakteri sayısını ayarlayın.',
-	'admingroup_edit_manage_article'	=> 'Makaleleri yönetmeye izin ver',
+	'admingroup_edit_manage_article'		=> 'Makaleleri yönetmeye izin ver',
 	'admingroup_edit_manage_article_comment'	=> 'Makalelerin düzenlenmesine veya silinmesine izin verilip verilmeyeceği',
 	'admingroup_edit_add_topic'		=> 'Konu oluşturmaya izin ver',
 	'admingroup_edit_add_topic_comment'	=> 'İş parçacığı oluşturmaya izin verilip verilmeyeceği',
@@ -5716,7 +5716,7 @@ $lang = array
 	'ec_tenpay_checklink_credit'		=> 'Şarj noktaları Sipariş Testi',
 	'ec_tenpay_checklink_virtualgoods'	=> 'Sanal ürün siparişi testi',
 	'ec_tenpay_checklink_goods'	=> 'Gerçek ürün siparişi testi',
-	'ec_tenpay_tips'		=> '<li>"Tenpay" (<a href="http://www.tenpay.com" target="_blank">http://www.tenpay.com</a>) bir Çinli lider çevrimiçi ödeme platformudur sağlayan Discuz! noktalı satın alma işlem platformuna sahip kullanıcılar.</li>
+/*vot*/	'ec_tenpay_tips'		=> '<li>"Tenpay" (<a href="http://www.tenpay.com" target="_blank">http://www.tenpay.com</a>) bir Çinli lider çevrimiçi ödeme platformudur sağlayan Discuz! noktalı satın alma işlem platformuna sahip kullanıcılar.</li>
 <li>Anında kredi yüklemesini etkinleştirmek istiyorsanız, lütfen Tenpay <b>Enterprise Edition\'ı kullanın</b> and open <b>anında kredi işlemi</b>; aksi takdirde yalnızca "<b>Aracı Garantili işlem" seçeneğini etkinleştirmeniz gerekir.</b>".</li>
 <li><b>Nakit işlemler söz konusu olduğundan, yanlış işlemlerden kaynaklanan mali kayıpları önlemek için, Tenpay nokta işlem işlevini (Tenpay düğme işlevi hariç) kullanmaya başlamadan önce lütfen "Kullanım Kılavuzunu" dikkatlice okuyun." E-ticaret ile ilgili bölümde, ilgili süreçleri ve kullanım yöntemlerini tam olarak anladığınızı ve kabul ettiğinizi onayladıktan sonra ilgili ayarları yapın.</b></li>
 <li>Kullanıcıların işlem puanları hesaplarını yeniden şarj etmek için nakit olarak çevrimiçi ödeme yapmalarına olanak tanıyan yöntemi ayarlayabilirsiniz; bu, gönderi içeriği satın almak, kullanıcı grubu izinleri satın almak, puan aktarımı veya kullanıcı grubu yükseltmesi ve diğer işlevler için kullanılabilir. Tenpay puan ticareti işlevi için, "Puan Ayarları "nda işlem puanlarını etkinleştirmeniz ve farklı durumların ihtiyaçlarını karşılamak için aynı zamanda ilgili puan stratejilerini ayarlamanız gerekir. Lütfen alıcı Tenpay hesabınızı doğru şekilde ayarladığınızdan emin olun, aksi takdirde kullanıcı ödeme yaptıktan sonra puanlar hesaba gerçek zamanlı olarak yatırılmaz ve bu da manuel olarak işlenmesi gereken büyük miktarda sipariş bilgisine neden olur.</li>
@@ -6969,9 +6969,9 @@ $lang = array
 	'postsplit_move_threads_per_time_1000'	=> '1000 (özel sunucular için önerilir, işlem hızını artırabilir)',
 	'postsplit_manage_submit'		=> 'Tablo işlemini onaylayın',
 
-	'optimizer_security_tips'	=> '<li>Fiziksel muayene, site sorunlarını keşfetmenize ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir.</li><li>Ayar öğelerinin güvenlik denetimi</li><li>Eklenti güvenlik yükleme ve güncelleme denetimi</li>',
-	'optimizer_serversec_tips'	=> '<li>Fiziksel muayene, web sitesinin altında yatan sorunları bulmanıza ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir</li>',
-	'optimizer_performance_tips'	=> '<li>Fiziksel muayene, web sitesi performans sorunlarını bulmanıza ve web sitesi performansını artırmanıza yardımcı olabilir</li>',
+	'optimizer_security_tips'		=> '<li>Fiziksel muayene, site sorunlarını keşfetmenize ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir.</li><li>Ayar öğelerinin güvenlik denetimi</li><li>Eklenti güvenlik yükleme ve güncelleme denetimi</li>',
+	'optimizer_serversec_tips'		=> '<li>Fiziksel muayene, web sitesinin altında yatan sorunları bulmanıza ve güvenlik risklerini ortadan kaldırmanıza yardımcı olabilir</li>',
+	'optimizer_performance_tips'		=> '<li>Fiziksel muayene, web sitesi performans sorunlarını bulmanıza ve web sitesi performansını artırmanıza yardımcı olabilir</li>',
 	'optimizer_check_unit_optimizer_plugin'		=> 'Eklentinin yeni bir güncellemesi olup olmadığını kontrol edin',
 	'optimizer_check_unit_optimizer_upgrade'	=> 'Yeni bir ürün sürümünün yayınlanıp yayınlanmadığını kontrol edin',
 	'optimizer_check_unit_optimizer_patch'		=> 'Yeni bir güvenlik açığı yamasının yayınlanıp yayınlanmadığını kontrol edin',
@@ -7200,6 +7200,7 @@ url.rewrite-once = (
 	'purchase_service'	=> 'Satın alma hizmeti',
 	'discussion_area'	=> 'Tartışma Alanı',
 	'app_center'		=> 'Discuz! uygulama merkezi',
+	'discuz_git'		=> 'Discuz! Repository URL',
 
 //---------------------------
 // Added by Valery Votintsev
@@ -7235,15 +7236,11 @@ url.rewrite-once = (
 
 );
 
-//------------------------------------------------------
-// Extend the language variables from other language files
-
 $adminextend = array();
 if(file_exists($adminextendfile = DISCUZ_ROOT.'./data/sysdata/cache_adminextend.php')) {
 	@include $adminextendfile;
 	foreach($adminextend as $extend) {
 		$extend_lang = array();
-		@include DISCUZ_ROOT.'./source/language/lang_admincp_'.$extend;
 /*vot*/		@include DISCUZ_ROOT.'./source/language/tr/lang_admincp_'.$extend;
 		$lang = array_merge($lang, $extend_lang);
 	}

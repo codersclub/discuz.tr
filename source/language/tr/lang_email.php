@@ -63,11 +63,9 @@ Sincerely yours,<br />
 <p>{username},<br />
 This letter was sent from the {bbname}.</p>
 
-<p>You have received this message, because of new user registration at our Forum,
-or some user have used Your address when modified his/her Email.
-If you did not visited our forum, or not carry out about such operations,
-please ignore this message.
-You do not need to unsubscribe or other further action.</p>
+<p>You have received this email due to a new user registration at {bbname},
+or a user have modified the registered Email address. If you have not visited {bbname}, or have not done the above, please ignore this email.
+You do not need to unsubscribe or take any further action.</p>
 <br />
 ----------------------------------------------------------------------<br />
 <strong>Account activation instructions</strong><br />
@@ -128,14 +126,14 @@ Sincerely yours,<br />
 This letter was sent from the {bbname}.<br />
 <br />
 I am {adminusername}, one of the managers at {bbname}.<br />
-You have received this message because you are just has been added as a member<br />
-at our forum, which is our current Email address you have registered.<br />
+You have received this message because you are just has been added as a member of {bbname}.<br />
+Current Email address is registered as your Email.<br />
 <br />
 ----------------------------------------------------------------------<br />
 Important!<br />
 ----------------------------------------------------------------------<br />
 <br />
-If you are not interested in our Forum or do not intend to become a member, please ignore this message.<br />
+If you are not interested in {bbname} or intend to become a member, please ignore this message.<br />
 <br />
 ----------------------------------------------------------------------<br />
 Your Account Information<br />
@@ -164,12 +162,10 @@ This letter was sent from the {bbname}.<br />
 <br />
 You have received this message, because of this email address is registered in our forum {bbname}.<br />
 In accordance with the information in your profile, today is your Birthday.<br />
-Forum management team have pleased to congratulate you with your Birthday,
-and sincerely wish you a happy birthday!<br />
+Forum management team have pleased to congratulate you with your Birthday, and sincerely wish you a happy birthday!<br />
 <br />
-If you are not a member of our forum, or have no birthday today, may be a mistake occure.<br />
-Check for your email address and birthday in your profile.<br />
-This message will not be sent to this e-mail address, please ignore this  message.<br />
+If you are not a member of {bbname}, or today is not your birthday, someone may have misused your email address,<br />
+or incorrectly filled in the birthday information. This email will not be sent multiple times, please ignore this email.<br />
 <br />
 <br />
 Sincerely yours,
@@ -181,11 +177,8 @@ Sincerely yours,
 	'email_to_friend_message'	=> '<br />
 This letter was sent to you by {$_G[member][username]} from the site {$_G[setting][bbname]}.<br />
 <br />
-You have received this message because of {$_G[member][username]}<br />
-from the site {$_G[setting][bbname]} clicked the "Email to Friend" link<br />
-for recommend to you the following.<br />
-If you are not interested in this, please ignore this message.<br />
-You do not need to unsubscribe or other further action.<br />
+You received this email because you "recommended a friend" on {$_G[member][username]} via {$_G[setting][bbname]}<br />
+If you are not interested, please ignore this email. You do not need to unsubscribe or take any further action.<br />
 <br />
 ----------------------------------------------------------------------<br />
 Start of original message<br />
@@ -200,21 +193,17 @@ End of the original message<br />
 Please note that this letter was initiated by the forum user by "Email to a Friend" link!<br />
 Forum management team is not responsible for such messages.<br />
 <br />
-<br />
 Welcome to {$_G[setting][bbname]}<br />
 $_G[siteurl]',
 
 	'email_to_invite_subject'	=> 'Your friend {$_G[member][username]} invites you to register at {$_G[setting][bbname]}',//'您的朋友 {$_G[member][username]} 发送 {$_G[setting][bbname]} 论坛注册邀请码给您',
 	'email_to_invite_message'	=> '<br />
 $sendtoname,<br />
-This letter was sent to you by {$_G[member][username]} from {$_G[setting][bbname]}.<br />
+This letter was sent to you from {$_G[setting][bbname]} by {$_G[member][username]}.<br />
 <br />
-You have received this message because the user {$_G[member][username]} from {bbname}<br />
-sent you an invitation code, that enable you to register at our form,<br />
-and said additionally the following.<br />
-<br />
-!!! If you are not interested in this, please ignore this message.<br />
-You do not need to unsubscribe or other further action.<br />
+You are receiving this email because {$_G[member][username]} via {bbname} used the "Send invitation code to a friend" function.<br />
+The function recommends the following content for you. If you are not interested, please ignore this email.<br />
+You do not need to unsubscribe or take any further action.<br />
 <br />
 ----------------------------------------------------------------------<br />
 Start of original message<br />
@@ -264,12 +253,11 @@ Administrator Message: {remark}<br />
 <p>Approved: Your registration has been approved, you have become an official user of {bbname}.</p>
 
 <p>Rejected: Your registration information is incomplete, or does not meet some our requirements.
-You can send a message to administrator, <a href="home.php?mod=spacecp&ac=profile" target="_blank">complete your registration information</a>, and then submit again.</p>
+	  You can send a message to administrator, <a href="home.php?mod=spacecp&ac=profile" target="_blank">complete your registration information</a>, and then submit again.</p>
 
-<p>Deleted: Your request for registration does not meet our requirements,
-or number of new registrations exceed our possibilities.
-Your request is completely rejected, your account removed from the database.
-It can not be used for log in or submitted for re-examine, please understand.</p>
+<p>Deleted: Your registration has been rejected due to a large deviation from our requirements, or the number of new registrants on this site has exceeded expectations.
+Your account has been deleted from the database and will no longer be available.
+Please use it to log in or submit for review again, please understand.</p>
 <br />
 <br />
 Sincerely yours,<br />

@@ -117,7 +117,7 @@ $lang = array
 	'transfer'		=> '{actor} size {credit} puan verdi &nbsp; <a href="home.php?mod=spacecp&ac=credit&op=log&suboperation=creditslog" target="_blank" class="lit">detaylar &rsaquo;</a>
 				<p class="summary">{actor}\'n mesajı: <span>{transfermessage}</span></p>',
 
-	'addfunds'		=> 'Your request to recharge points successfully completed, Corresponding amount of points have been added to your points account.
+/*vot*/	'addfunds'		=> 'Your request to recharge points successfully completed, Corresponding amount of points have been added to your points account.
 				&nbsp; <a href="home.php?mod=spacecp&ac=credit&op=base" target="_blank" class="lit">Click to view &rsaquo;</a>.
 				<p class="summary">Order number: <span>{orderid}</span></p>
 				<p class="summary">Payment: <span>{price} USD</span></p>
@@ -222,7 +222,7 @@ $lang = array
 	'at_message'			=> '<a href="home.php?mod=space&uid={buyerid}" target="_blank">{buyer}</a> in the thread <a href="forum.php?mod=redirect&goto=findpost&ptid={tid}&pid={pid}" target="_blank">{subject}</a> mentioned of your name <div class="quote"><blockquote>{message}</blockquote></div><a href="forum.php?mod=redirect&goto=findpost&ptid={tid}&pid={pid}" target="_blank">View now</a>.',//'<a href="home.php?mod=space&uid={buyerid}" target="_blank">{buyer}</a> 在主题 <a href="forum.php?mod=redirect&goto=findpost&ptid={tid}&pid={pid}" target="_blank">{subject}</a> 中提到了你<div class="quote"><blockquote>{message}</blockquote></div><a href="forum.php?mod=redirect&goto=findpost&ptid={tid}&pid={pid}" target="_blank">现在去看看</a>。',
 	'new_report'			=> 'new report pending, <a href="admin.php?action=report" target="_blank">Click here to manage it</a>.',//'有新的举报等待处理，<a href="admin.php?action=report" target="_blank">点此进入后台处理</a>。',
 	'new_post_report'		=> 'New pending report, <a href="forum.php?mod=modcp&action=report&fid={fid}" target="_blank">Click here to enter the administration panel</a>.',//'有新的举报等待处理，<a href="forum.php?mod=modcp&action=report&fid={fid}" target="_blank">点此进入管理面版</a>。',
-	'magics_receive'		=> '{actor} sent the magic {magicname} to you .
+/*vot*/	'magics_receive'		=> '{actor} sent the magic {magicname} to you .
 					<p class="summary">{actor} said: <span>{msg}</span></p>
 					<p class="mbn"><a href="home.php?mod=magic" target="_blank">Return the gift back!</a>
 					<span class="pipe">|</span><a href="home.php?mod=magic&action=mybox" target="_blank">View my magics</a></p>',

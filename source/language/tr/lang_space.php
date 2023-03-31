@@ -87,15 +87,15 @@ $lang = array(
 	'zodiac_11'		=> 'Dog',//'狗',
 	'zodiac_12'		=> 'Pig',//'猪',
 
-	'credits'	=> 'Kredi',
-	'usergroup'	=> 'Üyegruplar',
-	'friends'	=> 'Arkadaşlar',
-	'blogs'		=> 'Bloglar',
-	'threads'	=> 'Konular',
-	'albums'	=> 'Anbümler',
-	'sharings'	=> 'Paylaşımlar',
-	'space_views'	=> 'Toplam <strong class="xi1">{views}</strong> ziyaret',
-	'views'		=> 'İzleme',
+	'credits'		=> 'Kredi',
+	'usergroup'		=> 'Üyegruplar',
+	'friends'		=> 'Arkadaşlar',
+	'blogs'			=> 'Bloglar',
+	'threads'		=> 'Konular',
+	'albums'		=> 'Anbümler',
+	'sharings'		=> 'Paylaşımlar',
+	'space_views'		=> 'Toplam <strong class="xi1">{views}</strong> ziyaret',
+	'views'			=> 'İzleme',
 	'block1'		=> 'Custom block 1',//'自定义模块1',
 	'block2'		=> 'Custom block 2',//'自定义模块2',
 	'block3'		=> 'Custom block 3',//'自定义模块3',
@@ -140,8 +140,7 @@ $lang = array(
 					<input type="hidden" name="refer" value="home.php?mod=space&uid={uid}" />
 					<input type="hidden" name="id" value="{uid}" />
 					<input type="hidden" name="idtype" value="uid" />
-					<input type="hidden" name="commentsubmit" value="true" />' :
-					($_G['connectguest'] ? '<div class="pt hm">You have to <a href="member.php?mod=connect" class="xi2">Improve the account information</a> or <a href="member.php?mod=connect&ac=bind" class="xi2">Bind existing account</a> before you can reply</div>' : '<div class="pt hm">Önce giriş yapmanız gerekli! <a href="member.php?mod=logging&action=login" onclick="showWindow(\'login\', this.href)" class="xi2">Giriş</a> | <a href="member.php?mod='.$_G['setting']['regname'].'" class="xi2">Tescil</a></div>')).'
+					<input type="hidden" name="commentsubmit" value="true" />' : ($_G['connectguest'] ? '<div class="pt hm">You have to <a href="member.php?mod=connect" class="xi2">Improve the account information</a> or <a href="member.php?mod=connect&ac=bind" class="xi2">Bind existing account</a> before you can reply</div>' : '<div class="pt hm">Önce giriş yapmanız gerekli! <a href="member.php?mod=logging&action=login" onclick="showWindow(\'login\', this.href)" class="xi2">Giriş</a> | <a href="member.php?mod='.$_G['setting']['regname'].'" class="xi2">Tescil</a></div>')).'
 					<p class="ptn"><button '.($_G['uid'] ? 'type="submit"' : 'type="button" onclick="showWindow(\'login\', \'member.php?mod=logging&action=login&guestmessage=yes\')"').' name="commentsubmit_btn" value="true" id="commentsubmit_btn" class="pn"><strong>Mesaj</strong></button></p>
 					<input type="hidden" name="handlekey" value="commentwall_{uid}" />
 					<span id="return_commentwall_{uid}"></span>

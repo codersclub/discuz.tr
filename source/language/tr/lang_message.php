@@ -264,6 +264,7 @@ $lang = array (
 	'announcement_nonexistence'	=> 'Geçerli herhangi bir duyuru bulunmuyor, lütfen geri dönün.',
 
 	'attachment_expired'		=> 'Üzgünüz, dosya linki geçersizdir.<br /><a href="forum.php?mod=attachment&aid={aid}">[Yükle]</a><br /><a href="forum.php?mod=redirect&goto=findpost&pid={pid}&ptid={tid}">[Konu]</a>',
+	'attachment_expired_nosession'	=> 'Sorry, the original attachment link is invalid<br /><a href="forum.php?mod=redirect&goto=findpost&pid={pid}&ptid={tid}">[ Click here to view the original post ]</a>',
 	'attachment_referer_invalid'	=> 'Üzgünüz, dosya\'yı diğer site\'den yükleyiniz.',
 	'attachment_payto'		=> 'Yükleme yapmak için konu\'ya ödeme yapmanız gerekiyor.',
 	'attachement_payto_attach'	=> 'Dosya\'yı yüklemek için ödeme yapmanız gerekiyor.',
@@ -471,7 +472,7 @@ $lang = array (
 	'getpasswd_account_invalid'	=> 'Admin ve Super Mod lar şifre fonksiyonunu kullanamazlar, lütfen geri dönün.',
 	'getpasswd_send_succeed'	=> 'Size mail gönderildi,<br />lütfen 3 gün içinde şifrenizi değiştiriniz.',
 	'getpasswd_has_send'		=> 'You have already sent the password retrieval email, if you have not received it, please wait {interval} seconds before retrying to send the password retrieval email',
-	
+
 	'submit_verify_succeed'		=> 'Audit request to the successful, Will now return to the Control Panel home page.',//'审核请求提交成功，现在将返回控制面板首页。',
 
 	'buyinvitecode_no_count'	=> 'The number of invitation code to buy not filled',//'未填写购买邀请码数量，请返回',
@@ -572,23 +573,23 @@ $lang = array (
 
 	'email_check_sucess'			=> 'Verify your email({email}) successfully',//'您的邮箱（{email}）验证激活完成了, 请返回',
 	'email_check_account_invalid'		=> 'Sorry, the Founder or protected user can not use the mailbox verification. Modify the user information directly.',//'抱歉，受保护用户或创始人不能使用邮箱验证，直接修改用户信息。',
-	'email_check_error'		=> 'E-mail vetkinleştirme linki doğru değildir. Profil sayfanız\'dan  tekrar başvurabilirsiniz.',
+	'email_check_error'			=> 'E-mail vetkinleştirme linki doğru değildir. Profil sayfanız\'dan  tekrar başvurabilirsiniz.',
 
-	'news_does_not_exist'		=> 'Seçilen bilgi bulunamadı',
+	'news_does_not_exist'			=> 'Seçilen bilgi bulunamadı',
 	'proved_to_be_successful'		=> 'Verified successfully, now redirect to view the page',//'验证成功，现在进入查看页面',
-	'password_is_not_passed'	=> 'Şifre hatası, lütfen geri dönün.',
+	'password_is_not_passed'		=> 'Şifre hatası, lütfen geri dönün.',
 
 	'not_open_updatestat'			=> 'Statistical trends is not enabled',//'站点没有开启趋势统计功能',
 	'no_privilege_statdata'			=> 'Sorry, you are not currently have permission to view statistics reports, <a href="home.php?mod=spacecp&ac=usergroup">Click here to view permissions</a>',//'抱歉，您目前没有权限查看统计数据报表，<a href="home.php?mod=spacecp&ac=usergroup">点击这里查看权限</a>',
 	'start_time_end_time_is_equal_to'	=> 'Start date can not be equal to the end date',//'统计开始日期不能等于结束日期',
 
-	'modcp_ann_nofound'		=> 'Bu duyuru silinmiş veya değiştirme izniniz bulunmuyor, lütfen geri dönün.',
-	'modcp_ann_empty'		=> 'Duyuru konusu ve içeriği girmelisiniz, lütfen geri dönün.',
-	'modcp_ann_urlerror'		=> 'Geçersiz url, lütfen geri dönün.',
+	'modcp_ann_nofound'			=> 'Bu duyuru silinmiş veya değiştirme izniniz bulunmuyor, lütfen geri dönün.',
+	'modcp_ann_empty'			=> 'Duyuru konusu ve içeriği girmelisiniz, lütfen geri dönün.',
+	'modcp_ann_urlerror'			=> 'Geçersiz url, lütfen geri dönün.',
 
-	'recommend_expiration_invalid'	=> 'Geçersiz zaman formatı, "yyyy-mm-dd hh:mm" şeklinde olmalı, lütfen geri dönün.',
+	'recommend_expiration_invalid'		=> 'Geçersiz zaman formatı, "yyyy-mm-dd hh:mm" şeklinde olmalı, lütfen geri dönün.',
 
-	'members_edit_succeed'		=> 'Üye bilgileri başarıyla yenilenmiştir, devam ediniz',
+	'members_edit_succeed'			=> 'Üye bilgileri başarıyla yenilenmiştir, devam ediniz',
 	'modcp_member_ban_illegal'		=> 'You can not ban the user directly',//'您不能直接禁止该用户',
 	'modcp_member_ban_succeed'		=> 'User banned successfully',//'用户资料成功更新',
 
@@ -622,26 +623,26 @@ $lang = array (
 	'block_no_recommend_library'		=> 'This module does not contain recommended library',//'此模块不含推荐库',
 	'data_in_mod_library'			=> '<div class="bm"><div class="ntc_l hm">The module data was applied to the module library</div></div>',//'<div class="bm"><div class="ntc_l hm">该数据已经在模块推荐库里了</div></div>',
 	'block_data_type_invalid'		=> 'Data type mismatch, can not push',//'数据类型不匹配，无法推送',
-	'no_right_manage_data'		=> 'Düzenleme izniniz bulunmuyor',
+	'no_right_manage_data'			=> 'Düzenleme izniniz bulunmuyor',
 
-	'comment_edit_noexist'		=> 'Düzenlenecek yorum bulunamadı',
-	'comment_delete_noexist'	=> 'Silinecek yorum bulunamadı',
+	'comment_edit_noexist'			=> 'Düzenlenecek yorum bulunamadı',
+	'comment_delete_noexist'		=> 'Silinecek yorum bulunamadı',
 
 	'diy_topic_noexist'			=> 'Specified topic does not exist, please check',//'指定的专题不存在，请检查',
 	'diy_remote_upload_failed'		=> 'Remote upload failed',//'远程上传失败',
 	'diy_sign_invalid'			=> 'DIY template data validation error',//'DIY模板数据验证错误',
 	'diy_backup_noexist'			=> 'Backup file does not exist.',//'备份文件不存在。',
-	'diy_data_format_invalid'	=> 'Veri format hatası',
+	'diy_data_format_invalid'		=> 'Veri format hatası',
 	'diy_no_export_data'			=> 'There is no data to export',//'没有可以导出的数据',
 	'diy_export_no_data'			=> 'This page have no DIY data',//'此页面无DIY数据',
 	'diy_export_tpl_invalid'		=> 'Specified page identity is invalid',//'指定的页面标识不正确',
-	'diy_operation_invalid'		=> 'Geçersiz işlem',
+	'diy_operation_invalid'			=> 'Geçersiz işlem',
 	'diy_nopermission'			=> 'You are not allowed to DIY',//'你没有DIY权限',
 
 	'portalcp_block_push_the_update_line'	=> 'Selected block has been joined to update queue',//'所选的模块已加入更新队列',
-	'select_a_option'		=> 'Seçenek seçiniz',
+	'select_a_option'			=> 'Seçenek seçiniz',
 	'select_a_moderate_data'		=> 'Please select at least one item to audit data',//'请选择至少一条审核数据',
-	'operation_done'		=> 'Işlem tamamlandı',
+	'operation_done'			=> 'Işlem tamamlandı',
 
 	'post_edit_nopermission'		=> 'Üzgünüz, diğer üyelerin mesajlarını değiştiremezsiniz, lütfen geri dönün.',
 	'post_edit_timelimit'			=> 'Üzgünüz, mesajı {edittimelimit} dakika\'dan önce düzenleyemezsiniz, lütfen geri dönün.',
@@ -775,8 +776,8 @@ $lang = array (
 	'relay_feed_success'			=> 'Broadcasted successfully',//'转播成功',
 	'follow_specify_follow_not_exist'	=> 'Specified for broadcast record does not exist',//'指定的广播记录不存在',
 
-	'friend_self_error'		=> 'Üzgünüz, kendinizi arkadaş olarak ekleyemezsiniz',
-	'friends_add'			=> '{username} sizi arkadaş olarak eklemiştir.',
+	'friend_self_error'			=> 'Üzgünüz, kendinizi arkadaş olarak ekleyemezsiniz',
+	'friends_add'				=> '{username} sizi arkadaş olarak eklemiştir.',
 	'waiting_for_the_other_test'		=> 'Verification is waiting for the other',//'正在等待对方验证中',
 	'request_has_been_sent'			=> 'Friend request has been sent, please wait for the other verification',//'好友请求已经发送，请等待对方验证中',
 	'friend_addconfirm_next'		=> 'Şimdi {username} ile arkadaş oldunuz, diğer teklifler (<a href="home.php?mod=spacecp&ac=friend&op=request">Stop</a>)',
@@ -1004,8 +1005,8 @@ $lang = array (
 	'comment_comment_noexist'		=> 'Haber bulunamadı',
 	'comment_comment_notallowed'		=> 'Bu habere yorum yazılamaz',
 
-	'post_subject_toolong'		=> 'Üzgünüz, başlığınız 255 karakter\'den daha uzun, lütfen geri dönün.',
-	'post_message_tooshort'		=> 'Üzgünüz, mesajınız {minpostsize} karakter\'den az olamaz, lütfen geri dönün.',
+	'post_subject_toolong'			=> 'Üzgünüz, başlığınız 255 karakter\'den daha uzun, lütfen geri dönün.',
+	'post_message_tooshort'			=> 'Üzgünüz, mesajınız {minpostsize} karakter\'den az olamaz, lütfen geri dönün.',
 
 	'no_privilege_realname'			=> 'You need to fill out the real name only after the current operation, <a href="home.php?mod=spacecp&ac=profile">Click here to set the real name</a>',//'您需要填写真实姓名后才能进行当前操作，<a href="home.php?mod=spacecp&ac=profile">点这里设置真实姓名</a>',
 	'no_privilege_videophoto'		=> 'You need the video only after certification by the current operation, <a href="home.php?mod=spacecp&ac=videophoto">Click here for video authentication</a>',//'您需要视频认证通过后才能进行当前操作，<a href="home.php?mod=spacecp&ac=videophoto">点这里进行视频认证</a>',
@@ -1047,12 +1048,12 @@ $lang = array (
 	'register_succeed'		=> 'Merhabalar {bbname}, şimdi üye olarak geldiginiz sayfa\'ya dönüyorsunuz.',
 	'register_succeed_location'	=> '<a href="home.php?mod=spacecp">Customize your settings</a> <a href="home.php?mod=space&do=home">Visit your space</a>',//'<a href="home.php?mod=spacecp">现在去完善资料</a> <a href="home.php?mod=space&do=home">先去逛逛</a>',
 
-	'task_offline'		=> 'Geçersiz veya bitmiş görev',
-	'task_full'		=> 'Bu görev için başvurular dolmuştur.!',
+	'task_offline'			=> 'Geçersiz veya bitmiş görev',
+	'task_full'			=> 'Bu görev için başvurular dolmuştur.!',
 	'task_doing_rt'			=> 'You have completed {csc}% of this task, still leaving time {t}!',//'您已完成该任务的 {csc}%，还有{t}时间，加油啊！',
 	'task_doing'			=> 'You have completed {csc}% of this task.',//'您已完成该任务的 {csc}%，加油啊！',
-	'task_waiting_rt'	=> 'Henüz göreve başlamadınız, hala {t} vaktiniz var, acele ediniz!',
-	'task_waiting'		=> 'Henüz görev\'e başlamadınız, acele ediniz!',
+	'task_waiting_rt'		=> 'Henüz göreve başlamadınız, hala {t} vaktiniz var, acele ediniz!',
+	'task_waiting'			=> 'Henüz görev\'e başlamadınız, acele ediniz!',
 
 	'board_closed'			=> 'Üzgünüz, site geçici olarak servise kapalıdır. Detaylar için <a href="mailto:'.$_G['setting']['adminemail'].'"> admin</a>.',
 

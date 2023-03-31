@@ -5,8 +5,8 @@
  *      This is NOT a freeware, use is subject to license terms
  *
  *      $Id: lang_template.php by Valery Votintsev, codersclub.org
+ *
  *      Translated to Turkish by ulascemh
- *      This file is automatically generate
  */
 
 $lang = array (
@@ -519,13 +519,9 @@ $lang = array (
 	'change_language_title'	=> 'Dili değiştir',
 	'changestyle_title'	=> 'Stil Değiştir',//'切换风格',
 
-//vot:
-	'new'		=> 'Yeni',//'全新',
-
-	'register'	=> 'Kayıt Olun',//'注册',
-
-	'or'		=> 'veya',//'或者',
-
+	'new'			=> 'Yeni',//'全新',
+	'register'		=> 'Kayıt Olun',//'注册',
+	'or'			=> 'veya',//'或者',
 	'upload_selectfile'	=> 'Araştır',//'浏览',
 
 // Google Maps
